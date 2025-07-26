@@ -361,6 +361,130 @@ def main():
     
     print(f"Created cunli_summary.json with {len(cunli_summary)} villages for fast map loading")
     
+    # Generate recall cases list for dropdown
+    recall_cases = set()
+    for record in all_data:
+        if record.get('recall_case'):
+            recall_cases.add(record['recall_case'])
+    
+    # Clean up case names for better display
+    def clean_case_name(case_name):
+        """Clean case name for dropdown display"""
+        import re
+        
+        # Remove file extensions and table prefixes
+        name = case_name.replace('各投開票所投開票結果表', '').strip()
+        
+        # Extract key information using regex
+        if '第11屆市長' in name:
+            # Mayor recall case
+            match = re.search(r'(\w+市)第11屆市長(\w+)罷免案', name)
+            if match:
+                return f"{match.group(1)}市長{match.group(2)}罷免案"
+        else:
+            # Legislator recall case
+            match = re.search(r'第11屆立法委員\(([^)]+)\)(\w+)罷免案', name)
+            if match:
+                district = match.group(1)
+                candidate = match.group(2)
+                return f"立委{candidate}罷免案({district})"
+        
+        # Fallback: return original name
+        return name
+    
+    # Create recall cases data structure with additional metadata
+    # Create mapping between original and cleaned names
+    case_mapping = {}
+    cleaned_cases = []
+    
+    for case in recall_cases:
+        cleaned_name = clean_case_name(case)
+        cleaned_cases.append(cleaned_name)
+        case_mapping[cleaned_name] = case  # Map cleaned name to original
+    
+    recall_cases_data = {
+        'cases': sorted(cleaned_cases),
+        'original_cases': sorted(list(recall_cases)),
+        'case_mapping': case_mapping,  # Maps cleaned names to original names
+        'total_cases': len(recall_cases),
+        'generated_at': pd.Timestamp.now().isoformat(),
+        'case_details': {}
+    }
+    
+    # Add detailed statistics for each recall case
+    for case in recall_cases:
+        case_records = [r for r in all_data if r.get('recall_case') == case]
+        case_villages = set()
+        case_districts = set()
+        case_villcodes = set()  # Track village codes for this case
+        
+        for record in case_records:
+            if record.get('district') and record.get('village'):
+                cunli_key = f"{record['district']}_{record['village']}"
+                case_villages.add(cunli_key)
+                case_districts.add(record['district'])
+                
+                # Find VILLCODE for this village
+                district = record['district']
+                village = record['village']
+                
+                # Extract county from recall case
+                county = extract_county_from_recall_case(case)
+                
+                # Try to get VILLCODE
+                if cunli_key in manual_villcode_map:
+                    case_villcodes.add(manual_villcode_map[cunli_key]['VILLCODE'])
+                elif county:
+                    # Normalize county name
+                    county = normalize_district_name(county)
+                    # Try to find VILLCODE
+                    key = f"{county}_{district}_{village}"
+                    if key in villcode_map:
+                        case_villcodes.add(villcode_map[key]['VILLCODE'])
+        
+        # Calculate totals for this case
+        case_totals = {
+            'agree_votes': sum(r['agree_votes'] for r in case_records),
+            'disagree_votes': sum(r['disagree_votes'] for r in case_records),
+            'valid_votes': sum(r['valid_votes'] for r in case_records),
+            'total_voters': sum(r['total_voters'] for r in case_records),
+            'eligible_voters': sum(r['eligible_voters'] for r in case_records),
+            'polling_stations': len(case_records),
+            'villages': len(case_villages),
+            'districts': len(case_districts),
+            'village_codes': sorted(list(case_villcodes)),  # Add village codes list
+            'cunli_keys': sorted(list(case_villages))  # Add cunli keys for fallback
+        }
+        
+        # Calculate percentages
+        if case_totals['valid_votes'] > 0:
+            case_totals['agree_percentage'] = round(
+                (case_totals['agree_votes'] / case_totals['valid_votes']) * 100, 2
+            )
+            case_totals['disagree_percentage'] = round(
+                (case_totals['disagree_votes'] / case_totals['valid_votes']) * 100, 2
+            )
+        else:
+            case_totals['agree_percentage'] = 0.0
+            case_totals['disagree_percentage'] = 0.0
+        
+        if case_totals['eligible_voters'] > 0:
+            case_totals['turnout_rate'] = round(
+                (case_totals['total_voters'] / case_totals['eligible_voters']) * 100, 2
+            )
+        else:
+            case_totals['turnout_rate'] = 0.0
+        
+        # Store details using cleaned name
+        cleaned_name = clean_case_name(case)
+        recall_cases_data['case_details'][cleaned_name] = case_totals
+    
+    # Save recall cases list
+    with open('docs/cunli_json/recall_cases.json', 'w', encoding='utf-8') as f:
+        json.dump(recall_cases_data, f, ensure_ascii=False, indent=2)
+    
+    print(f"Created recall_cases.json with {len(recall_cases)} unique recall cases")
+    
     # Save missing VILLCODE mapping file for manual completion
     if missing_villcode:
         # Check if file already exists and preserve any manual entries
