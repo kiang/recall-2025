@@ -192,7 +192,7 @@ def main():
     print(f"Merged into {len(cunli_merged)} cunli groups")
     
     # Create output directory
-    os.makedirs('cunli_json', exist_ok=True)
+    os.makedirs('docs/cunli_json', exist_ok=True)
     
     # Load VILLCODE mapping
     villcode_map = load_villcode_mapping()
@@ -279,7 +279,7 @@ def main():
                     'note': 'Please fill VILLCODE manually'
                 })
         
-        output_file = f"cunli_json/{filename}.json"
+        output_file = f"docs/cunli_json/{filename}.json"
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
     
@@ -296,7 +296,7 @@ def main():
         'manual_mappings_applied': len(manual_villcode_map)
     }
     
-    with open('cunli_json/summary.json', 'w', encoding='utf-8') as f:
+    with open('docs/cunli_json/summary.json', 'w', encoding='utf-8') as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
     
     # Save missing VILLCODE mapping file for manual completion
@@ -308,7 +308,7 @@ def main():
     print("\nExtraction and merging completed!")
     print(f"Created {len(villcode_files)} files with VILLCODE names")
     print(f"Created {len(cunli_merged) - len(villcode_files)} files with cunli names (no VILLCODE found)")
-    print(f"Output files saved in 'cunli_json' directory")
+    print(f"Output files saved in 'docs/cunli_json' directory")
 
 if __name__ == '__main__':
     main()

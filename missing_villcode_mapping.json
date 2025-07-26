@@ -1,0 +1,74 @@
+[
+  {
+    "cunli_key": "中和區_瓦磘里",
+    "district": "中和區",
+    "village": "瓦磘里",
+    "county": "新北市",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "中和區_灰磘里",
+    "district": "中和區",
+    "village": "灰磘里",
+    "county": "新北市",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "麥寮鄉_瓦磘村",
+    "district": "麥寮鄉",
+    "village": "瓦磘村",
+    "county": "雲林縣",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "四湖鄉_萡子村",
+    "district": "四湖鄉",
+    "village": "萡子村",
+    "county": "雲林縣",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "四湖鄉_萡東村",
+    "district": "四湖鄉",
+    "village": "萡東村",
+    "county": "雲林縣",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "元長鄉_瓦磘村",
+    "district": "元長鄉",
+    "village": "瓦磘村",
+    "county": "雲林縣",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "水林鄉_瓊埔村",
+    "district": "水林鄉",
+    "village": "瓊埔村",
+    "county": "雲林縣",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "瑞芳區_濓洞里",
+    "district": "瑞芳區",
+    "village": "濓洞里",
+    "county": "新北市",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "瑞芳區_濓新里",
+    "district": "瑞芳區",
+    "village": "濓新里",
+    "county": "新北市",
+    "villcode": "",
+    "note": "Please fill VILLCODE manually"
+  }
+]
