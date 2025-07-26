@@ -46,5 +46,11 @@
       "eligible_voters": 1619,
       "turnout_rate": 54.79
     }
-  ]
+  ],
+  "VILLCODE": "65000010082",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000010",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "板橋區",
+  "VILLNAME": "和平里"
 }

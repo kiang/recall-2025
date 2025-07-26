@@ -62,5 +62,11 @@
       "eligible_voters": 1496,
       "turnout_rate": 53.21
     }
-  ]
+  ],
+  "VILLCODE": "66000050011",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "金龍里"
 }

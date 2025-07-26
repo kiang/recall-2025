@@ -62,5 +62,11 @@
       "eligible_voters": 491,
       "turnout_rate": 62.93
     }
-  ]
+  ],
+  "VILLCODE": "10015040003",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015040",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "新城鄉",
+  "VILLNAME": "康樂村"
 }

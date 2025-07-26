@@ -46,5 +46,11 @@
       "eligible_voters": 17,
       "turnout_rate": 52.94
     }
-  ]
+  ],
+  "VILLCODE": "10014140003",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014140",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "金峰鄉",
+  "VILLNAME": "嘉蘭村"
 }

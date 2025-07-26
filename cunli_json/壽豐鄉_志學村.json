@@ -62,5 +62,11 @@
       "eligible_voters": 318,
       "turnout_rate": 59.75
     }
-  ]
+  ],
+  "VILLCODE": "10015060011",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015060",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "壽豐鄉",
+  "VILLNAME": "志學村"
 }

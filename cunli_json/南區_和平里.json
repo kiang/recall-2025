@@ -62,5 +62,11 @@
       "eligible_voters": 1463,
       "turnout_rate": 52.77
     }
-  ]
+  ],
+  "VILLCODE": "66000030010",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "和平里"
 }

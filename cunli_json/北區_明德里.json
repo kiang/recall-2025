@@ -78,5 +78,11 @@
       "eligible_voters": 1229,
       "turnout_rate": 58.01
     }
-  ]
+  ],
+  "VILLCODE": "66000050022",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "明德里"
 }

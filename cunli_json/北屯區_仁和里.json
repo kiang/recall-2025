@@ -126,5 +126,11 @@
       "eligible_voters": 1294,
       "turnout_rate": 59.27
     }
-  ]
+  ],
+  "VILLCODE": "66000080017",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000080",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北屯區",
+  "VILLNAME": "仁和里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 745,
       "turnout_rate": 52.48
     }
-  ]
+  ],
+  "VILLCODE": "10017040001",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017040",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "仁愛區",
+  "VILLNAME": "林泉里"
 }

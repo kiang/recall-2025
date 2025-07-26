@@ -46,5 +46,11 @@
       "eligible_voters": 155,
       "turnout_rate": 45.16
     }
-  ]
+  ],
+  "VILLCODE": "10014080001",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014080",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "長濱鄉",
+  "VILLNAME": "樟原村"
 }

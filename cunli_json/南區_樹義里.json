@@ -158,5 +158,11 @@
       "eligible_voters": 1249,
       "turnout_rate": 63.25
     }
-  ]
+  ],
+  "VILLCODE": "66000030012",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "樹義里"
 }

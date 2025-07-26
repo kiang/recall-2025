@@ -94,5 +94,11 @@
       "eligible_voters": 2128,
       "turnout_rate": 32.33
     }
-  ]
+  ],
+  "VILLCODE": "63000010018",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000010",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "松山區",
+  "VILLNAME": "慈祐里"
 }

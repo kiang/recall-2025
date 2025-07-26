@@ -30,5 +30,11 @@
       "eligible_voters": 840,
       "turnout_rate": 56.9
     }
-  ]
+  ],
+  "VILLCODE": "68000110013",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000110",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "新屋區",
+  "VILLNAME": "石牌里"
 }

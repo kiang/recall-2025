@@ -46,5 +46,11 @@
       "eligible_voters": 1445,
       "turnout_rate": 58.62
     }
-  ]
+  ],
+  "VILLCODE": "68000080007",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000080",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "八德區",
+  "VILLNAME": "廣興里"
 }

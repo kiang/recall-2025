@@ -62,5 +62,11 @@
       "eligible_voters": 1470,
       "turnout_rate": 59.05
     }
-  ]
+  ],
+  "VILLCODE": "66000060026",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000060",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西屯區",
+  "VILLNAME": "至善里"
 }

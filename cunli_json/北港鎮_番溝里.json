@@ -30,5 +30,11 @@
       "eligible_voters": 680,
       "turnout_rate": 45.74
     }
-  ]
+  ],
+  "VILLCODE": "10009060022",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009060",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "北港鎮",
+  "VILLNAME": "番溝里"
 }

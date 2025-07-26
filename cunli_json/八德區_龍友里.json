@@ -46,5 +46,11 @@
       "eligible_voters": 930,
       "turnout_rate": 62.37
     }
-  ]
+  ],
+  "VILLCODE": "68000080045",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000080",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "八德區",
+  "VILLNAME": "龍友里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1329,
       "turnout_rate": 62.3
     }
-  ]
+  ],
+  "VILLCODE": "63000080012",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000080",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "文山區",
+  "VILLNAME": "萬盛里"
 }

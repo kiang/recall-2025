@@ -46,5 +46,11 @@
       "eligible_voters": 1755,
       "turnout_rate": 53.85
     }
-  ]
+  ],
+  "VILLCODE": "65000030088",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "員富里"
 }

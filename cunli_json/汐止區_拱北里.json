@@ -62,5 +62,11 @@
       "eligible_voters": 1715,
       "turnout_rate": 51.14
     }
-  ]
+  ],
+  "VILLCODE": "65000110015",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000110",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "汐止區",
+  "VILLNAME": "拱北里"
 }

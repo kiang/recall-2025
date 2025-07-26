@@ -30,5 +30,11 @@
       "eligible_voters": 1128,
       "turnout_rate": 57.45
     }
-  ]
+  ],
+  "VILLCODE": "10017050006",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017050",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "中興里"
 }

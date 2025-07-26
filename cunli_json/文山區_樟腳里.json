@@ -78,5 +78,11 @@
       "eligible_voters": 1048,
       "turnout_rate": 59.92
     }
-  ]
+  ],
+  "VILLCODE": "63000080032",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000080",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "文山區",
+  "VILLNAME": "樟腳里"
 }

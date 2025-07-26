@@ -30,5 +30,11 @@
       "eligible_voters": 733,
       "turnout_rate": 56.48
     }
-  ]
+  ],
+  "VILLCODE": "65000210010",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000210",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "三芝區",
+  "VILLNAME": "福德里"
 }

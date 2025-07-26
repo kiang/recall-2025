@@ -46,5 +46,11 @@
       "eligible_voters": 502,
       "turnout_rate": 47.21
     }
-  ]
+  ],
+  "VILLCODE": "10009160015",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009160",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "臺西鄉",
+  "VILLNAME": "五港村"
 }

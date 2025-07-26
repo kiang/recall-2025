@@ -62,5 +62,11 @@
       "eligible_voters": 1195,
       "turnout_rate": 61.0
     }
-  ]
+  ],
+  "VILLCODE": "68000020084",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "林森里"
 }

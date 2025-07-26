@@ -46,5 +46,11 @@
       "eligible_voters": 1426,
       "turnout_rate": 44.95
     }
-  ]
+  ],
+  "VILLCODE": "68000050019",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "長興里"
 }

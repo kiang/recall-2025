@@ -30,5 +30,11 @@
       "eligible_voters": 814,
       "turnout_rate": 55.16
     }
-  ]
+  ],
+  "VILLCODE": "10017040008",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017040",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "仁愛區",
+  "VILLNAME": "玉田里"
 }

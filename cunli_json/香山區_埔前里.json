@@ -110,5 +110,11 @@
       "eligible_voters": 1130,
       "turnout_rate": 57.35
     }
-  ]
+  ],
+  "VILLCODE": "10018030006",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018030",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "香山區",
+  "VILLNAME": "埔前里"
 }

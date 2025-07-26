@@ -46,5 +46,11 @@
       "eligible_voters": 531,
       "turnout_rate": 52.54
     }
-  ]
+  ],
+  "VILLCODE": "10009060024",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009060",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "北港鎮",
+  "VILLNAME": "好收里"
 }

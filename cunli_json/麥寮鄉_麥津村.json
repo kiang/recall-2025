@@ -78,5 +78,11 @@
       "eligible_voters": 1001,
       "turnout_rate": 41.66
     }
-  ]
+  ],
+  "VILLCODE": "10009130001",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009130",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "麥寮鄉",
+  "VILLNAME": "麥津村"
 }

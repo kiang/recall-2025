@@ -46,5 +46,11 @@
       "eligible_voters": 1579,
       "turnout_rate": 59.21
     }
-  ]
+  ],
+  "VILLCODE": "65000030086",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "錦盛里"
 }

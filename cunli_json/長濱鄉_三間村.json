@@ -62,5 +62,11 @@
       "eligible_voters": 56,
       "turnout_rate": 23.21
     }
-  ]
+  ],
+  "VILLCODE": "10014080002",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014080",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "長濱鄉",
+  "VILLNAME": "三間村"
 }

@@ -30,5 +30,11 @@
       "eligible_voters": 1285,
       "turnout_rate": 60.31
     }
-  ]
+  ],
+  "VILLCODE": "68000030001",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000030",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大溪區",
+  "VILLNAME": "興和里"
 }

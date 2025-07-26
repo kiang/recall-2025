@@ -62,5 +62,11 @@
       "eligible_voters": 1193,
       "turnout_rate": 48.7
     }
-  ]
+  ],
+  "VILLCODE": "68000090013",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000090",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "龍潭區",
+  "VILLNAME": "九龍里"
 }

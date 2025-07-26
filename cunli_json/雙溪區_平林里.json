@@ -46,5 +46,11 @@
       "eligible_voters": 223,
       "turnout_rate": 55.16
     }
-  ]
+  ],
+  "VILLCODE": "65000250008",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000250",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "雙溪區",
+  "VILLNAME": "平林里"
 }

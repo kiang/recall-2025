@@ -46,5 +46,11 @@
       "eligible_voters": 592,
       "turnout_rate": 43.75
     }
-  ]
+  ],
+  "VILLCODE": "10014090006",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014090",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "太麻里鄉",
+  "VILLNAME": "大王村"
 }

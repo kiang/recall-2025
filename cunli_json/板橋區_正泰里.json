@@ -46,5 +46,11 @@
       "eligible_voters": 1169,
       "turnout_rate": 63.73
     }
-  ]
+  ],
+  "VILLCODE": "65000010108",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000010",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "板橋區",
+  "VILLNAME": "正泰里"
 }

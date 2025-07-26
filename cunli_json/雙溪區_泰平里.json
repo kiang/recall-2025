@@ -30,5 +30,11 @@
       "eligible_voters": 1104,
       "turnout_rate": 37.59
     }
-  ]
+  ],
+  "VILLCODE": "65000250012",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000250",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "雙溪區",
+  "VILLNAME": "泰平里"
 }

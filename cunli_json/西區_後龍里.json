@@ -62,5 +62,11 @@
       "eligible_voters": 1144,
       "turnout_rate": 57.78
     }
-  ]
+  ],
+  "VILLCODE": "66000040012",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000040",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西區",
+  "VILLNAME": "後龍里"
 }

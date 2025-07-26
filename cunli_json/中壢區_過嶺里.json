@@ -126,5 +126,11 @@
       "eligible_voters": 1234,
       "turnout_rate": 53.48
     }
-  ]
+  ],
+  "VILLCODE": "68000020043",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "過嶺里"
 }

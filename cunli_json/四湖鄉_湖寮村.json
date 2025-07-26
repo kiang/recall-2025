@@ -30,5 +30,11 @@
       "eligible_voters": 639,
       "turnout_rate": 40.38
     }
-  ]
+  ],
+  "VILLCODE": "10009180007",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009180",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "四湖鄉",
+  "VILLNAME": "湖寮村"
 }

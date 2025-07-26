@@ -46,5 +46,11 @@
       "eligible_voters": 808,
       "turnout_rate": 57.3
     }
-  ]
+  ],
+  "VILLCODE": "10014010036",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "東海里"
 }

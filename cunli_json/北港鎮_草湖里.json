@@ -46,5 +46,11 @@
       "eligible_voters": 719,
       "turnout_rate": 45.62
     }
-  ]
+  ],
+  "VILLCODE": "10009060019",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009060",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "北港鎮",
+  "VILLNAME": "草湖里"
 }

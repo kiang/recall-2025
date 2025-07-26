@@ -62,5 +62,11 @@
       "eligible_voters": 1051,
       "turnout_rate": 62.13
     }
-  ]
+  ],
+  "VILLCODE": "68000020081",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "中興里"
 }

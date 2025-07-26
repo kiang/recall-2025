@@ -94,5 +94,11 @@
       "eligible_voters": 1207,
       "turnout_rate": 55.26
     }
-  ]
+  ],
+  "VILLCODE": "63000090004",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000090",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "南港區",
+  "VILLNAME": "三重里"
 }

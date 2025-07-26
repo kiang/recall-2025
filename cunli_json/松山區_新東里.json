@@ -78,5 +78,11 @@
       "eligible_voters": 963,
       "turnout_rate": 61.47
     }
-  ]
+  ],
+  "VILLCODE": "63000010007",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000010",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "松山區",
+  "VILLNAME": "新東里"
 }

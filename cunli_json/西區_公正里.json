@@ -94,5 +94,11 @@
       "eligible_voters": 1361,
       "turnout_rate": 62.16
     }
-  ]
+  ],
+  "VILLCODE": "66000040017",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000040",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西區",
+  "VILLNAME": "公正里"
 }

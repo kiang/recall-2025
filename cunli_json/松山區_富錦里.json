@@ -78,5 +78,11 @@
       "eligible_voters": 932,
       "turnout_rate": 62.66
     }
-  ]
+  ],
+  "VILLCODE": "63000010006",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000010",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "松山區",
+  "VILLNAME": "富錦里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 632,
       "turnout_rate": 53.96
     }
-  ]
+  ],
+  "VILLCODE": "63000020041",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000020",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "信義區",
+  "VILLNAME": "黎安里"
 }

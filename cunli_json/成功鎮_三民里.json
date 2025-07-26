@@ -46,5 +46,11 @@
       "eligible_voters": 621,
       "turnout_rate": 44.12
     }
-  ]
+  ],
+  "VILLCODE": "10014020004",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014020",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "成功鎮",
+  "VILLNAME": "三民里"
 }

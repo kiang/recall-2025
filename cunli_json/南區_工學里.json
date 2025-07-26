@@ -94,5 +94,11 @@
       "eligible_voters": 1398,
       "turnout_rate": 59.01
     }
-  ]
+  ],
+  "VILLCODE": "66000030021",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "工學里"
 }

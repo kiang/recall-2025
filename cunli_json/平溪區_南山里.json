@@ -30,5 +30,11 @@
       "eligible_voters": 298,
       "turnout_rate": 40.6
     }
-  ]
+  ],
+  "VILLCODE": "65000240009",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000240",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "平溪區",
+  "VILLNAME": "南山里"
 }

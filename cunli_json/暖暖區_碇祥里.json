@@ -94,5 +94,11 @@
       "eligible_voters": 1184,
       "turnout_rate": 50.08
     }
-  ]
+  ],
+  "VILLCODE": "10017030013",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017030",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "暖暖區",
+  "VILLNAME": "碇祥里"
 }

@@ -30,5 +30,11 @@
       "eligible_voters": 1093,
       "turnout_rate": 47.94
     }
-  ]
+  ],
+  "VILLCODE": "10009200004",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009200",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "水林鄉",
+  "VILLNAME": "土厝村"
 }

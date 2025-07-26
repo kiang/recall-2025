@@ -190,5 +190,11 @@
       "eligible_voters": 1321,
       "turnout_rate": 56.17
     }
-  ]
+  ],
+  "VILLCODE": "66000060005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000060",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西屯區",
+  "VILLNAME": "惠來里"
 }

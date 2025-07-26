@@ -142,5 +142,11 @@
       "eligible_voters": 1145,
       "turnout_rate": 54.85
     }
-  ]
+  ],
+  "VILLCODE": "10018030024",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018030",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "香山區",
+  "VILLNAME": "頂福里"
 }

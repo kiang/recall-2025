@@ -30,5 +30,11 @@
       "eligible_voters": 350,
       "turnout_rate": 48.86
     }
-  ]
+  ],
+  "VILLCODE": "10014060004",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014060",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "池上鄉",
+  "VILLNAME": "大埔村"
 }

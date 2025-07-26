@@ -30,5 +30,11 @@
       "eligible_voters": 883,
       "turnout_rate": 63.08
     }
-  ]
+  ],
+  "VILLCODE": "68000060012",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000060",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大園區",
+  "VILLNAME": "竹圍里"
 }

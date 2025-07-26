@@ -62,5 +62,11 @@
       "eligible_voters": 601,
       "turnout_rate": 52.41
     }
-  ]
+  ],
+  "VILLCODE": "10014010045",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "知本里"
 }

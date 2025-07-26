@@ -46,5 +46,11 @@
       "eligible_voters": 504,
       "turnout_rate": 46.43
     }
-  ]
+  ],
+  "VILLCODE": "10014010037",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "新興里"
 }

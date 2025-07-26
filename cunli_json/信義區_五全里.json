@@ -62,5 +62,11 @@
       "eligible_voters": 1404,
       "turnout_rate": 65.53
     }
-  ]
+  ],
+  "VILLCODE": "63000020013",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000020",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "信義區",
+  "VILLNAME": "五全里"
 }

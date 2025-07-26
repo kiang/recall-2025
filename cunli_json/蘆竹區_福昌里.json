@@ -62,5 +62,11 @@
       "eligible_voters": 1595,
       "turnout_rate": 59.06
     }
-  ]
+  ],
+  "VILLCODE": "68000050028",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "福昌里"
 }

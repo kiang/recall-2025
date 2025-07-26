@@ -46,5 +46,11 @@
       "eligible_voters": 1474,
       "turnout_rate": 58.01
     }
-  ]
+  ],
+  "VILLCODE": "68000010013",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "東門里"
 }

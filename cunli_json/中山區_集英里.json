@@ -94,5 +94,11 @@
       "eligible_voters": 1199,
       "turnout_rate": 57.63
     }
-  ]
+  ],
+  "VILLCODE": "63000040008",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000040",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "集英里"
 }

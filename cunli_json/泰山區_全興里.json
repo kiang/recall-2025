@@ -94,5 +94,11 @@
       "eligible_voters": 1292,
       "turnout_rate": 48.14
     }
-  ]
+  ],
+  "VILLCODE": "65000160017",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000160",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "泰山區",
+  "VILLNAME": "全興里"
 }

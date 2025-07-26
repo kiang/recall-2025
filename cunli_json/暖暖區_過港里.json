@@ -62,5 +62,11 @@
       "eligible_voters": 1370,
       "turnout_rate": 52.63
     }
-  ]
+  ],
+  "VILLCODE": "10017030004",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017030",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "暖暖區",
+  "VILLNAME": "過港里"
 }

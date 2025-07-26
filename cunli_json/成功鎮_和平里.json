@@ -30,5 +30,11 @@
       "eligible_voters": 128,
       "turnout_rate": 38.28
     }
-  ]
+  ],
+  "VILLCODE": "10014020007",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014020",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "成功鎮",
+  "VILLNAME": "和平里"
 }

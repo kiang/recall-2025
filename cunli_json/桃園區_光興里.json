@@ -62,5 +62,11 @@
       "eligible_voters": 1419,
       "turnout_rate": 59.69
     }
-  ]
+  ],
+  "VILLCODE": "68000010034",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "光興里"
 }

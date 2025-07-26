@@ -30,5 +30,11 @@
       "eligible_voters": 146,
       "turnout_rate": 55.48
     }
-  ]
+  ],
+  "VILLCODE": "65000240008",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000240",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "平溪區",
+  "VILLNAME": "望古里"
 }

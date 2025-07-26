@@ -78,5 +78,11 @@
       "eligible_voters": 1514,
       "turnout_rate": 54.62
     }
-  ]
+  ],
+  "VILLCODE": "65000010078",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000010",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "板橋區",
+  "VILLNAME": "廣德里"
 }

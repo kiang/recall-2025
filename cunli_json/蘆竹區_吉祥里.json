@@ -62,5 +62,11 @@
       "eligible_voters": 1254,
       "turnout_rate": 54.78
     }
-  ]
+  ],
+  "VILLCODE": "68000050032",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "吉祥里"
 }

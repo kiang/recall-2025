@@ -62,5 +62,11 @@
       "eligible_voters": 2104,
       "turnout_rate": 56.42
     }
-  ]
+  ],
+  "VILLCODE": "65000030049",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "景福里"
 }

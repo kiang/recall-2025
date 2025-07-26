@@ -62,5 +62,11 @@
       "eligible_voters": 1093,
       "turnout_rate": 53.98
     }
-  ]
+  ],
+  "VILLCODE": "65000030089",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "嘉慶里"
 }

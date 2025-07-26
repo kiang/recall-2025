@@ -94,5 +94,11 @@
       "eligible_voters": 1605,
       "turnout_rate": 40.06
     }
-  ]
+  ],
+  "VILLCODE": "66000070005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000070",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南屯區",
+  "VILLNAME": "春社里"
 }

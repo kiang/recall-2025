@@ -110,5 +110,11 @@
       "eligible_voters": 928,
       "turnout_rate": 54.96
     }
-  ]
+  ],
+  "VILLCODE": "10018030013",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018030",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "香山區",
+  "VILLNAME": "大庄里"
 }

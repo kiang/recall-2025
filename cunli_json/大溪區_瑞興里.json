@@ -46,5 +46,11 @@
       "eligible_voters": 762,
       "turnout_rate": 50.92
     }
-  ]
+  ],
+  "VILLCODE": "68000030013",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000030",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大溪區",
+  "VILLNAME": "瑞興里"
 }

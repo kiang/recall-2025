@@ -30,5 +30,11 @@
       "eligible_voters": 1081,
       "turnout_rate": 55.5
     }
-  ]
+  ],
+  "VILLCODE": "66000060004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000060",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西屯區",
+  "VILLNAME": "龍潭里"
 }

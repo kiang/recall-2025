@@ -30,5 +30,11 @@
       "eligible_voters": 885,
       "turnout_rate": 49.83
     }
-  ]
+  ],
+  "VILLCODE": "10017050009",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017050",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "通化里"
 }

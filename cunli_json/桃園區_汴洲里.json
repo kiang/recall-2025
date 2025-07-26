@@ -94,5 +94,11 @@
       "eligible_voters": 1238,
       "turnout_rate": 58.24
     }
-  ]
+  ],
+  "VILLCODE": "68000010010",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "汴洲里"
 }

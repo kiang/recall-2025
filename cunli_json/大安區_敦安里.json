@@ -78,5 +78,11 @@
       "eligible_voters": 1215,
       "turnout_rate": 56.21
     }
-  ]
+  ],
+  "VILLCODE": "63000030051",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000030",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "大安區",
+  "VILLNAME": "敦安里"
 }

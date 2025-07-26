@@ -46,5 +46,11 @@
       "eligible_voters": 1122,
       "turnout_rate": 55.08
     }
-  ]
+  ],
+  "VILLCODE": "65000010085",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000010",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "板橋區",
+  "VILLNAME": "華貴里"
 }

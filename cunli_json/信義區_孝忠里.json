@@ -94,5 +94,11 @@
       "eligible_voters": 1627,
       "turnout_rate": 52.92
     }
-  ]
+  ],
+  "VILLCODE": "10017070020",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017070",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "信義區",
+  "VILLNAME": "孝忠里"
 }

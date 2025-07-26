@@ -30,5 +30,11 @@
       "eligible_voters": 971,
       "turnout_rate": 54.27
     }
-  ]
+  ],
+  "VILLCODE": "65000040052",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000040",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "永和區",
+  "VILLNAME": "網溪里"
 }

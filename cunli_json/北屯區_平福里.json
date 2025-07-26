@@ -62,5 +62,11 @@
       "eligible_voters": 1114,
       "turnout_rate": 61.85
     }
-  ]
+  ],
+  "VILLCODE": "66000080036",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000080",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北屯區",
+  "VILLNAME": "平福里"
 }

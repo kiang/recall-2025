@@ -78,5 +78,11 @@
       "eligible_voters": 627,
       "turnout_rate": 59.97
     }
-  ]
+  ],
+  "VILLCODE": "10018020044",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "台溪里"
 }

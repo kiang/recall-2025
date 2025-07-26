@@ -46,5 +46,11 @@
       "eligible_voters": 1241,
       "turnout_rate": 59.79
     }
-  ]
+  ],
+  "VILLCODE": "68000020059",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "和平里"
 }

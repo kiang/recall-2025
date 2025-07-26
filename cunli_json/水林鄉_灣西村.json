@@ -30,5 +30,11 @@
       "eligible_voters": 819,
       "turnout_rate": 47.13
     }
-  ]
+  ],
+  "VILLCODE": "10009200010",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009200",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "水林鄉",
+  "VILLNAME": "灣西村"
 }

@@ -30,5 +30,11 @@
       "eligible_voters": 385,
       "turnout_rate": 46.23
     }
-  ]
+  ],
+  "VILLCODE": "10015100010",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015100",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "富里鄉",
+  "VILLNAME": "永豐村"
 }

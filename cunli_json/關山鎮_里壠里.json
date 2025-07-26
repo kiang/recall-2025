@@ -46,5 +46,11 @@
       "eligible_voters": 481,
       "turnout_rate": 40.75
     }
-  ]
+  ],
+  "VILLCODE": "10014030005",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014030",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "關山鎮",
+  "VILLNAME": "里壠里"
 }

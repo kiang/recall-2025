@@ -30,5 +30,11 @@
       "eligible_voters": 766,
       "turnout_rate": 44.52
     }
-  ]
+  ],
+  "VILLCODE": "10009190013",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009190",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "口湖鄉",
+  "VILLNAME": "港西村"
 }

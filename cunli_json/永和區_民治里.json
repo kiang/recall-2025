@@ -46,5 +46,11 @@
       "eligible_voters": 1150,
       "turnout_rate": 53.65
     }
-  ]
+  ],
+  "VILLCODE": "65000040008",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000040",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "永和區",
+  "VILLNAME": "民治里"
 }

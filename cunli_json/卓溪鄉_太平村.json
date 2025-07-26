@@ -30,5 +30,11 @@
       "eligible_voters": 17,
       "turnout_rate": 35.29
     }
-  ]
+  ],
+  "VILLCODE": "10015130003",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015130",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "卓溪鄉",
+  "VILLNAME": "太平村"
 }

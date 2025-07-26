@@ -126,5 +126,11 @@
       "eligible_voters": 1181,
       "turnout_rate": 59.7
     }
-  ]
+  ],
+  "VILLCODE": "66000020016",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000020",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "東信里"
 }

@@ -302,5 +302,11 @@
       "eligible_voters": 933,
       "turnout_rate": 60.45
     }
-  ]
+  ],
+  "VILLCODE": "10018010042",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "龍山里"
 }

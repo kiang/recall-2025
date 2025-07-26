@@ -62,5 +62,11 @@
       "eligible_voters": 886,
       "turnout_rate": 59.93
     }
-  ]
+  ],
+  "VILLCODE": "10009030004",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009030",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "虎尾鎮",
+  "VILLNAME": "公安里"
 }

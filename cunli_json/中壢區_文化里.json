@@ -110,5 +110,11 @@
       "eligible_voters": 1512,
       "turnout_rate": 53.97
     }
-  ]
+  ],
+  "VILLCODE": "68000020034",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "文化里"
 }

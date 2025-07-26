@@ -78,5 +78,11 @@
       "eligible_voters": 1357,
       "turnout_rate": 62.71
     }
-  ]
+  ],
+  "VILLCODE": "68000050031",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "長壽里"
 }

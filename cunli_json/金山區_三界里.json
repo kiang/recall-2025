@@ -30,5 +30,11 @@
       "eligible_voters": 587,
       "turnout_rate": 49.57
     }
-  ]
+  ],
+  "VILLCODE": "65000270010",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000270",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "金山區",
+  "VILLNAME": "三界里"
 }

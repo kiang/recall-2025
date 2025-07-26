@@ -30,5 +30,11 @@
       "eligible_voters": 799,
       "turnout_rate": 57.57
     }
-  ]
+  ],
+  "VILLCODE": "10009050002",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009050",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "土庫鎮",
+  "VILLNAME": "順天里"
 }

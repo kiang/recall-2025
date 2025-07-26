@@ -30,5 +30,11 @@
       "eligible_voters": 775,
       "turnout_rate": 36.26
     }
-  ]
+  ],
+  "VILLCODE": "65000120033",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000120",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "瑞芳區",
+  "VILLNAME": "鼻頭里"
 }

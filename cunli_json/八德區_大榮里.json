@@ -46,5 +46,11 @@
       "eligible_voters": 864,
       "turnout_rate": 52.55
     }
-  ]
+  ],
+  "VILLCODE": "68000080037",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000080",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "八德區",
+  "VILLNAME": "大榮里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 901,
       "turnout_rate": 43.95
     }
-  ]
+  ],
+  "VILLCODE": "65000260007",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000260",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "貢寮區",
+  "VILLNAME": "仁里里"
 }

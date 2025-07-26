@@ -78,5 +78,11 @@
       "eligible_voters": 1050,
       "turnout_rate": 54.19
     }
-  ]
+  ],
+  "VILLCODE": "68000010028",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "玉山里"
 }

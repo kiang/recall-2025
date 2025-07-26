@@ -46,5 +46,11 @@
       "eligible_voters": 909,
       "turnout_rate": 57.76
     }
-  ]
+  ],
+  "VILLCODE": "66000020014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000020",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "富台里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 337,
       "turnout_rate": 49.85
     }
-  ]
+  ],
+  "VILLCODE": "10015030015",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015030",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "玉里鎮",
+  "VILLNAME": "大禹里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 632,
       "turnout_rate": 52.06
     }
-  ]
+  ],
+  "VILLCODE": "10014010023",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "文化里"
 }

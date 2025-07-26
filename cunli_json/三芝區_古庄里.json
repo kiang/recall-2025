@@ -30,5 +30,11 @@
       "eligible_voters": 1146,
       "turnout_rate": 47.99
     }
-  ]
+  ],
+  "VILLCODE": "65000210003",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000210",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "三芝區",
+  "VILLNAME": "古庄里"
 }

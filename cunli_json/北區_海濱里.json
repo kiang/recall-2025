@@ -142,5 +142,11 @@
       "eligible_voters": 1094,
       "turnout_rate": 49.82
     }
-  ]
+  ],
+  "VILLCODE": "10018020029",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "海濱里"
 }

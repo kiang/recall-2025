@@ -78,5 +78,11 @@
       "eligible_voters": 1385,
       "turnout_rate": 60.0
     }
-  ]
+  ],
+  "VILLCODE": "63000100009",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000100",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "內湖區",
+  "VILLNAME": "內湖里"
 }

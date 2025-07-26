@@ -62,5 +62,11 @@
       "eligible_voters": 973,
       "turnout_rate": 41.21
     }
-  ]
+  ],
+  "VILLCODE": "10009130006",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009130",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "麥寮鄉",
+  "VILLNAME": "後安村"
 }

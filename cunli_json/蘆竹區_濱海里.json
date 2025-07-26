@@ -46,5 +46,11 @@
       "eligible_voters": 1150,
       "turnout_rate": 48.96
     }
-  ]
+  ],
+  "VILLCODE": "68000050040",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "濱海里"
 }

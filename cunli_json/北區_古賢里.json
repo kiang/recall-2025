@@ -46,5 +46,11 @@
       "eligible_voters": 809,
       "turnout_rate": 59.33
     }
-  ]
+  ],
+  "VILLCODE": "10018020020",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "古賢里"
 }

@@ -78,5 +78,11 @@
       "eligible_voters": 1200,
       "turnout_rate": 53.92
     }
-  ]
+  ],
+  "VILLCODE": "63000030053",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000030",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "大安區",
+  "VILLNAME": "敦煌里"
 }

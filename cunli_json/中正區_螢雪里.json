@@ -62,5 +62,11 @@
       "eligible_voters": 1095,
       "turnout_rate": 55.8
     }
-  ]
+  ],
+  "VILLCODE": "63000050010",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000050",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中正區",
+  "VILLNAME": "螢雪里"
 }

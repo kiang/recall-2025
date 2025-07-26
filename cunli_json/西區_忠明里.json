@@ -94,5 +94,11 @@
       "eligible_voters": 1226,
       "turnout_rate": 53.18
     }
-  ]
+  ],
+  "VILLCODE": "66000040016",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000040",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西區",
+  "VILLNAME": "忠明里"
 }

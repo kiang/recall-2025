@@ -46,5 +46,11 @@
       "eligible_voters": 214,
       "turnout_rate": 44.86
     }
-  ]
+  ],
+  "VILLCODE": "10018020035",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "大鵬里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 737,
       "turnout_rate": 43.69
     }
-  ]
+  ],
+  "VILLCODE": "65000260006",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000260",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "貢寮區",
+  "VILLNAME": "福隆里"
 }

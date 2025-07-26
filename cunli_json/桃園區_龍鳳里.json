@@ -94,5 +94,11 @@
       "eligible_voters": 1471,
       "turnout_rate": 58.12
     }
-  ]
+  ],
+  "VILLCODE": "68000010059",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "龍鳳里"
 }

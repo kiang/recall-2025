@@ -30,5 +30,11 @@
       "eligible_voters": 422,
       "turnout_rate": 52.84
     }
-  ]
+  ],
+  "VILLCODE": "10017020016",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017020",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "七堵區",
+  "VILLNAME": "友二里"
 }

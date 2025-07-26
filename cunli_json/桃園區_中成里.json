@@ -94,5 +94,11 @@
       "eligible_voters": 1492,
       "turnout_rate": 57.37
     }
-  ]
+  ],
+  "VILLCODE": "68000010029",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "中成里"
 }

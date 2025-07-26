@@ -62,5 +62,11 @@
       "eligible_voters": 1236,
       "turnout_rate": 53.72
     }
-  ]
+  ],
+  "VILLCODE": "68000020024",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "新明里"
 }

@@ -30,5 +30,11 @@
       "eligible_voters": 1052,
       "turnout_rate": 63.21
     }
-  ]
+  ],
+  "VILLCODE": "10015020001",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015020",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "鳳林鎮",
+  "VILLNAME": "鳳仁里"
 }

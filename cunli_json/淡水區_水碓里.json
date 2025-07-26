@@ -78,5 +78,11 @@
       "eligible_voters": 1258,
       "turnout_rate": 52.46
     }
-  ]
+  ],
+  "VILLCODE": "65000100011",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000100",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "淡水區",
+  "VILLNAME": "水碓里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1263,
       "turnout_rate": 51.46
     }
-  ]
+  ],
+  "VILLCODE": "10017020019",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017020",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "七堵區",
+  "VILLNAME": "實踐里"
 }

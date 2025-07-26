@@ -62,5 +62,11 @@
       "eligible_voters": 954,
       "turnout_rate": 47.38
     }
-  ]
+  ],
+  "VILLCODE": "65000120012",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000120",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "瑞芳區",
+  "VILLNAME": "吉安里"
 }

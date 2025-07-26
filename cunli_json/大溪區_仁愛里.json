@@ -78,5 +78,11 @@
       "eligible_voters": 986,
       "turnout_rate": 51.01
     }
-  ]
+  ],
+  "VILLCODE": "68000030018",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000030",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大溪區",
+  "VILLNAME": "仁愛里"
 }

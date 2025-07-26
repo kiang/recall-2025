@@ -30,5 +30,11 @@
       "eligible_voters": 912,
       "turnout_rate": 49.23
     }
-  ]
+  ],
+  "VILLCODE": "10014050007",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014050",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "鹿野鄉",
+  "VILLNAME": "龍田村"
 }

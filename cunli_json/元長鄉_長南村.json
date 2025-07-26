@@ -62,5 +62,11 @@
       "eligible_voters": 999,
       "turnout_rate": 46.15
     }
-  ]
+  ],
+  "VILLCODE": "10009170001",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009170",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "元長鄉",
+  "VILLNAME": "長南村"
 }

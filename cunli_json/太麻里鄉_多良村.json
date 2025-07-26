@@ -46,5 +46,11 @@
       "eligible_voters": 114,
       "turnout_rate": 35.09
     }
-  ]
+  ],
+  "VILLCODE": "10014090009",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014090",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "太麻里鄉",
+  "VILLNAME": "多良村"
 }

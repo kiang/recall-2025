@@ -46,5 +46,11 @@
       "eligible_voters": 676,
       "turnout_rate": 38.76
     }
-  ]
+  ],
+  "VILLCODE": "10009160005",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009160",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "臺西鄉",
+  "VILLNAME": "溪頂村"
 }

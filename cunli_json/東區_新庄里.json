@@ -62,5 +62,11 @@
       "eligible_voters": 794,
       "turnout_rate": 53.4
     }
-  ]
+  ],
+  "VILLCODE": "66000020001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000020",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "新庄里"
 }

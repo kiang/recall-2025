@@ -46,5 +46,11 @@
       "eligible_voters": 1355,
       "turnout_rate": 58.01
     }
-  ]
+  ],
+  "VILLCODE": "65000040048",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000040",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "永和區",
+  "VILLNAME": "河濱里"
 }

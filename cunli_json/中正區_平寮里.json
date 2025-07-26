@@ -30,5 +30,11 @@
       "eligible_voters": 1066,
       "turnout_rate": 46.15
     }
-  ]
+  ],
+  "VILLCODE": "10017010018",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017010",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "中正區",
+  "VILLNAME": "平寮里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1332,
       "turnout_rate": 60.66
     }
-  ]
+  ],
+  "VILLCODE": "68000110002",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000110",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "新屋區",
+  "VILLNAME": "新生里"
 }

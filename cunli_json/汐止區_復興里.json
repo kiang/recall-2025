@@ -78,5 +78,11 @@
       "eligible_voters": 1657,
       "turnout_rate": 62.28
     }
-  ]
+  ],
+  "VILLCODE": "65000110008",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000110",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "汐止區",
+  "VILLNAME": "復興里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 1699,
       "turnout_rate": 54.33
     }
-  ]
+  ],
+  "VILLCODE": "10017020010",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017020",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "七堵區",
+  "VILLNAME": "堵北里"
 }

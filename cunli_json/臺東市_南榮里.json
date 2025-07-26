@@ -62,5 +62,11 @@
       "eligible_voters": 487,
       "turnout_rate": 53.59
     }
-  ]
+  ],
+  "VILLCODE": "10014010006",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "南榮里"
 }

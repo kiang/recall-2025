@@ -46,5 +46,11 @@
       "eligible_voters": 1263,
       "turnout_rate": 58.12
     }
-  ]
+  ],
+  "VILLCODE": "68000080013",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000080",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "八德區",
+  "VILLNAME": "白鷺里"
 }

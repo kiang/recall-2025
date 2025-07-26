@@ -30,5 +30,11 @@
       "eligible_voters": 545,
       "turnout_rate": 47.16
     }
-  ]
+  ],
+  "VILLCODE": "10014100003",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014100",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "大武鄉",
+  "VILLNAME": "大武村"
 }

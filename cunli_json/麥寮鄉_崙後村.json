@@ -46,5 +46,11 @@
       "eligible_voters": 1354,
       "turnout_rate": 42.91
     }
-  ]
+  ],
+  "VILLCODE": "10009130005",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009130",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "麥寮鄉",
+  "VILLNAME": "崙後村"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 417,
       "turnout_rate": 51.56
     }
-  ]
+  ],
+  "VILLCODE": "10009050005",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009050",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "土庫鎮",
+  "VILLNAME": "溪邊里"
 }

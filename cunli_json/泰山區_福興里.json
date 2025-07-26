@@ -46,5 +46,11 @@
       "eligible_voters": 1656,
       "turnout_rate": 55.07
     }
-  ]
+  ],
+  "VILLCODE": "65000160016",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000160",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "泰山區",
+  "VILLNAME": "福興里"
 }

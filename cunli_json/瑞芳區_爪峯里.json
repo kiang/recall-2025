@@ -62,5 +62,11 @@
       "eligible_voters": 983,
       "turnout_rate": 53.2
     }
-  ]
+  ],
+  "VILLCODE": "65000120007",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000120",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "瑞芳區",
+  "VILLNAME": "爪峯里"
 }

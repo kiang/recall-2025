@@ -30,5 +30,11 @@
       "eligible_voters": 1135,
       "turnout_rate": 57.53
     }
-  ]
+  ],
+  "VILLCODE": "65000170011",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000170",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "林口區",
+  "VILLNAME": "下福里"
 }

@@ -94,5 +94,11 @@
       "eligible_voters": 1404,
       "turnout_rate": 55.2
     }
-  ]
+  ],
+  "VILLCODE": "68000100028",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "義興里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 884,
       "turnout_rate": 53.62
     }
-  ]
+  ],
+  "VILLCODE": "10009150005",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009150",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "褒忠鄉",
+  "VILLNAME": "馬鳴村"
 }

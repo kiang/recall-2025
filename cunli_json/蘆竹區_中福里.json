@@ -62,5 +62,11 @@
       "eligible_voters": 1135,
       "turnout_rate": 58.5
     }
-  ]
+  ],
+  "VILLCODE": "68000050002",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "中福里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1285,
       "turnout_rate": 67.0
     }
-  ]
+  ],
+  "VILLCODE": "10017060016",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017060",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "安樂區",
+  "VILLNAME": "四維里"
 }

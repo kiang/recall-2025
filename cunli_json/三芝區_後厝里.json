@@ -46,5 +46,11 @@
       "eligible_voters": 1350,
       "turnout_rate": 48.07
     }
-  ]
+  ],
+  "VILLCODE": "65000210009",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000210",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "三芝區",
+  "VILLNAME": "後厝里"
 }

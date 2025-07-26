@@ -94,5 +94,11 @@
       "eligible_voters": 1487,
       "turnout_rate": 49.29
     }
-  ]
+  ],
+  "VILLCODE": "68000010004",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "大林里"
 }

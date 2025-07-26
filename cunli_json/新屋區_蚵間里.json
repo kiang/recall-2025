@@ -30,5 +30,11 @@
       "eligible_voters": 866,
       "turnout_rate": 52.54
     }
-  ]
+  ],
+  "VILLCODE": "68000110019",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000110",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "新屋區",
+  "VILLNAME": "蚵間里"
 }

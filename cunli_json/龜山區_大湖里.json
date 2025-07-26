@@ -78,5 +78,11 @@
       "eligible_voters": 1403,
       "turnout_rate": 52.74
     }
-  ]
+  ],
+  "VILLCODE": "68000070027",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000070",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "龜山區",
+  "VILLNAME": "大湖里"
 }

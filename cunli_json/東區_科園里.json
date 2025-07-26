@@ -206,5 +206,11 @@
       "eligible_voters": 1102,
       "turnout_rate": 66.42
     }
-  ]
+  ],
+  "VILLCODE": "10018010047",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "科園里"
 }

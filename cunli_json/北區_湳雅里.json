@@ -110,5 +110,11 @@
       "eligible_voters": 1007,
       "turnout_rate": 61.67
     }
-  ]
+  ],
+  "VILLCODE": "10018020021",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "湳雅里"
 }

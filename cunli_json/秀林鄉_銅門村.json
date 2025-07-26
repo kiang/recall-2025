@@ -46,5 +46,11 @@
       "eligible_voters": 47,
       "turnout_rate": 36.17
     }
-  ]
+  ],
+  "VILLCODE": "10015110005",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015110",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "秀林鄉",
+  "VILLNAME": "銅門村"
 }

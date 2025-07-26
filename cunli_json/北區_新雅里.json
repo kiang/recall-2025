@@ -142,5 +142,11 @@
       "eligible_voters": 1031,
       "turnout_rate": 58.68
     }
-  ]
+  ],
+  "VILLCODE": "10018020038",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "新雅里"
 }

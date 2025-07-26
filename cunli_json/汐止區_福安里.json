@@ -78,5 +78,11 @@
       "eligible_voters": 1409,
       "turnout_rate": 55.22
     }
-  ]
+  ],
+  "VILLCODE": "65000110045",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000110",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "汐止區",
+  "VILLNAME": "福安里"
 }

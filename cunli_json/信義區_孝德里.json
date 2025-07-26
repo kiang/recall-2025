@@ -46,5 +46,11 @@
       "eligible_voters": 1287,
       "turnout_rate": 55.4
     }
-  ]
+  ],
+  "VILLCODE": "10017070019",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017070",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "信義區",
+  "VILLNAME": "孝德里"
 }

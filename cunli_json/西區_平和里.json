@@ -46,5 +46,11 @@
       "eligible_voters": 810,
       "turnout_rate": 55.8
     }
-  ]
+  ],
+  "VILLCODE": "66000040006",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000040",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西區",
+  "VILLNAME": "平和里"
 }

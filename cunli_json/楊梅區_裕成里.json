@@ -46,5 +46,11 @@
       "eligible_voters": 1557,
       "turnout_rate": 61.66
     }
-  ]
+  ],
+  "VILLCODE": "68000040029",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000040",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "楊梅區",
+  "VILLNAME": "裕成里"
 }

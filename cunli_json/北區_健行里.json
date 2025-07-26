@@ -94,5 +94,11 @@
       "eligible_voters": 1544,
       "turnout_rate": 55.83
     }
-  ]
+  ],
+  "VILLCODE": "66000050021",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "健行里"
 }

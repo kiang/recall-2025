@@ -94,5 +94,11 @@
       "eligible_voters": 1157,
       "turnout_rate": 56.27
     }
-  ]
+  ],
+  "VILLCODE": "63000100024",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000100",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "內湖區",
+  "VILLNAME": "樂康里"
 }

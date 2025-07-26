@@ -142,5 +142,11 @@
       "eligible_voters": 1104,
       "turnout_rate": 59.6
     }
-  ]
+  ],
+  "VILLCODE": "10018010050",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "復興里"
 }

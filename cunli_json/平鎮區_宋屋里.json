@@ -62,5 +62,11 @@
       "eligible_voters": 1522,
       "turnout_rate": 51.45
     }
-  ]
+  ],
+  "VILLCODE": "68000100006",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "宋屋里"
 }

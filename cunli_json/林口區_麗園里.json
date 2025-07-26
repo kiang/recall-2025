@@ -62,5 +62,11 @@
       "eligible_voters": 1103,
       "turnout_rate": 62.1
     }
-  ]
+  ],
+  "VILLCODE": "65000170017",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000170",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "林口區",
+  "VILLNAME": "麗園里"
 }

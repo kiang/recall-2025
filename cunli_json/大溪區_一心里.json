@@ -78,5 +78,11 @@
       "eligible_voters": 1173,
       "turnout_rate": 42.54
     }
-  ]
+  ],
+  "VILLCODE": "68000030003",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000030",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大溪區",
+  "VILLNAME": "一心里"
 }

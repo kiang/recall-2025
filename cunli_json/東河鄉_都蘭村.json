@@ -62,5 +62,11 @@
       "eligible_voters": 306,
       "turnout_rate": 53.27
     }
-  ]
+  ],
+  "VILLCODE": "10014070007",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014070",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "東河鄉",
+  "VILLNAME": "都蘭村"
 }

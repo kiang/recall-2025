@@ -62,5 +62,11 @@
       "eligible_voters": 1160,
       "turnout_rate": 61.47
     }
-  ]
+  ],
+  "VILLCODE": "65000170004",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000170",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "林口區",
+  "VILLNAME": "菁湖里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 393,
       "turnout_rate": 44.78
     }
-  ]
+  ],
+  "VILLCODE": "10014010001",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "富岡里"
 }

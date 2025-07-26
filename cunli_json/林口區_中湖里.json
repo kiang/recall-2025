@@ -62,5 +62,11 @@
       "eligible_voters": 1593,
       "turnout_rate": 51.41
     }
-  ]
+  ],
+  "VILLCODE": "65000170005",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000170",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "林口區",
+  "VILLNAME": "中湖里"
 }

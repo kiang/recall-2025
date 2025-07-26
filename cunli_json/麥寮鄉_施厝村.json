@@ -62,5 +62,11 @@
       "eligible_voters": 1102,
       "turnout_rate": 45.83
     }
-  ]
+  ],
+  "VILLCODE": "10009130011",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009130",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "麥寮鄉",
+  "VILLNAME": "施厝村"
 }

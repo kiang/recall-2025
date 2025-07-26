@@ -62,5 +62,11 @@
       "eligible_voters": 1720,
       "turnout_rate": 57.44
     }
-  ]
+  ],
+  "VILLCODE": "65000110036",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000110",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "汐止區",
+  "VILLNAME": "康福里"
 }

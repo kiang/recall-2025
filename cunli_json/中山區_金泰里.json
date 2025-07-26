@@ -94,5 +94,11 @@
       "eligible_voters": 1346,
       "turnout_rate": 62.26
     }
-  ]
+  ],
+  "VILLCODE": "63000040041",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000040",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "金泰里"
 }

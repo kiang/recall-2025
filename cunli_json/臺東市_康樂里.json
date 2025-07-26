@@ -30,5 +30,11 @@
       "eligible_voters": 1130,
       "turnout_rate": 51.06
     }
-  ]
+  ],
+  "VILLCODE": "10014010035",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "康樂里"
 }

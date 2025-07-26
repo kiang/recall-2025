@@ -126,5 +126,11 @@
       "eligible_voters": 1203,
       "turnout_rate": 54.78
     }
-  ]
+  ],
+  "VILLCODE": "65000040062",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000040",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "永和區",
+  "VILLNAME": "保順里"
 }

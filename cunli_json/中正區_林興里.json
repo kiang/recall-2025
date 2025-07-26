@@ -78,5 +78,11 @@
       "eligible_voters": 855,
       "turnout_rate": 56.49
     }
-  ]
+  ],
+  "VILLCODE": "63000050004",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000050",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中正區",
+  "VILLNAME": "林興里"
 }

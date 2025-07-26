@@ -110,5 +110,11 @@
       "eligible_voters": 1206,
       "turnout_rate": 57.55
     }
-  ]
+  ],
+  "VILLCODE": "10018030011",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018030",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "香山區",
+  "VILLNAME": "香村里"
 }

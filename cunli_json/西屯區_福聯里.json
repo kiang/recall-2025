@@ -46,5 +46,11 @@
       "eligible_voters": 1634,
       "turnout_rate": 50.0
     }
-  ]
+  ],
+  "VILLCODE": "66000060036",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000060",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西屯區",
+  "VILLNAME": "福聯里"
 }

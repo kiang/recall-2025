@@ -78,5 +78,11 @@
       "eligible_voters": 1549,
       "turnout_rate": 50.36
     }
-  ]
+  ],
+  "VILLCODE": "68000010047",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "春日里"
 }

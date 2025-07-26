@@ -110,5 +110,11 @@
       "eligible_voters": 729,
       "turnout_rate": 65.02
     }
-  ]
+  ],
+  "VILLCODE": "10018010048",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "建華里"
 }

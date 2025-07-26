@@ -46,5 +46,11 @@
       "eligible_voters": 8,
       "turnout_rate": 25.0
     }
-  ]
+  ],
+  "VILLCODE": "10015130002",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015130",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "卓溪鄉",
+  "VILLNAME": "立山村"
 }

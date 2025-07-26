@@ -46,5 +46,11 @@
       "eligible_voters": 1157,
       "turnout_rate": 64.48
     }
-  ]
+  ],
+  "VILLCODE": "66000030016",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "長榮里"
 }

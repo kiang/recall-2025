@@ -30,5 +30,11 @@
       "eligible_voters": 806,
       "turnout_rate": 54.84
     }
-  ]
+  ],
+  "VILLCODE": "10009050009",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009050",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "土庫鎮",
+  "VILLNAME": "大荖里"
 }

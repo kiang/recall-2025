@@ -30,5 +30,11 @@
       "eligible_voters": 806,
       "turnout_rate": 54.59
     }
-  ]
+  ],
+  "VILLCODE": "10009170007",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009170",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "元長鄉",
+  "VILLNAME": "五塊村"
 }

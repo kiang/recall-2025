@@ -62,5 +62,11 @@
       "eligible_voters": 1321,
       "turnout_rate": 60.41
     }
-  ]
+  ],
+  "VILLCODE": "68000010037",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "成功里"
 }

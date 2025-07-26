@@ -46,5 +46,11 @@
       "eligible_voters": 186,
       "turnout_rate": 39.25
     }
-  ]
+  ],
+  "VILLCODE": "10014080004",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014080",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "長濱鄉",
+  "VILLNAME": "長濱村"
 }

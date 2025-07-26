@@ -46,5 +46,11 @@
       "eligible_voters": 397,
       "turnout_rate": 62.72
     }
-  ]
+  ],
+  "VILLCODE": "10018010008",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "下竹里"
 }

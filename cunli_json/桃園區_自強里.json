@@ -94,5 +94,11 @@
       "eligible_voters": 1369,
       "turnout_rate": 58.8
     }
-  ]
+  ],
+  "VILLCODE": "68000010061",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "自強里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 830,
       "turnout_rate": 39.76
     }
-  ]
+  ],
+  "VILLCODE": "10009160013",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009160",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "臺西鄉",
+  "VILLNAME": "和豐村"
 }

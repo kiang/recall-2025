@@ -46,5 +46,11 @@
       "eligible_voters": 954,
       "turnout_rate": 59.01
     }
-  ]
+  ],
+  "VILLCODE": "10018020008",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "北門里"
 }

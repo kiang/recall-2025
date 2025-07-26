@@ -174,5 +174,11 @@
       "eligible_voters": 853,
       "turnout_rate": 53.46
     }
-  ]
+  ],
+  "VILLCODE": "10018010053",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "明湖里"
 }

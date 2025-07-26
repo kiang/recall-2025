@@ -46,5 +46,11 @@
       "eligible_voters": 360,
       "turnout_rate": 60.56
     }
-  ]
+  ],
+  "VILLCODE": "10015060010",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015060",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "壽豐鄉",
+  "VILLNAME": "平和村"
 }

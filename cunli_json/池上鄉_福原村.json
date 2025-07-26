@@ -46,5 +46,11 @@
       "eligible_voters": 806,
       "turnout_rate": 52.85
     }
-  ]
+  ],
+  "VILLCODE": "10014060005",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014060",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "池上鄉",
+  "VILLNAME": "福原村"
 }

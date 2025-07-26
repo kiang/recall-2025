@@ -78,5 +78,11 @@
       "eligible_voters": 1340,
       "turnout_rate": 65.75
     }
-  ]
+  ],
+  "VILLCODE": "63000010030",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000010",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "松山區",
+  "VILLNAME": "敦化里"
 }

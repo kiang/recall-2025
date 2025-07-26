@@ -110,5 +110,11 @@
       "eligible_voters": 1042,
       "turnout_rate": 60.17
     }
-  ]
+  ],
+  "VILLCODE": "10018010029",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "新興里"
 }

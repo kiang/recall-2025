@@ -110,5 +110,11 @@
       "eligible_voters": 1308,
       "turnout_rate": 55.73
     }
-  ]
+  ],
+  "VILLCODE": "65000010098",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000010",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "板橋區",
+  "VILLNAME": "崑崙里"
 }

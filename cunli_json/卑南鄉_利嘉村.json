@@ -30,5 +30,11 @@
       "eligible_voters": 350,
       "turnout_rate": 50.86
     }
-  ]
+  ],
+  "VILLCODE": "10014040011",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014040",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "卑南鄉",
+  "VILLNAME": "利嘉村"
 }

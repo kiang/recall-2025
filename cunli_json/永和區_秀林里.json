@@ -46,5 +46,11 @@
       "eligible_voters": 1752,
       "turnout_rate": 58.85
     }
-  ]
+  ],
+  "VILLCODE": "65000040012",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000040",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "永和區",
+  "VILLNAME": "秀林里"
 }

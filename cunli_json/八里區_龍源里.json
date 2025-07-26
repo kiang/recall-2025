@@ -94,5 +94,11 @@
       "eligible_voters": 1322,
       "turnout_rate": 60.21
     }
-  ]
+  ],
+  "VILLCODE": "65000230001",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000230",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "八里區",
+  "VILLNAME": "龍源里"
 }

@@ -30,5 +30,11 @@
       "eligible_voters": 759,
       "turnout_rate": 47.96
     }
-  ]
+  ],
+  "VILLCODE": "10009170010",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009170",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "元長鄉",
+  "VILLNAME": "客厝村"
 }

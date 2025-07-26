@@ -30,5 +30,11 @@
       "eligible_voters": 466,
       "turnout_rate": 50.0
     }
-  ]
+  ],
+  "VILLCODE": "65000210011",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000210",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "三芝區",
+  "VILLNAME": "圓山里"
 }

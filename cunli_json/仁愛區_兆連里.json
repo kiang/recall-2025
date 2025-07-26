@@ -30,5 +30,11 @@
       "eligible_voters": 665,
       "turnout_rate": 58.8
     }
-  ]
+  ],
+  "VILLCODE": "10017040021",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017040",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "仁愛區",
+  "VILLNAME": "兆連里"
 }

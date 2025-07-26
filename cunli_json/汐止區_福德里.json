@@ -46,5 +46,11 @@
       "eligible_voters": 1459,
       "turnout_rate": 51.13
     }
-  ]
+  ],
+  "VILLCODE": "65000110034",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000110",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "汐止區",
+  "VILLNAME": "福德里"
 }

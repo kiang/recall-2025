@@ -62,5 +62,11 @@
       "eligible_voters": 1276,
       "turnout_rate": 53.21
     }
-  ]
+  ],
+  "VILLCODE": "10017020001",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017020",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "七堵區",
+  "VILLNAME": "長興里"
 }

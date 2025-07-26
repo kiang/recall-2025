@@ -30,5 +30,11 @@
       "eligible_voters": 869,
       "turnout_rate": 47.3
     }
-  ]
+  ],
+  "VILLCODE": "10009170005",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009170",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "元長鄉",
+  "VILLNAME": "山內村"
 }

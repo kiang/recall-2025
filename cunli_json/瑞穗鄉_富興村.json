@@ -30,5 +30,11 @@
       "eligible_voters": 317,
       "turnout_rate": 56.78
     }
-  ]
+  ],
+  "VILLCODE": "10015090011",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015090",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "瑞穗鄉",
+  "VILLNAME": "富興村"
 }

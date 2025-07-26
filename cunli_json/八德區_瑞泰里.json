@@ -62,5 +62,11 @@
       "eligible_voters": 1240,
       "turnout_rate": 48.79
     }
-  ]
+  ],
+  "VILLCODE": "68000080028",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000080",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "八德區",
+  "VILLNAME": "瑞泰里"
 }

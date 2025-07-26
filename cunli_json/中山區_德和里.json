@@ -110,5 +110,11 @@
       "eligible_voters": 1085,
       "turnout_rate": 47.1
     }
-  ]
+  ],
+  "VILLCODE": "10017050020",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017050",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "德和里"
 }

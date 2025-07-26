@@ -62,5 +62,11 @@
       "eligible_voters": 1102,
       "turnout_rate": 58.44
     }
-  ]
+  ],
+  "VILLCODE": "65000100040",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000100",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "淡水區",
+  "VILLNAME": "幸福里"
 }

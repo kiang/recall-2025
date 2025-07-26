@@ -142,5 +142,11 @@
       "eligible_voters": 1044,
       "turnout_rate": 64.18
     }
-  ]
+  ],
+  "VILLCODE": "10018020023",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "武陵里"
 }

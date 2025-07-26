@@ -46,5 +46,11 @@
       "eligible_voters": 767,
       "turnout_rate": 61.54
     }
-  ]
+  ],
+  "VILLCODE": "10018010010",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "寺前里"
 }

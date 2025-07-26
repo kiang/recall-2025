@@ -46,5 +46,11 @@
       "eligible_voters": 520,
       "turnout_rate": 40.96
     }
-  ]
+  ],
+  "VILLCODE": "10014010046",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "建農里"
 }

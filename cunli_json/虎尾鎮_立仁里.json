@@ -62,5 +62,11 @@
       "eligible_voters": 1224,
       "turnout_rate": 57.76
     }
-  ]
+  ],
+  "VILLCODE": "10009030028",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009030",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "虎尾鎮",
+  "VILLNAME": "立仁里"
 }

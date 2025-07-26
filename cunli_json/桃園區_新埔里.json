@@ -62,5 +62,11 @@
       "eligible_voters": 1413,
       "turnout_rate": 61.43
     }
-  ]
+  ],
+  "VILLCODE": "68000010022",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "新埔里"
 }

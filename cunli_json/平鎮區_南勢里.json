@@ -78,5 +78,11 @@
       "eligible_voters": 1287,
       "turnout_rate": 54.62
     }
-  ]
+  ],
+  "VILLCODE": "68000100013",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "南勢里"
 }

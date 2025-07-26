@@ -46,5 +46,11 @@
       "eligible_voters": 885,
       "turnout_rate": 53.45
     }
-  ]
+  ],
+  "VILLCODE": "66000050029",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "錦平里"
 }

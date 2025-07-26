@@ -46,5 +46,11 @@
       "eligible_voters": 937,
       "turnout_rate": 56.03
     }
-  ]
+  ],
+  "VILLCODE": "66000050001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "光大里"
 }

@@ -94,5 +94,11 @@
       "eligible_voters": 1318,
       "turnout_rate": 50.61
     }
-  ]
+  ],
+  "VILLCODE": "68000070025",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000070",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "龜山區",
+  "VILLNAME": "迴龍里"
 }

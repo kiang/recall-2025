@@ -62,5 +62,11 @@
       "eligible_voters": 1167,
       "turnout_rate": 59.73
     }
-  ]
+  ],
+  "VILLCODE": "66000050025",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "賴興里"
 }

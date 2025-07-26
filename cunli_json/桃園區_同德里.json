@@ -78,5 +78,11 @@
       "eligible_voters": 1499,
       "turnout_rate": 55.9
     }
-  ]
+  ],
+  "VILLCODE": "68000010072",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "同德里"
 }

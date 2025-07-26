@@ -30,5 +30,11 @@
       "eligible_voters": 930,
       "turnout_rate": 50.11
     }
-  ]
+  ],
+  "VILLCODE": "10009140011",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009140",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "東勢鄉",
+  "VILLNAME": "新坤村"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1179,
       "turnout_rate": 60.22
     }
-  ]
+  ],
+  "VILLCODE": "63000020002",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000020",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "信義區",
+  "VILLNAME": "正和里"
 }

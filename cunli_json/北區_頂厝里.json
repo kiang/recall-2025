@@ -62,5 +62,11 @@
       "eligible_voters": 1344,
       "turnout_rate": 56.32
     }
-  ]
+  ],
+  "VILLCODE": "66000050014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "頂厝里"
 }

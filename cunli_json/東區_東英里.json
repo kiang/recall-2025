@@ -110,5 +110,11 @@
       "eligible_voters": 1254,
       "turnout_rate": 58.29
     }
-  ]
+  ],
+  "VILLCODE": "66000020017",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000020",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "東英里"
 }

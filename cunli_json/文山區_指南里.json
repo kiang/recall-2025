@@ -62,5 +62,11 @@
       "eligible_voters": 781,
       "turnout_rate": 53.01
     }
-  ]
+  ],
+  "VILLCODE": "63000080036",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000080",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "文山區",
+  "VILLNAME": "指南里"
 }

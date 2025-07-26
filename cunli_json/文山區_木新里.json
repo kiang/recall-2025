@@ -110,5 +110,11 @@
       "eligible_voters": 1253,
       "turnout_rate": 58.58
     }
-  ]
+  ],
+  "VILLCODE": "63000080028",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000080",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "文山區",
+  "VILLNAME": "木新里"
 }

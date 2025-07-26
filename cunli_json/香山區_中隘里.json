@@ -78,5 +78,11 @@
       "eligible_voters": 1249,
       "turnout_rate": 51.48
     }
-  ]
+  ],
+  "VILLCODE": "10018030020",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018030",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "香山區",
+  "VILLNAME": "中隘里"
 }

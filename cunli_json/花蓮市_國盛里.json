@@ -78,5 +78,11 @@
       "eligible_voters": 791,
       "turnout_rate": 58.53
     }
-  ]
+  ],
+  "VILLCODE": "10015010043",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015010",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "花蓮市",
+  "VILLNAME": "國盛里"
 }

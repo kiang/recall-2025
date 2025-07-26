@@ -30,5 +30,11 @@
       "eligible_voters": 1041,
       "turnout_rate": 46.97
     }
-  ]
+  ],
+  "VILLCODE": "10009170012",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009170",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "元長鄉",
+  "VILLNAME": "頂寮村"
 }

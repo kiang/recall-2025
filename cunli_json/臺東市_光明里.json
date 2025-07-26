@@ -62,5 +62,11 @@
       "eligible_voters": 632,
       "turnout_rate": 53.48
     }
-  ]
+  ],
+  "VILLCODE": "10014010032",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "光明里"
 }

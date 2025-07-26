@@ -30,5 +30,11 @@
       "eligible_voters": 1451,
       "turnout_rate": 55.34
     }
-  ]
+  ],
+  "VILLCODE": "68000110003",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000110",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "新屋區",
+  "VILLNAME": "後湖里"
 }

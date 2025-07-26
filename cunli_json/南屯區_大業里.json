@@ -94,5 +94,11 @@
       "eligible_voters": 1276,
       "turnout_rate": 60.66
     }
-  ]
+  ],
+  "VILLCODE": "66000070021",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000070",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南屯區",
+  "VILLNAME": "大業里"
 }

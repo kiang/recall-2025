@@ -94,5 +94,11 @@
       "eligible_voters": 1154,
       "turnout_rate": 60.92
     }
-  ]
+  ],
+  "VILLCODE": "63000030056",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000030",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "大安區",
+  "VILLNAME": "光信里"
 }

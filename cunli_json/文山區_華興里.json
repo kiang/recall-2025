@@ -110,5 +110,11 @@
       "eligible_voters": 1221,
       "turnout_rate": 58.8
     }
-  ]
+  ],
+  "VILLCODE": "63000080024",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000080",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "文山區",
+  "VILLNAME": "華興里"
 }

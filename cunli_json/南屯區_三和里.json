@@ -110,5 +110,11 @@
       "eligible_voters": 1351,
       "turnout_rate": 55.88
     }
-  ]
+  ],
+  "VILLCODE": "66000070024",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000070",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南屯區",
+  "VILLNAME": "三和里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1437,
       "turnout_rate": 43.35
     }
-  ]
+  ],
+  "VILLCODE": "68000120021",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000120",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "觀音區",
+  "VILLNAME": "草漯里"
 }

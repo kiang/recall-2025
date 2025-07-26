@@ -46,5 +46,11 @@
       "eligible_voters": 515,
       "turnout_rate": 46.21
     }
-  ]
+  ],
+  "VILLCODE": "10014010041",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "豐原里"
 }

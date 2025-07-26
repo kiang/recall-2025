@@ -46,5 +46,11 @@
       "eligible_voters": 1244,
       "turnout_rate": 60.45
     }
-  ]
+  ],
+  "VILLCODE": "66000060008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000060",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西屯區",
+  "VILLNAME": "鵬程里"
 }

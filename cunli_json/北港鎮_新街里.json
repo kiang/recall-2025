@@ -110,5 +110,11 @@
       "eligible_voters": 1213,
       "turnout_rate": 51.2
     }
-  ]
+  ],
+  "VILLCODE": "10009060016",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009060",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "北港鎮",
+  "VILLNAME": "新街里"
 }

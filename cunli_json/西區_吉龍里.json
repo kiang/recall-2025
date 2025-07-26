@@ -94,5 +94,11 @@
       "eligible_voters": 1177,
       "turnout_rate": 53.44
     }
-  ]
+  ],
+  "VILLCODE": "66000040014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000040",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "西區",
+  "VILLNAME": "吉龍里"
 }

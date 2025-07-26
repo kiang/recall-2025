@@ -174,5 +174,11 @@
       "eligible_voters": 1141,
       "turnout_rate": 59.25
     }
-  ]
+  ],
+  "VILLCODE": "10018020032",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "曲溪里"
 }

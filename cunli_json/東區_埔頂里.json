@@ -206,5 +206,11 @@
       "eligible_voters": 1400,
       "turnout_rate": 54.79
     }
-  ]
+  ],
+  "VILLCODE": "10018010041",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "埔頂里"
 }

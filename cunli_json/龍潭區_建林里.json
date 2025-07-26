@@ -46,5 +46,11 @@
       "eligible_voters": 1752,
       "turnout_rate": 62.79
     }
-  ]
+  ],
+  "VILLCODE": "68000090030",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000090",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "龍潭區",
+  "VILLNAME": "建林里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 16,
       "turnout_rate": 50.0
     }
-  ]
+  ],
+  "VILLCODE": "10015130006",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015130",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "卓溪鄉",
+  "VILLNAME": "古風村"
 }

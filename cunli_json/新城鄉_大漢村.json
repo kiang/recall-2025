@@ -62,5 +62,11 @@
       "eligible_voters": 267,
       "turnout_rate": 58.8
     }
-  ]
+  ],
+  "VILLCODE": "10015040008",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015040",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "新城鄉",
+  "VILLNAME": "大漢村"
 }

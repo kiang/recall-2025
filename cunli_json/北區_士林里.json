@@ -78,5 +78,11 @@
       "eligible_voters": 986,
       "turnout_rate": 58.22
     }
-  ]
+  ],
+  "VILLCODE": "10018020018",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "士林里"
 }

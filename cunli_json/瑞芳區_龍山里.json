@@ -30,5 +30,11 @@
       "eligible_voters": 1187,
       "turnout_rate": 48.53
     }
-  ]
+  ],
+  "VILLCODE": "65000120005",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000120",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "瑞芳區",
+  "VILLNAME": "龍山里"
 }

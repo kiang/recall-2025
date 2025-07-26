@@ -62,5 +62,11 @@
       "eligible_voters": 1019,
       "turnout_rate": 60.55
     }
-  ]
+  ],
+  "VILLCODE": "63000040033",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000040",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "中央里"
 }

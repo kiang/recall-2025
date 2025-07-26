@@ -46,5 +46,11 @@
       "eligible_voters": 131,
       "turnout_rate": 44.27
     }
-  ]
+  ],
+  "VILLCODE": "10014050004",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014050",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "鹿野鄉",
+  "VILLNAME": "永安村"
 }

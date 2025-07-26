@@ -62,5 +62,11 @@
       "eligible_voters": 1023,
       "turnout_rate": 54.64
     }
-  ]
+  ],
+  "VILLCODE": "10017030006",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017030",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "暖暖區",
+  "VILLNAME": "碇和里"
 }

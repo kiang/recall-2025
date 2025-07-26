@@ -62,5 +62,11 @@
       "eligible_voters": 1289,
       "turnout_rate": 57.8
     }
-  ]
+  ],
+  "VILLCODE": "68000120015",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000120",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "觀音區",
+  "VILLNAME": "富源里"
 }

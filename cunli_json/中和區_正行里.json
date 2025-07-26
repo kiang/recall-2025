@@ -46,5 +46,11 @@
       "eligible_voters": 1323,
       "turnout_rate": 57.6
     }
-  ]
+  ],
+  "VILLCODE": "65000030093",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "正行里"
 }

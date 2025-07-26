@@ -94,5 +94,11 @@
       "eligible_voters": 1464,
       "turnout_rate": 53.35
     }
-  ]
+  ],
+  "VILLCODE": "68000060002",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000060",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大園區",
+  "VILLNAME": "田心里"
 }

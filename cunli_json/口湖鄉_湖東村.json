@@ -30,5 +30,11 @@
       "eligible_voters": 1090,
       "turnout_rate": 47.25
     }
-  ]
+  ],
+  "VILLCODE": "10009190001",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009190",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "口湖鄉",
+  "VILLNAME": "湖東村"
 }

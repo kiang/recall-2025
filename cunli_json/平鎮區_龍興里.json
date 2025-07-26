@@ -46,5 +46,11 @@
       "eligible_voters": 1070,
       "turnout_rate": 61.31
     }
-  ]
+  ],
+  "VILLCODE": "68000100019",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "龍興里"
 }

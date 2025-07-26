@@ -94,5 +94,11 @@
       "eligible_voters": 1255,
       "turnout_rate": 63.75
     }
-  ]
+  ],
+  "VILLCODE": "63000100011",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000100",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "內湖區",
+  "VILLNAME": "紫星里"
 }

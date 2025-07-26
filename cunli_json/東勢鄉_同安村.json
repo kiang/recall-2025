@@ -46,5 +46,11 @@
       "eligible_voters": 897,
       "turnout_rate": 47.83
     }
-  ]
+  ],
+  "VILLCODE": "10009140010",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009140",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "東勢鄉",
+  "VILLNAME": "同安村"
 }

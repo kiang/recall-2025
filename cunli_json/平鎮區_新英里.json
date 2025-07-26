@@ -62,5 +62,11 @@
       "eligible_voters": 1398,
       "turnout_rate": 58.8
     }
-  ]
+  ],
+  "VILLCODE": "68000100044",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "新英里"
 }

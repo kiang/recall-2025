@@ -30,5 +30,11 @@
       "eligible_voters": 530,
       "turnout_rate": 47.92
     }
-  ]
+  ],
+  "VILLCODE": "65000110023",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000110",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "汐止區",
+  "VILLNAME": "東山里"
 }

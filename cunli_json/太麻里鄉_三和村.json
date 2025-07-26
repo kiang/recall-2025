@@ -30,5 +30,11 @@
       "eligible_voters": 514,
       "turnout_rate": 45.91
     }
-  ]
+  ],
+  "VILLCODE": "10014090002",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014090",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "太麻里鄉",
+  "VILLNAME": "三和村"
 }

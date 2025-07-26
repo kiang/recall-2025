@@ -78,5 +78,11 @@
       "eligible_voters": 1037,
       "turnout_rate": 50.63
     }
-  ]
+  ],
+  "VILLCODE": "65000210002",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000210",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "三芝區",
+  "VILLNAME": "埔頭里"
 }

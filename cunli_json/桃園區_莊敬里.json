@@ -110,5 +110,11 @@
       "eligible_voters": 1398,
       "turnout_rate": 52.72
     }
-  ]
+  ],
+  "VILLCODE": "68000010051",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "莊敬里"
 }

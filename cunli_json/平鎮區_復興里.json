@@ -78,5 +78,11 @@
       "eligible_voters": 1208,
       "turnout_rate": 58.53
     }
-  ]
+  ],
+  "VILLCODE": "68000100042",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "復興里"
 }

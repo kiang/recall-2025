@@ -46,5 +46,11 @@
       "eligible_voters": 2024,
       "turnout_rate": 51.78
     }
-  ]
+  ],
+  "VILLCODE": "68000050011",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "山鼻里"
 }

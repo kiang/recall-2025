@@ -30,5 +30,11 @@
       "eligible_voters": 648,
       "turnout_rate": 66.51
     }
-  ]
+  ],
+  "VILLCODE": "10015010028",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015010",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "花蓮市",
+  "VILLNAME": "主勤里"
 }

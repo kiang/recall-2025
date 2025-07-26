@@ -62,5 +62,11 @@
       "eligible_voters": 1130,
       "turnout_rate": 46.11
     }
-  ]
+  ],
+  "VILLCODE": "65000280003",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000280",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "萬里區",
+  "VILLNAME": "野柳里"
 }

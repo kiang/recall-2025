@@ -62,5 +62,11 @@
       "eligible_voters": 1288,
       "turnout_rate": 55.59
     }
-  ]
+  ],
+  "VILLCODE": "65000030066",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "自強里"
 }

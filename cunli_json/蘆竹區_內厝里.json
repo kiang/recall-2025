@@ -46,5 +46,11 @@
       "eligible_voters": 1084,
       "turnout_rate": 59.5
     }
-  ]
+  ],
+  "VILLCODE": "68000050010",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "內厝里"
 }

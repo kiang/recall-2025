@@ -46,5 +46,11 @@
       "eligible_voters": 996,
       "turnout_rate": 44.08
     }
-  ]
+  ],
+  "VILLCODE": "10009030002",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009030",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "虎尾鎮",
+  "VILLNAME": "新興里"
 }

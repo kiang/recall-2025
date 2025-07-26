@@ -46,5 +46,11 @@
       "eligible_voters": 808,
       "turnout_rate": 59.78
     }
-  ]
+  ],
+  "VILLCODE": "68000040020",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000040",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "楊梅區",
+  "VILLNAME": "富岡里"
 }

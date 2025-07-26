@@ -62,5 +62,11 @@
       "eligible_voters": 1945,
       "turnout_rate": 51.72
     }
-  ]
+  ],
+  "VILLCODE": "10017060023",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017060",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "安樂區",
+  "VILLNAME": "興寮里"
 }

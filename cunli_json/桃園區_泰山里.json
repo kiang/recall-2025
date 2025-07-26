@@ -62,5 +62,11 @@
       "eligible_voters": 1118,
       "turnout_rate": 54.65
     }
-  ]
+  ],
+  "VILLCODE": "68000010053",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "泰山里"
 }

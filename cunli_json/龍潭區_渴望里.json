@@ -46,5 +46,11 @@
       "eligible_voters": 1092,
       "turnout_rate": 56.96
     }
-  ]
+  ],
+  "VILLCODE": "68000090033",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000090",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "龍潭區",
+  "VILLNAME": "渴望里"
 }

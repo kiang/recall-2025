@@ -94,5 +94,11 @@
       "eligible_voters": 1287,
       "turnout_rate": 53.69
     }
-  ]
+  ],
+  "VILLCODE": "10017020018",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017020",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "七堵區",
+  "VILLNAME": "百福里"
 }

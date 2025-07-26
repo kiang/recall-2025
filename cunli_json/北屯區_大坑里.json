@@ -46,5 +46,11 @@
       "eligible_voters": 1087,
       "turnout_rate": 54.55
     }
-  ]
+  ],
+  "VILLCODE": "66000080014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000080",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北屯區",
+  "VILLNAME": "大坑里"
 }

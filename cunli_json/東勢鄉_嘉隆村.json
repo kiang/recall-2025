@@ -46,5 +46,11 @@
       "eligible_voters": 606,
       "turnout_rate": 51.65
     }
-  ]
+  ],
+  "VILLCODE": "10009140003",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009140",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "東勢鄉",
+  "VILLNAME": "嘉隆村"
 }

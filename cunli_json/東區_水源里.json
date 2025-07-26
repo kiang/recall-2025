@@ -110,5 +110,11 @@
       "eligible_voters": 901,
       "turnout_rate": 60.38
     }
-  ]
+  ],
+  "VILLCODE": "10018010039",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "水源里"
 }

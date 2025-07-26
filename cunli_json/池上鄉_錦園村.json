@@ -30,5 +30,11 @@
       "eligible_voters": 285,
       "turnout_rate": 36.49
     }
-  ]
+  ],
+  "VILLCODE": "10014060006",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014060",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "池上鄉",
+  "VILLNAME": "錦園村"
 }

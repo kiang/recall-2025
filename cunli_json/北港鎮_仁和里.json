@@ -30,5 +30,11 @@
       "eligible_voters": 404,
       "turnout_rate": 57.67
     }
-  ]
+  ],
+  "VILLCODE": "10009060009",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009060",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "北港鎮",
+  "VILLNAME": "仁和里"
 }

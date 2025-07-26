@@ -62,5 +62,11 @@
       "eligible_voters": 969,
       "turnout_rate": 54.49
     }
-  ]
+  ],
+  "VILLCODE": "65000010069",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000010",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "板橋區",
+  "VILLNAME": "長安里"
 }

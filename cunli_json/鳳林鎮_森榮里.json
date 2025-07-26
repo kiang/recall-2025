@@ -30,5 +30,11 @@
       "eligible_voters": 39,
       "turnout_rate": 66.67
     }
-  ]
+  ],
+  "VILLCODE": "10015020012",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015020",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "鳳林鎮",
+  "VILLNAME": "森榮里"
 }

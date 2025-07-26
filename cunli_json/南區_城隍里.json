@@ -62,5 +62,11 @@
       "eligible_voters": 1091,
       "turnout_rate": 57.93
     }
-  ]
+  ],
+  "VILLCODE": "66000030001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "城隍里"
 }

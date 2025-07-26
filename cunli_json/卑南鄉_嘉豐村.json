@@ -46,5 +46,11 @@
       "eligible_voters": 20,
       "turnout_rate": 30.0
     }
-  ]
+  ],
+  "VILLCODE": "10014040001",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014040",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "卑南鄉",
+  "VILLNAME": "嘉豐村"
 }

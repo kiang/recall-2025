@@ -110,5 +110,11 @@
       "eligible_voters": 1369,
       "turnout_rate": 60.99
     }
-  ]
+  ],
+  "VILLCODE": "66000030011",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "永興里"
 }

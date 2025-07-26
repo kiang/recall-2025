@@ -110,5 +110,11 @@
       "eligible_voters": 1012,
       "turnout_rate": 61.46
     }
-  ]
+  ],
+  "VILLCODE": "10018020015",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "水田里"
 }

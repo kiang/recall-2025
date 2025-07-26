@@ -46,5 +46,11 @@
       "eligible_voters": 1609,
       "turnout_rate": 52.7
     }
-  ]
+  ],
+  "VILLCODE": "68000050033",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000050",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "蘆竹區",
+  "VILLNAME": "中山里"
 }

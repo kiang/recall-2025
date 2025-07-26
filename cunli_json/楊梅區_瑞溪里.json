@@ -62,5 +62,11 @@
       "eligible_voters": 1106,
       "turnout_rate": 52.08
     }
-  ]
+  ],
+  "VILLCODE": "68000040036",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000040",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "楊梅區",
+  "VILLNAME": "瑞溪里"
 }

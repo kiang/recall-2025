@@ -30,5 +30,11 @@
       "eligible_voters": 371,
       "turnout_rate": 62.53
     }
-  ]
+  ],
+  "VILLCODE": "10015060009",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015060",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "壽豐鄉",
+  "VILLNAME": "池南村"
 }

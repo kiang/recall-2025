@@ -30,5 +30,11 @@
       "eligible_voters": 203,
       "turnout_rate": 46.8
     }
-  ]
+  ],
+  "VILLCODE": "10014100005",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014100",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "大武鄉",
+  "VILLNAME": "南興村"
 }

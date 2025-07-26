@@ -126,5 +126,11 @@
       "eligible_voters": 1005,
       "turnout_rate": 58.41
     }
-  ]
+  ],
+  "VILLCODE": "66000030013",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "樹德里"
 }

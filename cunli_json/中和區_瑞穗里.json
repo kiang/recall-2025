@@ -46,5 +46,11 @@
       "eligible_voters": 878,
       "turnout_rate": 59.23
     }
-  ]
+  ],
+  "VILLCODE": "65000030063",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "瑞穗里"
 }

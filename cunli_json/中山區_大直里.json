@@ -110,5 +110,11 @@
       "eligible_voters": 1289,
       "turnout_rate": 59.81
     }
-  ]
+  ],
+  "VILLCODE": "63000040014",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000040",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "大直里"
 }

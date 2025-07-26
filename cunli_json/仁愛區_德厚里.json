@@ -46,5 +46,11 @@
       "eligible_voters": 718,
       "turnout_rate": 56.55
     }
-  ]
+  ],
+  "VILLCODE": "10017040017",
+  "COUNTYCODE": "10017",
+  "TOWNCODE": "10017040",
+  "COUNTYNAME": "基隆市",
+  "TOWNNAME": "仁愛區",
+  "VILLNAME": "德厚里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1401,
       "turnout_rate": 56.89
     }
-  ]
+  ],
+  "VILLCODE": "66000020013",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000020",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "合作里"
 }

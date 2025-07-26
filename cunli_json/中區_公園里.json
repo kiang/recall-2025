@@ -30,5 +30,11 @@
       "eligible_voters": 1359,
       "turnout_rate": 52.1
     }
-  ]
+  ],
+  "VILLCODE": "66000010004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000010",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "中區",
+  "VILLNAME": "公園里"
 }

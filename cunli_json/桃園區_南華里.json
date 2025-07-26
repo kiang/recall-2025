@@ -30,5 +30,11 @@
       "eligible_voters": 1275,
       "turnout_rate": 52.39
     }
-  ]
+  ],
+  "VILLCODE": "68000010027",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "南華里"
 }

@@ -46,5 +46,11 @@
       "eligible_voters": 531,
       "turnout_rate": 46.52
     }
-  ]
+  ],
+  "VILLCODE": "65000120010",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000120",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "瑞芳區",
+  "VILLNAME": "上天里"
 }

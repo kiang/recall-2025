@@ -78,5 +78,11 @@
       "eligible_voters": 1471,
       "turnout_rate": 48.54
     }
-  ]
+  ],
+  "VILLCODE": "68000030004",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000030",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "大溪區",
+  "VILLNAME": "一德里"
 }

@@ -30,5 +30,11 @@
       "eligible_voters": 354,
       "turnout_rate": 39.27
     }
-  ]
+  ],
+  "VILLCODE": "65000260004",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000260",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "貢寮區",
+  "VILLNAME": "龍崗里"
 }

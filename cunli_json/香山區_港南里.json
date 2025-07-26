@@ -110,5 +110,11 @@
       "eligible_voters": 929,
       "turnout_rate": 58.13
     }
-  ]
+  ],
+  "VILLCODE": "10018030001",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018030",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "香山區",
+  "VILLNAME": "港南里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1280,
       "turnout_rate": 57.42
     }
-  ]
+  ],
+  "VILLCODE": "65000030045",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000030",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "中和區",
+  "VILLNAME": "復興里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 727,
       "turnout_rate": 54.75
     }
-  ]
+  ],
+  "VILLCODE": "10014010047",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014010",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "臺東市",
+  "VILLNAME": "仁和里"
 }

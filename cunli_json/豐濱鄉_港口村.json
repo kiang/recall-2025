@@ -30,5 +30,11 @@
       "eligible_voters": 107,
       "turnout_rate": 60.75
     }
-  ]
+  ],
+  "VILLCODE": "10015080004",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015080",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "豐濱鄉",
+  "VILLNAME": "港口村"
 }

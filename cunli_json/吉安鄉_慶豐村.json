@@ -110,5 +110,11 @@
       "eligible_voters": 998,
       "turnout_rate": 63.93
     }
-  ]
+  ],
+  "VILLCODE": "10015050005",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015050",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "吉安鄉",
+  "VILLNAME": "慶豐村"
 }

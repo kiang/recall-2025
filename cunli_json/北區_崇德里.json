@@ -46,5 +46,11 @@
       "eligible_voters": 1565,
       "turnout_rate": 55.78
     }
-  ]
+  ],
+  "VILLCODE": "66000050031",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "崇德里"
 }

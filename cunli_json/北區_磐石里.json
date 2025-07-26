@@ -174,5 +174,11 @@
       "eligible_voters": 956,
       "turnout_rate": 58.58
     }
-  ]
+  ],
+  "VILLCODE": "10018020037",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018020",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "磐石里"
 }

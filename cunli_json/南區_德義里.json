@@ -46,5 +46,11 @@
       "eligible_voters": 1475,
       "turnout_rate": 58.44
     }
-  ]
+  ],
+  "VILLCODE": "66000030004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000030",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "南區",
+  "VILLNAME": "德義里"
 }

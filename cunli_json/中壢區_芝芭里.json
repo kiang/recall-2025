@@ -78,5 +78,11 @@
       "eligible_voters": 1442,
       "turnout_rate": 51.32
     }
-  ]
+  ],
+  "VILLCODE": "68000020046",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000020",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "中壢區",
+  "VILLNAME": "芝芭里"
 }

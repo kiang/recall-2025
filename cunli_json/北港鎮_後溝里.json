@@ -46,5 +46,11 @@
       "eligible_voters": 417,
       "turnout_rate": 54.92
     }
-  ]
+  ],
+  "VILLCODE": "10009060021",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009060",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "北港鎮",
+  "VILLNAME": "後溝里"
 }

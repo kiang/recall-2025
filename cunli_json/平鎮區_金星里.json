@@ -94,5 +94,11 @@
       "eligible_voters": 1270,
       "turnout_rate": 53.54
     }
-  ]
+  ],
+  "VILLCODE": "68000100033",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000100",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "平鎮區",
+  "VILLNAME": "金星里"
 }

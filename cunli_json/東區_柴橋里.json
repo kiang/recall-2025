@@ -174,5 +174,11 @@
       "eligible_voters": 1551,
       "turnout_rate": 58.87
     }
-  ]
+  ],
+  "VILLCODE": "10018010030",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "柴橋里"
 }

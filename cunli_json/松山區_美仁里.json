@@ -62,5 +62,11 @@
       "eligible_voters": 872,
       "turnout_rate": 60.67
     }
-  ]
+  ],
+  "VILLCODE": "63000010028",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000010",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "松山區",
+  "VILLNAME": "美仁里"
 }

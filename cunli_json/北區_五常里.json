@@ -30,5 +30,11 @@
       "eligible_voters": 1221,
       "turnout_rate": 54.87
     }
-  ]
+  ],
+  "VILLCODE": "66000050003",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000050",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "北區",
+  "VILLNAME": "五常里"
 }

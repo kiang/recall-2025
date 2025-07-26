@@ -62,5 +62,11 @@
       "eligible_voters": 724,
       "turnout_rate": 47.1
     }
-  ]
+  ],
+  "VILLCODE": "10009190014",
+  "COUNTYCODE": "10009",
+  "TOWNCODE": "10009190",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "口湖鄉",
+  "VILLNAME": "台子村"
 }

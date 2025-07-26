@@ -30,5 +30,11 @@
       "eligible_voters": 263,
       "turnout_rate": 34.22
     }
-  ]
+  ],
+  "VILLCODE": "10014080005",
+  "COUNTYCODE": "10014",
+  "TOWNCODE": "10014080",
+  "COUNTYNAME": "臺東縣",
+  "TOWNNAME": "長濱鄉",
+  "VILLNAME": "竹湖村"
 }

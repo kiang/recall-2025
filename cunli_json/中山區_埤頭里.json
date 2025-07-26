@@ -62,5 +62,11 @@
       "eligible_voters": 937,
       "turnout_rate": 56.03
     }
-  ]
+  ],
+  "VILLCODE": "63000040037",
+  "COUNTYCODE": "63000",
+  "TOWNCODE": "63000040",
+  "COUNTYNAME": "臺北市",
+  "TOWNNAME": "中山區",
+  "VILLNAME": "埤頭里"
 }

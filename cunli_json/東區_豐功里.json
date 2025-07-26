@@ -142,5 +142,11 @@
       "eligible_voters": 1154,
       "turnout_rate": 63.34
     }
-  ]
+  ],
+  "VILLCODE": "10018010024",
+  "COUNTYCODE": "10018",
+  "TOWNCODE": "10018010",
+  "COUNTYNAME": "新竹市",
+  "TOWNNAME": "東區",
+  "VILLNAME": "豐功里"
 }

@@ -62,5 +62,11 @@
       "eligible_voters": 1482,
       "turnout_rate": 60.93
     }
-  ]
+  ],
+  "VILLCODE": "68000010011",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "永安里"
 }

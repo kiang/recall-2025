@@ -30,5 +30,11 @@
       "eligible_voters": 1717,
       "turnout_rate": 52.94
     }
-  ]
+  ],
+  "VILLCODE": "68000010008",
+  "COUNTYCODE": "68000",
+  "TOWNCODE": "68000010",
+  "COUNTYNAME": "桃園市",
+  "TOWNNAME": "桃園區",
+  "VILLNAME": "民生里"
 }
