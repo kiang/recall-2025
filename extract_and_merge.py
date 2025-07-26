@@ -64,7 +64,7 @@ def extract_excel_data(file_path):
 
 def load_villcode_mapping():
     """Load VILLCODE mapping from taiwan basecode file"""
-    with open('/home/kiang/public_html/taiwan_basecode/cunli/geo/20240807.json', 'r', encoding='utf-8') as f:
+    with open('/home/kiang/public_html/taiwan_basecode/cunli/geo/20250620.json', 'r', encoding='utf-8') as f:
         basecode_data = json.load(f)
     
     # Create mapping dictionary with multiple key formats

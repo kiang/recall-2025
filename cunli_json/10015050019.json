@@ -1,0 +1,40 @@
+{
+  "cunli": "吉安鄉_吉昌村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 395,
+    "disagree_votes": 426,
+    "valid_votes": 821,
+    "invalid_votes": 5,
+    "total_voters": 826,
+    "ballots_not_cast": 0,
+    "ballots_issued": 826,
+    "unused_ballots": 471,
+    "eligible_voters": 1297,
+    "average_turnout_rate": 63.69
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "吉安鄉",
+      "village": "吉昌村",
+      "polling_station": "150",
+      "agree_votes": 395,
+      "disagree_votes": 426,
+      "valid_votes": 821,
+      "invalid_votes": 5,
+      "total_voters": 826,
+      "ballots_not_cast": 0,
+      "ballots_issued": 826,
+      "unused_ballots": 471,
+      "eligible_voters": 1297,
+      "turnout_rate": 63.69
+    }
+  ],
+  "VILLCODE": "10015050019",
+  "COUNTYCODE": "10015",
+  "TOWNCODE": "10015050",
+  "COUNTYNAME": "花蓮縣",
+  "TOWNNAME": "吉安鄉",
+  "VILLNAME": "吉昌村"
+}

@@ -2,7 +2,7 @@
   "total_files_processed": 25,
   "total_records": 6303,
   "total_cunli": 2280,
-  "villcode_files": 2270,
+  "villcode_files": 2271,
   "file_naming": "VILLCODE (where available), cunli name (fallback)",
   "villcode_list": [
     "10009030001",
@@ -447,6 +447,7 @@
     "10015050016",
     "10015050017",
     "10015050018",
+    "10015050019",
     "10015060001",
     "10015060002",
     "10015060003",
