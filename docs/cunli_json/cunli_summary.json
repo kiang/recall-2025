@@ -14767,6 +14767,22 @@
       "average_turnout_rate": 60.59
     }
   },
+  "65000030017": {
+    "cunli": "中和區_瓦磘里",
+    "district": "中和區",
+    "village": "瓦磘里",
+    "county": "新北市",
+    "total_records": 3,
+    "sum_fields": {
+      "agree_votes": 1133,
+      "disagree_votes": 1440,
+      "valid_votes": 2573,
+      "invalid_votes": 17,
+      "total_voters": 2590,
+      "eligible_voters": 4657,
+      "average_turnout_rate": 55.62
+    }
+  },
   "65000030018": {
     "cunli": "中和區_福和里",
     "district": "中和區",
@@ -15357,6 +15373,22 @@
       "total_voters": 1135,
       "eligible_voters": 1980,
       "average_turnout_rate": 57.32
+    }
+  },
+  "65000030054": {
+    "cunli": "中和區_灰磘里",
+    "district": "中和區",
+    "village": "灰磘里",
+    "county": "新北市",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 171,
+      "disagree_votes": 198,
+      "valid_votes": 369,
+      "invalid_votes": 5,
+      "total_voters": 374,
+      "eligible_voters": 702,
+      "average_turnout_rate": 53.28
     }
   },
   "65000030055": {
@@ -28335,6 +28367,22 @@
       "average_turnout_rate": 44.74
     }
   },
+  "10009130003": {
+    "cunli": "麥寮鄉_瓦磘村",
+    "district": "麥寮鄉",
+    "village": "瓦磘村",
+    "county": "雲林縣",
+    "total_records": 2,
+    "sum_fields": {
+      "agree_votes": 407,
+      "disagree_votes": 424,
+      "valid_votes": 831,
+      "invalid_votes": 7,
+      "total_voters": 838,
+      "eligible_voters": 1931,
+      "average_turnout_rate": 43.4
+    }
+  },
   "10009130004": {
     "cunli": "麥寮鄉_興華村",
     "district": "麥寮鄉",
@@ -30063,6 +30111,38 @@
       "average_turnout_rate": 35.6
     }
   },
+  "10009180016": {
+    "cunli": "四湖鄉_萡子村",
+    "district": "四湖鄉",
+    "village": "萡子村",
+    "county": "雲林縣",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 178,
+      "disagree_votes": 103,
+      "valid_votes": 281,
+      "invalid_votes": 2,
+      "total_voters": 283,
+      "eligible_voters": 756,
+      "average_turnout_rate": 37.43
+    }
+  },
+  "10009180021": {
+    "cunli": "四湖鄉_萡東村",
+    "district": "四湖鄉",
+    "village": "萡東村",
+    "county": "雲林縣",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 222,
+      "disagree_votes": 130,
+      "valid_votes": 352,
+      "invalid_votes": 3,
+      "total_voters": 355,
+      "eligible_voters": 928,
+      "average_turnout_rate": 38.25
+    }
+  },
   "10009180017": {
     "cunli": "四湖鄉_林厝村",
     "district": "四湖鄉",
@@ -30381,6 +30461,22 @@
       "total_voters": 376,
       "eligible_voters": 763,
       "average_turnout_rate": 49.28
+    }
+  },
+  "10009170018": {
+    "cunli": "元長鄉_瓦磘村",
+    "district": "元長鄉",
+    "village": "瓦磘村",
+    "county": "雲林縣",
+    "total_records": 2,
+    "sum_fields": {
+      "agree_votes": 321,
+      "disagree_votes": 269,
+      "valid_votes": 590,
+      "invalid_votes": 8,
+      "total_voters": 598,
+      "eligible_voters": 1300,
+      "average_turnout_rate": 46.0
     }
   },
   "10009170019": {
@@ -31069,6 +31165,22 @@
       "total_voters": 259,
       "eligible_voters": 577,
       "average_turnout_rate": 44.89
+    }
+  },
+  "10009200021": {
+    "cunli": "水林鄉_瓊埔村",
+    "district": "水林鄉",
+    "village": "瓊埔村",
+    "county": "雲林縣",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 174,
+      "disagree_votes": 94,
+      "valid_votes": 268,
+      "invalid_votes": 4,
+      "total_voters": 272,
+      "eligible_voters": 594,
+      "average_turnout_rate": 45.79
     }
   },
   "10009200022": {
@@ -35885,6 +35997,38 @@
       "total_voters": 127,
       "eligible_voters": 272,
       "average_turnout_rate": 46.69
+    }
+  },
+  "65000120028": {
+    "cunli": "瑞芳區_濓洞里",
+    "district": "瑞芳區",
+    "village": "濓洞里",
+    "county": "新北市",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 60,
+      "disagree_votes": 117,
+      "valid_votes": 177,
+      "invalid_votes": 0,
+      "total_voters": 177,
+      "eligible_voters": 389,
+      "average_turnout_rate": 45.5
+    }
+  },
+  "65000120027": {
+    "cunli": "瑞芳區_濓新里",
+    "district": "瑞芳區",
+    "village": "濓新里",
+    "county": "新北市",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 41,
+      "disagree_votes": 54,
+      "valid_votes": 95,
+      "invalid_votes": 0,
+      "total_voters": 95,
+      "eligible_voters": 250,
+      "average_turnout_rate": 38.0
     }
   },
   "65000120032": {

@@ -46,5 +46,11 @@
       "eligible_voters": 741,
       "turnout_rate": 46.15
     }
-  ]
+  ],
+  "VILLCODE": "10009170018",
+  "COUNTYCODE": "100",
+  "TOWNCODE": "100091",
+  "COUNTYNAME": "雲林縣",
+  "TOWNNAME": "元長鄉",
+  "VILLNAME": "瓦磘村"
 }
