@@ -299,6 +299,68 @@ def main():
     with open('docs/cunli_json/summary.json', 'w', encoding='utf-8') as f:
         json.dump(summary, f, ensure_ascii=False, indent=2)
     
+    # Generate cunli summary for faster map loading
+    cunli_summary = {}
+    
+    for cunli_key, records in cunli_merged.items():
+        # Calculate sum fields
+        sum_fields = {
+            'agree_votes': sum(r['agree_votes'] for r in records),
+            'disagree_votes': sum(r['disagree_votes'] for r in records),
+            'valid_votes': sum(r['valid_votes'] for r in records),
+            'invalid_votes': sum(r['invalid_votes'] for r in records),
+            'total_voters': sum(r['total_voters'] for r in records),
+            'eligible_voters': sum(r['eligible_voters'] for r in records)
+        }
+        
+        # Calculate average turnout rate
+        if sum_fields['eligible_voters'] > 0:
+            sum_fields['average_turnout_rate'] = round(
+                (sum_fields['total_voters'] / sum_fields['eligible_voters']) * 100, 2
+            )
+        else:
+            sum_fields['average_turnout_rate'] = 0.0
+        
+        # Get VILLCODE
+        district = cunli_key.split('_')[0]
+        village = cunli_key.split('_')[1]
+        
+        # Extract county from recall case
+        county = None
+        if records:
+            recall_case = records[0].get('recall_case', '')
+            county = extract_county_from_recall_case(recall_case)
+        
+        villcode = None
+        
+        # First check manual mappings
+        if cunli_key in manual_villcode_map:
+            villcode = manual_villcode_map[cunli_key]['VILLCODE']
+        elif county:
+            # Normalize county name
+            county = normalize_district_name(county)
+            # Try to find VILLCODE
+            key = f"{county}_{district}_{village}"
+            if key in villcode_map:
+                villcode = villcode_map[key]['VILLCODE']
+        
+        # Only add to summary if we have a VILLCODE
+        if villcode:
+            cunli_summary[villcode] = {
+                'cunli': cunli_key,
+                'district': district,
+                'village': village,
+                'county': county,
+                'total_records': len(records),
+                'sum_fields': sum_fields
+            }
+    
+    # Save cunli summary file
+    with open('docs/cunli_json/cunli_summary.json', 'w', encoding='utf-8') as f:
+        json.dump(cunli_summary, f, ensure_ascii=False, indent=2)
+    
+    print(f"Created cunli_summary.json with {len(cunli_summary)} villages for fast map loading")
+    
     # Save missing VILLCODE mapping file for manual completion
     if missing_villcode:
         with open('missing_villcode_mapping.json', 'w', encoding='utf-8') as f:
