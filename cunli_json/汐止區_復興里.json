@@ -1,0 +1,82 @@
+{
+  "cunli": "汐止區_復興里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1720,
+    "disagree_votes": 2256,
+    "valid_votes": 3976,
+    "invalid_votes": 20,
+    "total_voters": 3996,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3996,
+    "unused_ballots": 2404,
+    "eligible_voters": 6400,
+    "average_turnout_rate": 62.44
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "復興里",
+      "polling_station": "952",
+      "agree_votes": 429,
+      "disagree_votes": 559,
+      "valid_votes": 988,
+      "invalid_votes": 4,
+      "total_voters": 992,
+      "ballots_not_cast": 0,
+      "ballots_issued": 992,
+      "unused_ballots": 628,
+      "eligible_voters": 1620,
+      "turnout_rate": 61.23
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "復興里",
+      "polling_station": "953",
+      "agree_votes": 417,
+      "disagree_votes": 614,
+      "valid_votes": 1031,
+      "invalid_votes": 8,
+      "total_voters": 1039,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1039,
+      "unused_ballots": 544,
+      "eligible_voters": 1583,
+      "turnout_rate": 65.63
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "復興里",
+      "polling_station": "954",
+      "agree_votes": 417,
+      "disagree_votes": 514,
+      "valid_votes": 931,
+      "invalid_votes": 2,
+      "total_voters": 933,
+      "ballots_not_cast": 0,
+      "ballots_issued": 933,
+      "unused_ballots": 607,
+      "eligible_voters": 1540,
+      "turnout_rate": 60.58
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "復興里",
+      "polling_station": "955",
+      "agree_votes": 457,
+      "disagree_votes": 569,
+      "valid_votes": 1026,
+      "invalid_votes": 6,
+      "total_voters": 1032,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1032,
+      "unused_ballots": 625,
+      "eligible_voters": 1657,
+      "turnout_rate": 62.28
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "中和區_頂南里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 448,
+    "disagree_votes": 1003,
+    "valid_votes": 1451,
+    "invalid_votes": 5,
+    "total_voters": 1456,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1456,
+    "unused_ballots": 934,
+    "eligible_voters": 2390,
+    "average_turnout_rate": 60.92
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "頂南里",
+      "polling_station": "568",
+      "agree_votes": 201,
+      "disagree_votes": 460,
+      "valid_votes": 661,
+      "invalid_votes": 3,
+      "total_voters": 664,
+      "ballots_not_cast": 0,
+      "ballots_issued": 664,
+      "unused_ballots": 469,
+      "eligible_voters": 1133,
+      "turnout_rate": 58.61
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "頂南里",
+      "polling_station": "569",
+      "agree_votes": 247,
+      "disagree_votes": 543,
+      "valid_votes": 790,
+      "invalid_votes": 2,
+      "total_voters": 792,
+      "ballots_not_cast": 0,
+      "ballots_issued": 792,
+      "unused_ballots": 465,
+      "eligible_voters": 1257,
+      "turnout_rate": 63.01
+    }
+  ]
+}

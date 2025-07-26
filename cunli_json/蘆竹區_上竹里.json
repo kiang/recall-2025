@@ -1,0 +1,66 @@
+{
+  "cunli": "蘆竹區_上竹里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 887,
+    "disagree_votes": 981,
+    "valid_votes": 1868,
+    "invalid_votes": 9,
+    "total_voters": 1877,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1877,
+    "unused_ballots": 1490,
+    "eligible_voters": 3367,
+    "average_turnout_rate": 55.75
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "蘆竹區",
+      "village": "上竹里",
+      "polling_station": "16",
+      "agree_votes": 296,
+      "disagree_votes": 322,
+      "valid_votes": 618,
+      "invalid_votes": 4,
+      "total_voters": 622,
+      "ballots_not_cast": 0,
+      "ballots_issued": 622,
+      "unused_ballots": 518,
+      "eligible_voters": 1140,
+      "turnout_rate": 54.56
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "蘆竹區",
+      "village": "上竹里",
+      "polling_station": "17",
+      "agree_votes": 287,
+      "disagree_votes": 337,
+      "valid_votes": 624,
+      "invalid_votes": 2,
+      "total_voters": 626,
+      "ballots_not_cast": 0,
+      "ballots_issued": 626,
+      "unused_ballots": 461,
+      "eligible_voters": 1087,
+      "turnout_rate": 57.59
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "蘆竹區",
+      "village": "上竹里",
+      "polling_station": "18",
+      "agree_votes": 304,
+      "disagree_votes": 322,
+      "valid_votes": 626,
+      "invalid_votes": 3,
+      "total_voters": 629,
+      "ballots_not_cast": 0,
+      "ballots_issued": 629,
+      "unused_ballots": 511,
+      "eligible_voters": 1140,
+      "turnout_rate": 55.18
+    }
+  ]
+}

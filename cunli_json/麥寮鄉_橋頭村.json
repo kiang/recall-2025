@@ -1,0 +1,82 @@
+{
+  "cunli": "麥寮鄉_橋頭村",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 634,
+    "disagree_votes": 1106,
+    "valid_votes": 1740,
+    "invalid_votes": 11,
+    "total_voters": 1751,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1751,
+    "unused_ballots": 2254,
+    "eligible_voters": 4005,
+    "average_turnout_rate": 43.72
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "橋頭村",
+      "polling_station": "28",
+      "agree_votes": 177,
+      "disagree_votes": 337,
+      "valid_votes": 514,
+      "invalid_votes": 1,
+      "total_voters": 515,
+      "ballots_not_cast": 0,
+      "ballots_issued": 515,
+      "unused_ballots": 656,
+      "eligible_voters": 1171,
+      "turnout_rate": 43.98
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "橋頭村",
+      "polling_station": "29",
+      "agree_votes": 147,
+      "disagree_votes": 264,
+      "valid_votes": 411,
+      "invalid_votes": 3,
+      "total_voters": 414,
+      "ballots_not_cast": 0,
+      "ballots_issued": 414,
+      "unused_ballots": 518,
+      "eligible_voters": 932,
+      "turnout_rate": 44.42
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "橋頭村",
+      "polling_station": "30",
+      "agree_votes": 180,
+      "disagree_votes": 252,
+      "valid_votes": 432,
+      "invalid_votes": 0,
+      "total_voters": 432,
+      "ballots_not_cast": 0,
+      "ballots_issued": 432,
+      "unused_ballots": 553,
+      "eligible_voters": 985,
+      "turnout_rate": 43.86
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "橋頭村",
+      "polling_station": "31",
+      "agree_votes": 130,
+      "disagree_votes": 253,
+      "valid_votes": 383,
+      "invalid_votes": 7,
+      "total_voters": 390,
+      "ballots_not_cast": 0,
+      "ballots_issued": 390,
+      "unused_ballots": 527,
+      "eligible_voters": 917,
+      "turnout_rate": 42.53
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "cunli": "壽豐鄉_鹽寮村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 65,
+    "disagree_votes": 97,
+    "valid_votes": 162,
+    "invalid_votes": 0,
+    "total_voters": 162,
+    "ballots_not_cast": 0,
+    "ballots_issued": 162,
+    "unused_ballots": 87,
+    "eligible_voters": 249,
+    "average_turnout_rate": 65.06
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "壽豐鄉",
+      "village": "鹽寮村",
+      "polling_station": "227",
+      "agree_votes": 65,
+      "disagree_votes": 97,
+      "valid_votes": 162,
+      "invalid_votes": 0,
+      "total_voters": 162,
+      "ballots_not_cast": 0,
+      "ballots_issued": 162,
+      "unused_ballots": 87,
+      "eligible_voters": 249,
+      "turnout_rate": 65.06
+    }
+  ]
+}

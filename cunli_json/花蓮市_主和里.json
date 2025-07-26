@@ -1,0 +1,66 @@
+{
+  "cunli": "花蓮市_主和里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 681,
+    "disagree_votes": 815,
+    "valid_votes": 1496,
+    "invalid_votes": 12,
+    "total_voters": 1508,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1508,
+    "unused_ballots": 944,
+    "eligible_voters": 2452,
+    "average_turnout_rate": 61.5
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "主和里",
+      "polling_station": "37",
+      "agree_votes": 199,
+      "disagree_votes": 271,
+      "valid_votes": 470,
+      "invalid_votes": 4,
+      "total_voters": 474,
+      "ballots_not_cast": 0,
+      "ballots_issued": 474,
+      "unused_ballots": 289,
+      "eligible_voters": 763,
+      "turnout_rate": 62.12
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "主和里",
+      "polling_station": "38",
+      "agree_votes": 202,
+      "disagree_votes": 280,
+      "valid_votes": 482,
+      "invalid_votes": 7,
+      "total_voters": 489,
+      "ballots_not_cast": 0,
+      "ballots_issued": 489,
+      "unused_ballots": 353,
+      "eligible_voters": 842,
+      "turnout_rate": 58.08
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "主和里",
+      "polling_station": "39",
+      "agree_votes": 280,
+      "disagree_votes": 264,
+      "valid_votes": 544,
+      "invalid_votes": 1,
+      "total_voters": 545,
+      "ballots_not_cast": 0,
+      "ballots_issued": 545,
+      "unused_ballots": 302,
+      "eligible_voters": 847,
+      "turnout_rate": 64.34
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "鹿野鄉_永安村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 163,
+    "disagree_votes": 240,
+    "valid_votes": 403,
+    "invalid_votes": 2,
+    "total_voters": 405,
+    "ballots_not_cast": 0,
+    "ballots_issued": 405,
+    "unused_ballots": 488,
+    "eligible_voters": 893,
+    "average_turnout_rate": 45.35
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "鹿野鄉",
+      "village": "永安村",
+      "polling_station": "143",
+      "agree_votes": 143,
+      "disagree_votes": 202,
+      "valid_votes": 345,
+      "invalid_votes": 2,
+      "total_voters": 347,
+      "ballots_not_cast": 0,
+      "ballots_issued": 347,
+      "unused_ballots": 415,
+      "eligible_voters": 762,
+      "turnout_rate": 45.54
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "鹿野鄉",
+      "village": "永安村",
+      "polling_station": "144",
+      "agree_votes": 20,
+      "disagree_votes": 38,
+      "valid_votes": 58,
+      "invalid_votes": 0,
+      "total_voters": 58,
+      "ballots_not_cast": 0,
+      "ballots_issued": 58,
+      "unused_ballots": 73,
+      "eligible_voters": 131,
+      "turnout_rate": 44.27
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "cunli": "金山區_三界里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 164,
+    "disagree_votes": 124,
+    "valid_votes": 288,
+    "invalid_votes": 3,
+    "total_voters": 291,
+    "ballots_not_cast": 0,
+    "ballots_issued": 291,
+    "unused_ballots": 296,
+    "eligible_voters": 587,
+    "average_turnout_rate": 49.57
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "三界里",
+      "polling_station": "906",
+      "agree_votes": 164,
+      "disagree_votes": 124,
+      "valid_votes": 288,
+      "invalid_votes": 3,
+      "total_voters": 291,
+      "ballots_not_cast": 0,
+      "ballots_issued": 291,
+      "unused_ballots": 296,
+      "eligible_voters": 587,
+      "turnout_rate": 49.57
+    }
+  ]
+}

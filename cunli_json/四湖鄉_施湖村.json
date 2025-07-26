@@ -1,0 +1,34 @@
+{
+  "cunli": "四湖鄉_施湖村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 155,
+    "disagree_votes": 313,
+    "valid_votes": 468,
+    "invalid_votes": 8,
+    "total_voters": 476,
+    "ballots_not_cast": 0,
+    "ballots_issued": 476,
+    "unused_ballots": 612,
+    "eligible_voters": 1088,
+    "average_turnout_rate": 43.75
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "四湖鄉",
+      "village": "施湖村",
+      "polling_station": "186",
+      "agree_votes": 155,
+      "disagree_votes": 313,
+      "valid_votes": 468,
+      "invalid_votes": 8,
+      "total_voters": 476,
+      "ballots_not_cast": 0,
+      "ballots_issued": 476,
+      "unused_ballots": 612,
+      "eligible_voters": 1088,
+      "turnout_rate": 43.75
+    }
+  ]
+}

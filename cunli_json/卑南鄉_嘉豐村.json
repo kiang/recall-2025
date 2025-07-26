@@ -1,0 +1,50 @@
+{
+  "cunli": "卑南鄉_嘉豐村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 24,
+    "disagree_votes": 27,
+    "valid_votes": 51,
+    "invalid_votes": 0,
+    "total_voters": 51,
+    "ballots_not_cast": 0,
+    "ballots_issued": 51,
+    "unused_ballots": 84,
+    "eligible_voters": 135,
+    "average_turnout_rate": 37.78
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "卑南鄉",
+      "village": "嘉豐村",
+      "polling_station": "127",
+      "agree_votes": 21,
+      "disagree_votes": 24,
+      "valid_votes": 45,
+      "invalid_votes": 0,
+      "total_voters": 45,
+      "ballots_not_cast": 0,
+      "ballots_issued": 45,
+      "unused_ballots": 70,
+      "eligible_voters": 115,
+      "turnout_rate": 39.13
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "卑南鄉",
+      "village": "嘉豐村",
+      "polling_station": "128",
+      "agree_votes": 3,
+      "disagree_votes": 3,
+      "valid_votes": 6,
+      "invalid_votes": 0,
+      "total_voters": 6,
+      "ballots_not_cast": 0,
+      "ballots_issued": 6,
+      "unused_ballots": 14,
+      "eligible_voters": 20,
+      "turnout_rate": 30.0
+    }
+  ]
+}

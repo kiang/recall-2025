@@ -1,0 +1,50 @@
+{
+  "cunli": "中壢區_福德里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 557,
+    "disagree_votes": 1004,
+    "valid_votes": 1561,
+    "invalid_votes": 6,
+    "total_voters": 1567,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1567,
+    "unused_ballots": 1130,
+    "eligible_voters": 2697,
+    "average_turnout_rate": 58.1
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第3選舉區)魯明哲罷免案各投開票所投開票結果表",
+      "district": "中壢區",
+      "village": "福德里",
+      "polling_station": "582",
+      "agree_votes": 292,
+      "disagree_votes": 459,
+      "valid_votes": 751,
+      "invalid_votes": 2,
+      "total_voters": 753,
+      "ballots_not_cast": 0,
+      "ballots_issued": 753,
+      "unused_ballots": 505,
+      "eligible_voters": 1258,
+      "turnout_rate": 59.86
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第3選舉區)魯明哲罷免案各投開票所投開票結果表",
+      "district": "中壢區",
+      "village": "福德里",
+      "polling_station": "583",
+      "agree_votes": 265,
+      "disagree_votes": 545,
+      "valid_votes": 810,
+      "invalid_votes": 4,
+      "total_voters": 814,
+      "ballots_not_cast": 0,
+      "ballots_issued": 814,
+      "unused_ballots": 625,
+      "eligible_voters": 1439,
+      "turnout_rate": 56.57
+    }
+  ]
+}

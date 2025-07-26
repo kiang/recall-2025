@@ -1,0 +1,66 @@
+{
+  "cunli": "大溪區_仁和里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1050,
+    "disagree_votes": 1463,
+    "valid_votes": 2513,
+    "invalid_votes": 12,
+    "total_voters": 2525,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2525,
+    "unused_ballots": 2047,
+    "eligible_voters": 4572,
+    "average_turnout_rate": 55.23
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "仁和里",
+      "polling_station": "1322",
+      "agree_votes": 341,
+      "disagree_votes": 437,
+      "valid_votes": 778,
+      "invalid_votes": 5,
+      "total_voters": 783,
+      "ballots_not_cast": 0,
+      "ballots_issued": 783,
+      "unused_ballots": 665,
+      "eligible_voters": 1448,
+      "turnout_rate": 54.07
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "仁和里",
+      "polling_station": "1323",
+      "agree_votes": 315,
+      "disagree_votes": 528,
+      "valid_votes": 843,
+      "invalid_votes": 5,
+      "total_voters": 848,
+      "ballots_not_cast": 0,
+      "ballots_issued": 848,
+      "unused_ballots": 644,
+      "eligible_voters": 1492,
+      "turnout_rate": 56.84
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "仁和里",
+      "polling_station": "1324",
+      "agree_votes": 394,
+      "disagree_votes": 498,
+      "valid_votes": 892,
+      "invalid_votes": 2,
+      "total_voters": 894,
+      "ballots_not_cast": 0,
+      "ballots_issued": 894,
+      "unused_ballots": 738,
+      "eligible_voters": 1632,
+      "turnout_rate": 54.78
+    }
+  ]
+}

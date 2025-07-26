@@ -1,0 +1,34 @@
+{
+  "cunli": "萬榮鄉_西林村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 5,
+    "disagree_votes": 10,
+    "valid_votes": 15,
+    "invalid_votes": 0,
+    "total_voters": 15,
+    "ballots_not_cast": 0,
+    "ballots_issued": 15,
+    "unused_ballots": 20,
+    "eligible_voters": 35,
+    "average_turnout_rate": 42.86
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "萬榮鄉",
+      "village": "西林村",
+      "polling_station": "268",
+      "agree_votes": 5,
+      "disagree_votes": 10,
+      "valid_votes": 15,
+      "invalid_votes": 0,
+      "total_voters": 15,
+      "ballots_not_cast": 0,
+      "ballots_issued": 15,
+      "unused_ballots": 20,
+      "eligible_voters": 35,
+      "turnout_rate": 42.86
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "大溪區_僑愛里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 237,
+    "disagree_votes": 1122,
+    "valid_votes": 1359,
+    "invalid_votes": 5,
+    "total_voters": 1364,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1364,
+    "unused_ballots": 996,
+    "eligible_voters": 2360,
+    "average_turnout_rate": 57.8
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "僑愛里",
+      "polling_station": "1318",
+      "agree_votes": 89,
+      "disagree_votes": 635,
+      "valid_votes": 724,
+      "invalid_votes": 4,
+      "total_voters": 728,
+      "ballots_not_cast": 0,
+      "ballots_issued": 728,
+      "unused_ballots": 437,
+      "eligible_voters": 1165,
+      "turnout_rate": 62.49
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "僑愛里",
+      "polling_station": "1319",
+      "agree_votes": 148,
+      "disagree_votes": 487,
+      "valid_votes": 635,
+      "invalid_votes": 1,
+      "total_voters": 636,
+      "ballots_not_cast": 0,
+      "ballots_issued": 636,
+      "unused_ballots": 559,
+      "eligible_voters": 1195,
+      "turnout_rate": 53.22
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "汐止區_福山里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 818,
+    "disagree_votes": 1110,
+    "valid_votes": 1928,
+    "invalid_votes": 7,
+    "total_voters": 1935,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1935,
+    "unused_ballots": 1464,
+    "eligible_voters": 3399,
+    "average_turnout_rate": 56.93
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "福山里",
+      "polling_station": "1049",
+      "agree_votes": 415,
+      "disagree_votes": 558,
+      "valid_votes": 973,
+      "invalid_votes": 4,
+      "total_voters": 977,
+      "ballots_not_cast": 0,
+      "ballots_issued": 977,
+      "unused_ballots": 776,
+      "eligible_voters": 1753,
+      "turnout_rate": 55.73
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "福山里",
+      "polling_station": "1050",
+      "agree_votes": 403,
+      "disagree_votes": 552,
+      "valid_votes": 955,
+      "invalid_votes": 3,
+      "total_voters": 958,
+      "ballots_not_cast": 0,
+      "ballots_issued": 958,
+      "unused_ballots": 688,
+      "eligible_voters": 1646,
+      "turnout_rate": 58.2
+    }
+  ]
+}

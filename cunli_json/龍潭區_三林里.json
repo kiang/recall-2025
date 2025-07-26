@@ -1,0 +1,50 @@
+{
+  "cunli": "龍潭區_三林里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 582,
+    "disagree_votes": 1136,
+    "valid_votes": 1718,
+    "invalid_votes": 7,
+    "total_voters": 1725,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1725,
+    "unused_ballots": 1239,
+    "eligible_voters": 2964,
+    "average_turnout_rate": 58.2
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "三林里",
+      "polling_station": "1137",
+      "agree_votes": 317,
+      "disagree_votes": 535,
+      "valid_votes": 852,
+      "invalid_votes": 3,
+      "total_voters": 855,
+      "ballots_not_cast": 0,
+      "ballots_issued": 855,
+      "unused_ballots": 652,
+      "eligible_voters": 1507,
+      "turnout_rate": 56.74
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "三林里",
+      "polling_station": "1138",
+      "agree_votes": 265,
+      "disagree_votes": 601,
+      "valid_votes": 866,
+      "invalid_votes": 4,
+      "total_voters": 870,
+      "ballots_not_cast": 0,
+      "ballots_issued": 870,
+      "unused_ballots": 587,
+      "eligible_voters": 1457,
+      "turnout_rate": 59.71
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "觀音區_保障里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 600,
+    "disagree_votes": 467,
+    "valid_votes": 1067,
+    "invalid_votes": 10,
+    "total_voters": 1077,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1077,
+    "unused_ballots": 902,
+    "eligible_voters": 1979,
+    "average_turnout_rate": 54.42
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "保障里",
+      "polling_station": "339",
+      "agree_votes": 288,
+      "disagree_votes": 231,
+      "valid_votes": 519,
+      "invalid_votes": 3,
+      "total_voters": 522,
+      "ballots_not_cast": 0,
+      "ballots_issued": 522,
+      "unused_ballots": 488,
+      "eligible_voters": 1010,
+      "turnout_rate": 51.68
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "保障里",
+      "polling_station": "340",
+      "agree_votes": 312,
+      "disagree_votes": 236,
+      "valid_votes": 548,
+      "invalid_votes": 7,
+      "total_voters": 555,
+      "ballots_not_cast": 0,
+      "ballots_issued": 555,
+      "unused_ballots": 414,
+      "eligible_voters": 969,
+      "turnout_rate": 57.28
+    }
+  ]
+}

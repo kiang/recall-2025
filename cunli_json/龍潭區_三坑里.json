@@ -1,0 +1,34 @@
+{
+  "cunli": "龍潭區_三坑里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 371,
+    "disagree_votes": 464,
+    "valid_votes": 835,
+    "invalid_votes": 5,
+    "total_voters": 840,
+    "ballots_not_cast": 0,
+    "ballots_issued": 840,
+    "unused_ballots": 669,
+    "eligible_voters": 1509,
+    "average_turnout_rate": 55.67
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "三坑里",
+      "polling_station": "1134",
+      "agree_votes": 371,
+      "disagree_votes": 464,
+      "valid_votes": 835,
+      "invalid_votes": 5,
+      "total_voters": 840,
+      "ballots_not_cast": 0,
+      "ballots_issued": 840,
+      "unused_ballots": 669,
+      "eligible_voters": 1509,
+      "turnout_rate": 55.67
+    }
+  ]
+}

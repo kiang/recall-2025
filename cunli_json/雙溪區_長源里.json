@@ -1,0 +1,34 @@
+{
+  "cunli": "雙溪區_長源里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 69,
+    "disagree_votes": 58,
+    "valid_votes": 127,
+    "invalid_votes": 1,
+    "total_voters": 128,
+    "ballots_not_cast": 0,
+    "ballots_issued": 128,
+    "unused_ballots": 187,
+    "eligible_voters": 315,
+    "average_turnout_rate": 40.63
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "雙溪區",
+      "village": "長源里",
+      "polling_station": "1126",
+      "agree_votes": 69,
+      "disagree_votes": 58,
+      "valid_votes": 127,
+      "invalid_votes": 1,
+      "total_voters": 128,
+      "ballots_not_cast": 0,
+      "ballots_issued": 128,
+      "unused_ballots": 187,
+      "eligible_voters": 315,
+      "turnout_rate": 40.63
+    }
+  ]
+}

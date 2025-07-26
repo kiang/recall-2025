@@ -1,0 +1,50 @@
+{
+  "cunli": "三芝區_後厝里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 411,
+    "disagree_votes": 679,
+    "valid_votes": 1090,
+    "invalid_votes": 8,
+    "total_voters": 1098,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1098,
+    "unused_ballots": 1034,
+    "eligible_voters": 2132,
+    "average_turnout_rate": 51.5
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "三芝區",
+      "village": "後厝里",
+      "polling_station": "26",
+      "agree_votes": 173,
+      "disagree_votes": 270,
+      "valid_votes": 443,
+      "invalid_votes": 6,
+      "total_voters": 449,
+      "ballots_not_cast": 0,
+      "ballots_issued": 449,
+      "unused_ballots": 333,
+      "eligible_voters": 782,
+      "turnout_rate": 57.42
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "三芝區",
+      "village": "後厝里",
+      "polling_station": "27",
+      "agree_votes": 238,
+      "disagree_votes": 409,
+      "valid_votes": 647,
+      "invalid_votes": 2,
+      "total_voters": 649,
+      "ballots_not_cast": 0,
+      "ballots_issued": 649,
+      "unused_ballots": 701,
+      "eligible_voters": 1350,
+      "turnout_rate": 48.07
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "cunli": "綠島鄉_南寮村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 153,
+    "disagree_votes": 413,
+    "valid_votes": 566,
+    "invalid_votes": 5,
+    "total_voters": 571,
+    "ballots_not_cast": 0,
+    "ballots_issued": 571,
+    "unused_ballots": 999,
+    "eligible_voters": 1570,
+    "average_turnout_rate": 36.37
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "綠島鄉",
+      "village": "南寮村",
+      "polling_station": "205",
+      "agree_votes": 153,
+      "disagree_votes": 413,
+      "valid_votes": 566,
+      "invalid_votes": 5,
+      "total_voters": 571,
+      "ballots_not_cast": 0,
+      "ballots_issued": 571,
+      "unused_ballots": 999,
+      "eligible_voters": 1570,
+      "turnout_rate": 36.37
+    }
+  ]
+}

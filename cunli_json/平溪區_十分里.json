@@ -1,0 +1,34 @@
+{
+  "cunli": "平溪區_十分里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 130,
+    "disagree_votes": 172,
+    "valid_votes": 302,
+    "invalid_votes": 1,
+    "total_voters": 303,
+    "ballots_not_cast": 0,
+    "ballots_issued": 303,
+    "unused_ballots": 439,
+    "eligible_voters": 742,
+    "average_turnout_rate": 40.84
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "平溪區",
+      "village": "十分里",
+      "polling_station": "1063",
+      "agree_votes": 130,
+      "disagree_votes": 172,
+      "valid_votes": 302,
+      "invalid_votes": 1,
+      "total_voters": 303,
+      "ballots_not_cast": 0,
+      "ballots_issued": 303,
+      "unused_ballots": 439,
+      "eligible_voters": 742,
+      "turnout_rate": 40.84
+    }
+  ]
+}

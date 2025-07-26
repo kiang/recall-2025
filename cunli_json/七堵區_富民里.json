@@ -1,0 +1,66 @@
+{
+  "cunli": "七堵區_富民里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 679,
+    "disagree_votes": 1118,
+    "valid_votes": 1797,
+    "invalid_votes": 10,
+    "total_voters": 1807,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1807,
+    "unused_ballots": 1402,
+    "eligible_voters": 3209,
+    "average_turnout_rate": 56.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "七堵區",
+      "village": "富民里",
+      "polling_station": "249",
+      "agree_votes": 224,
+      "disagree_votes": 303,
+      "valid_votes": 527,
+      "invalid_votes": 5,
+      "total_voters": 532,
+      "ballots_not_cast": 0,
+      "ballots_issued": 532,
+      "unused_ballots": 459,
+      "eligible_voters": 991,
+      "turnout_rate": 53.68
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "七堵區",
+      "village": "富民里",
+      "polling_station": "250",
+      "agree_votes": 262,
+      "disagree_votes": 401,
+      "valid_votes": 663,
+      "invalid_votes": 3,
+      "total_voters": 666,
+      "ballots_not_cast": 0,
+      "ballots_issued": 666,
+      "unused_ballots": 475,
+      "eligible_voters": 1141,
+      "turnout_rate": 58.37
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "七堵區",
+      "village": "富民里",
+      "polling_station": "251",
+      "agree_votes": 193,
+      "disagree_votes": 414,
+      "valid_votes": 607,
+      "invalid_votes": 2,
+      "total_voters": 609,
+      "ballots_not_cast": 0,
+      "ballots_issued": 609,
+      "unused_ballots": 468,
+      "eligible_voters": 1077,
+      "turnout_rate": 56.55
+    }
+  ]
+}

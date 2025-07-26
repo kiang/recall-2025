@@ -1,0 +1,34 @@
+{
+  "cunli": "新屋區_東明里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 356,
+    "disagree_votes": 480,
+    "valid_votes": 836,
+    "invalid_votes": 5,
+    "total_voters": 841,
+    "ballots_not_cast": 0,
+    "ballots_issued": 841,
+    "unused_ballots": 590,
+    "eligible_voters": 1431,
+    "average_turnout_rate": 58.77
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "東明里",
+      "polling_station": "365",
+      "agree_votes": 356,
+      "disagree_votes": 480,
+      "valid_votes": 836,
+      "invalid_votes": 5,
+      "total_voters": 841,
+      "ballots_not_cast": 0,
+      "ballots_issued": 841,
+      "unused_ballots": 590,
+      "eligible_voters": 1431,
+      "turnout_rate": 58.77
+    }
+  ]
+}

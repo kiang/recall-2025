@@ -1,0 +1,66 @@
+{
+  "cunli": "南屯區_大誠里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 975,
+    "disagree_votes": 1182,
+    "valid_votes": 2157,
+    "invalid_votes": 11,
+    "total_voters": 2168,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2168,
+    "unused_ballots": 1526,
+    "eligible_voters": 3694,
+    "average_turnout_rate": 58.69
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "大誠里",
+      "polling_station": "251",
+      "agree_votes": 276,
+      "disagree_votes": 361,
+      "valid_votes": 637,
+      "invalid_votes": 6,
+      "total_voters": 643,
+      "ballots_not_cast": 0,
+      "ballots_issued": 643,
+      "unused_ballots": 459,
+      "eligible_voters": 1102,
+      "turnout_rate": 58.35
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "大誠里",
+      "polling_station": "252",
+      "agree_votes": 343,
+      "disagree_votes": 435,
+      "valid_votes": 778,
+      "invalid_votes": 3,
+      "total_voters": 781,
+      "ballots_not_cast": 0,
+      "ballots_issued": 781,
+      "unused_ballots": 535,
+      "eligible_voters": 1316,
+      "turnout_rate": 59.35
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "大誠里",
+      "polling_station": "253",
+      "agree_votes": 356,
+      "disagree_votes": 386,
+      "valid_votes": 742,
+      "invalid_votes": 2,
+      "total_voters": 744,
+      "ballots_not_cast": 0,
+      "ballots_issued": 744,
+      "unused_ballots": 532,
+      "eligible_voters": 1276,
+      "turnout_rate": 58.31
+    }
+  ]
+}

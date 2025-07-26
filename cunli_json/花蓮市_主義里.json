@@ -1,0 +1,34 @@
+{
+  "cunli": "花蓮市_主義里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 109,
+    "disagree_votes": 154,
+    "valid_votes": 263,
+    "invalid_votes": 1,
+    "total_voters": 264,
+    "ballots_not_cast": 0,
+    "ballots_issued": 264,
+    "unused_ballots": 143,
+    "eligible_voters": 407,
+    "average_turnout_rate": 64.86
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "主義里",
+      "polling_station": "34",
+      "agree_votes": 109,
+      "disagree_votes": 154,
+      "valid_votes": 263,
+      "invalid_votes": 1,
+      "total_voters": 264,
+      "ballots_not_cast": 0,
+      "ballots_issued": 264,
+      "unused_ballots": 143,
+      "eligible_voters": 407,
+      "turnout_rate": 64.86
+    }
+  ]
+}

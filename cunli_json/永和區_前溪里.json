@@ -1,0 +1,34 @@
+{
+  "cunli": "永和區_前溪里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 375,
+    "disagree_votes": 662,
+    "valid_votes": 1037,
+    "invalid_votes": 3,
+    "total_voters": 1040,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1040,
+    "unused_ballots": 742,
+    "eligible_voters": 1782,
+    "average_turnout_rate": 58.36
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "前溪里",
+      "polling_station": "845",
+      "agree_votes": 375,
+      "disagree_votes": 662,
+      "valid_votes": 1037,
+      "invalid_votes": 3,
+      "total_voters": 1040,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1040,
+      "unused_ballots": 742,
+      "eligible_voters": 1782,
+      "turnout_rate": 58.36
+    }
+  ]
+}

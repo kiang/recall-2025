@@ -1,0 +1,50 @@
+{
+  "cunli": "東勢鄉_嘉隆村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 328,
+    "disagree_votes": 329,
+    "valid_votes": 657,
+    "invalid_votes": 1,
+    "total_voters": 658,
+    "ballots_not_cast": 0,
+    "ballots_issued": 658,
+    "unused_ballots": 726,
+    "eligible_voters": 1384,
+    "average_turnout_rate": 47.54
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "東勢鄉",
+      "village": "嘉隆村",
+      "polling_station": "64",
+      "agree_votes": 184,
+      "disagree_votes": 160,
+      "valid_votes": 344,
+      "invalid_votes": 1,
+      "total_voters": 345,
+      "ballots_not_cast": 0,
+      "ballots_issued": 345,
+      "unused_ballots": 433,
+      "eligible_voters": 778,
+      "turnout_rate": 44.34
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "東勢鄉",
+      "village": "嘉隆村",
+      "polling_station": "65",
+      "agree_votes": 144,
+      "disagree_votes": 169,
+      "valid_votes": 313,
+      "invalid_votes": 0,
+      "total_voters": 313,
+      "ballots_not_cast": 0,
+      "ballots_issued": 313,
+      "unused_ballots": 293,
+      "eligible_voters": 606,
+      "turnout_rate": 51.65
+    }
+  ]
+}

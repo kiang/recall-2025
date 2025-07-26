@@ -1,0 +1,50 @@
+{
+  "cunli": "麥寮鄉_三盛村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 390,
+    "disagree_votes": 512,
+    "valid_votes": 902,
+    "invalid_votes": 6,
+    "total_voters": 908,
+    "ballots_not_cast": 0,
+    "ballots_issued": 908,
+    "unused_ballots": 1307,
+    "eligible_voters": 2215,
+    "average_turnout_rate": 40.99
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "三盛村",
+      "polling_station": "24",
+      "agree_votes": 180,
+      "disagree_votes": 254,
+      "valid_votes": 434,
+      "invalid_votes": 3,
+      "total_voters": 437,
+      "ballots_not_cast": 0,
+      "ballots_issued": 437,
+      "unused_ballots": 638,
+      "eligible_voters": 1075,
+      "turnout_rate": 40.65
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "三盛村",
+      "polling_station": "25",
+      "agree_votes": 210,
+      "disagree_votes": 258,
+      "valid_votes": 468,
+      "invalid_votes": 3,
+      "total_voters": 471,
+      "ballots_not_cast": 0,
+      "ballots_issued": 471,
+      "unused_ballots": 669,
+      "eligible_voters": 1140,
+      "turnout_rate": 41.32
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "淡水區_北新里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 603,
+    "disagree_votes": 814,
+    "valid_votes": 1417,
+    "invalid_votes": 6,
+    "total_voters": 1423,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1423,
+    "unused_ballots": 1370,
+    "eligible_voters": 2793,
+    "average_turnout_rate": 50.95
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "北新里",
+      "polling_station": "91",
+      "agree_votes": 334,
+      "disagree_votes": 432,
+      "valid_votes": 766,
+      "invalid_votes": 4,
+      "total_voters": 770,
+      "ballots_not_cast": 0,
+      "ballots_issued": 770,
+      "unused_ballots": 655,
+      "eligible_voters": 1425,
+      "turnout_rate": 54.04
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "北新里",
+      "polling_station": "92",
+      "agree_votes": 269,
+      "disagree_votes": 382,
+      "valid_votes": 651,
+      "invalid_votes": 2,
+      "total_voters": 653,
+      "ballots_not_cast": 0,
+      "ballots_issued": 653,
+      "unused_ballots": 715,
+      "eligible_voters": 1368,
+      "turnout_rate": 47.73
+    }
+  ]
+}

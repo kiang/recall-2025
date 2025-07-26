@@ -1,0 +1,34 @@
+{
+  "cunli": "淡水區_新生里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 109,
+    "disagree_votes": 119,
+    "valid_votes": 228,
+    "invalid_votes": 0,
+    "total_voters": 228,
+    "ballots_not_cast": 0,
+    "ballots_issued": 228,
+    "unused_ballots": 160,
+    "eligible_voters": 388,
+    "average_turnout_rate": 58.76
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "新生里",
+      "polling_station": "137",
+      "agree_votes": 109,
+      "disagree_votes": 119,
+      "valid_votes": 228,
+      "invalid_votes": 0,
+      "total_voters": 228,
+      "ballots_not_cast": 0,
+      "ballots_issued": 228,
+      "unused_ballots": 160,
+      "eligible_voters": 388,
+      "turnout_rate": 58.76
+    }
+  ]
+}

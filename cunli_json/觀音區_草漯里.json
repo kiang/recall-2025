@@ -1,0 +1,66 @@
+{
+  "cunli": "觀音區_草漯里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 883,
+    "disagree_votes": 1030,
+    "valid_votes": 1913,
+    "invalid_votes": 15,
+    "total_voters": 1928,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1928,
+    "unused_ballots": 2295,
+    "eligible_voters": 4223,
+    "average_turnout_rate": 45.65
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "草漯里",
+      "polling_station": "341",
+      "agree_votes": 235,
+      "disagree_votes": 318,
+      "valid_votes": 553,
+      "invalid_votes": 2,
+      "total_voters": 555,
+      "ballots_not_cast": 0,
+      "ballots_issued": 555,
+      "unused_ballots": 774,
+      "eligible_voters": 1329,
+      "turnout_rate": 41.76
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "草漯里",
+      "polling_station": "342",
+      "agree_votes": 382,
+      "disagree_votes": 362,
+      "valid_votes": 744,
+      "invalid_votes": 6,
+      "total_voters": 750,
+      "ballots_not_cast": 0,
+      "ballots_issued": 750,
+      "unused_ballots": 707,
+      "eligible_voters": 1457,
+      "turnout_rate": 51.48
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "草漯里",
+      "polling_station": "343",
+      "agree_votes": 266,
+      "disagree_votes": 350,
+      "valid_votes": 616,
+      "invalid_votes": 7,
+      "total_voters": 623,
+      "ballots_not_cast": 0,
+      "ballots_issued": 623,
+      "unused_ballots": 814,
+      "eligible_voters": 1437,
+      "turnout_rate": 43.35
+    }
+  ]
+}

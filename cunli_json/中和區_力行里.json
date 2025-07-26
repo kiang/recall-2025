@@ -1,0 +1,66 @@
+{
+  "cunli": "中和區_力行里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1343,
+    "disagree_votes": 1779,
+    "valid_votes": 3122,
+    "invalid_votes": 20,
+    "total_voters": 3142,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3142,
+    "unused_ballots": 2080,
+    "eligible_voters": 5222,
+    "average_turnout_rate": 60.17
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "力行里",
+      "polling_station": "502",
+      "agree_votes": 452,
+      "disagree_votes": 684,
+      "valid_votes": 1136,
+      "invalid_votes": 8,
+      "total_voters": 1144,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1144,
+      "unused_ballots": 743,
+      "eligible_voters": 1887,
+      "turnout_rate": 60.63
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "力行里",
+      "polling_station": "503",
+      "agree_votes": 437,
+      "disagree_votes": 540,
+      "valid_votes": 977,
+      "invalid_votes": 5,
+      "total_voters": 982,
+      "ballots_not_cast": 0,
+      "ballots_issued": 982,
+      "unused_ballots": 624,
+      "eligible_voters": 1606,
+      "turnout_rate": 61.15
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "力行里",
+      "polling_station": "504",
+      "agree_votes": 454,
+      "disagree_votes": 555,
+      "valid_votes": 1009,
+      "invalid_votes": 7,
+      "total_voters": 1016,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1016,
+      "unused_ballots": 713,
+      "eligible_voters": 1729,
+      "turnout_rate": 58.76
+    }
+  ]
+}

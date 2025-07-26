@@ -1,0 +1,66 @@
+{
+  "cunli": "安樂區_興寮里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 931,
+    "disagree_votes": 1442,
+    "valid_votes": 2373,
+    "invalid_votes": 9,
+    "total_voters": 2382,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2382,
+    "unused_ballots": 2212,
+    "eligible_voters": 4594,
+    "average_turnout_rate": 51.85
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "安樂區",
+      "village": "興寮里",
+      "polling_station": "195",
+      "agree_votes": 320,
+      "disagree_votes": 512,
+      "valid_votes": 832,
+      "invalid_votes": 2,
+      "total_voters": 834,
+      "ballots_not_cast": 0,
+      "ballots_issued": 834,
+      "unused_ballots": 805,
+      "eligible_voters": 1639,
+      "turnout_rate": 50.88
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "安樂區",
+      "village": "興寮里",
+      "polling_station": "196",
+      "agree_votes": 226,
+      "disagree_votes": 316,
+      "valid_votes": 542,
+      "invalid_votes": 0,
+      "total_voters": 542,
+      "ballots_not_cast": 0,
+      "ballots_issued": 542,
+      "unused_ballots": 468,
+      "eligible_voters": 1010,
+      "turnout_rate": 53.66
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "安樂區",
+      "village": "興寮里",
+      "polling_station": "197",
+      "agree_votes": 385,
+      "disagree_votes": 614,
+      "valid_votes": 999,
+      "invalid_votes": 7,
+      "total_voters": 1006,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1006,
+      "unused_ballots": 939,
+      "eligible_voters": 1945,
+      "turnout_rate": 51.72
+    }
+  ]
+}

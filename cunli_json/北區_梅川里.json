@@ -1,0 +1,50 @@
+{
+  "cunli": "北區_梅川里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 757,
+    "disagree_votes": 969,
+    "valid_votes": 1726,
+    "invalid_votes": 10,
+    "total_voters": 1736,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1736,
+    "unused_ballots": 1382,
+    "eligible_voters": 3118,
+    "average_turnout_rate": 55.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "梅川里",
+      "polling_station": "516",
+      "agree_votes": 346,
+      "disagree_votes": 477,
+      "valid_votes": 823,
+      "invalid_votes": 8,
+      "total_voters": 831,
+      "ballots_not_cast": 0,
+      "ballots_issued": 831,
+      "unused_ballots": 713,
+      "eligible_voters": 1544,
+      "turnout_rate": 53.82
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "梅川里",
+      "polling_station": "517",
+      "agree_votes": 411,
+      "disagree_votes": 492,
+      "valid_votes": 903,
+      "invalid_votes": 2,
+      "total_voters": 905,
+      "ballots_not_cast": 0,
+      "ballots_issued": 905,
+      "unused_ballots": 669,
+      "eligible_voters": 1574,
+      "turnout_rate": 57.5
+    }
+  ]
+}

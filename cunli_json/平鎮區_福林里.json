@@ -1,0 +1,66 @@
+{
+  "cunli": "平鎮區_福林里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 815,
+    "disagree_votes": 1103,
+    "valid_votes": 1918,
+    "invalid_votes": 10,
+    "total_voters": 1928,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1928,
+    "unused_ballots": 1329,
+    "eligible_voters": 3257,
+    "average_turnout_rate": 59.2
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "福林里",
+      "polling_station": "961",
+      "agree_votes": 296,
+      "disagree_votes": 241,
+      "valid_votes": 537,
+      "invalid_votes": 3,
+      "total_voters": 540,
+      "ballots_not_cast": 0,
+      "ballots_issued": 540,
+      "unused_ballots": 419,
+      "eligible_voters": 959,
+      "turnout_rate": 56.31
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "福林里",
+      "polling_station": "962",
+      "agree_votes": 256,
+      "disagree_votes": 368,
+      "valid_votes": 624,
+      "invalid_votes": 4,
+      "total_voters": 628,
+      "ballots_not_cast": 0,
+      "ballots_issued": 628,
+      "unused_ballots": 417,
+      "eligible_voters": 1045,
+      "turnout_rate": 60.1
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "福林里",
+      "polling_station": "963",
+      "agree_votes": 263,
+      "disagree_votes": 494,
+      "valid_votes": 757,
+      "invalid_votes": 3,
+      "total_voters": 760,
+      "ballots_not_cast": 0,
+      "ballots_issued": 760,
+      "unused_ballots": 493,
+      "eligible_voters": 1253,
+      "turnout_rate": 60.65
+    }
+  ]
+}

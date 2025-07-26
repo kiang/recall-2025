@@ -1,0 +1,50 @@
+{
+  "cunli": "信義區_義幸里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 460,
+    "disagree_votes": 719,
+    "valid_votes": 1179,
+    "invalid_votes": 7,
+    "total_voters": 1186,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1186,
+    "unused_ballots": 918,
+    "eligible_voters": 2104,
+    "average_turnout_rate": 56.37
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "義幸里",
+      "polling_station": "45",
+      "agree_votes": 245,
+      "disagree_votes": 376,
+      "valid_votes": 621,
+      "invalid_votes": 5,
+      "total_voters": 626,
+      "ballots_not_cast": 0,
+      "ballots_issued": 626,
+      "unused_ballots": 437,
+      "eligible_voters": 1063,
+      "turnout_rate": 58.89
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "義幸里",
+      "polling_station": "46",
+      "agree_votes": 215,
+      "disagree_votes": 343,
+      "valid_votes": 558,
+      "invalid_votes": 2,
+      "total_voters": 560,
+      "ballots_not_cast": 0,
+      "ballots_issued": 560,
+      "unused_ballots": 481,
+      "eligible_voters": 1041,
+      "turnout_rate": 53.79
+    }
+  ]
+}

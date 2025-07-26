@@ -1,0 +1,34 @@
+{
+  "cunli": "瑞芳區_永慶里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 78,
+    "disagree_votes": 82,
+    "valid_votes": 160,
+    "invalid_votes": 1,
+    "total_voters": 161,
+    "ballots_not_cast": 0,
+    "ballots_issued": 161,
+    "unused_ballots": 210,
+    "eligible_voters": 371,
+    "average_turnout_rate": 43.4
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "永慶里",
+      "polling_station": "1099",
+      "agree_votes": 78,
+      "disagree_votes": 82,
+      "valid_votes": 160,
+      "invalid_votes": 1,
+      "total_voters": 161,
+      "ballots_not_cast": 0,
+      "ballots_issued": 161,
+      "unused_ballots": 210,
+      "eligible_voters": 371,
+      "turnout_rate": 43.4
+    }
+  ]
+}

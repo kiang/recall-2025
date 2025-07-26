@@ -1,0 +1,50 @@
+{
+  "cunli": "東勢鄉_四美村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 173,
+    "disagree_votes": 211,
+    "valid_votes": 384,
+    "invalid_votes": 2,
+    "total_voters": 386,
+    "ballots_not_cast": 0,
+    "ballots_issued": 386,
+    "unused_ballots": 518,
+    "eligible_voters": 904,
+    "average_turnout_rate": 42.7
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "東勢鄉",
+      "village": "四美村",
+      "polling_station": "75",
+      "agree_votes": 76,
+      "disagree_votes": 145,
+      "valid_votes": 221,
+      "invalid_votes": 0,
+      "total_voters": 221,
+      "ballots_not_cast": 0,
+      "ballots_issued": 221,
+      "unused_ballots": 314,
+      "eligible_voters": 535,
+      "turnout_rate": 41.31
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "東勢鄉",
+      "village": "四美村",
+      "polling_station": "76",
+      "agree_votes": 97,
+      "disagree_votes": 66,
+      "valid_votes": 163,
+      "invalid_votes": 2,
+      "total_voters": 165,
+      "ballots_not_cast": 0,
+      "ballots_issued": 165,
+      "unused_ballots": 204,
+      "eligible_voters": 369,
+      "turnout_rate": 44.72
+    }
+  ]
+}

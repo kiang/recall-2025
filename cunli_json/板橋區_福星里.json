@@ -1,0 +1,50 @@
+{
+  "cunli": "板橋區_福星里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 881,
+    "disagree_votes": 892,
+    "valid_votes": 1773,
+    "invalid_votes": 8,
+    "total_voters": 1781,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1781,
+    "unused_ballots": 1136,
+    "eligible_voters": 2917,
+    "average_turnout_rate": 61.06
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第7選舉區)葉元之罷免案各投開票所投開票結果表",
+      "district": "板橋區",
+      "village": "福星里",
+      "polling_station": "387",
+      "agree_votes": 442,
+      "disagree_votes": 451,
+      "valid_votes": 893,
+      "invalid_votes": 4,
+      "total_voters": 897,
+      "ballots_not_cast": 0,
+      "ballots_issued": 897,
+      "unused_ballots": 532,
+      "eligible_voters": 1429,
+      "turnout_rate": 62.77
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第7選舉區)葉元之罷免案各投開票所投開票結果表",
+      "district": "板橋區",
+      "village": "福星里",
+      "polling_station": "388",
+      "agree_votes": 439,
+      "disagree_votes": 441,
+      "valid_votes": 880,
+      "invalid_votes": 4,
+      "total_voters": 884,
+      "ballots_not_cast": 0,
+      "ballots_issued": 884,
+      "unused_ballots": 604,
+      "eligible_voters": 1488,
+      "turnout_rate": 59.41
+    }
+  ]
+}

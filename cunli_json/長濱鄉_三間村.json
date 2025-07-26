@@ -1,0 +1,66 @@
+{
+  "cunli": "長濱鄉_三間村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 31,
+    "disagree_votes": 63,
+    "valid_votes": 94,
+    "invalid_votes": 0,
+    "total_voters": 94,
+    "ballots_not_cast": 0,
+    "ballots_issued": 94,
+    "unused_ballots": 167,
+    "eligible_voters": 261,
+    "average_turnout_rate": 36.02
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "長濱鄉",
+      "village": "三間村",
+      "polling_station": "179",
+      "agree_votes": 21,
+      "disagree_votes": 37,
+      "valid_votes": 58,
+      "invalid_votes": 0,
+      "total_voters": 58,
+      "ballots_not_cast": 0,
+      "ballots_issued": 58,
+      "unused_ballots": 101,
+      "eligible_voters": 159,
+      "turnout_rate": 36.48
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "長濱鄉",
+      "village": "三間村",
+      "polling_station": "180",
+      "agree_votes": 9,
+      "disagree_votes": 14,
+      "valid_votes": 23,
+      "invalid_votes": 0,
+      "total_voters": 23,
+      "ballots_not_cast": 0,
+      "ballots_issued": 23,
+      "unused_ballots": 23,
+      "eligible_voters": 46,
+      "turnout_rate": 50.0
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "長濱鄉",
+      "village": "三間村",
+      "polling_station": "181",
+      "agree_votes": 1,
+      "disagree_votes": 12,
+      "valid_votes": 13,
+      "invalid_votes": 0,
+      "total_voters": 13,
+      "ballots_not_cast": 0,
+      "ballots_issued": 13,
+      "unused_ballots": 43,
+      "eligible_voters": 56,
+      "turnout_rate": 23.21
+    }
+  ]
+}

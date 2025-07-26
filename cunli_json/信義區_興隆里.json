@@ -1,0 +1,50 @@
+{
+  "cunli": "信義區_興隆里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 417,
+    "disagree_votes": 691,
+    "valid_votes": 1108,
+    "invalid_votes": 3,
+    "total_voters": 1111,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1111,
+    "unused_ballots": 999,
+    "eligible_voters": 2110,
+    "average_turnout_rate": 52.65
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第7選舉區)徐巧芯罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "興隆里",
+      "polling_station": "683",
+      "agree_votes": 202,
+      "disagree_votes": 380,
+      "valid_votes": 582,
+      "invalid_votes": 3,
+      "total_voters": 585,
+      "ballots_not_cast": 0,
+      "ballots_issued": 585,
+      "unused_ballots": 537,
+      "eligible_voters": 1122,
+      "turnout_rate": 52.14
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第7選舉區)徐巧芯罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "興隆里",
+      "polling_station": "684",
+      "agree_votes": 215,
+      "disagree_votes": 311,
+      "valid_votes": 526,
+      "invalid_votes": 0,
+      "total_voters": 526,
+      "ballots_not_cast": 0,
+      "ballots_issued": 526,
+      "unused_ballots": 462,
+      "eligible_voters": 988,
+      "turnout_rate": 53.24
+    }
+  ]
+}

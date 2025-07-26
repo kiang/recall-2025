@@ -1,0 +1,50 @@
+{
+  "cunli": "新屋區_九斗里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 551,
+    "disagree_votes": 647,
+    "valid_votes": 1198,
+    "invalid_votes": 8,
+    "total_voters": 1206,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1206,
+    "unused_ballots": 991,
+    "eligible_voters": 2197,
+    "average_turnout_rate": 54.89
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "九斗里",
+      "polling_station": "369",
+      "agree_votes": 265,
+      "disagree_votes": 336,
+      "valid_votes": 601,
+      "invalid_votes": 6,
+      "total_voters": 607,
+      "ballots_not_cast": 0,
+      "ballots_issued": 607,
+      "unused_ballots": 472,
+      "eligible_voters": 1079,
+      "turnout_rate": 56.26
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "九斗里",
+      "polling_station": "370",
+      "agree_votes": 286,
+      "disagree_votes": 311,
+      "valid_votes": 597,
+      "invalid_votes": 2,
+      "total_voters": 599,
+      "ballots_not_cast": 0,
+      "ballots_issued": 599,
+      "unused_ballots": 519,
+      "eligible_voters": 1118,
+      "turnout_rate": 53.58
+    }
+  ]
+}

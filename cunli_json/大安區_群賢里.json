@@ -1,0 +1,82 @@
+{
+  "cunli": "大安區_群賢里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1005,
+    "disagree_votes": 1585,
+    "valid_votes": 2590,
+    "invalid_votes": 8,
+    "total_voters": 2598,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2598,
+    "unused_ballots": 1906,
+    "eligible_voters": 4504,
+    "average_turnout_rate": 57.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "群賢里",
+      "polling_station": "599",
+      "agree_votes": 294,
+      "disagree_votes": 411,
+      "valid_votes": 705,
+      "invalid_votes": 3,
+      "total_voters": 708,
+      "ballots_not_cast": 0,
+      "ballots_issued": 708,
+      "unused_ballots": 527,
+      "eligible_voters": 1235,
+      "turnout_rate": 57.33
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "群賢里",
+      "polling_station": "600",
+      "agree_votes": 229,
+      "disagree_votes": 343,
+      "valid_votes": 572,
+      "invalid_votes": 1,
+      "total_voters": 573,
+      "ballots_not_cast": 0,
+      "ballots_issued": 573,
+      "unused_ballots": 360,
+      "eligible_voters": 933,
+      "turnout_rate": 61.41
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "群賢里",
+      "polling_station": "601",
+      "agree_votes": 259,
+      "disagree_votes": 426,
+      "valid_votes": 685,
+      "invalid_votes": 2,
+      "total_voters": 687,
+      "ballots_not_cast": 0,
+      "ballots_issued": 687,
+      "unused_ballots": 522,
+      "eligible_voters": 1209,
+      "turnout_rate": 56.82
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "群賢里",
+      "polling_station": "602",
+      "agree_votes": 223,
+      "disagree_votes": 405,
+      "valid_votes": 628,
+      "invalid_votes": 2,
+      "total_voters": 630,
+      "ballots_not_cast": 0,
+      "ballots_issued": 630,
+      "unused_ballots": 497,
+      "eligible_voters": 1127,
+      "turnout_rate": 55.9
+    }
+  ]
+}

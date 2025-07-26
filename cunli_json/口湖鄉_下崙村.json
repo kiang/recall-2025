@@ -1,0 +1,50 @@
+{
+  "cunli": "口湖鄉_下崙村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 337,
+    "disagree_votes": 363,
+    "valid_votes": 700,
+    "invalid_votes": 8,
+    "total_voters": 708,
+    "ballots_not_cast": 0,
+    "ballots_issued": 708,
+    "unused_ballots": 1133,
+    "eligible_voters": 1841,
+    "average_turnout_rate": 38.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "口湖鄉",
+      "village": "下崙村",
+      "polling_station": "234",
+      "agree_votes": 144,
+      "disagree_votes": 123,
+      "valid_votes": 267,
+      "invalid_votes": 3,
+      "total_voters": 270,
+      "ballots_not_cast": 0,
+      "ballots_issued": 270,
+      "unused_ballots": 502,
+      "eligible_voters": 772,
+      "turnout_rate": 34.97
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "口湖鄉",
+      "village": "下崙村",
+      "polling_station": "235",
+      "agree_votes": 193,
+      "disagree_votes": 240,
+      "valid_votes": 433,
+      "invalid_votes": 5,
+      "total_voters": 438,
+      "ballots_not_cast": 0,
+      "ballots_issued": 438,
+      "unused_ballots": 631,
+      "eligible_voters": 1069,
+      "turnout_rate": 40.97
+    }
+  ]
+}

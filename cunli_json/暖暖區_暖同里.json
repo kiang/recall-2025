@@ -1,0 +1,50 @@
+{
+  "cunli": "暖暖區_暖同里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 664,
+    "disagree_votes": 607,
+    "valid_votes": 1271,
+    "invalid_votes": 6,
+    "total_voters": 1277,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1277,
+    "unused_ballots": 1236,
+    "eligible_voters": 2513,
+    "average_turnout_rate": 50.82
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "暖暖區",
+      "village": "暖同里",
+      "polling_station": "221",
+      "agree_votes": 242,
+      "disagree_votes": 348,
+      "valid_votes": 590,
+      "invalid_votes": 5,
+      "total_voters": 595,
+      "ballots_not_cast": 0,
+      "ballots_issued": 595,
+      "unused_ballots": 459,
+      "eligible_voters": 1054,
+      "turnout_rate": 56.45
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "暖暖區",
+      "village": "暖同里",
+      "polling_station": "222",
+      "agree_votes": 422,
+      "disagree_votes": 259,
+      "valid_votes": 681,
+      "invalid_votes": 1,
+      "total_voters": 682,
+      "ballots_not_cast": 0,
+      "ballots_issued": 682,
+      "unused_ballots": 777,
+      "eligible_voters": 1459,
+      "turnout_rate": 46.74
+    }
+  ]
+}

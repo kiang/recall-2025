@@ -1,0 +1,66 @@
+{
+  "cunli": "八里區_米倉里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 785,
+    "disagree_votes": 1022,
+    "valid_votes": 1807,
+    "invalid_votes": 7,
+    "total_voters": 1814,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1814,
+    "unused_ballots": 1687,
+    "eligible_voters": 3501,
+    "average_turnout_rate": 51.81
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "八里區",
+      "village": "米倉里",
+      "polling_station": "156",
+      "agree_votes": 246,
+      "disagree_votes": 351,
+      "valid_votes": 597,
+      "invalid_votes": 3,
+      "total_voters": 600,
+      "ballots_not_cast": 0,
+      "ballots_issued": 600,
+      "unused_ballots": 618,
+      "eligible_voters": 1218,
+      "turnout_rate": 49.26
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "八里區",
+      "village": "米倉里",
+      "polling_station": "157",
+      "agree_votes": 255,
+      "disagree_votes": 300,
+      "valid_votes": 555,
+      "invalid_votes": 1,
+      "total_voters": 556,
+      "ballots_not_cast": 0,
+      "ballots_issued": 556,
+      "unused_ballots": 499,
+      "eligible_voters": 1055,
+      "turnout_rate": 52.7
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "八里區",
+      "village": "米倉里",
+      "polling_station": "158",
+      "agree_votes": 284,
+      "disagree_votes": 371,
+      "valid_votes": 655,
+      "invalid_votes": 3,
+      "total_voters": 658,
+      "ballots_not_cast": 0,
+      "ballots_issued": 658,
+      "unused_ballots": 570,
+      "eligible_voters": 1228,
+      "turnout_rate": 53.58
+    }
+  ]
+}

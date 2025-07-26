@@ -1,0 +1,82 @@
+{
+  "cunli": "松山區_復盛里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1322,
+    "disagree_votes": 1753,
+    "valid_votes": 3075,
+    "invalid_votes": 15,
+    "total_voters": 3090,
+    "ballots_not_cast": 1,
+    "ballots_issued": 3091,
+    "unused_ballots": 1792,
+    "eligible_voters": 4883,
+    "average_turnout_rate": 63.28
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第7選舉區)徐巧芯罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "復盛里",
+      "polling_station": "858",
+      "agree_votes": 353,
+      "disagree_votes": 504,
+      "valid_votes": 857,
+      "invalid_votes": 6,
+      "total_voters": 863,
+      "ballots_not_cast": 0,
+      "ballots_issued": 863,
+      "unused_ballots": 482,
+      "eligible_voters": 1345,
+      "turnout_rate": 64.16
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第7選舉區)徐巧芯罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "復盛里",
+      "polling_station": "859",
+      "agree_votes": 342,
+      "disagree_votes": 435,
+      "valid_votes": 777,
+      "invalid_votes": 4,
+      "total_voters": 781,
+      "ballots_not_cast": 1,
+      "ballots_issued": 782,
+      "unused_ballots": 459,
+      "eligible_voters": 1241,
+      "turnout_rate": 62.93
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第7選舉區)徐巧芯罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "復盛里",
+      "polling_station": "860",
+      "agree_votes": 330,
+      "disagree_votes": 446,
+      "valid_votes": 776,
+      "invalid_votes": 4,
+      "total_voters": 780,
+      "ballots_not_cast": 0,
+      "ballots_issued": 780,
+      "unused_ballots": 436,
+      "eligible_voters": 1216,
+      "turnout_rate": 64.14
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第7選舉區)徐巧芯罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "復盛里",
+      "polling_station": "861",
+      "agree_votes": 297,
+      "disagree_votes": 368,
+      "valid_votes": 665,
+      "invalid_votes": 1,
+      "total_voters": 666,
+      "ballots_not_cast": 0,
+      "ballots_issued": 666,
+      "unused_ballots": 415,
+      "eligible_voters": 1081,
+      "turnout_rate": 61.61
+    }
+  ]
+}

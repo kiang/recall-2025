@@ -1,0 +1,50 @@
+{
+  "cunli": "臺東市_岩灣里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 313,
+    "disagree_votes": 641,
+    "valid_votes": 954,
+    "invalid_votes": 0,
+    "total_voters": 954,
+    "ballots_not_cast": 0,
+    "ballots_issued": 954,
+    "unused_ballots": 927,
+    "eligible_voters": 1881,
+    "average_turnout_rate": 50.72
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "岩灣里",
+      "polling_station": "37",
+      "agree_votes": 179,
+      "disagree_votes": 321,
+      "valid_votes": 500,
+      "invalid_votes": 0,
+      "total_voters": 500,
+      "ballots_not_cast": 0,
+      "ballots_issued": 500,
+      "unused_ballots": 433,
+      "eligible_voters": 933,
+      "turnout_rate": 53.59
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "岩灣里",
+      "polling_station": "38",
+      "agree_votes": 134,
+      "disagree_votes": 320,
+      "valid_votes": 454,
+      "invalid_votes": 0,
+      "total_voters": 454,
+      "ballots_not_cast": 0,
+      "ballots_issued": 454,
+      "unused_ballots": 494,
+      "eligible_voters": 948,
+      "turnout_rate": 47.89
+    }
+  ]
+}

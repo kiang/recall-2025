@@ -1,0 +1,34 @@
+{
+  "cunli": "卑南鄉_東興村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 15,
+    "disagree_votes": 41,
+    "valid_votes": 56,
+    "invalid_votes": 0,
+    "total_voters": 56,
+    "ballots_not_cast": 0,
+    "ballots_issued": 56,
+    "unused_ballots": 59,
+    "eligible_voters": 115,
+    "average_turnout_rate": 48.7
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "卑南鄉",
+      "village": "東興村",
+      "polling_station": "134",
+      "agree_votes": 15,
+      "disagree_votes": 41,
+      "valid_votes": 56,
+      "invalid_votes": 0,
+      "total_voters": 56,
+      "ballots_not_cast": 0,
+      "ballots_issued": 56,
+      "unused_ballots": 59,
+      "eligible_voters": 115,
+      "turnout_rate": 48.7
+    }
+  ]
+}

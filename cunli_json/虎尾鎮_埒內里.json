@@ -1,0 +1,50 @@
+{
+  "cunli": "虎尾鎮_埒內里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 624,
+    "disagree_votes": 772,
+    "valid_votes": 1396,
+    "invalid_votes": 11,
+    "total_voters": 1407,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1407,
+    "unused_ballots": 1081,
+    "eligible_voters": 2488,
+    "average_turnout_rate": 56.55
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "虎尾鎮",
+      "village": "埒內里",
+      "polling_station": "152",
+      "agree_votes": 304,
+      "disagree_votes": 435,
+      "valid_votes": 739,
+      "invalid_votes": 8,
+      "total_voters": 747,
+      "ballots_not_cast": 0,
+      "ballots_issued": 747,
+      "unused_ballots": 533,
+      "eligible_voters": 1280,
+      "turnout_rate": 58.36
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "虎尾鎮",
+      "village": "埒內里",
+      "polling_station": "153",
+      "agree_votes": 320,
+      "disagree_votes": 337,
+      "valid_votes": 657,
+      "invalid_votes": 3,
+      "total_voters": 660,
+      "ballots_not_cast": 0,
+      "ballots_issued": 660,
+      "unused_ballots": 548,
+      "eligible_voters": 1208,
+      "turnout_rate": 54.64
+    }
+  ]
+}

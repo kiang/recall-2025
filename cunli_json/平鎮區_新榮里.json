@@ -1,0 +1,82 @@
+{
+  "cunli": "平鎮區_新榮里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1273,
+    "disagree_votes": 1681,
+    "valid_votes": 2954,
+    "invalid_votes": 9,
+    "total_voters": 2963,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2963,
+    "unused_ballots": 2018,
+    "eligible_voters": 4981,
+    "average_turnout_rate": 59.49
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新榮里",
+      "polling_station": "1027",
+      "agree_votes": 345,
+      "disagree_votes": 395,
+      "valid_votes": 740,
+      "invalid_votes": 1,
+      "total_voters": 741,
+      "ballots_not_cast": 0,
+      "ballots_issued": 741,
+      "unused_ballots": 459,
+      "eligible_voters": 1200,
+      "turnout_rate": 61.75
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新榮里",
+      "polling_station": "1028",
+      "agree_votes": 344,
+      "disagree_votes": 388,
+      "valid_votes": 732,
+      "invalid_votes": 2,
+      "total_voters": 734,
+      "ballots_not_cast": 0,
+      "ballots_issued": 734,
+      "unused_ballots": 442,
+      "eligible_voters": 1176,
+      "turnout_rate": 62.41
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新榮里",
+      "polling_station": "1029",
+      "agree_votes": 333,
+      "disagree_votes": 458,
+      "valid_votes": 791,
+      "invalid_votes": 3,
+      "total_voters": 794,
+      "ballots_not_cast": 0,
+      "ballots_issued": 794,
+      "unused_ballots": 652,
+      "eligible_voters": 1446,
+      "turnout_rate": 54.91
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新榮里",
+      "polling_station": "1030",
+      "agree_votes": 251,
+      "disagree_votes": 440,
+      "valid_votes": 691,
+      "invalid_votes": 3,
+      "total_voters": 694,
+      "ballots_not_cast": 0,
+      "ballots_issued": 694,
+      "unused_ballots": 465,
+      "eligible_voters": 1159,
+      "turnout_rate": 59.88
+    }
+  ]
+}

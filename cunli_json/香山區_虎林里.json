@@ -1,0 +1,82 @@
+{
+  "cunli": "香山區_虎林里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1173,
+    "disagree_votes": 1391,
+    "valid_votes": 2564,
+    "invalid_votes": 13,
+    "total_voters": 2577,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2577,
+    "unused_ballots": 1691,
+    "eligible_voters": 4268,
+    "average_turnout_rate": 60.38
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹市選舉區)鄭正鈐罷免案各投開票所投開票結果表",
+      "district": "香山區",
+      "village": "虎林里",
+      "polling_station": "316",
+      "agree_votes": 221,
+      "disagree_votes": 290,
+      "valid_votes": 511,
+      "invalid_votes": 3,
+      "total_voters": 514,
+      "ballots_not_cast": 0,
+      "ballots_issued": 514,
+      "unused_ballots": 357,
+      "eligible_voters": 871,
+      "turnout_rate": 59.01
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹市選舉區)鄭正鈐罷免案各投開票所投開票結果表",
+      "district": "香山區",
+      "village": "虎林里",
+      "polling_station": "317",
+      "agree_votes": 379,
+      "disagree_votes": 382,
+      "valid_votes": 761,
+      "invalid_votes": 6,
+      "total_voters": 767,
+      "ballots_not_cast": 0,
+      "ballots_issued": 767,
+      "unused_ballots": 473,
+      "eligible_voters": 1240,
+      "turnout_rate": 61.85
+    },
+    {
+      "recall_case": "新竹市第11屆市長高虹安罷免案在新竹市各投開票所投開票結果表",
+      "district": "香山區",
+      "village": "虎林里",
+      "polling_station": "316",
+      "agree_votes": 216,
+      "disagree_votes": 304,
+      "valid_votes": 520,
+      "invalid_votes": 1,
+      "total_voters": 521,
+      "ballots_not_cast": 0,
+      "ballots_issued": 521,
+      "unused_ballots": 371,
+      "eligible_voters": 892,
+      "turnout_rate": 58.41
+    },
+    {
+      "recall_case": "新竹市第11屆市長高虹安罷免案在新竹市各投開票所投開票結果表",
+      "district": "香山區",
+      "village": "虎林里",
+      "polling_station": "317",
+      "agree_votes": 357,
+      "disagree_votes": 415,
+      "valid_votes": 772,
+      "invalid_votes": 3,
+      "total_voters": 775,
+      "ballots_not_cast": 0,
+      "ballots_issued": 775,
+      "unused_ballots": 490,
+      "eligible_voters": 1265,
+      "turnout_rate": 61.26
+    }
+  ]
+}

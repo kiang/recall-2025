@@ -1,0 +1,66 @@
+{
+  "cunli": "虎尾鎮_西安里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 603,
+    "disagree_votes": 1027,
+    "valid_votes": 1630,
+    "invalid_votes": 10,
+    "total_voters": 1640,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1640,
+    "unused_ballots": 1340,
+    "eligible_voters": 2980,
+    "average_turnout_rate": 55.03
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "虎尾鎮",
+      "village": "西安里",
+      "polling_station": "132",
+      "agree_votes": 190,
+      "disagree_votes": 331,
+      "valid_votes": 521,
+      "invalid_votes": 4,
+      "total_voters": 525,
+      "ballots_not_cast": 0,
+      "ballots_issued": 525,
+      "unused_ballots": 386,
+      "eligible_voters": 911,
+      "turnout_rate": 57.63
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "虎尾鎮",
+      "village": "西安里",
+      "polling_station": "133",
+      "agree_votes": 184,
+      "disagree_votes": 354,
+      "valid_votes": 538,
+      "invalid_votes": 4,
+      "total_voters": 542,
+      "ballots_not_cast": 0,
+      "ballots_issued": 542,
+      "unused_ballots": 421,
+      "eligible_voters": 963,
+      "turnout_rate": 56.28
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "虎尾鎮",
+      "village": "西安里",
+      "polling_station": "134",
+      "agree_votes": 229,
+      "disagree_votes": 342,
+      "valid_votes": 571,
+      "invalid_votes": 2,
+      "total_voters": 573,
+      "ballots_not_cast": 0,
+      "ballots_issued": 573,
+      "unused_ballots": 533,
+      "eligible_voters": 1106,
+      "turnout_rate": 51.81
+    }
+  ]
+}

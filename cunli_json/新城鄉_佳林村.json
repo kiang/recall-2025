@@ -1,0 +1,34 @@
+{
+  "cunli": "新城鄉_佳林村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 177,
+    "disagree_votes": 254,
+    "valid_votes": 431,
+    "invalid_votes": 1,
+    "total_voters": 432,
+    "ballots_not_cast": 0,
+    "ballots_issued": 432,
+    "unused_ballots": 260,
+    "eligible_voters": 692,
+    "average_turnout_rate": 62.43
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "新城鄉",
+      "village": "佳林村",
+      "polling_station": "109",
+      "agree_votes": 177,
+      "disagree_votes": 254,
+      "valid_votes": 431,
+      "invalid_votes": 1,
+      "total_voters": 432,
+      "ballots_not_cast": 0,
+      "ballots_issued": 432,
+      "unused_ballots": 260,
+      "eligible_voters": 692,
+      "turnout_rate": 62.43
+    }
+  ]
+}

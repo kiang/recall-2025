@@ -1,0 +1,34 @@
+{
+  "cunli": "暖暖區_八堵里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 146,
+    "disagree_votes": 157,
+    "valid_votes": 303,
+    "invalid_votes": 1,
+    "total_voters": 304,
+    "ballots_not_cast": 0,
+    "ballots_issued": 304,
+    "unused_ballots": 260,
+    "eligible_voters": 564,
+    "average_turnout_rate": 53.9
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "暖暖區",
+      "village": "八堵里",
+      "polling_station": "214",
+      "agree_votes": 146,
+      "disagree_votes": 157,
+      "valid_votes": 303,
+      "invalid_votes": 1,
+      "total_voters": 304,
+      "ballots_not_cast": 0,
+      "ballots_issued": 304,
+      "unused_ballots": 260,
+      "eligible_voters": 564,
+      "turnout_rate": 53.9
+    }
+  ]
+}

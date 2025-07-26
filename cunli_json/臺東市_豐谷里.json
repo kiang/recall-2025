@@ -1,0 +1,66 @@
+{
+  "cunli": "臺東市_豐谷里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 392,
+    "disagree_votes": 777,
+    "valid_votes": 1169,
+    "invalid_votes": 3,
+    "total_voters": 1172,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1172,
+    "unused_ballots": 1215,
+    "eligible_voters": 2387,
+    "average_turnout_rate": 49.1
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "豐谷里",
+      "polling_station": "73",
+      "agree_votes": 128,
+      "disagree_votes": 180,
+      "valid_votes": 308,
+      "invalid_votes": 1,
+      "total_voters": 309,
+      "ballots_not_cast": 0,
+      "ballots_issued": 309,
+      "unused_ballots": 354,
+      "eligible_voters": 663,
+      "turnout_rate": 46.61
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "豐谷里",
+      "polling_station": "74",
+      "agree_votes": 117,
+      "disagree_votes": 300,
+      "valid_votes": 417,
+      "invalid_votes": 2,
+      "total_voters": 419,
+      "ballots_not_cast": 0,
+      "ballots_issued": 419,
+      "unused_ballots": 428,
+      "eligible_voters": 847,
+      "turnout_rate": 49.47
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "豐谷里",
+      "polling_station": "75",
+      "agree_votes": 147,
+      "disagree_votes": 297,
+      "valid_votes": 444,
+      "invalid_votes": 0,
+      "total_voters": 444,
+      "ballots_not_cast": 0,
+      "ballots_issued": 444,
+      "unused_ballots": 433,
+      "eligible_voters": 877,
+      "turnout_rate": 50.63
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "cunli": "關山鎮_豐泉里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 122,
+    "disagree_votes": 326,
+    "valid_votes": 448,
+    "invalid_votes": 2,
+    "total_voters": 450,
+    "ballots_not_cast": 0,
+    "ballots_issued": 450,
+    "unused_ballots": 449,
+    "eligible_voters": 899,
+    "average_turnout_rate": 50.06
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "關山鎮",
+      "village": "豐泉里",
+      "polling_station": "113",
+      "agree_votes": 122,
+      "disagree_votes": 326,
+      "valid_votes": 448,
+      "invalid_votes": 2,
+      "total_voters": 450,
+      "ballots_not_cast": 0,
+      "ballots_issued": 450,
+      "unused_ballots": 449,
+      "eligible_voters": 899,
+      "turnout_rate": 50.06
+    }
+  ]
+}

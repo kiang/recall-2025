@@ -1,0 +1,82 @@
+{
+  "cunli": "淡水區_八勢里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1814,
+    "disagree_votes": 2003,
+    "valid_votes": 3817,
+    "invalid_votes": 26,
+    "total_voters": 3843,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3843,
+    "unused_ballots": 3457,
+    "eligible_voters": 7300,
+    "average_turnout_rate": 52.64
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "八勢里",
+      "polling_station": "61",
+      "agree_votes": 393,
+      "disagree_votes": 443,
+      "valid_votes": 836,
+      "invalid_votes": 4,
+      "total_voters": 840,
+      "ballots_not_cast": 0,
+      "ballots_issued": 840,
+      "unused_ballots": 836,
+      "eligible_voters": 1676,
+      "turnout_rate": 50.12
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "八勢里",
+      "polling_station": "62",
+      "agree_votes": 402,
+      "disagree_votes": 495,
+      "valid_votes": 897,
+      "invalid_votes": 8,
+      "total_voters": 905,
+      "ballots_not_cast": 0,
+      "ballots_issued": 905,
+      "unused_ballots": 811,
+      "eligible_voters": 1716,
+      "turnout_rate": 52.74
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "八勢里",
+      "polling_station": "63",
+      "agree_votes": 444,
+      "disagree_votes": 580,
+      "valid_votes": 1024,
+      "invalid_votes": 7,
+      "total_voters": 1031,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1031,
+      "unused_ballots": 1046,
+      "eligible_voters": 2077,
+      "turnout_rate": 49.64
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "八勢里",
+      "polling_station": "64",
+      "agree_votes": 575,
+      "disagree_votes": 485,
+      "valid_votes": 1060,
+      "invalid_votes": 7,
+      "total_voters": 1067,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1067,
+      "unused_ballots": 764,
+      "eligible_voters": 1831,
+      "turnout_rate": 58.27
+    }
+  ]
+}

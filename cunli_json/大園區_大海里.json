@@ -1,0 +1,34 @@
+{
+  "cunli": "大園區_大海里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 164,
+    "disagree_votes": 237,
+    "valid_votes": 401,
+    "invalid_votes": 2,
+    "total_voters": 403,
+    "ballots_not_cast": 0,
+    "ballots_issued": 403,
+    "unused_ballots": 222,
+    "eligible_voters": 625,
+    "average_turnout_rate": 64.48
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "大園區",
+      "village": "大海里",
+      "polling_station": "281",
+      "agree_votes": 164,
+      "disagree_votes": 237,
+      "valid_votes": 401,
+      "invalid_votes": 2,
+      "total_voters": 403,
+      "ballots_not_cast": 0,
+      "ballots_issued": 403,
+      "unused_ballots": 222,
+      "eligible_voters": 625,
+      "turnout_rate": 64.48
+    }
+  ]
+}

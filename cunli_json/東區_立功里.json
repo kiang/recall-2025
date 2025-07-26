@@ -1,0 +1,50 @@
+{
+  "cunli": "東區_立功里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 237,
+    "disagree_votes": 699,
+    "valid_votes": 936,
+    "invalid_votes": 9,
+    "total_voters": 945,
+    "ballots_not_cast": 0,
+    "ballots_issued": 945,
+    "unused_ballots": 665,
+    "eligible_voters": 1610,
+    "average_turnout_rate": 58.7
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹市選舉區)鄭正鈐罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "立功里",
+      "polling_station": "70",
+      "agree_votes": 122,
+      "disagree_votes": 339,
+      "valid_votes": 461,
+      "invalid_votes": 4,
+      "total_voters": 465,
+      "ballots_not_cast": 0,
+      "ballots_issued": 465,
+      "unused_ballots": 324,
+      "eligible_voters": 789,
+      "turnout_rate": 58.94
+    },
+    {
+      "recall_case": "新竹市第11屆市長高虹安罷免案在新竹市各投開票所投開票結果表",
+      "district": "東區",
+      "village": "立功里",
+      "polling_station": "70",
+      "agree_votes": 115,
+      "disagree_votes": 360,
+      "valid_votes": 475,
+      "invalid_votes": 5,
+      "total_voters": 480,
+      "ballots_not_cast": 0,
+      "ballots_issued": 480,
+      "unused_ballots": 341,
+      "eligible_voters": 821,
+      "turnout_rate": 58.47
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "永和區_民本里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 726,
+    "disagree_votes": 1042,
+    "valid_votes": 1768,
+    "invalid_votes": 11,
+    "total_voters": 1779,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1779,
+    "unused_ballots": 1507,
+    "eligible_voters": 3286,
+    "average_turnout_rate": 54.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "民本里",
+      "polling_station": "807",
+      "agree_votes": 368,
+      "disagree_votes": 497,
+      "valid_votes": 865,
+      "invalid_votes": 7,
+      "total_voters": 872,
+      "ballots_not_cast": 0,
+      "ballots_issued": 872,
+      "unused_ballots": 690,
+      "eligible_voters": 1562,
+      "turnout_rate": 55.83
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "民本里",
+      "polling_station": "808",
+      "agree_votes": 358,
+      "disagree_votes": 545,
+      "valid_votes": 903,
+      "invalid_votes": 4,
+      "total_voters": 907,
+      "ballots_not_cast": 0,
+      "ballots_issued": 907,
+      "unused_ballots": 817,
+      "eligible_voters": 1724,
+      "turnout_rate": 52.61
+    }
+  ]
+}

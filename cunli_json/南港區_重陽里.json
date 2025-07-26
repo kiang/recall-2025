@@ -1,0 +1,82 @@
+{
+  "cunli": "南港區_重陽里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1200,
+    "disagree_votes": 1774,
+    "valid_votes": 2974,
+    "invalid_votes": 16,
+    "total_voters": 2990,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2990,
+    "unused_ballots": 2050,
+    "eligible_voters": 5040,
+    "average_turnout_rate": 59.33
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "重陽里",
+      "polling_station": "439",
+      "agree_votes": 278,
+      "disagree_votes": 482,
+      "valid_votes": 760,
+      "invalid_votes": 1,
+      "total_voters": 761,
+      "ballots_not_cast": 0,
+      "ballots_issued": 761,
+      "unused_ballots": 494,
+      "eligible_voters": 1255,
+      "turnout_rate": 60.64
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "重陽里",
+      "polling_station": "440",
+      "agree_votes": 274,
+      "disagree_votes": 420,
+      "valid_votes": 694,
+      "invalid_votes": 6,
+      "total_voters": 700,
+      "ballots_not_cast": 0,
+      "ballots_issued": 700,
+      "unused_ballots": 524,
+      "eligible_voters": 1224,
+      "turnout_rate": 57.19
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "重陽里",
+      "polling_station": "441",
+      "agree_votes": 347,
+      "disagree_votes": 476,
+      "valid_votes": 823,
+      "invalid_votes": 5,
+      "total_voters": 828,
+      "ballots_not_cast": 0,
+      "ballots_issued": 828,
+      "unused_ballots": 554,
+      "eligible_voters": 1382,
+      "turnout_rate": 59.91
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "重陽里",
+      "polling_station": "442",
+      "agree_votes": 301,
+      "disagree_votes": 396,
+      "valid_votes": 697,
+      "invalid_votes": 4,
+      "total_voters": 701,
+      "ballots_not_cast": 0,
+      "ballots_issued": 701,
+      "unused_ballots": 478,
+      "eligible_voters": 1179,
+      "turnout_rate": 59.46
+    }
+  ]
+}

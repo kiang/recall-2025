@@ -1,0 +1,82 @@
+{
+  "cunli": "板橋區_華德里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1488,
+    "disagree_votes": 1734,
+    "valid_votes": 3222,
+    "invalid_votes": 10,
+    "total_voters": 3232,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3232,
+    "unused_ballots": 2685,
+    "eligible_voters": 5917,
+    "average_turnout_rate": 54.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第7選舉區)葉元之罷免案各投開票所投開票結果表",
+      "district": "板橋區",
+      "village": "華德里",
+      "polling_station": "420",
+      "agree_votes": 342,
+      "disagree_votes": 384,
+      "valid_votes": 726,
+      "invalid_votes": 3,
+      "total_voters": 729,
+      "ballots_not_cast": 0,
+      "ballots_issued": 729,
+      "unused_ballots": 580,
+      "eligible_voters": 1309,
+      "turnout_rate": 55.69
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第7選舉區)葉元之罷免案各投開票所投開票結果表",
+      "district": "板橋區",
+      "village": "華德里",
+      "polling_station": "421",
+      "agree_votes": 372,
+      "disagree_votes": 324,
+      "valid_votes": 696,
+      "invalid_votes": 1,
+      "total_voters": 697,
+      "ballots_not_cast": 0,
+      "ballots_issued": 697,
+      "unused_ballots": 590,
+      "eligible_voters": 1287,
+      "turnout_rate": 54.16
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第7選舉區)葉元之罷免案各投開票所投開票結果表",
+      "district": "板橋區",
+      "village": "華德里",
+      "polling_station": "422",
+      "agree_votes": 390,
+      "disagree_votes": 484,
+      "valid_votes": 874,
+      "invalid_votes": 3,
+      "total_voters": 877,
+      "ballots_not_cast": 0,
+      "ballots_issued": 877,
+      "unused_ballots": 757,
+      "eligible_voters": 1634,
+      "turnout_rate": 53.67
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第7選舉區)葉元之罷免案各投開票所投開票結果表",
+      "district": "板橋區",
+      "village": "華德里",
+      "polling_station": "423",
+      "agree_votes": 384,
+      "disagree_votes": 542,
+      "valid_votes": 926,
+      "invalid_votes": 3,
+      "total_voters": 929,
+      "ballots_not_cast": 0,
+      "ballots_issued": 929,
+      "unused_ballots": 758,
+      "eligible_voters": 1687,
+      "turnout_rate": 55.07
+    }
+  ]
+}

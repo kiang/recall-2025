@@ -1,0 +1,34 @@
+{
+  "cunli": "復興區_澤仁里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 124,
+    "disagree_votes": 169,
+    "valid_votes": 293,
+    "invalid_votes": 2,
+    "total_voters": 295,
+    "ballots_not_cast": 0,
+    "ballots_issued": 295,
+    "unused_ballots": 316,
+    "eligible_voters": 611,
+    "average_turnout_rate": 48.28
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "復興區",
+      "village": "澤仁里",
+      "polling_station": "1348",
+      "agree_votes": 124,
+      "disagree_votes": 169,
+      "valid_votes": 293,
+      "invalid_votes": 2,
+      "total_voters": 295,
+      "ballots_not_cast": 0,
+      "ballots_issued": 295,
+      "unused_ballots": 316,
+      "eligible_voters": 611,
+      "turnout_rate": 48.28
+    }
+  ]
+}

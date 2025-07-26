@@ -1,0 +1,66 @@
+{
+  "cunli": "大安區_法治里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 809,
+    "disagree_votes": 1364,
+    "valid_votes": 2173,
+    "invalid_votes": 9,
+    "total_voters": 2182,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2182,
+    "unused_ballots": 1382,
+    "eligible_voters": 3564,
+    "average_turnout_rate": 61.22
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "法治里",
+      "polling_station": "593",
+      "agree_votes": 259,
+      "disagree_votes": 404,
+      "valid_votes": 663,
+      "invalid_votes": 4,
+      "total_voters": 667,
+      "ballots_not_cast": 0,
+      "ballots_issued": 667,
+      "unused_ballots": 406,
+      "eligible_voters": 1073,
+      "turnout_rate": 62.16
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "法治里",
+      "polling_station": "594",
+      "agree_votes": 262,
+      "disagree_votes": 573,
+      "valid_votes": 835,
+      "invalid_votes": 3,
+      "total_voters": 838,
+      "ballots_not_cast": 0,
+      "ballots_issued": 838,
+      "unused_ballots": 501,
+      "eligible_voters": 1339,
+      "turnout_rate": 62.58
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "法治里",
+      "polling_station": "595",
+      "agree_votes": 288,
+      "disagree_votes": 387,
+      "valid_votes": 675,
+      "invalid_votes": 2,
+      "total_voters": 677,
+      "ballots_not_cast": 0,
+      "ballots_issued": 677,
+      "unused_ballots": 475,
+      "eligible_voters": 1152,
+      "turnout_rate": 58.77
+    }
+  ]
+}

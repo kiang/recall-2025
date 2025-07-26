@@ -1,0 +1,34 @@
+{
+  "cunli": "淡水區_協元里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 345,
+    "disagree_votes": 325,
+    "valid_votes": 670,
+    "invalid_votes": 6,
+    "total_voters": 676,
+    "ballots_not_cast": 0,
+    "ballots_issued": 676,
+    "unused_ballots": 555,
+    "eligible_voters": 1231,
+    "average_turnout_rate": 54.91
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "協元里",
+      "polling_station": "134",
+      "agree_votes": 345,
+      "disagree_votes": 325,
+      "valid_votes": 670,
+      "invalid_votes": 6,
+      "total_voters": 676,
+      "ballots_not_cast": 0,
+      "ballots_issued": 676,
+      "unused_ballots": 555,
+      "eligible_voters": 1231,
+      "turnout_rate": 54.91
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "cunli": "大園區_橫峰里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1018,
+    "disagree_votes": 1124,
+    "valid_votes": 2142,
+    "invalid_votes": 12,
+    "total_voters": 2154,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2154,
+    "unused_ballots": 1824,
+    "eligible_voters": 3978,
+    "average_turnout_rate": 54.15
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "大園區",
+      "village": "橫峰里",
+      "polling_station": "264",
+      "agree_votes": 336,
+      "disagree_votes": 338,
+      "valid_votes": 674,
+      "invalid_votes": 1,
+      "total_voters": 675,
+      "ballots_not_cast": 0,
+      "ballots_issued": 675,
+      "unused_ballots": 653,
+      "eligible_voters": 1328,
+      "turnout_rate": 50.83
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "大園區",
+      "village": "橫峰里",
+      "polling_station": "265",
+      "agree_votes": 325,
+      "disagree_votes": 394,
+      "valid_votes": 719,
+      "invalid_votes": 7,
+      "total_voters": 726,
+      "ballots_not_cast": 0,
+      "ballots_issued": 726,
+      "unused_ballots": 633,
+      "eligible_voters": 1359,
+      "turnout_rate": 53.42
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "大園區",
+      "village": "橫峰里",
+      "polling_station": "266",
+      "agree_votes": 357,
+      "disagree_votes": 392,
+      "valid_votes": 749,
+      "invalid_votes": 4,
+      "total_voters": 753,
+      "ballots_not_cast": 0,
+      "ballots_issued": 753,
+      "unused_ballots": 538,
+      "eligible_voters": 1291,
+      "turnout_rate": 58.33
+    }
+  ]
+}

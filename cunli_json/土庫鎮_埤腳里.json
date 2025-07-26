@@ -1,0 +1,50 @@
+{
+  "cunli": "土庫鎮_埤腳里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 250,
+    "disagree_votes": 303,
+    "valid_votes": 553,
+    "invalid_votes": 3,
+    "total_voters": 556,
+    "ballots_not_cast": 0,
+    "ballots_issued": 556,
+    "unused_ballots": 560,
+    "eligible_voters": 1116,
+    "average_turnout_rate": 49.82
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "土庫鎮",
+      "village": "埤腳里",
+      "polling_station": "106",
+      "agree_votes": 165,
+      "disagree_votes": 135,
+      "valid_votes": 300,
+      "invalid_votes": 3,
+      "total_voters": 303,
+      "ballots_not_cast": 0,
+      "ballots_issued": 303,
+      "unused_ballots": 361,
+      "eligible_voters": 664,
+      "turnout_rate": 45.63
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "土庫鎮",
+      "village": "埤腳里",
+      "polling_station": "107",
+      "agree_votes": 85,
+      "disagree_votes": 168,
+      "valid_votes": 253,
+      "invalid_votes": 0,
+      "total_voters": 253,
+      "ballots_not_cast": 0,
+      "ballots_issued": 253,
+      "unused_ballots": 199,
+      "eligible_voters": 452,
+      "turnout_rate": 55.97
+    }
+  ]
+}

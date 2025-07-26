@@ -1,0 +1,50 @@
+{
+  "cunli": "卓溪鄉_卓清村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 6,
+    "disagree_votes": 11,
+    "valid_votes": 17,
+    "invalid_votes": 0,
+    "total_voters": 17,
+    "ballots_not_cast": 0,
+    "ballots_issued": 17,
+    "unused_ballots": 28,
+    "eligible_voters": 45,
+    "average_turnout_rate": 37.78
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "卓溪鄉",
+      "village": "卓清村",
+      "polling_station": "335",
+      "agree_votes": 3,
+      "disagree_votes": 8,
+      "valid_votes": 11,
+      "invalid_votes": 0,
+      "total_voters": 11,
+      "ballots_not_cast": 0,
+      "ballots_issued": 11,
+      "unused_ballots": 22,
+      "eligible_voters": 33,
+      "turnout_rate": 33.33
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "卓溪鄉",
+      "village": "卓清村",
+      "polling_station": "336",
+      "agree_votes": 3,
+      "disagree_votes": 3,
+      "valid_votes": 6,
+      "invalid_votes": 0,
+      "total_voters": 6,
+      "ballots_not_cast": 0,
+      "ballots_issued": 6,
+      "unused_ballots": 6,
+      "eligible_voters": 12,
+      "turnout_rate": 50.0
+    }
+  ]
+}

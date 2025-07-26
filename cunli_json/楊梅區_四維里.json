@@ -1,0 +1,66 @@
+{
+  "cunli": "楊梅區_四維里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 876,
+    "disagree_votes": 1806,
+    "valid_votes": 2682,
+    "invalid_votes": 10,
+    "total_voters": 2692,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2692,
+    "unused_ballots": 2014,
+    "eligible_voters": 4706,
+    "average_turnout_rate": 57.2
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "楊梅區",
+      "village": "四維里",
+      "polling_station": "396",
+      "agree_votes": 298,
+      "disagree_votes": 605,
+      "valid_votes": 903,
+      "invalid_votes": 1,
+      "total_voters": 904,
+      "ballots_not_cast": 0,
+      "ballots_issued": 904,
+      "unused_ballots": 659,
+      "eligible_voters": 1563,
+      "turnout_rate": 57.84
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "楊梅區",
+      "village": "四維里",
+      "polling_station": "397",
+      "agree_votes": 279,
+      "disagree_votes": 615,
+      "valid_votes": 894,
+      "invalid_votes": 5,
+      "total_voters": 899,
+      "ballots_not_cast": 0,
+      "ballots_issued": 899,
+      "unused_ballots": 665,
+      "eligible_voters": 1564,
+      "turnout_rate": 57.48
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "楊梅區",
+      "village": "四維里",
+      "polling_station": "398",
+      "agree_votes": 299,
+      "disagree_votes": 586,
+      "valid_votes": 885,
+      "invalid_votes": 4,
+      "total_voters": 889,
+      "ballots_not_cast": 0,
+      "ballots_issued": 889,
+      "unused_ballots": 690,
+      "eligible_voters": 1579,
+      "turnout_rate": 56.3
+    }
+  ]
+}

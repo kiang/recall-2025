@@ -1,0 +1,50 @@
+{
+  "cunli": "土庫鎮_宮北里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 306,
+    "disagree_votes": 425,
+    "valid_votes": 731,
+    "invalid_votes": 4,
+    "total_voters": 735,
+    "ballots_not_cast": 0,
+    "ballots_issued": 735,
+    "unused_ballots": 527,
+    "eligible_voters": 1262,
+    "average_turnout_rate": 58.24
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "土庫鎮",
+      "village": "宮北里",
+      "polling_station": "94",
+      "agree_votes": 169,
+      "disagree_votes": 167,
+      "valid_votes": 336,
+      "invalid_votes": 2,
+      "total_voters": 338,
+      "ballots_not_cast": 0,
+      "ballots_issued": 338,
+      "unused_ballots": 270,
+      "eligible_voters": 608,
+      "turnout_rate": 55.59
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "土庫鎮",
+      "village": "宮北里",
+      "polling_station": "95",
+      "agree_votes": 137,
+      "disagree_votes": 258,
+      "valid_votes": 395,
+      "invalid_votes": 2,
+      "total_voters": 397,
+      "ballots_not_cast": 0,
+      "ballots_issued": 397,
+      "unused_ballots": 257,
+      "eligible_voters": 654,
+      "turnout_rate": 60.7
+    }
+  ]
+}

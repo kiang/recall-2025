@@ -1,0 +1,66 @@
+{
+  "cunli": "瑞芳區_吉安里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 514,
+    "disagree_votes": 790,
+    "valid_votes": 1304,
+    "invalid_votes": 9,
+    "total_voters": 1313,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1313,
+    "unused_ballots": 1394,
+    "eligible_voters": 2707,
+    "average_turnout_rate": 48.5
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "吉安里",
+      "polling_station": "1091",
+      "agree_votes": 127,
+      "disagree_votes": 224,
+      "valid_votes": 351,
+      "invalid_votes": 1,
+      "total_voters": 352,
+      "ballots_not_cast": 0,
+      "ballots_issued": 352,
+      "unused_ballots": 360,
+      "eligible_voters": 712,
+      "turnout_rate": 49.44
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "吉安里",
+      "polling_station": "1092",
+      "agree_votes": 199,
+      "disagree_votes": 308,
+      "valid_votes": 507,
+      "invalid_votes": 2,
+      "total_voters": 509,
+      "ballots_not_cast": 0,
+      "ballots_issued": 509,
+      "unused_ballots": 532,
+      "eligible_voters": 1041,
+      "turnout_rate": 48.9
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "吉安里",
+      "polling_station": "1093",
+      "agree_votes": 188,
+      "disagree_votes": 258,
+      "valid_votes": 446,
+      "invalid_votes": 6,
+      "total_voters": 452,
+      "ballots_not_cast": 0,
+      "ballots_issued": 452,
+      "unused_ballots": 502,
+      "eligible_voters": 954,
+      "turnout_rate": 47.38
+    }
+  ]
+}

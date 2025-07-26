@@ -1,0 +1,66 @@
+{
+  "cunli": "麥寮鄉_後安村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 323,
+    "disagree_votes": 801,
+    "valid_votes": 1124,
+    "invalid_votes": 10,
+    "total_voters": 1134,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1134,
+    "unused_ballots": 1797,
+    "eligible_voters": 2931,
+    "average_turnout_rate": 38.69
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "後安村",
+      "polling_station": "19",
+      "agree_votes": 145,
+      "disagree_votes": 290,
+      "valid_votes": 435,
+      "invalid_votes": 1,
+      "total_voters": 436,
+      "ballots_not_cast": 0,
+      "ballots_issued": 436,
+      "unused_ballots": 607,
+      "eligible_voters": 1043,
+      "turnout_rate": 41.8
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "後安村",
+      "polling_station": "20",
+      "agree_votes": 67,
+      "disagree_votes": 226,
+      "valid_votes": 293,
+      "invalid_votes": 4,
+      "total_voters": 297,
+      "ballots_not_cast": 0,
+      "ballots_issued": 297,
+      "unused_ballots": 618,
+      "eligible_voters": 915,
+      "turnout_rate": 32.46
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "後安村",
+      "polling_station": "21",
+      "agree_votes": 111,
+      "disagree_votes": 285,
+      "valid_votes": 396,
+      "invalid_votes": 5,
+      "total_voters": 401,
+      "ballots_not_cast": 0,
+      "ballots_issued": 401,
+      "unused_ballots": 572,
+      "eligible_voters": 973,
+      "turnout_rate": 41.21
+    }
+  ]
+}

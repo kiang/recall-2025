@@ -1,0 +1,50 @@
+{
+  "cunli": "瑞芳區_東和里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 324,
+    "disagree_votes": 413,
+    "valid_votes": 737,
+    "invalid_votes": 5,
+    "total_voters": 742,
+    "ballots_not_cast": 0,
+    "ballots_issued": 742,
+    "unused_ballots": 738,
+    "eligible_voters": 1480,
+    "average_turnout_rate": 50.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "東和里",
+      "polling_station": "1082",
+      "agree_votes": 210,
+      "disagree_votes": 248,
+      "valid_votes": 458,
+      "invalid_votes": 3,
+      "total_voters": 461,
+      "ballots_not_cast": 0,
+      "ballots_issued": 461,
+      "unused_ballots": 428,
+      "eligible_voters": 889,
+      "turnout_rate": 51.86
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "東和里",
+      "polling_station": "1083",
+      "agree_votes": 114,
+      "disagree_votes": 165,
+      "valid_votes": 279,
+      "invalid_votes": 2,
+      "total_voters": 281,
+      "ballots_not_cast": 0,
+      "ballots_issued": 281,
+      "unused_ballots": 310,
+      "eligible_voters": 591,
+      "turnout_rate": 47.55
+    }
+  ]
+}

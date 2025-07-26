@@ -1,0 +1,50 @@
+{
+  "cunli": "仁愛區_光華里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 575,
+    "disagree_votes": 690,
+    "valid_votes": 1265,
+    "invalid_votes": 3,
+    "total_voters": 1268,
+    "ballots_not_cast": 1,
+    "ballots_issued": 1269,
+    "unused_ballots": 1152,
+    "eligible_voters": 2421,
+    "average_turnout_rate": 52.38
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "仁愛區",
+      "village": "光華里",
+      "polling_station": "113",
+      "agree_votes": 270,
+      "disagree_votes": 286,
+      "valid_votes": 556,
+      "invalid_votes": 1,
+      "total_voters": 557,
+      "ballots_not_cast": 1,
+      "ballots_issued": 558,
+      "unused_ballots": 714,
+      "eligible_voters": 1272,
+      "turnout_rate": 43.79
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "仁愛區",
+      "village": "光華里",
+      "polling_station": "114",
+      "agree_votes": 305,
+      "disagree_votes": 404,
+      "valid_votes": 709,
+      "invalid_votes": 2,
+      "total_voters": 711,
+      "ballots_not_cast": 0,
+      "ballots_issued": 711,
+      "unused_ballots": 438,
+      "eligible_voters": 1149,
+      "turnout_rate": 61.88
+    }
+  ]
+}

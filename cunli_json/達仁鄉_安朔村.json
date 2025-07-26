@@ -1,0 +1,50 @@
+{
+  "cunli": "達仁鄉_安朔村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 6,
+    "disagree_votes": 17,
+    "valid_votes": 23,
+    "invalid_votes": 0,
+    "total_voters": 23,
+    "ballots_not_cast": 0,
+    "ballots_issued": 23,
+    "unused_ballots": 38,
+    "eligible_voters": 61,
+    "average_turnout_rate": 37.7
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "達仁鄉",
+      "village": "安朔村",
+      "polling_station": "226",
+      "agree_votes": 4,
+      "disagree_votes": 11,
+      "valid_votes": 15,
+      "invalid_votes": 0,
+      "total_voters": 15,
+      "ballots_not_cast": 0,
+      "ballots_issued": 15,
+      "unused_ballots": 24,
+      "eligible_voters": 39,
+      "turnout_rate": 38.46
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "達仁鄉",
+      "village": "安朔村",
+      "polling_station": "227",
+      "agree_votes": 2,
+      "disagree_votes": 6,
+      "valid_votes": 8,
+      "invalid_votes": 0,
+      "total_voters": 8,
+      "ballots_not_cast": 0,
+      "ballots_issued": 8,
+      "unused_ballots": 14,
+      "eligible_voters": 22,
+      "turnout_rate": 36.36
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "cunli": "汐止區_智慧里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 975,
+    "disagree_votes": 1412,
+    "valid_votes": 2387,
+    "invalid_votes": 6,
+    "total_voters": 2393,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2393,
+    "unused_ballots": 1788,
+    "eligible_voters": 4181,
+    "average_turnout_rate": 57.24
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "智慧里",
+      "polling_station": "933",
+      "agree_votes": 321,
+      "disagree_votes": 454,
+      "valid_votes": 775,
+      "invalid_votes": 3,
+      "total_voters": 778,
+      "ballots_not_cast": 0,
+      "ballots_issued": 778,
+      "unused_ballots": 602,
+      "eligible_voters": 1380,
+      "turnout_rate": 56.38
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "智慧里",
+      "polling_station": "934",
+      "agree_votes": 302,
+      "disagree_votes": 487,
+      "valid_votes": 789,
+      "invalid_votes": 2,
+      "total_voters": 791,
+      "ballots_not_cast": 0,
+      "ballots_issued": 791,
+      "unused_ballots": 556,
+      "eligible_voters": 1347,
+      "turnout_rate": 58.72
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "智慧里",
+      "polling_station": "935",
+      "agree_votes": 352,
+      "disagree_votes": 471,
+      "valid_votes": 823,
+      "invalid_votes": 1,
+      "total_voters": 824,
+      "ballots_not_cast": 0,
+      "ballots_issued": 824,
+      "unused_ballots": 630,
+      "eligible_voters": 1454,
+      "turnout_rate": 56.67
+    }
+  ]
+}

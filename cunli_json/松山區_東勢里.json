@@ -1,0 +1,66 @@
+{
+  "cunli": "松山區_東勢里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1043,
+    "disagree_votes": 1055,
+    "valid_votes": 2098,
+    "invalid_votes": 8,
+    "total_voters": 2106,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2106,
+    "unused_ballots": 1235,
+    "eligible_voters": 3341,
+    "average_turnout_rate": 63.04
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第3選舉區)王鴻薇罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "東勢里",
+      "polling_station": "203",
+      "agree_votes": 353,
+      "disagree_votes": 329,
+      "valid_votes": 682,
+      "invalid_votes": 1,
+      "total_voters": 683,
+      "ballots_not_cast": 0,
+      "ballots_issued": 683,
+      "unused_ballots": 446,
+      "eligible_voters": 1129,
+      "turnout_rate": 60.5
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第3選舉區)王鴻薇罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "東勢里",
+      "polling_station": "204",
+      "agree_votes": 327,
+      "disagree_votes": 356,
+      "valid_votes": 683,
+      "invalid_votes": 4,
+      "total_voters": 687,
+      "ballots_not_cast": 0,
+      "ballots_issued": 687,
+      "unused_ballots": 380,
+      "eligible_voters": 1067,
+      "turnout_rate": 64.39
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第3選舉區)王鴻薇罷免案各投開票所投開票結果表",
+      "district": "松山區",
+      "village": "東勢里",
+      "polling_station": "205",
+      "agree_votes": 363,
+      "disagree_votes": 370,
+      "valid_votes": 733,
+      "invalid_votes": 3,
+      "total_voters": 736,
+      "ballots_not_cast": 0,
+      "ballots_issued": 736,
+      "unused_ballots": 409,
+      "eligible_voters": 1145,
+      "turnout_rate": 64.28
+    }
+  ]
+}

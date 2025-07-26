@@ -1,0 +1,50 @@
+{
+  "cunli": "大安區_錦泰里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 727,
+    "disagree_votes": 953,
+    "valid_votes": 1680,
+    "invalid_votes": 4,
+    "total_voters": 1684,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1684,
+    "unused_ballots": 1204,
+    "eligible_voters": 2888,
+    "average_turnout_rate": 58.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "錦泰里",
+      "polling_station": "552",
+      "agree_votes": 349,
+      "disagree_votes": 482,
+      "valid_votes": 831,
+      "invalid_votes": 3,
+      "total_voters": 834,
+      "ballots_not_cast": 0,
+      "ballots_issued": 834,
+      "unused_ballots": 573,
+      "eligible_voters": 1407,
+      "turnout_rate": 59.28
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "錦泰里",
+      "polling_station": "553",
+      "agree_votes": 378,
+      "disagree_votes": 471,
+      "valid_votes": 849,
+      "invalid_votes": 1,
+      "total_voters": 850,
+      "ballots_not_cast": 0,
+      "ballots_issued": 850,
+      "unused_ballots": 631,
+      "eligible_voters": 1481,
+      "turnout_rate": 57.39
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "cunli": "壽豐鄉_志學村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 632,
+    "disagree_votes": 655,
+    "valid_votes": 1287,
+    "invalid_votes": 6,
+    "total_voters": 1293,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1293,
+    "unused_ballots": 851,
+    "eligible_voters": 2144,
+    "average_turnout_rate": 60.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "壽豐鄉",
+      "village": "志學村",
+      "polling_station": "222",
+      "agree_votes": 289,
+      "disagree_votes": 221,
+      "valid_votes": 510,
+      "invalid_votes": 2,
+      "total_voters": 512,
+      "ballots_not_cast": 0,
+      "ballots_issued": 512,
+      "unused_ballots": 348,
+      "eligible_voters": 860,
+      "turnout_rate": 59.53
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "壽豐鄉",
+      "village": "志學村",
+      "polling_station": "223",
+      "agree_votes": 270,
+      "disagree_votes": 319,
+      "valid_votes": 589,
+      "invalid_votes": 2,
+      "total_voters": 591,
+      "ballots_not_cast": 0,
+      "ballots_issued": 591,
+      "unused_ballots": 375,
+      "eligible_voters": 966,
+      "turnout_rate": 61.18
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "壽豐鄉",
+      "village": "志學村",
+      "polling_station": "224",
+      "agree_votes": 73,
+      "disagree_votes": 115,
+      "valid_votes": 188,
+      "invalid_votes": 2,
+      "total_voters": 190,
+      "ballots_not_cast": 0,
+      "ballots_issued": 190,
+      "unused_ballots": 128,
+      "eligible_voters": 318,
+      "turnout_rate": 59.75
+    }
+  ]
+}

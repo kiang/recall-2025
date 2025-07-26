@@ -1,0 +1,66 @@
+{
+  "cunli": "南港區_新富里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 804,
+    "disagree_votes": 873,
+    "valid_votes": 1677,
+    "invalid_votes": 6,
+    "total_voters": 1683,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1683,
+    "unused_ballots": 1346,
+    "eligible_voters": 3029,
+    "average_turnout_rate": 55.56
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "新富里",
+      "polling_station": "415",
+      "agree_votes": 213,
+      "disagree_votes": 291,
+      "valid_votes": 504,
+      "invalid_votes": 3,
+      "total_voters": 507,
+      "ballots_not_cast": 0,
+      "ballots_issued": 507,
+      "unused_ballots": 400,
+      "eligible_voters": 907,
+      "turnout_rate": 55.9
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "新富里",
+      "polling_station": "416",
+      "agree_votes": 275,
+      "disagree_votes": 303,
+      "valid_votes": 578,
+      "invalid_votes": 0,
+      "total_voters": 578,
+      "ballots_not_cast": 0,
+      "ballots_issued": 578,
+      "unused_ballots": 488,
+      "eligible_voters": 1066,
+      "turnout_rate": 54.22
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "南港區",
+      "village": "新富里",
+      "polling_station": "417",
+      "agree_votes": 316,
+      "disagree_votes": 279,
+      "valid_votes": 595,
+      "invalid_votes": 3,
+      "total_voters": 598,
+      "ballots_not_cast": 0,
+      "ballots_issued": 598,
+      "unused_ballots": 458,
+      "eligible_voters": 1056,
+      "turnout_rate": 56.63
+    }
+  ]
+}

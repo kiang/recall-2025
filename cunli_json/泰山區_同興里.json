@@ -1,0 +1,66 @@
+{
+  "cunli": "泰山區_同興里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 844,
+    "disagree_votes": 861,
+    "valid_votes": 1705,
+    "invalid_votes": 8,
+    "total_voters": 1713,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1713,
+    "unused_ballots": 1338,
+    "eligible_voters": 3051,
+    "average_turnout_rate": 56.15
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "泰山區",
+      "village": "同興里",
+      "polling_station": "276",
+      "agree_votes": 259,
+      "disagree_votes": 332,
+      "valid_votes": 591,
+      "invalid_votes": 3,
+      "total_voters": 594,
+      "ballots_not_cast": 0,
+      "ballots_issued": 594,
+      "unused_ballots": 427,
+      "eligible_voters": 1021,
+      "turnout_rate": 58.18
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "泰山區",
+      "village": "同興里",
+      "polling_station": "277",
+      "agree_votes": 289,
+      "disagree_votes": 278,
+      "valid_votes": 567,
+      "invalid_votes": 4,
+      "total_voters": 571,
+      "ballots_not_cast": 0,
+      "ballots_issued": 571,
+      "unused_ballots": 462,
+      "eligible_voters": 1033,
+      "turnout_rate": 55.28
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "泰山區",
+      "village": "同興里",
+      "polling_station": "278",
+      "agree_votes": 296,
+      "disagree_votes": 251,
+      "valid_votes": 547,
+      "invalid_votes": 1,
+      "total_voters": 548,
+      "ballots_not_cast": 0,
+      "ballots_issued": 548,
+      "unused_ballots": 449,
+      "eligible_voters": 997,
+      "turnout_rate": 54.96
+    }
+  ]
+}

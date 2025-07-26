@@ -1,0 +1,66 @@
+{
+  "cunli": "大安區_黎和里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 927,
+    "disagree_votes": 1466,
+    "valid_votes": 2393,
+    "invalid_votes": 10,
+    "total_voters": 2403,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2403,
+    "unused_ballots": 1549,
+    "eligible_voters": 3952,
+    "average_turnout_rate": 60.8
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "黎和里",
+      "polling_station": "640",
+      "agree_votes": 350,
+      "disagree_votes": 490,
+      "valid_votes": 840,
+      "invalid_votes": 7,
+      "total_voters": 847,
+      "ballots_not_cast": 0,
+      "ballots_issued": 847,
+      "unused_ballots": 582,
+      "eligible_voters": 1429,
+      "turnout_rate": 59.27
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "黎和里",
+      "polling_station": "641",
+      "agree_votes": 262,
+      "disagree_votes": 403,
+      "valid_votes": 665,
+      "invalid_votes": 1,
+      "total_voters": 666,
+      "ballots_not_cast": 0,
+      "ballots_issued": 666,
+      "unused_ballots": 462,
+      "eligible_voters": 1128,
+      "turnout_rate": 59.04
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "黎和里",
+      "polling_station": "642",
+      "agree_votes": 315,
+      "disagree_votes": 573,
+      "valid_votes": 888,
+      "invalid_votes": 2,
+      "total_voters": 890,
+      "ballots_not_cast": 0,
+      "ballots_issued": 890,
+      "unused_ballots": 505,
+      "eligible_voters": 1395,
+      "turnout_rate": 63.8
+    }
+  ]
+}

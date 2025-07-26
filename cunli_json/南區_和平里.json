@@ -1,0 +1,66 @@
+{
+  "cunli": "南區_和平里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1058,
+    "disagree_votes": 1365,
+    "valid_votes": 2423,
+    "invalid_votes": 12,
+    "total_voters": 2435,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2435,
+    "unused_ballots": 2055,
+    "eligible_voters": 4490,
+    "average_turnout_rate": 54.23
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "南區",
+      "village": "和平里",
+      "polling_station": "729",
+      "agree_votes": 267,
+      "disagree_votes": 377,
+      "valid_votes": 644,
+      "invalid_votes": 2,
+      "total_voters": 646,
+      "ballots_not_cast": 0,
+      "ballots_issued": 646,
+      "unused_ballots": 555,
+      "eligible_voters": 1201,
+      "turnout_rate": 53.79
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "南區",
+      "village": "和平里",
+      "polling_station": "730",
+      "agree_votes": 463,
+      "disagree_votes": 548,
+      "valid_votes": 1011,
+      "invalid_votes": 6,
+      "total_voters": 1017,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1017,
+      "unused_ballots": 809,
+      "eligible_voters": 1826,
+      "turnout_rate": 55.7
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "南區",
+      "village": "和平里",
+      "polling_station": "731",
+      "agree_votes": 328,
+      "disagree_votes": 440,
+      "valid_votes": 768,
+      "invalid_votes": 4,
+      "total_voters": 772,
+      "ballots_not_cast": 0,
+      "ballots_issued": 772,
+      "unused_ballots": 691,
+      "eligible_voters": 1463,
+      "turnout_rate": 52.77
+    }
+  ]
+}

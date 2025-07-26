@@ -1,0 +1,82 @@
+{
+  "cunli": "花蓮市_國盛里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 766,
+    "disagree_votes": 1011,
+    "valid_votes": 1777,
+    "invalid_votes": 11,
+    "total_voters": 1788,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1788,
+    "unused_ballots": 1318,
+    "eligible_voters": 3106,
+    "average_turnout_rate": 57.57
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "國盛里",
+      "polling_station": "72",
+      "agree_votes": 192,
+      "disagree_votes": 255,
+      "valid_votes": 447,
+      "invalid_votes": 3,
+      "total_voters": 450,
+      "ballots_not_cast": 0,
+      "ballots_issued": 450,
+      "unused_ballots": 315,
+      "eligible_voters": 765,
+      "turnout_rate": 58.82
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "國盛里",
+      "polling_station": "73",
+      "agree_votes": 193,
+      "disagree_votes": 233,
+      "valid_votes": 426,
+      "invalid_votes": 4,
+      "total_voters": 430,
+      "ballots_not_cast": 0,
+      "ballots_issued": 430,
+      "unused_ballots": 317,
+      "eligible_voters": 747,
+      "turnout_rate": 57.56
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "國盛里",
+      "polling_station": "74",
+      "agree_votes": 190,
+      "disagree_votes": 254,
+      "valid_votes": 444,
+      "invalid_votes": 1,
+      "total_voters": 445,
+      "ballots_not_cast": 0,
+      "ballots_issued": 445,
+      "unused_ballots": 358,
+      "eligible_voters": 803,
+      "turnout_rate": 55.42
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "國盛里",
+      "polling_station": "75",
+      "agree_votes": 191,
+      "disagree_votes": 269,
+      "valid_votes": 460,
+      "invalid_votes": 3,
+      "total_voters": 463,
+      "ballots_not_cast": 0,
+      "ballots_issued": 463,
+      "unused_ballots": 328,
+      "eligible_voters": 791,
+      "turnout_rate": 58.53
+    }
+  ]
+}

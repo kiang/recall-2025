@@ -1,0 +1,50 @@
+{
+  "cunli": "楊梅區_大平里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 542,
+    "disagree_votes": 1122,
+    "valid_votes": 1664,
+    "invalid_votes": 9,
+    "total_voters": 1673,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1673,
+    "unused_ballots": 1184,
+    "eligible_voters": 2857,
+    "average_turnout_rate": 58.56
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "楊梅區",
+      "village": "大平里",
+      "polling_station": "446",
+      "agree_votes": 264,
+      "disagree_votes": 560,
+      "valid_votes": 824,
+      "invalid_votes": 5,
+      "total_voters": 829,
+      "ballots_not_cast": 0,
+      "ballots_issued": 829,
+      "unused_ballots": 596,
+      "eligible_voters": 1425,
+      "turnout_rate": 58.18
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "楊梅區",
+      "village": "大平里",
+      "polling_station": "447",
+      "agree_votes": 278,
+      "disagree_votes": 562,
+      "valid_votes": 840,
+      "invalid_votes": 4,
+      "total_voters": 844,
+      "ballots_not_cast": 0,
+      "ballots_issued": 844,
+      "unused_ballots": 588,
+      "eligible_voters": 1432,
+      "turnout_rate": 58.94
+    }
+  ]
+}

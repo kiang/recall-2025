@@ -1,0 +1,50 @@
+{
+  "cunli": "貢寮區_仁里里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 395,
+    "disagree_votes": 268,
+    "valid_votes": 663,
+    "invalid_votes": 5,
+    "total_voters": 668,
+    "ballots_not_cast": 0,
+    "ballots_issued": 668,
+    "unused_ballots": 908,
+    "eligible_voters": 1576,
+    "average_turnout_rate": 42.39
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "貢寮區",
+      "village": "仁里里",
+      "polling_station": "1142",
+      "agree_votes": 160,
+      "disagree_votes": 109,
+      "valid_votes": 269,
+      "invalid_votes": 3,
+      "total_voters": 272,
+      "ballots_not_cast": 0,
+      "ballots_issued": 272,
+      "unused_ballots": 403,
+      "eligible_voters": 675,
+      "turnout_rate": 40.3
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "貢寮區",
+      "village": "仁里里",
+      "polling_station": "1143",
+      "agree_votes": 235,
+      "disagree_votes": 159,
+      "valid_votes": 394,
+      "invalid_votes": 2,
+      "total_voters": 396,
+      "ballots_not_cast": 0,
+      "ballots_issued": 396,
+      "unused_ballots": 505,
+      "eligible_voters": 901,
+      "turnout_rate": 43.95
+    }
+  ]
+}

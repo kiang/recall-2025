@@ -1,0 +1,50 @@
+{
+  "cunli": "香山區_大湖里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 410,
+    "disagree_votes": 537,
+    "valid_votes": 947,
+    "invalid_votes": 3,
+    "total_voters": 950,
+    "ballots_not_cast": 0,
+    "ballots_issued": 950,
+    "unused_ballots": 762,
+    "eligible_voters": 1712,
+    "average_turnout_rate": 55.49
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹市選舉區)鄭正鈐罷免案各投開票所投開票結果表",
+      "district": "香山區",
+      "village": "大湖里",
+      "polling_station": "355",
+      "agree_votes": 209,
+      "disagree_votes": 264,
+      "valid_votes": 473,
+      "invalid_votes": 2,
+      "total_voters": 475,
+      "ballots_not_cast": 0,
+      "ballots_issued": 475,
+      "unused_ballots": 378,
+      "eligible_voters": 853,
+      "turnout_rate": 55.69
+    },
+    {
+      "recall_case": "新竹市第11屆市長高虹安罷免案在新竹市各投開票所投開票結果表",
+      "district": "香山區",
+      "village": "大湖里",
+      "polling_station": "355",
+      "agree_votes": 201,
+      "disagree_votes": 273,
+      "valid_votes": 474,
+      "invalid_votes": 1,
+      "total_voters": 475,
+      "ballots_not_cast": 0,
+      "ballots_issued": 475,
+      "unused_ballots": 384,
+      "eligible_voters": 859,
+      "turnout_rate": 55.3
+    }
+  ]
+}

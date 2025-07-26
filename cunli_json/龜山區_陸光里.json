@@ -1,0 +1,50 @@
+{
+  "cunli": "龜山區_陸光里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 282,
+    "disagree_votes": 1898,
+    "valid_votes": 2180,
+    "invalid_votes": 6,
+    "total_voters": 2186,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2186,
+    "unused_ballots": 1196,
+    "eligible_voters": 3382,
+    "average_turnout_rate": 64.64
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "龜山區",
+      "village": "陸光里",
+      "polling_station": "159",
+      "agree_votes": 131,
+      "disagree_votes": 901,
+      "valid_votes": 1032,
+      "invalid_votes": 3,
+      "total_voters": 1035,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1035,
+      "unused_ballots": 599,
+      "eligible_voters": 1634,
+      "turnout_rate": 63.34
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "龜山區",
+      "village": "陸光里",
+      "polling_station": "160",
+      "agree_votes": 151,
+      "disagree_votes": 997,
+      "valid_votes": 1148,
+      "invalid_votes": 3,
+      "total_voters": 1151,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1151,
+      "unused_ballots": 597,
+      "eligible_voters": 1748,
+      "turnout_rate": 65.85
+    }
+  ]
+}

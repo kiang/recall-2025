@@ -1,0 +1,66 @@
+{
+  "cunli": "八德區_大勇里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1031,
+    "disagree_votes": 1231,
+    "valid_votes": 2262,
+    "invalid_votes": 8,
+    "total_voters": 2270,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2270,
+    "unused_ballots": 1750,
+    "eligible_voters": 4020,
+    "average_turnout_rate": 56.47
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "八德區",
+      "village": "大勇里",
+      "polling_station": "1273",
+      "agree_votes": 284,
+      "disagree_votes": 362,
+      "valid_votes": 646,
+      "invalid_votes": 2,
+      "total_voters": 648,
+      "ballots_not_cast": 0,
+      "ballots_issued": 648,
+      "unused_ballots": 544,
+      "eligible_voters": 1192,
+      "turnout_rate": 54.36
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "八德區",
+      "village": "大勇里",
+      "polling_station": "1274",
+      "agree_votes": 353,
+      "disagree_votes": 361,
+      "valid_votes": 714,
+      "invalid_votes": 5,
+      "total_voters": 719,
+      "ballots_not_cast": 0,
+      "ballots_issued": 719,
+      "unused_ballots": 570,
+      "eligible_voters": 1289,
+      "turnout_rate": 55.78
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "八德區",
+      "village": "大勇里",
+      "polling_station": "1275",
+      "agree_votes": 394,
+      "disagree_votes": 508,
+      "valid_votes": 902,
+      "invalid_votes": 1,
+      "total_voters": 903,
+      "ballots_not_cast": 0,
+      "ballots_issued": 903,
+      "unused_ballots": 636,
+      "eligible_voters": 1539,
+      "turnout_rate": 58.67
+    }
+  ]
+}

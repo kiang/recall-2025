@@ -1,0 +1,66 @@
+{
+  "cunli": "北屯區_新平里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 888,
+    "disagree_votes": 1596,
+    "valid_votes": 2484,
+    "invalid_votes": 16,
+    "total_voters": 2500,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2500,
+    "unused_ballots": 2072,
+    "eligible_voters": 4572,
+    "average_turnout_rate": 54.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北屯區",
+      "village": "新平里",
+      "polling_station": "427",
+      "agree_votes": 274,
+      "disagree_votes": 527,
+      "valid_votes": 801,
+      "invalid_votes": 5,
+      "total_voters": 806,
+      "ballots_not_cast": 0,
+      "ballots_issued": 806,
+      "unused_ballots": 711,
+      "eligible_voters": 1517,
+      "turnout_rate": 53.13
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北屯區",
+      "village": "新平里",
+      "polling_station": "428",
+      "agree_votes": 237,
+      "disagree_votes": 462,
+      "valid_votes": 699,
+      "invalid_votes": 5,
+      "total_voters": 704,
+      "ballots_not_cast": 0,
+      "ballots_issued": 704,
+      "unused_ballots": 550,
+      "eligible_voters": 1254,
+      "turnout_rate": 56.14
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北屯區",
+      "village": "新平里",
+      "polling_station": "429",
+      "agree_votes": 377,
+      "disagree_votes": 607,
+      "valid_votes": 984,
+      "invalid_votes": 6,
+      "total_voters": 990,
+      "ballots_not_cast": 0,
+      "ballots_issued": 990,
+      "unused_ballots": 811,
+      "eligible_voters": 1801,
+      "turnout_rate": 54.97
+    }
+  ]
+}

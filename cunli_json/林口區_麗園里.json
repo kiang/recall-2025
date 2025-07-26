@@ -1,0 +1,66 @@
+{
+  "cunli": "林口區_麗園里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 882,
+    "disagree_votes": 1093,
+    "valid_votes": 1975,
+    "invalid_votes": 13,
+    "total_voters": 1988,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1988,
+    "unused_ballots": 1408,
+    "eligible_voters": 3396,
+    "average_turnout_rate": 58.54
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "林口區",
+      "village": "麗園里",
+      "polling_station": "250",
+      "agree_votes": 252,
+      "disagree_votes": 359,
+      "valid_votes": 611,
+      "invalid_votes": 3,
+      "total_voters": 614,
+      "ballots_not_cast": 0,
+      "ballots_issued": 614,
+      "unused_ballots": 526,
+      "eligible_voters": 1140,
+      "turnout_rate": 53.86
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "林口區",
+      "village": "麗園里",
+      "polling_station": "251",
+      "agree_votes": 313,
+      "disagree_votes": 371,
+      "valid_votes": 684,
+      "invalid_votes": 5,
+      "total_voters": 689,
+      "ballots_not_cast": 0,
+      "ballots_issued": 689,
+      "unused_ballots": 464,
+      "eligible_voters": 1153,
+      "turnout_rate": 59.76
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "林口區",
+      "village": "麗園里",
+      "polling_station": "252",
+      "agree_votes": 317,
+      "disagree_votes": 363,
+      "valid_votes": 680,
+      "invalid_votes": 5,
+      "total_voters": 685,
+      "ballots_not_cast": 0,
+      "ballots_issued": 685,
+      "unused_ballots": 418,
+      "eligible_voters": 1103,
+      "turnout_rate": 62.1
+    }
+  ]
+}

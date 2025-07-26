@@ -1,0 +1,66 @@
+{
+  "cunli": "桃園區_經國里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1140,
+    "disagree_votes": 1744,
+    "valid_votes": 2884,
+    "invalid_votes": 12,
+    "total_voters": 2896,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2896,
+    "unused_ballots": 2257,
+    "eligible_voters": 5153,
+    "average_turnout_rate": 56.2
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "經國里",
+      "polling_station": "915",
+      "agree_votes": 331,
+      "disagree_votes": 556,
+      "valid_votes": 887,
+      "invalid_votes": 5,
+      "total_voters": 892,
+      "ballots_not_cast": 0,
+      "ballots_issued": 892,
+      "unused_ballots": 703,
+      "eligible_voters": 1595,
+      "turnout_rate": 55.92
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "經國里",
+      "polling_station": "916",
+      "agree_votes": 413,
+      "disagree_votes": 543,
+      "valid_votes": 956,
+      "invalid_votes": 1,
+      "total_voters": 957,
+      "ballots_not_cast": 0,
+      "ballots_issued": 957,
+      "unused_ballots": 770,
+      "eligible_voters": 1727,
+      "turnout_rate": 55.41
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "經國里",
+      "polling_station": "917",
+      "agree_votes": 396,
+      "disagree_votes": 645,
+      "valid_votes": 1041,
+      "invalid_votes": 6,
+      "total_voters": 1047,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1047,
+      "unused_ballots": 784,
+      "eligible_voters": 1831,
+      "turnout_rate": 57.18
+    }
+  ]
+}

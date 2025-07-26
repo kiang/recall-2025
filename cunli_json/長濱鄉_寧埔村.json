@@ -1,0 +1,50 @@
+{
+  "cunli": "長濱鄉_寧埔村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 31,
+    "disagree_votes": 57,
+    "valid_votes": 88,
+    "invalid_votes": 0,
+    "total_voters": 88,
+    "ballots_not_cast": 0,
+    "ballots_issued": 88,
+    "unused_ballots": 144,
+    "eligible_voters": 232,
+    "average_turnout_rate": 37.93
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "長濱鄉",
+      "village": "寧埔村",
+      "polling_station": "173",
+      "agree_votes": 9,
+      "disagree_votes": 18,
+      "valid_votes": 27,
+      "invalid_votes": 0,
+      "total_voters": 27,
+      "ballots_not_cast": 0,
+      "ballots_issued": 27,
+      "unused_ballots": 42,
+      "eligible_voters": 69,
+      "turnout_rate": 39.13
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "長濱鄉",
+      "village": "寧埔村",
+      "polling_station": "174",
+      "agree_votes": 22,
+      "disagree_votes": 39,
+      "valid_votes": 61,
+      "invalid_votes": 0,
+      "total_voters": 61,
+      "ballots_not_cast": 0,
+      "ballots_issued": 61,
+      "unused_ballots": 102,
+      "eligible_voters": 163,
+      "turnout_rate": 37.42
+    }
+  ]
+}

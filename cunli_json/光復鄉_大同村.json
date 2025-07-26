@@ -1,0 +1,34 @@
+{
+  "cunli": "光復鄉_大同村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 148,
+    "disagree_votes": 159,
+    "valid_votes": 307,
+    "invalid_votes": 5,
+    "total_voters": 312,
+    "ballots_not_cast": 0,
+    "ballots_issued": 312,
+    "unused_ballots": 255,
+    "eligible_voters": 567,
+    "average_turnout_rate": 55.03
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "光復鄉",
+      "village": "大同村",
+      "polling_station": "248",
+      "agree_votes": 148,
+      "disagree_votes": 159,
+      "valid_votes": 307,
+      "invalid_votes": 5,
+      "total_voters": 312,
+      "ballots_not_cast": 0,
+      "ballots_issued": 312,
+      "unused_ballots": 255,
+      "eligible_voters": 567,
+      "turnout_rate": 55.03
+    }
+  ]
+}

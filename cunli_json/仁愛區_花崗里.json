@@ -1,0 +1,34 @@
+{
+  "cunli": "仁愛區_花崗里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 220,
+    "disagree_votes": 300,
+    "valid_votes": 520,
+    "invalid_votes": 2,
+    "total_voters": 522,
+    "ballots_not_cast": 0,
+    "ballots_issued": 522,
+    "unused_ballots": 425,
+    "eligible_voters": 947,
+    "average_turnout_rate": 55.12
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "仁愛區",
+      "village": "花崗里",
+      "polling_station": "83",
+      "agree_votes": 220,
+      "disagree_votes": 300,
+      "valid_votes": 520,
+      "invalid_votes": 2,
+      "total_voters": 522,
+      "ballots_not_cast": 0,
+      "ballots_issued": 522,
+      "unused_ballots": 425,
+      "eligible_voters": 947,
+      "turnout_rate": 55.12
+    }
+  ]
+}

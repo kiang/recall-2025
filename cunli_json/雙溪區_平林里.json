@@ -1,0 +1,50 @@
+{
+  "cunli": "雙溪區_平林里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 173,
+    "disagree_votes": 215,
+    "valid_votes": 388,
+    "invalid_votes": 1,
+    "total_voters": 389,
+    "ballots_not_cast": 0,
+    "ballots_issued": 389,
+    "unused_ballots": 389,
+    "eligible_voters": 778,
+    "average_turnout_rate": 50.0
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "雙溪區",
+      "village": "平林里",
+      "polling_station": "1122",
+      "agree_votes": 118,
+      "disagree_votes": 147,
+      "valid_votes": 265,
+      "invalid_votes": 1,
+      "total_voters": 266,
+      "ballots_not_cast": 0,
+      "ballots_issued": 266,
+      "unused_ballots": 289,
+      "eligible_voters": 555,
+      "turnout_rate": 47.93
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "雙溪區",
+      "village": "平林里",
+      "polling_station": "1123",
+      "agree_votes": 55,
+      "disagree_votes": 68,
+      "valid_votes": 123,
+      "invalid_votes": 0,
+      "total_voters": 123,
+      "ballots_not_cast": 0,
+      "ballots_issued": 123,
+      "unused_ballots": 100,
+      "eligible_voters": 223,
+      "turnout_rate": 55.16
+    }
+  ]
+}

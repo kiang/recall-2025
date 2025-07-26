@@ -1,0 +1,66 @@
+{
+  "cunli": "文山區_興泰里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 770,
+    "disagree_votes": 1193,
+    "valid_votes": 1963,
+    "invalid_votes": 12,
+    "total_voters": 1975,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1975,
+    "unused_ballots": 1382,
+    "eligible_voters": 3357,
+    "average_turnout_rate": 58.83
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第8選舉區)賴士葆罷免案各投開票所投開票結果表",
+      "district": "文山區",
+      "village": "興泰里",
+      "polling_station": "973",
+      "agree_votes": 255,
+      "disagree_votes": 433,
+      "valid_votes": 688,
+      "invalid_votes": 5,
+      "total_voters": 693,
+      "ballots_not_cast": 0,
+      "ballots_issued": 693,
+      "unused_ballots": 464,
+      "eligible_voters": 1157,
+      "turnout_rate": 59.9
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第8選舉區)賴士葆罷免案各投開票所投開票結果表",
+      "district": "文山區",
+      "village": "興泰里",
+      "polling_station": "974",
+      "agree_votes": 289,
+      "disagree_votes": 393,
+      "valid_votes": 682,
+      "invalid_votes": 0,
+      "total_voters": 682,
+      "ballots_not_cast": 0,
+      "ballots_issued": 682,
+      "unused_ballots": 433,
+      "eligible_voters": 1115,
+      "turnout_rate": 61.17
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第8選舉區)賴士葆罷免案各投開票所投開票結果表",
+      "district": "文山區",
+      "village": "興泰里",
+      "polling_station": "975",
+      "agree_votes": 226,
+      "disagree_votes": 367,
+      "valid_votes": 593,
+      "invalid_votes": 7,
+      "total_voters": 600,
+      "ballots_not_cast": 0,
+      "ballots_issued": 600,
+      "unused_ballots": 485,
+      "eligible_voters": 1085,
+      "turnout_rate": 55.3
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "cunli": "龍潭區_聖德里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 661,
+    "disagree_votes": 847,
+    "valid_votes": 1508,
+    "invalid_votes": 7,
+    "total_voters": 1515,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1515,
+    "unused_ballots": 1271,
+    "eligible_voters": 2786,
+    "average_turnout_rate": 54.38
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "聖德里",
+      "polling_station": "1101",
+      "agree_votes": 337,
+      "disagree_votes": 387,
+      "valid_votes": 724,
+      "invalid_votes": 3,
+      "total_voters": 727,
+      "ballots_not_cast": 0,
+      "ballots_issued": 727,
+      "unused_ballots": 603,
+      "eligible_voters": 1330,
+      "turnout_rate": 54.66
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "聖德里",
+      "polling_station": "1102",
+      "agree_votes": 324,
+      "disagree_votes": 460,
+      "valid_votes": 784,
+      "invalid_votes": 4,
+      "total_voters": 788,
+      "ballots_not_cast": 0,
+      "ballots_issued": 788,
+      "unused_ballots": 668,
+      "eligible_voters": 1456,
+      "turnout_rate": 54.12
+    }
+  ]
+}

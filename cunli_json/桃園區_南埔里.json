@@ -1,0 +1,66 @@
+{
+  "cunli": "桃園區_南埔里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1457,
+    "disagree_votes": 1769,
+    "valid_votes": 3226,
+    "invalid_votes": 22,
+    "total_voters": 3248,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3248,
+    "unused_ballots": 2644,
+    "eligible_voters": 5892,
+    "average_turnout_rate": 55.13
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "南埔里",
+      "polling_station": "895",
+      "agree_votes": 499,
+      "disagree_votes": 607,
+      "valid_votes": 1106,
+      "invalid_votes": 8,
+      "total_voters": 1114,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1114,
+      "unused_ballots": 827,
+      "eligible_voters": 1941,
+      "turnout_rate": 57.39
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "南埔里",
+      "polling_station": "896",
+      "agree_votes": 508,
+      "disagree_votes": 543,
+      "valid_votes": 1051,
+      "invalid_votes": 8,
+      "total_voters": 1059,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1059,
+      "unused_ballots": 992,
+      "eligible_voters": 2051,
+      "turnout_rate": 51.63
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "南埔里",
+      "polling_station": "897",
+      "agree_votes": 450,
+      "disagree_votes": 619,
+      "valid_votes": 1069,
+      "invalid_votes": 6,
+      "total_voters": 1075,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1075,
+      "unused_ballots": 825,
+      "eligible_voters": 1900,
+      "turnout_rate": 56.58
+    }
+  ]
+}

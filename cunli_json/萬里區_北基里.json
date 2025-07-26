@@ -1,0 +1,50 @@
+{
+  "cunli": "萬里區_北基里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 477,
+    "disagree_votes": 579,
+    "valid_votes": 1056,
+    "invalid_votes": 6,
+    "total_voters": 1062,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1062,
+    "unused_ballots": 1404,
+    "eligible_voters": 2466,
+    "average_turnout_rate": 43.07
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "萬里區",
+      "village": "北基里",
+      "polling_station": "915",
+      "agree_votes": 232,
+      "disagree_votes": 321,
+      "valid_votes": 553,
+      "invalid_votes": 1,
+      "total_voters": 554,
+      "ballots_not_cast": 0,
+      "ballots_issued": 554,
+      "unused_ballots": 718,
+      "eligible_voters": 1272,
+      "turnout_rate": 43.55
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "萬里區",
+      "village": "北基里",
+      "polling_station": "916",
+      "agree_votes": 245,
+      "disagree_votes": 258,
+      "valid_votes": 503,
+      "invalid_votes": 5,
+      "total_voters": 508,
+      "ballots_not_cast": 0,
+      "ballots_issued": 508,
+      "unused_ballots": 686,
+      "eligible_voters": 1194,
+      "turnout_rate": 42.55
+    }
+  ]
+}

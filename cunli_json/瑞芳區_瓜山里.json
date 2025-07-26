@@ -1,0 +1,34 @@
+{
+  "cunli": "瑞芳區_瓜山里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 27,
+    "disagree_votes": 62,
+    "valid_votes": 89,
+    "invalid_votes": 0,
+    "total_voters": 89,
+    "ballots_not_cast": 0,
+    "ballots_issued": 89,
+    "unused_ballots": 67,
+    "eligible_voters": 156,
+    "average_turnout_rate": 57.05
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "瑞芳區",
+      "village": "瓜山里",
+      "polling_station": "1103",
+      "agree_votes": 27,
+      "disagree_votes": 62,
+      "valid_votes": 89,
+      "invalid_votes": 0,
+      "total_voters": 89,
+      "ballots_not_cast": 0,
+      "ballots_issued": 89,
+      "unused_ballots": 67,
+      "eligible_voters": 156,
+      "turnout_rate": 57.05
+    }
+  ]
+}

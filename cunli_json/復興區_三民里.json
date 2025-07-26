@@ -1,0 +1,50 @@
+{
+  "cunli": "復興區_三民里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 298,
+    "disagree_votes": 372,
+    "valid_votes": 670,
+    "invalid_votes": 4,
+    "total_voters": 674,
+    "ballots_not_cast": 0,
+    "ballots_issued": 674,
+    "unused_ballots": 731,
+    "eligible_voters": 1405,
+    "average_turnout_rate": 47.97
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "復興區",
+      "village": "三民里",
+      "polling_station": "1346",
+      "agree_votes": 182,
+      "disagree_votes": 241,
+      "valid_votes": 423,
+      "invalid_votes": 2,
+      "total_voters": 425,
+      "ballots_not_cast": 0,
+      "ballots_issued": 425,
+      "unused_ballots": 471,
+      "eligible_voters": 896,
+      "turnout_rate": 47.43
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "復興區",
+      "village": "三民里",
+      "polling_station": "1347",
+      "agree_votes": 116,
+      "disagree_votes": 131,
+      "valid_votes": 247,
+      "invalid_votes": 2,
+      "total_voters": 249,
+      "ballots_not_cast": 0,
+      "ballots_issued": 249,
+      "unused_ballots": 260,
+      "eligible_voters": 509,
+      "turnout_rate": 48.92
+    }
+  ]
+}

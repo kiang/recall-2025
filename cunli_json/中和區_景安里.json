@@ -1,0 +1,82 @@
+{
+  "cunli": "中和區_景安里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 957,
+    "disagree_votes": 1603,
+    "valid_votes": 2560,
+    "invalid_votes": 16,
+    "total_voters": 2576,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2576,
+    "unused_ballots": 1615,
+    "eligible_voters": 4191,
+    "average_turnout_rate": 61.47
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "景安里",
+      "polling_station": "626",
+      "agree_votes": 225,
+      "disagree_votes": 342,
+      "valid_votes": 567,
+      "invalid_votes": 4,
+      "total_voters": 571,
+      "ballots_not_cast": 0,
+      "ballots_issued": 571,
+      "unused_ballots": 342,
+      "eligible_voters": 913,
+      "turnout_rate": 62.54
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "景安里",
+      "polling_station": "627",
+      "agree_votes": 213,
+      "disagree_votes": 482,
+      "valid_votes": 695,
+      "invalid_votes": 5,
+      "total_voters": 700,
+      "ballots_not_cast": 0,
+      "ballots_issued": 700,
+      "unused_ballots": 433,
+      "eligible_voters": 1133,
+      "turnout_rate": 61.78
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "景安里",
+      "polling_station": "628",
+      "agree_votes": 293,
+      "disagree_votes": 456,
+      "valid_votes": 749,
+      "invalid_votes": 5,
+      "total_voters": 754,
+      "ballots_not_cast": 0,
+      "ballots_issued": 754,
+      "unused_ballots": 485,
+      "eligible_voters": 1239,
+      "turnout_rate": 60.86
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第8選舉區)張智倫罷免案各投開票所投開票結果表",
+      "district": "中和區",
+      "village": "景安里",
+      "polling_station": "629",
+      "agree_votes": 226,
+      "disagree_votes": 323,
+      "valid_votes": 549,
+      "invalid_votes": 2,
+      "total_voters": 551,
+      "ballots_not_cast": 0,
+      "ballots_issued": 551,
+      "unused_ballots": 355,
+      "eligible_voters": 906,
+      "turnout_rate": 60.82
+    }
+  ]
+}

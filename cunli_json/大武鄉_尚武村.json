@@ -1,0 +1,34 @@
+{
+  "cunli": "大武鄉_尚武村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 165,
+    "disagree_votes": 226,
+    "valid_votes": 391,
+    "invalid_votes": 3,
+    "total_voters": 394,
+    "ballots_not_cast": 0,
+    "ballots_issued": 394,
+    "unused_ballots": 521,
+    "eligible_voters": 915,
+    "average_turnout_rate": 43.06
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "大武鄉",
+      "village": "尚武村",
+      "polling_station": "200",
+      "agree_votes": 165,
+      "disagree_votes": 226,
+      "valid_votes": 391,
+      "invalid_votes": 3,
+      "total_voters": 394,
+      "ballots_not_cast": 0,
+      "ballots_issued": 394,
+      "unused_ballots": 521,
+      "eligible_voters": 915,
+      "turnout_rate": 43.06
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "cunli": "北港鎮_華勝里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1237,
+    "disagree_votes": 1271,
+    "valid_votes": 2508,
+    "invalid_votes": 14,
+    "total_voters": 2522,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2522,
+    "unused_ballots": 1981,
+    "eligible_voters": 4503,
+    "average_turnout_rate": 56.01
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "北港鎮",
+      "village": "華勝里",
+      "polling_station": "293",
+      "agree_votes": 269,
+      "disagree_votes": 279,
+      "valid_votes": 548,
+      "invalid_votes": 6,
+      "total_voters": 554,
+      "ballots_not_cast": 0,
+      "ballots_issued": 554,
+      "unused_ballots": 485,
+      "eligible_voters": 1039,
+      "turnout_rate": 53.32
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "北港鎮",
+      "village": "華勝里",
+      "polling_station": "294",
+      "agree_votes": 326,
+      "disagree_votes": 339,
+      "valid_votes": 665,
+      "invalid_votes": 1,
+      "total_voters": 666,
+      "ballots_not_cast": 0,
+      "ballots_issued": 666,
+      "unused_ballots": 459,
+      "eligible_voters": 1125,
+      "turnout_rate": 59.2
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "北港鎮",
+      "village": "華勝里",
+      "polling_station": "295",
+      "agree_votes": 282,
+      "disagree_votes": 310,
+      "valid_votes": 592,
+      "invalid_votes": 2,
+      "total_voters": 594,
+      "ballots_not_cast": 0,
+      "ballots_issued": 594,
+      "unused_ballots": 484,
+      "eligible_voters": 1078,
+      "turnout_rate": 55.1
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "北港鎮",
+      "village": "華勝里",
+      "polling_station": "296",
+      "agree_votes": 360,
+      "disagree_votes": 343,
+      "valid_votes": 703,
+      "invalid_votes": 5,
+      "total_voters": 708,
+      "ballots_not_cast": 0,
+      "ballots_issued": 708,
+      "unused_ballots": 553,
+      "eligible_voters": 1261,
+      "turnout_rate": 56.15
+    }
+  ]
+}

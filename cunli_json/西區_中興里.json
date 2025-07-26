@@ -1,0 +1,66 @@
+{
+  "cunli": "西區_中興里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1100,
+    "disagree_votes": 969,
+    "valid_votes": 2069,
+    "invalid_votes": 6,
+    "total_voters": 2075,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2075,
+    "unused_ballots": 1309,
+    "eligible_voters": 3384,
+    "average_turnout_rate": 61.32
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "西區",
+      "village": "中興里",
+      "polling_station": "599",
+      "agree_votes": 335,
+      "disagree_votes": 319,
+      "valid_votes": 654,
+      "invalid_votes": 3,
+      "total_voters": 657,
+      "ballots_not_cast": 0,
+      "ballots_issued": 657,
+      "unused_ballots": 420,
+      "eligible_voters": 1077,
+      "turnout_rate": 61.0
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "西區",
+      "village": "中興里",
+      "polling_station": "600",
+      "agree_votes": 405,
+      "disagree_votes": 335,
+      "valid_votes": 740,
+      "invalid_votes": 2,
+      "total_voters": 742,
+      "ballots_not_cast": 0,
+      "ballots_issued": 742,
+      "unused_ballots": 504,
+      "eligible_voters": 1246,
+      "turnout_rate": 59.55
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "西區",
+      "village": "中興里",
+      "polling_station": "601",
+      "agree_votes": 360,
+      "disagree_votes": 315,
+      "valid_votes": 675,
+      "invalid_votes": 1,
+      "total_voters": 676,
+      "ballots_not_cast": 0,
+      "ballots_issued": 676,
+      "unused_ballots": 385,
+      "eligible_voters": 1061,
+      "turnout_rate": 63.71
+    }
+  ]
+}

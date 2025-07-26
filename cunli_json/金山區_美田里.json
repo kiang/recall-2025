@@ -1,0 +1,66 @@
+{
+  "cunli": "金山區_美田里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 790,
+    "disagree_votes": 937,
+    "valid_votes": 1727,
+    "invalid_votes": 8,
+    "total_voters": 1735,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1735,
+    "unused_ballots": 1887,
+    "eligible_voters": 3622,
+    "average_turnout_rate": 47.9
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "美田里",
+      "polling_station": "900",
+      "agree_votes": 293,
+      "disagree_votes": 258,
+      "valid_votes": 551,
+      "invalid_votes": 3,
+      "total_voters": 554,
+      "ballots_not_cast": 0,
+      "ballots_issued": 554,
+      "unused_ballots": 631,
+      "eligible_voters": 1185,
+      "turnout_rate": 46.75
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "美田里",
+      "polling_station": "901",
+      "agree_votes": 268,
+      "disagree_votes": 306,
+      "valid_votes": 574,
+      "invalid_votes": 0,
+      "total_voters": 574,
+      "ballots_not_cast": 0,
+      "ballots_issued": 574,
+      "unused_ballots": 607,
+      "eligible_voters": 1181,
+      "turnout_rate": 48.6
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "美田里",
+      "polling_station": "902",
+      "agree_votes": 229,
+      "disagree_votes": 373,
+      "valid_votes": 602,
+      "invalid_votes": 5,
+      "total_voters": 607,
+      "ballots_not_cast": 0,
+      "ballots_issued": 607,
+      "unused_ballots": 649,
+      "eligible_voters": 1256,
+      "turnout_rate": 48.33
+    }
+  ]
+}

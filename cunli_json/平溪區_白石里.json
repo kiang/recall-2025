@@ -1,0 +1,34 @@
+{
+  "cunli": "平溪區_白石里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 44,
+    "disagree_votes": 52,
+    "valid_votes": 96,
+    "invalid_votes": 0,
+    "total_voters": 96,
+    "ballots_not_cast": 0,
+    "ballots_issued": 96,
+    "unused_ballots": 110,
+    "eligible_voters": 206,
+    "average_turnout_rate": 46.6
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "平溪區",
+      "village": "白石里",
+      "polling_station": "1058",
+      "agree_votes": 44,
+      "disagree_votes": 52,
+      "valid_votes": 96,
+      "invalid_votes": 0,
+      "total_voters": 96,
+      "ballots_not_cast": 0,
+      "ballots_issued": 96,
+      "unused_ballots": 110,
+      "eligible_voters": 206,
+      "turnout_rate": 46.6
+    }
+  ]
+}

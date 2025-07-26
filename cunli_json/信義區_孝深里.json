@@ -1,0 +1,82 @@
+{
+  "cunli": "信義區_孝深里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 869,
+    "disagree_votes": 1668,
+    "valid_votes": 2537,
+    "invalid_votes": 17,
+    "total_voters": 2554,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2554,
+    "unused_ballots": 2481,
+    "eligible_voters": 5035,
+    "average_turnout_rate": 50.72
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "孝深里",
+      "polling_station": "76",
+      "agree_votes": 365,
+      "disagree_votes": 702,
+      "valid_votes": 1067,
+      "invalid_votes": 8,
+      "total_voters": 1075,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1075,
+      "unused_ballots": 756,
+      "eligible_voters": 1831,
+      "turnout_rate": 58.71
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "孝深里",
+      "polling_station": "77",
+      "agree_votes": 164,
+      "disagree_votes": 310,
+      "valid_votes": 474,
+      "invalid_votes": 2,
+      "total_voters": 476,
+      "ballots_not_cast": 0,
+      "ballots_issued": 476,
+      "unused_ballots": 530,
+      "eligible_voters": 1006,
+      "turnout_rate": 47.32
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "孝深里",
+      "polling_station": "78",
+      "agree_votes": 159,
+      "disagree_votes": 322,
+      "valid_votes": 481,
+      "invalid_votes": 3,
+      "total_voters": 484,
+      "ballots_not_cast": 0,
+      "ballots_issued": 484,
+      "unused_ballots": 618,
+      "eligible_voters": 1102,
+      "turnout_rate": 43.92
+    },
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "信義區",
+      "village": "孝深里",
+      "polling_station": "79",
+      "agree_votes": 181,
+      "disagree_votes": 334,
+      "valid_votes": 515,
+      "invalid_votes": 4,
+      "total_voters": 519,
+      "ballots_not_cast": 0,
+      "ballots_issued": 519,
+      "unused_ballots": 577,
+      "eligible_voters": 1096,
+      "turnout_rate": 47.35
+    }
+  ]
+}

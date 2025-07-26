@@ -1,0 +1,66 @@
+{
+  "cunli": "大安區_龍門里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 905,
+    "disagree_votes": 986,
+    "valid_votes": 1891,
+    "invalid_votes": 10,
+    "total_voters": 1901,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1901,
+    "unused_ballots": 1365,
+    "eligible_voters": 3266,
+    "average_turnout_rate": 58.21
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "龍門里",
+      "polling_station": "619",
+      "agree_votes": 319,
+      "disagree_votes": 318,
+      "valid_votes": 637,
+      "invalid_votes": 7,
+      "total_voters": 644,
+      "ballots_not_cast": 0,
+      "ballots_issued": 644,
+      "unused_ballots": 496,
+      "eligible_voters": 1140,
+      "turnout_rate": 56.49
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "龍門里",
+      "polling_station": "620",
+      "agree_votes": 295,
+      "disagree_votes": 291,
+      "valid_votes": 586,
+      "invalid_votes": 2,
+      "total_voters": 588,
+      "ballots_not_cast": 0,
+      "ballots_issued": 588,
+      "unused_ballots": 400,
+      "eligible_voters": 988,
+      "turnout_rate": 59.51
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第6選舉區)羅智強罷免案各投開票所投開票結果表",
+      "district": "大安區",
+      "village": "龍門里",
+      "polling_station": "621",
+      "agree_votes": 291,
+      "disagree_votes": 377,
+      "valid_votes": 668,
+      "invalid_votes": 1,
+      "total_voters": 669,
+      "ballots_not_cast": 0,
+      "ballots_issued": 669,
+      "unused_ballots": 469,
+      "eligible_voters": 1138,
+      "turnout_rate": 58.79
+    }
+  ]
+}

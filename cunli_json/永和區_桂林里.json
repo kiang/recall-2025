@@ -1,0 +1,50 @@
+{
+  "cunli": "永和區_桂林里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 569,
+    "disagree_votes": 1125,
+    "valid_votes": 1694,
+    "invalid_votes": 11,
+    "total_voters": 1705,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1705,
+    "unused_ballots": 1413,
+    "eligible_voters": 3118,
+    "average_turnout_rate": 54.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "桂林里",
+      "polling_station": "753",
+      "agree_votes": 335,
+      "disagree_votes": 587,
+      "valid_votes": 922,
+      "invalid_votes": 6,
+      "total_voters": 928,
+      "ballots_not_cast": 0,
+      "ballots_issued": 928,
+      "unused_ballots": 717,
+      "eligible_voters": 1645,
+      "turnout_rate": 56.41
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "桂林里",
+      "polling_station": "754",
+      "agree_votes": 234,
+      "disagree_votes": 538,
+      "valid_votes": 772,
+      "invalid_votes": 5,
+      "total_voters": 777,
+      "ballots_not_cast": 0,
+      "ballots_issued": 777,
+      "unused_ballots": 696,
+      "eligible_voters": 1473,
+      "turnout_rate": 52.75
+    }
+  ]
+}

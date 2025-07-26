@@ -1,0 +1,34 @@
+{
+  "cunli": "萬里區_崁脚里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 93,
+    "disagree_votes": 80,
+    "valid_votes": 173,
+    "invalid_votes": 1,
+    "total_voters": 174,
+    "ballots_not_cast": 0,
+    "ballots_issued": 174,
+    "unused_ballots": 178,
+    "eligible_voters": 352,
+    "average_turnout_rate": 49.43
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "萬里區",
+      "village": "崁脚里",
+      "polling_station": "928",
+      "agree_votes": 93,
+      "disagree_votes": 80,
+      "valid_votes": 173,
+      "invalid_votes": 1,
+      "total_voters": 174,
+      "ballots_not_cast": 0,
+      "ballots_issued": 174,
+      "unused_ballots": 178,
+      "eligible_voters": 352,
+      "turnout_rate": 49.43
+    }
+  ]
+}

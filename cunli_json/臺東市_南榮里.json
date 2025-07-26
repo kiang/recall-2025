@@ -1,0 +1,66 @@
+{
+  "cunli": "臺東市_南榮里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 295,
+    "disagree_votes": 568,
+    "valid_votes": 863,
+    "invalid_votes": 5,
+    "total_voters": 868,
+    "ballots_not_cast": 0,
+    "ballots_issued": 868,
+    "unused_ballots": 798,
+    "eligible_voters": 1666,
+    "average_turnout_rate": 52.1
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "南榮里",
+      "polling_station": "34",
+      "agree_votes": 142,
+      "disagree_votes": 244,
+      "valid_votes": 386,
+      "invalid_votes": 3,
+      "total_voters": 389,
+      "ballots_not_cast": 0,
+      "ballots_issued": 389,
+      "unused_ballots": 355,
+      "eligible_voters": 744,
+      "turnout_rate": 52.28
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "南榮里",
+      "polling_station": "35",
+      "agree_votes": 70,
+      "disagree_votes": 146,
+      "valid_votes": 216,
+      "invalid_votes": 2,
+      "total_voters": 218,
+      "ballots_not_cast": 0,
+      "ballots_issued": 218,
+      "unused_ballots": 217,
+      "eligible_voters": 435,
+      "turnout_rate": 50.11
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "南榮里",
+      "polling_station": "36",
+      "agree_votes": 83,
+      "disagree_votes": 178,
+      "valid_votes": 261,
+      "invalid_votes": 0,
+      "total_voters": 261,
+      "ballots_not_cast": 0,
+      "ballots_issued": 261,
+      "unused_ballots": 226,
+      "eligible_voters": 487,
+      "turnout_rate": 53.59
+    }
+  ]
+}

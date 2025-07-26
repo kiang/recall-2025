@@ -1,0 +1,50 @@
+{
+  "cunli": "平鎮區_山峰里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 387,
+    "disagree_votes": 785,
+    "valid_votes": 1172,
+    "invalid_votes": 5,
+    "total_voters": 1177,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1177,
+    "unused_ballots": 862,
+    "eligible_voters": 2039,
+    "average_turnout_rate": 57.72
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "山峰里",
+      "polling_station": "959",
+      "agree_votes": 165,
+      "disagree_votes": 372,
+      "valid_votes": 537,
+      "invalid_votes": 2,
+      "total_voters": 539,
+      "ballots_not_cast": 0,
+      "ballots_issued": 539,
+      "unused_ballots": 431,
+      "eligible_voters": 970,
+      "turnout_rate": 55.57
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "山峰里",
+      "polling_station": "960",
+      "agree_votes": 222,
+      "disagree_votes": 413,
+      "valid_votes": 635,
+      "invalid_votes": 3,
+      "total_voters": 638,
+      "ballots_not_cast": 0,
+      "ballots_issued": 638,
+      "unused_ballots": 431,
+      "eligible_voters": 1069,
+      "turnout_rate": 59.68
+    }
+  ]
+}

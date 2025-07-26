@@ -1,0 +1,50 @@
+{
+  "cunli": "北屯區_大坑里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 547,
+    "disagree_votes": 594,
+    "valid_votes": 1141,
+    "invalid_votes": 11,
+    "total_voters": 1152,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1152,
+    "unused_ballots": 925,
+    "eligible_voters": 2077,
+    "average_turnout_rate": 55.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北屯區",
+      "village": "大坑里",
+      "polling_station": "264",
+      "agree_votes": 298,
+      "disagree_votes": 255,
+      "valid_votes": 553,
+      "invalid_votes": 6,
+      "total_voters": 559,
+      "ballots_not_cast": 0,
+      "ballots_issued": 559,
+      "unused_ballots": 431,
+      "eligible_voters": 990,
+      "turnout_rate": 56.46
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北屯區",
+      "village": "大坑里",
+      "polling_station": "265",
+      "agree_votes": 249,
+      "disagree_votes": 339,
+      "valid_votes": 588,
+      "invalid_votes": 5,
+      "total_voters": 593,
+      "ballots_not_cast": 0,
+      "ballots_issued": 593,
+      "unused_ballots": 494,
+      "eligible_voters": 1087,
+      "turnout_rate": 54.55
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "cunli": "南屯區_田心里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1843,
+    "disagree_votes": 2038,
+    "valid_votes": 3881,
+    "invalid_votes": 23,
+    "total_voters": 3904,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3904,
+    "unused_ballots": 2839,
+    "eligible_voters": 6743,
+    "average_turnout_rate": 57.9
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "田心里",
+      "polling_station": "230",
+      "agree_votes": 404,
+      "disagree_votes": 528,
+      "valid_votes": 932,
+      "invalid_votes": 5,
+      "total_voters": 937,
+      "ballots_not_cast": 0,
+      "ballots_issued": 937,
+      "unused_ballots": 662,
+      "eligible_voters": 1599,
+      "turnout_rate": 58.6
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "田心里",
+      "polling_station": "231",
+      "agree_votes": 494,
+      "disagree_votes": 467,
+      "valid_votes": 961,
+      "invalid_votes": 6,
+      "total_voters": 967,
+      "ballots_not_cast": 0,
+      "ballots_issued": 967,
+      "unused_ballots": 633,
+      "eligible_voters": 1600,
+      "turnout_rate": 60.44
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "田心里",
+      "polling_station": "232",
+      "agree_votes": 488,
+      "disagree_votes": 570,
+      "valid_votes": 1058,
+      "invalid_votes": 6,
+      "total_voters": 1064,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1064,
+      "unused_ballots": 748,
+      "eligible_voters": 1812,
+      "turnout_rate": 58.72
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "田心里",
+      "polling_station": "233",
+      "agree_votes": 457,
+      "disagree_votes": 473,
+      "valid_votes": 930,
+      "invalid_votes": 6,
+      "total_voters": 936,
+      "ballots_not_cast": 0,
+      "ballots_issued": 936,
+      "unused_ballots": 796,
+      "eligible_voters": 1732,
+      "turnout_rate": 54.04
+    }
+  ]
+}

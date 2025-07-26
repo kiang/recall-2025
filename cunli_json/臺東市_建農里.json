@@ -1,0 +1,50 @@
+{
+  "cunli": "臺東市_建農里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 131,
+    "disagree_votes": 360,
+    "valid_votes": 491,
+    "invalid_votes": 3,
+    "total_voters": 494,
+    "ballots_not_cast": 0,
+    "ballots_issued": 494,
+    "unused_ballots": 649,
+    "eligible_voters": 1143,
+    "average_turnout_rate": 43.22
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "建農里",
+      "polling_station": "90",
+      "agree_votes": 63,
+      "disagree_votes": 216,
+      "valid_votes": 279,
+      "invalid_votes": 2,
+      "total_voters": 281,
+      "ballots_not_cast": 0,
+      "ballots_issued": 281,
+      "unused_ballots": 342,
+      "eligible_voters": 623,
+      "turnout_rate": 45.1
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "臺東市",
+      "village": "建農里",
+      "polling_station": "91",
+      "agree_votes": 68,
+      "disagree_votes": 144,
+      "valid_votes": 212,
+      "invalid_votes": 1,
+      "total_voters": 213,
+      "ballots_not_cast": 0,
+      "ballots_issued": 213,
+      "unused_ballots": 307,
+      "eligible_voters": 520,
+      "turnout_rate": 40.96
+    }
+  ]
+}

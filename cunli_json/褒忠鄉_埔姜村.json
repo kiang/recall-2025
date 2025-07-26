@@ -1,0 +1,50 @@
+{
+  "cunli": "褒忠鄉_埔姜村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 291,
+    "disagree_votes": 449,
+    "valid_votes": 740,
+    "invalid_votes": 5,
+    "total_voters": 745,
+    "ballots_not_cast": 0,
+    "ballots_issued": 745,
+    "unused_ballots": 641,
+    "eligible_voters": 1386,
+    "average_turnout_rate": 53.75
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "褒忠鄉",
+      "village": "埔姜村",
+      "polling_station": "80",
+      "agree_votes": 154,
+      "disagree_votes": 222,
+      "valid_votes": 376,
+      "invalid_votes": 3,
+      "total_voters": 379,
+      "ballots_not_cast": 0,
+      "ballots_issued": 379,
+      "unused_ballots": 318,
+      "eligible_voters": 697,
+      "turnout_rate": 54.38
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "褒忠鄉",
+      "village": "埔姜村",
+      "polling_station": "81",
+      "agree_votes": 137,
+      "disagree_votes": 227,
+      "valid_votes": 364,
+      "invalid_votes": 2,
+      "total_voters": 366,
+      "ballots_not_cast": 0,
+      "ballots_issued": 366,
+      "unused_ballots": 323,
+      "eligible_voters": 689,
+      "turnout_rate": 53.12
+    }
+  ]
+}

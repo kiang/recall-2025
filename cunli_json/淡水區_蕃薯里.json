@@ -1,0 +1,34 @@
+{
+  "cunli": "淡水區_蕃薯里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 193,
+    "disagree_votes": 272,
+    "valid_votes": 465,
+    "invalid_votes": 0,
+    "total_voters": 465,
+    "ballots_not_cast": 0,
+    "ballots_issued": 465,
+    "unused_ballots": 513,
+    "eligible_voters": 978,
+    "average_turnout_rate": 47.55
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "淡水區",
+      "village": "蕃薯里",
+      "polling_station": "36",
+      "agree_votes": 193,
+      "disagree_votes": 272,
+      "valid_votes": 465,
+      "invalid_votes": 0,
+      "total_voters": 465,
+      "ballots_not_cast": 0,
+      "ballots_issued": 465,
+      "unused_ballots": 513,
+      "eligible_voters": 978,
+      "turnout_rate": 47.55
+    }
+  ]
+}

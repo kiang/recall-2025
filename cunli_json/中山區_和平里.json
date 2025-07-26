@@ -1,0 +1,34 @@
+{
+  "cunli": "中山區_和平里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 81,
+    "disagree_votes": 163,
+    "valid_votes": 244,
+    "invalid_votes": 1,
+    "total_voters": 245,
+    "ballots_not_cast": 0,
+    "ballots_issued": 245,
+    "unused_ballots": 164,
+    "eligible_voters": 409,
+    "average_turnout_rate": 59.9
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "中山區",
+      "village": "和平里",
+      "polling_station": "131",
+      "agree_votes": 81,
+      "disagree_votes": 163,
+      "valid_votes": 244,
+      "invalid_votes": 1,
+      "total_voters": 245,
+      "ballots_not_cast": 0,
+      "ballots_issued": 245,
+      "unused_ballots": 164,
+      "eligible_voters": 409,
+      "turnout_rate": 59.9
+    }
+  ]
+}

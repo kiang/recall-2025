@@ -1,0 +1,66 @@
+{
+  "cunli": "秀林鄉_景美村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 32,
+    "disagree_votes": 43,
+    "valid_votes": 75,
+    "invalid_votes": 0,
+    "total_voters": 75,
+    "ballots_not_cast": 0,
+    "ballots_issued": 75,
+    "unused_ballots": 71,
+    "eligible_voters": 146,
+    "average_turnout_rate": 51.37
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "秀林鄉",
+      "village": "景美村",
+      "polling_station": "126",
+      "agree_votes": 7,
+      "disagree_votes": 11,
+      "valid_votes": 18,
+      "invalid_votes": 0,
+      "total_voters": 18,
+      "ballots_not_cast": 0,
+      "ballots_issued": 18,
+      "unused_ballots": 24,
+      "eligible_voters": 42,
+      "turnout_rate": 42.86
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "秀林鄉",
+      "village": "景美村",
+      "polling_station": "127",
+      "agree_votes": 13,
+      "disagree_votes": 12,
+      "valid_votes": 25,
+      "invalid_votes": 0,
+      "total_voters": 25,
+      "ballots_not_cast": 0,
+      "ballots_issued": 25,
+      "unused_ballots": 26,
+      "eligible_voters": 51,
+      "turnout_rate": 49.02
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "秀林鄉",
+      "village": "景美村",
+      "polling_station": "128",
+      "agree_votes": 12,
+      "disagree_votes": 20,
+      "valid_votes": 32,
+      "invalid_votes": 0,
+      "total_voters": 32,
+      "ballots_not_cast": 0,
+      "ballots_issued": 32,
+      "unused_ballots": 21,
+      "eligible_voters": 53,
+      "turnout_rate": 60.38
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "cunli": "文山區_樟樹里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 864,
+    "disagree_votes": 1305,
+    "valid_votes": 2169,
+    "invalid_votes": 9,
+    "total_voters": 2178,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2178,
+    "unused_ballots": 1511,
+    "eligible_voters": 3689,
+    "average_turnout_rate": 59.04
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第8選舉區)賴士葆罷免案各投開票所投開票結果表",
+      "district": "文山區",
+      "village": "樟樹里",
+      "polling_station": "1035",
+      "agree_votes": 290,
+      "disagree_votes": 419,
+      "valid_votes": 709,
+      "invalid_votes": 4,
+      "total_voters": 713,
+      "ballots_not_cast": 0,
+      "ballots_issued": 713,
+      "unused_ballots": 473,
+      "eligible_voters": 1186,
+      "turnout_rate": 60.12
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第8選舉區)賴士葆罷免案各投開票所投開票結果表",
+      "district": "文山區",
+      "village": "樟樹里",
+      "polling_station": "1036",
+      "agree_votes": 284,
+      "disagree_votes": 453,
+      "valid_votes": 737,
+      "invalid_votes": 2,
+      "total_voters": 739,
+      "ballots_not_cast": 0,
+      "ballots_issued": 739,
+      "unused_ballots": 510,
+      "eligible_voters": 1249,
+      "turnout_rate": 59.17
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第8選舉區)賴士葆罷免案各投開票所投開票結果表",
+      "district": "文山區",
+      "village": "樟樹里",
+      "polling_station": "1037",
+      "agree_votes": 290,
+      "disagree_votes": 433,
+      "valid_votes": 723,
+      "invalid_votes": 3,
+      "total_voters": 726,
+      "ballots_not_cast": 0,
+      "ballots_issued": 726,
+      "unused_ballots": 528,
+      "eligible_voters": 1254,
+      "turnout_rate": 57.89
+    }
+  ]
+}

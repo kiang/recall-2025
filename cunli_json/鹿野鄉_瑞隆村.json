@@ -1,0 +1,34 @@
+{
+  "cunli": "鹿野鄉_瑞隆村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 85,
+    "disagree_votes": 156,
+    "valid_votes": 241,
+    "invalid_votes": 1,
+    "total_voters": 242,
+    "ballots_not_cast": 0,
+    "ballots_issued": 242,
+    "unused_ballots": 317,
+    "eligible_voters": 559,
+    "average_turnout_rate": 43.29
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "鹿野鄉",
+      "village": "瑞隆村",
+      "polling_station": "145",
+      "agree_votes": 85,
+      "disagree_votes": 156,
+      "valid_votes": 241,
+      "invalid_votes": 1,
+      "total_voters": 242,
+      "ballots_not_cast": 0,
+      "ballots_issued": 242,
+      "unused_ballots": 317,
+      "eligible_voters": 559,
+      "turnout_rate": 43.29
+    }
+  ]
+}

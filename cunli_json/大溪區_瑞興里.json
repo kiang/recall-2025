@@ -1,0 +1,50 @@
+{
+  "cunli": "大溪區_瑞興里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 638,
+    "disagree_votes": 421,
+    "valid_votes": 1059,
+    "invalid_votes": 7,
+    "total_voters": 1066,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1066,
+    "unused_ballots": 979,
+    "eligible_voters": 2045,
+    "average_turnout_rate": 52.13
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "瑞興里",
+      "polling_station": "1310",
+      "agree_votes": 397,
+      "disagree_votes": 275,
+      "valid_votes": 672,
+      "invalid_votes": 6,
+      "total_voters": 678,
+      "ballots_not_cast": 0,
+      "ballots_issued": 678,
+      "unused_ballots": 605,
+      "eligible_voters": 1283,
+      "turnout_rate": 52.84
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第6選舉區)邱若華罷免案各投開票所投開票結果表",
+      "district": "大溪區",
+      "village": "瑞興里",
+      "polling_station": "1311",
+      "agree_votes": 241,
+      "disagree_votes": 146,
+      "valid_votes": 387,
+      "invalid_votes": 1,
+      "total_voters": 388,
+      "ballots_not_cast": 0,
+      "ballots_issued": 388,
+      "unused_ballots": 374,
+      "eligible_voters": 762,
+      "turnout_rate": 50.92
+    }
+  ]
+}

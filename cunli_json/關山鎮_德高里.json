@@ -1,0 +1,50 @@
+{
+  "cunli": "關山鎮_德高里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 134,
+    "disagree_votes": 280,
+    "valid_votes": 414,
+    "invalid_votes": 3,
+    "total_voters": 417,
+    "ballots_not_cast": 0,
+    "ballots_issued": 417,
+    "unused_ballots": 537,
+    "eligible_voters": 954,
+    "average_turnout_rate": 43.71
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "關山鎮",
+      "village": "德高里",
+      "polling_station": "115",
+      "agree_votes": 42,
+      "disagree_votes": 110,
+      "valid_votes": 152,
+      "invalid_votes": 0,
+      "total_voters": 152,
+      "ballots_not_cast": 0,
+      "ballots_issued": 152,
+      "unused_ballots": 216,
+      "eligible_voters": 368,
+      "turnout_rate": 41.3
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "關山鎮",
+      "village": "德高里",
+      "polling_station": "116",
+      "agree_votes": 92,
+      "disagree_votes": 170,
+      "valid_votes": 262,
+      "invalid_votes": 3,
+      "total_voters": 265,
+      "ballots_not_cast": 0,
+      "ballots_issued": 265,
+      "unused_ballots": 321,
+      "eligible_voters": 586,
+      "turnout_rate": 45.22
+    }
+  ]
+}

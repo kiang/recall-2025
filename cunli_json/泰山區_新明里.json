@@ -1,0 +1,50 @@
+{
+  "cunli": "泰山區_新明里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 718,
+    "disagree_votes": 789,
+    "valid_votes": 1507,
+    "invalid_votes": 6,
+    "total_voters": 1513,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1513,
+    "unused_ballots": 1134,
+    "eligible_voters": 2647,
+    "average_turnout_rate": 57.16
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "泰山區",
+      "village": "新明里",
+      "polling_station": "298",
+      "agree_votes": 365,
+      "disagree_votes": 394,
+      "valid_votes": 759,
+      "invalid_votes": 1,
+      "total_voters": 760,
+      "ballots_not_cast": 0,
+      "ballots_issued": 760,
+      "unused_ballots": 506,
+      "eligible_voters": 1266,
+      "turnout_rate": 60.03
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第1選舉區)洪孟楷罷免案各投開票所投開票結果表",
+      "district": "泰山區",
+      "village": "新明里",
+      "polling_station": "299",
+      "agree_votes": 353,
+      "disagree_votes": 395,
+      "valid_votes": 748,
+      "invalid_votes": 5,
+      "total_voters": 753,
+      "ballots_not_cast": 0,
+      "ballots_issued": 753,
+      "unused_ballots": 628,
+      "eligible_voters": 1381,
+      "turnout_rate": 54.53
+    }
+  ]
+}

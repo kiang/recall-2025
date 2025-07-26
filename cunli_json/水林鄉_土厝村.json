@@ -1,0 +1,34 @@
+{
+  "cunli": "水林鄉_土厝村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 333,
+    "disagree_votes": 184,
+    "valid_votes": 517,
+    "invalid_votes": 7,
+    "total_voters": 524,
+    "ballots_not_cast": 0,
+    "ballots_issued": 524,
+    "unused_ballots": 569,
+    "eligible_voters": 1093,
+    "average_turnout_rate": 47.94
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "水林鄉",
+      "village": "土厝村",
+      "polling_station": "277",
+      "agree_votes": 333,
+      "disagree_votes": 184,
+      "valid_votes": 517,
+      "invalid_votes": 7,
+      "total_voters": 524,
+      "ballots_not_cast": 0,
+      "ballots_issued": 524,
+      "unused_ballots": 569,
+      "eligible_voters": 1093,
+      "turnout_rate": 47.94
+    }
+  ]
+}

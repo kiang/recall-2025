@@ -1,0 +1,66 @@
+{
+  "cunli": "中山區_朱園里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1164,
+    "disagree_votes": 1048,
+    "valid_votes": 2212,
+    "invalid_votes": 4,
+    "total_voters": 2216,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2216,
+    "unused_ballots": 1537,
+    "eligible_voters": 3753,
+    "average_turnout_rate": 59.05
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第3選舉區)王鴻薇罷免案各投開票所投開票結果表",
+      "district": "中山區",
+      "village": "朱園里",
+      "polling_station": "139",
+      "agree_votes": 446,
+      "disagree_votes": 381,
+      "valid_votes": 827,
+      "invalid_votes": 1,
+      "total_voters": 828,
+      "ballots_not_cast": 0,
+      "ballots_issued": 828,
+      "unused_ballots": 560,
+      "eligible_voters": 1388,
+      "turnout_rate": 59.65
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第3選舉區)王鴻薇罷免案各投開票所投開票結果表",
+      "district": "中山區",
+      "village": "朱園里",
+      "polling_station": "140",
+      "agree_votes": 382,
+      "disagree_votes": 362,
+      "valid_votes": 744,
+      "invalid_votes": 3,
+      "total_voters": 747,
+      "ballots_not_cast": 0,
+      "ballots_issued": 747,
+      "unused_ballots": 568,
+      "eligible_voters": 1315,
+      "turnout_rate": 56.81
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第3選舉區)王鴻薇罷免案各投開票所投開票結果表",
+      "district": "中山區",
+      "village": "朱園里",
+      "polling_station": "141",
+      "agree_votes": 336,
+      "disagree_votes": 305,
+      "valid_votes": 641,
+      "invalid_votes": 0,
+      "total_voters": 641,
+      "ballots_not_cast": 0,
+      "ballots_issued": 641,
+      "unused_ballots": 409,
+      "eligible_voters": 1050,
+      "turnout_rate": 61.05
+    }
+  ]
+}

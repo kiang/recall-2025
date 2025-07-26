@@ -1,0 +1,66 @@
+{
+  "cunli": "新屋區_清華里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 911,
+    "disagree_votes": 1388,
+    "valid_votes": 2299,
+    "invalid_votes": 13,
+    "total_voters": 2312,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2312,
+    "unused_ballots": 1722,
+    "eligible_voters": 4034,
+    "average_turnout_rate": 57.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "清華里",
+      "polling_station": "360",
+      "agree_votes": 317,
+      "disagree_votes": 477,
+      "valid_votes": 794,
+      "invalid_votes": 3,
+      "total_voters": 797,
+      "ballots_not_cast": 0,
+      "ballots_issued": 797,
+      "unused_ballots": 554,
+      "eligible_voters": 1351,
+      "turnout_rate": 58.99
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "清華里",
+      "polling_station": "361",
+      "agree_votes": 296,
+      "disagree_votes": 458,
+      "valid_votes": 754,
+      "invalid_votes": 7,
+      "total_voters": 761,
+      "ballots_not_cast": 0,
+      "ballots_issued": 761,
+      "unused_ballots": 544,
+      "eligible_voters": 1305,
+      "turnout_rate": 58.31
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "清華里",
+      "polling_station": "362",
+      "agree_votes": 298,
+      "disagree_votes": 453,
+      "valid_votes": 751,
+      "invalid_votes": 3,
+      "total_voters": 754,
+      "ballots_not_cast": 0,
+      "ballots_issued": 754,
+      "unused_ballots": 624,
+      "eligible_voters": 1378,
+      "turnout_rate": 54.72
+    }
+  ]
+}

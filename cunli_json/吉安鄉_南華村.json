@@ -1,0 +1,50 @@
+{
+  "cunli": "吉安鄉_南華村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 354,
+    "disagree_votes": 341,
+    "valid_votes": 695,
+    "invalid_votes": 5,
+    "total_voters": 700,
+    "ballots_not_cast": 0,
+    "ballots_issued": 700,
+    "unused_ballots": 367,
+    "eligible_voters": 1067,
+    "average_turnout_rate": 65.6
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "吉安鄉",
+      "village": "南華村",
+      "polling_station": "179",
+      "agree_votes": 191,
+      "disagree_votes": 143,
+      "valid_votes": 334,
+      "invalid_votes": 1,
+      "total_voters": 335,
+      "ballots_not_cast": 0,
+      "ballots_issued": 335,
+      "unused_ballots": 188,
+      "eligible_voters": 523,
+      "turnout_rate": 64.05
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "吉安鄉",
+      "village": "南華村",
+      "polling_station": "180",
+      "agree_votes": 163,
+      "disagree_votes": 198,
+      "valid_votes": 361,
+      "invalid_votes": 4,
+      "total_voters": 365,
+      "ballots_not_cast": 0,
+      "ballots_issued": 365,
+      "unused_ballots": 179,
+      "eligible_voters": 544,
+      "turnout_rate": 67.1
+    }
+  ]
+}

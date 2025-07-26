@@ -1,0 +1,50 @@
+{
+  "cunli": "光復鄉_西富村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 47,
+    "disagree_votes": 80,
+    "valid_votes": 127,
+    "invalid_votes": 1,
+    "total_voters": 128,
+    "ballots_not_cast": 0,
+    "ballots_issued": 128,
+    "unused_ballots": 128,
+    "eligible_voters": 256,
+    "average_turnout_rate": 50.0
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "光復鄉",
+      "village": "西富村",
+      "polling_station": "251",
+      "agree_votes": 12,
+      "disagree_votes": 31,
+      "valid_votes": 43,
+      "invalid_votes": 0,
+      "total_voters": 43,
+      "ballots_not_cast": 0,
+      "ballots_issued": 43,
+      "unused_ballots": 38,
+      "eligible_voters": 81,
+      "turnout_rate": 53.09
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "光復鄉",
+      "village": "西富村",
+      "polling_station": "252",
+      "agree_votes": 35,
+      "disagree_votes": 49,
+      "valid_votes": 84,
+      "invalid_votes": 1,
+      "total_voters": 85,
+      "ballots_not_cast": 0,
+      "ballots_issued": 85,
+      "unused_ballots": 90,
+      "eligible_voters": 175,
+      "turnout_rate": 48.57
+    }
+  ]
+}

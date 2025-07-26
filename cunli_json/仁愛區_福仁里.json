@@ -1,0 +1,34 @@
+{
+  "cunli": "仁愛區_福仁里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 186,
+    "disagree_votes": 207,
+    "valid_votes": 393,
+    "invalid_votes": 1,
+    "total_voters": 394,
+    "ballots_not_cast": 0,
+    "ballots_issued": 394,
+    "unused_ballots": 281,
+    "eligible_voters": 675,
+    "average_turnout_rate": 58.37
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "仁愛區",
+      "village": "福仁里",
+      "polling_station": "95",
+      "agree_votes": 186,
+      "disagree_votes": 207,
+      "valid_votes": 393,
+      "invalid_votes": 1,
+      "total_voters": 394,
+      "ballots_not_cast": 0,
+      "ballots_issued": 394,
+      "unused_ballots": 281,
+      "eligible_voters": 675,
+      "turnout_rate": 58.37
+    }
+  ]
+}

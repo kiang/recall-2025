@@ -1,0 +1,82 @@
+{
+  "cunli": "金山區_金美里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1084,
+    "disagree_votes": 1221,
+    "valid_votes": 2305,
+    "invalid_votes": 12,
+    "total_voters": 2317,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2317,
+    "unused_ballots": 2444,
+    "eligible_voters": 4761,
+    "average_turnout_rate": 48.67
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "金美里",
+      "polling_station": "894",
+      "agree_votes": 239,
+      "disagree_votes": 275,
+      "valid_votes": 514,
+      "invalid_votes": 5,
+      "total_voters": 519,
+      "ballots_not_cast": 0,
+      "ballots_issued": 519,
+      "unused_ballots": 599,
+      "eligible_voters": 1118,
+      "turnout_rate": 46.42
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "金美里",
+      "polling_station": "895",
+      "agree_votes": 331,
+      "disagree_votes": 388,
+      "valid_votes": 719,
+      "invalid_votes": 3,
+      "total_voters": 722,
+      "ballots_not_cast": 0,
+      "ballots_issued": 722,
+      "unused_ballots": 626,
+      "eligible_voters": 1348,
+      "turnout_rate": 53.56
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "金美里",
+      "polling_station": "896",
+      "agree_votes": 275,
+      "disagree_votes": 288,
+      "valid_votes": 563,
+      "invalid_votes": 3,
+      "total_voters": 566,
+      "ballots_not_cast": 0,
+      "ballots_issued": 566,
+      "unused_ballots": 619,
+      "eligible_voters": 1185,
+      "turnout_rate": 47.76
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "金山區",
+      "village": "金美里",
+      "polling_station": "897",
+      "agree_votes": 239,
+      "disagree_votes": 270,
+      "valid_votes": 509,
+      "invalid_votes": 1,
+      "total_voters": 510,
+      "ballots_not_cast": 0,
+      "ballots_issued": 510,
+      "unused_ballots": 600,
+      "eligible_voters": 1110,
+      "turnout_rate": 45.95
+    }
+  ]
+}

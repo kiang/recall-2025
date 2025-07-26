@@ -1,0 +1,82 @@
+{
+  "cunli": "永和區_保安里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1435,
+    "disagree_votes": 1955,
+    "valid_votes": 3390,
+    "invalid_votes": 19,
+    "total_voters": 3409,
+    "ballots_not_cast": 0,
+    "ballots_issued": 3409,
+    "unused_ballots": 2481,
+    "eligible_voters": 5890,
+    "average_turnout_rate": 57.88
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "保安里",
+      "polling_station": "855",
+      "agree_votes": 395,
+      "disagree_votes": 439,
+      "valid_votes": 834,
+      "invalid_votes": 3,
+      "total_voters": 837,
+      "ballots_not_cast": 0,
+      "ballots_issued": 837,
+      "unused_ballots": 649,
+      "eligible_voters": 1486,
+      "turnout_rate": 56.33
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "保安里",
+      "polling_station": "856",
+      "agree_votes": 327,
+      "disagree_votes": 510,
+      "valid_votes": 837,
+      "invalid_votes": 1,
+      "total_voters": 838,
+      "ballots_not_cast": 0,
+      "ballots_issued": 838,
+      "unused_ballots": 597,
+      "eligible_voters": 1435,
+      "turnout_rate": 58.4
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "保安里",
+      "polling_station": "857",
+      "agree_votes": 339,
+      "disagree_votes": 473,
+      "valid_votes": 812,
+      "invalid_votes": 4,
+      "total_voters": 816,
+      "ballots_not_cast": 0,
+      "ballots_issued": 816,
+      "unused_ballots": 621,
+      "eligible_voters": 1437,
+      "turnout_rate": 56.78
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第9選舉區)林德福罷免案各投開票所投開票結果表",
+      "district": "永和區",
+      "village": "保安里",
+      "polling_station": "858",
+      "agree_votes": 374,
+      "disagree_votes": 533,
+      "valid_votes": 907,
+      "invalid_votes": 11,
+      "total_voters": 918,
+      "ballots_not_cast": 0,
+      "ballots_issued": 918,
+      "unused_ballots": 614,
+      "eligible_voters": 1532,
+      "turnout_rate": 59.92
+    }
+  ]
+}

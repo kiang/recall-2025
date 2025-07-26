@@ -1,0 +1,66 @@
+{
+  "cunli": "卓溪鄉_古風村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 4,
+    "disagree_votes": 20,
+    "valid_votes": 24,
+    "invalid_votes": 0,
+    "total_voters": 24,
+    "ballots_not_cast": 0,
+    "ballots_issued": 24,
+    "unused_ballots": 24,
+    "eligible_voters": 48,
+    "average_turnout_rate": 50.0
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "卓溪鄉",
+      "village": "古風村",
+      "polling_station": "337",
+      "agree_votes": 2,
+      "disagree_votes": 4,
+      "valid_votes": 6,
+      "invalid_votes": 0,
+      "total_voters": 6,
+      "ballots_not_cast": 0,
+      "ballots_issued": 6,
+      "unused_ballots": 8,
+      "eligible_voters": 14,
+      "turnout_rate": 42.86
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "卓溪鄉",
+      "village": "古風村",
+      "polling_station": "338",
+      "agree_votes": 1,
+      "disagree_votes": 9,
+      "valid_votes": 10,
+      "invalid_votes": 0,
+      "total_voters": 10,
+      "ballots_not_cast": 0,
+      "ballots_issued": 10,
+      "unused_ballots": 8,
+      "eligible_voters": 18,
+      "turnout_rate": 55.56
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "卓溪鄉",
+      "village": "古風村",
+      "polling_station": "339",
+      "agree_votes": 1,
+      "disagree_votes": 7,
+      "valid_votes": 8,
+      "invalid_votes": 0,
+      "total_voters": 8,
+      "ballots_not_cast": 0,
+      "ballots_issued": 8,
+      "unused_ballots": 8,
+      "eligible_voters": 16,
+      "turnout_rate": 50.0
+    }
+  ]
+}

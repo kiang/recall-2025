@@ -1,0 +1,50 @@
+{
+  "cunli": "瑞穗鄉_瑞穗村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 309,
+    "disagree_votes": 488,
+    "valid_votes": 797,
+    "invalid_votes": 4,
+    "total_voters": 801,
+    "ballots_not_cast": 0,
+    "ballots_issued": 801,
+    "unused_ballots": 550,
+    "eligible_voters": 1351,
+    "average_turnout_rate": 59.29
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "瑞穗鄉",
+      "village": "瑞穗村",
+      "polling_station": "275",
+      "agree_votes": 138,
+      "disagree_votes": 229,
+      "valid_votes": 367,
+      "invalid_votes": 2,
+      "total_voters": 369,
+      "ballots_not_cast": 0,
+      "ballots_issued": 369,
+      "unused_ballots": 250,
+      "eligible_voters": 619,
+      "turnout_rate": 59.61
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "瑞穗鄉",
+      "village": "瑞穗村",
+      "polling_station": "276",
+      "agree_votes": 171,
+      "disagree_votes": 259,
+      "valid_votes": 430,
+      "invalid_votes": 2,
+      "total_voters": 432,
+      "ballots_not_cast": 0,
+      "ballots_issued": 432,
+      "unused_ballots": 300,
+      "eligible_voters": 732,
+      "turnout_rate": 59.02
+    }
+  ]
+}

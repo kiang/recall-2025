@@ -1,0 +1,66 @@
+{
+  "cunli": "平鎮區_新安里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 767,
+    "disagree_votes": 1443,
+    "valid_votes": 2210,
+    "invalid_votes": 15,
+    "total_voters": 2225,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2225,
+    "unused_ballots": 1713,
+    "eligible_voters": 3938,
+    "average_turnout_rate": 56.5
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新安里",
+      "polling_station": "1059",
+      "agree_votes": 222,
+      "disagree_votes": 501,
+      "valid_votes": 723,
+      "invalid_votes": 5,
+      "total_voters": 728,
+      "ballots_not_cast": 0,
+      "ballots_issued": 728,
+      "unused_ballots": 580,
+      "eligible_voters": 1308,
+      "turnout_rate": 55.66
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新安里",
+      "polling_station": "1060",
+      "agree_votes": 303,
+      "disagree_votes": 477,
+      "valid_votes": 780,
+      "invalid_votes": 4,
+      "total_voters": 784,
+      "ballots_not_cast": 0,
+      "ballots_issued": 784,
+      "unused_ballots": 590,
+      "eligible_voters": 1374,
+      "turnout_rate": 57.06
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "平鎮區",
+      "village": "新安里",
+      "polling_station": "1061",
+      "agree_votes": 242,
+      "disagree_votes": 465,
+      "valid_votes": 707,
+      "invalid_votes": 6,
+      "total_voters": 713,
+      "ballots_not_cast": 0,
+      "ballots_issued": 713,
+      "unused_ballots": 543,
+      "eligible_voters": 1256,
+      "turnout_rate": 56.77
+    }
+  ]
+}

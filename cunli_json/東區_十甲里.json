@@ -1,0 +1,82 @@
+{
+  "cunli": "東區_十甲里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1377,
+    "disagree_votes": 1489,
+    "valid_votes": 2866,
+    "invalid_votes": 19,
+    "total_voters": 2885,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2885,
+    "unused_ballots": 1992,
+    "eligible_voters": 4877,
+    "average_turnout_rate": 59.16
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "十甲里",
+      "polling_station": "664",
+      "agree_votes": 322,
+      "disagree_votes": 343,
+      "valid_votes": 665,
+      "invalid_votes": 5,
+      "total_voters": 670,
+      "ballots_not_cast": 0,
+      "ballots_issued": 670,
+      "unused_ballots": 469,
+      "eligible_voters": 1139,
+      "turnout_rate": 58.82
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "十甲里",
+      "polling_station": "665",
+      "agree_votes": 306,
+      "disagree_votes": 361,
+      "valid_votes": 667,
+      "invalid_votes": 1,
+      "total_voters": 668,
+      "ballots_not_cast": 0,
+      "ballots_issued": 668,
+      "unused_ballots": 441,
+      "eligible_voters": 1109,
+      "turnout_rate": 60.23
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "十甲里",
+      "polling_station": "666",
+      "agree_votes": 377,
+      "disagree_votes": 404,
+      "valid_votes": 781,
+      "invalid_votes": 7,
+      "total_voters": 788,
+      "ballots_not_cast": 0,
+      "ballots_issued": 788,
+      "unused_ballots": 585,
+      "eligible_voters": 1373,
+      "turnout_rate": 57.39
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "十甲里",
+      "polling_station": "667",
+      "agree_votes": 372,
+      "disagree_votes": 381,
+      "valid_votes": 753,
+      "invalid_votes": 6,
+      "total_voters": 759,
+      "ballots_not_cast": 0,
+      "ballots_issued": 759,
+      "unused_ballots": 497,
+      "eligible_voters": 1256,
+      "turnout_rate": 60.43
+    }
+  ]
+}

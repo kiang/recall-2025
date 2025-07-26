@@ -1,0 +1,66 @@
+{
+  "cunli": "內湖區_金龍里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1104,
+    "disagree_votes": 1500,
+    "valid_votes": 2604,
+    "invalid_votes": 5,
+    "total_voters": 2609,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2609,
+    "unused_ballots": 1695,
+    "eligible_voters": 4304,
+    "average_turnout_rate": 60.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "內湖區",
+      "village": "金龍里",
+      "polling_station": "288",
+      "agree_votes": 389,
+      "disagree_votes": 521,
+      "valid_votes": 910,
+      "invalid_votes": 2,
+      "total_voters": 912,
+      "ballots_not_cast": 0,
+      "ballots_issued": 912,
+      "unused_ballots": 554,
+      "eligible_voters": 1466,
+      "turnout_rate": 62.21
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "內湖區",
+      "village": "金龍里",
+      "polling_station": "289",
+      "agree_votes": 359,
+      "disagree_votes": 469,
+      "valid_votes": 828,
+      "invalid_votes": 2,
+      "total_voters": 830,
+      "ballots_not_cast": 0,
+      "ballots_issued": 830,
+      "unused_ballots": 581,
+      "eligible_voters": 1411,
+      "turnout_rate": 58.82
+    },
+    {
+      "recall_case": "第11屆立法委員(臺北市第4選舉區)李彥秀罷免案各投開票所投開票結果表",
+      "district": "內湖區",
+      "village": "金龍里",
+      "polling_station": "290",
+      "agree_votes": 356,
+      "disagree_votes": 510,
+      "valid_votes": 866,
+      "invalid_votes": 1,
+      "total_voters": 867,
+      "ballots_not_cast": 0,
+      "ballots_issued": 867,
+      "unused_ballots": 560,
+      "eligible_voters": 1427,
+      "turnout_rate": 60.76
+    }
+  ]
+}

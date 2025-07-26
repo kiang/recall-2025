@@ -1,0 +1,34 @@
+{
+  "cunli": "中山區_民治里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 169,
+    "disagree_votes": 261,
+    "valid_votes": 430,
+    "invalid_votes": 3,
+    "total_voters": 433,
+    "ballots_not_cast": 0,
+    "ballots_issued": 433,
+    "unused_ballots": 287,
+    "eligible_voters": 720,
+    "average_turnout_rate": 60.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(基隆市選舉區)林沛祥罷免案各投開票所投開票結果表",
+      "district": "中山區",
+      "village": "民治里",
+      "polling_station": "123",
+      "agree_votes": 169,
+      "disagree_votes": 261,
+      "valid_votes": 430,
+      "invalid_votes": 3,
+      "total_voters": 433,
+      "ballots_not_cast": 0,
+      "ballots_issued": 433,
+      "unused_ballots": 287,
+      "eligible_voters": 720,
+      "turnout_rate": 60.14
+    }
+  ]
+}

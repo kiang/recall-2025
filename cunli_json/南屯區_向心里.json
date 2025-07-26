@@ -1,0 +1,66 @@
+{
+  "cunli": "南屯區_向心里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1267,
+    "disagree_votes": 1571,
+    "valid_votes": 2838,
+    "invalid_votes": 15,
+    "total_voters": 2853,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2853,
+    "unused_ballots": 2752,
+    "eligible_voters": 5605,
+    "average_turnout_rate": 50.9
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "向心里",
+      "polling_station": "234",
+      "agree_votes": 453,
+      "disagree_votes": 497,
+      "valid_votes": 950,
+      "invalid_votes": 4,
+      "total_voters": 954,
+      "ballots_not_cast": 0,
+      "ballots_issued": 954,
+      "unused_ballots": 631,
+      "eligible_voters": 1585,
+      "turnout_rate": 60.19
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "向心里",
+      "polling_station": "235",
+      "agree_votes": 491,
+      "disagree_votes": 583,
+      "valid_votes": 1074,
+      "invalid_votes": 7,
+      "total_voters": 1081,
+      "ballots_not_cast": 0,
+      "ballots_issued": 1081,
+      "unused_ballots": 1501,
+      "eligible_voters": 2582,
+      "turnout_rate": 41.87
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "南屯區",
+      "village": "向心里",
+      "polling_station": "236",
+      "agree_votes": 323,
+      "disagree_votes": 491,
+      "valid_votes": 814,
+      "invalid_votes": 4,
+      "total_voters": 818,
+      "ballots_not_cast": 0,
+      "ballots_issued": 818,
+      "unused_ballots": 620,
+      "eligible_voters": 1438,
+      "turnout_rate": 56.88
+    }
+  ]
+}

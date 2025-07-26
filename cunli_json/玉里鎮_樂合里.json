@@ -1,0 +1,34 @@
+{
+  "cunli": "玉里鎮_樂合里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 45,
+    "disagree_votes": 80,
+    "valid_votes": 125,
+    "invalid_votes": 3,
+    "total_voters": 128,
+    "ballots_not_cast": 0,
+    "ballots_issued": 128,
+    "unused_ballots": 157,
+    "eligible_voters": 285,
+    "average_turnout_rate": 44.91
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "玉里鎮",
+      "village": "樂合里",
+      "polling_station": "309",
+      "agree_votes": 45,
+      "disagree_votes": 80,
+      "valid_votes": 125,
+      "invalid_votes": 3,
+      "total_voters": 128,
+      "ballots_not_cast": 0,
+      "ballots_issued": 128,
+      "unused_ballots": 157,
+      "eligible_voters": 285,
+      "turnout_rate": 44.91
+    }
+  ]
+}

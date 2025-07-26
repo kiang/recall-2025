@@ -1,0 +1,66 @@
+{
+  "cunli": "汐止區_秀峰里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 879,
+    "disagree_votes": 1023,
+    "valid_votes": 1902,
+    "invalid_votes": 11,
+    "total_voters": 1913,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1913,
+    "unused_ballots": 2916,
+    "eligible_voters": 4829,
+    "average_turnout_rate": 39.61
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "秀峰里",
+      "polling_station": "946",
+      "agree_votes": 208,
+      "disagree_votes": 189,
+      "valid_votes": 397,
+      "invalid_votes": 2,
+      "total_voters": 399,
+      "ballots_not_cast": 0,
+      "ballots_issued": 399,
+      "unused_ballots": 1652,
+      "eligible_voters": 2051,
+      "turnout_rate": 19.45
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "秀峰里",
+      "polling_station": "947",
+      "agree_votes": 356,
+      "disagree_votes": 423,
+      "valid_votes": 779,
+      "invalid_votes": 2,
+      "total_voters": 781,
+      "ballots_not_cast": 0,
+      "ballots_issued": 781,
+      "unused_ballots": 672,
+      "eligible_voters": 1453,
+      "turnout_rate": 53.75
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第12選舉區)廖先翔罷免案各投開票所投開票結果表",
+      "district": "汐止區",
+      "village": "秀峰里",
+      "polling_station": "948",
+      "agree_votes": 315,
+      "disagree_votes": 411,
+      "valid_votes": 726,
+      "invalid_votes": 7,
+      "total_voters": 733,
+      "ballots_not_cast": 0,
+      "ballots_issued": 733,
+      "unused_ballots": 592,
+      "eligible_voters": 1325,
+      "turnout_rate": 55.32
+    }
+  ]
+}

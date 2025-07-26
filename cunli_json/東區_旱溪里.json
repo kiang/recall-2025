@@ -1,0 +1,66 @@
+{
+  "cunli": "東區_旱溪里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 671,
+    "disagree_votes": 739,
+    "valid_votes": 1410,
+    "invalid_votes": 10,
+    "total_voters": 1420,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1420,
+    "unused_ballots": 916,
+    "eligible_voters": 2336,
+    "average_turnout_rate": 60.79
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "旱溪里",
+      "polling_station": "653",
+      "agree_votes": 199,
+      "disagree_votes": 268,
+      "valid_votes": 467,
+      "invalid_votes": 2,
+      "total_voters": 469,
+      "ballots_not_cast": 0,
+      "ballots_issued": 469,
+      "unused_ballots": 306,
+      "eligible_voters": 775,
+      "turnout_rate": 60.52
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "旱溪里",
+      "polling_station": "654",
+      "agree_votes": 242,
+      "disagree_votes": 212,
+      "valid_votes": 454,
+      "invalid_votes": 5,
+      "total_voters": 459,
+      "ballots_not_cast": 0,
+      "ballots_issued": 459,
+      "unused_ballots": 304,
+      "eligible_voters": 763,
+      "turnout_rate": 60.16
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第6選舉區)羅廷瑋罷免案各投開票所投開票結果表",
+      "district": "東區",
+      "village": "旱溪里",
+      "polling_station": "655",
+      "agree_votes": 230,
+      "disagree_votes": 259,
+      "valid_votes": 489,
+      "invalid_votes": 3,
+      "total_voters": 492,
+      "ballots_not_cast": 0,
+      "ballots_issued": 492,
+      "unused_ballots": 306,
+      "eligible_voters": 798,
+      "turnout_rate": 61.65
+    }
+  ]
+}

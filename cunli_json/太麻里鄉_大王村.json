@@ -1,0 +1,50 @@
+{
+  "cunli": "太麻里鄉_大王村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 189,
+    "disagree_votes": 258,
+    "valid_votes": 447,
+    "invalid_votes": 1,
+    "total_voters": 448,
+    "ballots_not_cast": 0,
+    "ballots_issued": 448,
+    "unused_ballots": 549,
+    "eligible_voters": 997,
+    "average_turnout_rate": 44.93
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "太麻里鄉",
+      "village": "大王村",
+      "polling_station": "189",
+      "agree_votes": 64,
+      "disagree_votes": 125,
+      "valid_votes": 189,
+      "invalid_votes": 0,
+      "total_voters": 189,
+      "ballots_not_cast": 0,
+      "ballots_issued": 189,
+      "unused_ballots": 216,
+      "eligible_voters": 405,
+      "turnout_rate": 46.67
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "太麻里鄉",
+      "village": "大王村",
+      "polling_station": "190",
+      "agree_votes": 125,
+      "disagree_votes": 133,
+      "valid_votes": 258,
+      "invalid_votes": 1,
+      "total_voters": 259,
+      "ballots_not_cast": 0,
+      "ballots_issued": 259,
+      "unused_ballots": 333,
+      "eligible_voters": 592,
+      "turnout_rate": 43.75
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "cunli": "龍潭區_百年里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 695,
+    "disagree_votes": 1866,
+    "valid_votes": 2561,
+    "invalid_votes": 10,
+    "total_voters": 2571,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2571,
+    "unused_ballots": 1685,
+    "eligible_voters": 4256,
+    "average_turnout_rate": 60.41
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "百年里",
+      "polling_station": "1090",
+      "agree_votes": 225,
+      "disagree_votes": 725,
+      "valid_votes": 950,
+      "invalid_votes": 6,
+      "total_voters": 956,
+      "ballots_not_cast": 0,
+      "ballots_issued": 956,
+      "unused_ballots": 605,
+      "eligible_voters": 1561,
+      "turnout_rate": 61.24
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "百年里",
+      "polling_station": "1091",
+      "agree_votes": 277,
+      "disagree_votes": 627,
+      "valid_votes": 904,
+      "invalid_votes": 1,
+      "total_voters": 905,
+      "ballots_not_cast": 0,
+      "ballots_issued": 905,
+      "unused_ballots": 651,
+      "eligible_voters": 1556,
+      "turnout_rate": 58.16
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第5選舉區)呂玉玲罷免案各投開票所投開票結果表",
+      "district": "龍潭區",
+      "village": "百年里",
+      "polling_station": "1092",
+      "agree_votes": 193,
+      "disagree_votes": 514,
+      "valid_votes": 707,
+      "invalid_votes": 3,
+      "total_voters": 710,
+      "ballots_not_cast": 0,
+      "ballots_issued": 710,
+      "unused_ballots": 429,
+      "eligible_voters": 1139,
+      "turnout_rate": 62.34
+    }
+  ]
+}

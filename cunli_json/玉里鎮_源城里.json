@@ -1,0 +1,50 @@
+{
+  "cunli": "玉里鎮_源城里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 159,
+    "disagree_votes": 320,
+    "valid_votes": 479,
+    "invalid_votes": 6,
+    "total_voters": 485,
+    "ballots_not_cast": 0,
+    "ballots_issued": 485,
+    "unused_ballots": 408,
+    "eligible_voters": 893,
+    "average_turnout_rate": 54.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "玉里鎮",
+      "village": "源城里",
+      "polling_station": "306",
+      "agree_votes": 77,
+      "disagree_votes": 139,
+      "valid_votes": 216,
+      "invalid_votes": 4,
+      "total_voters": 220,
+      "ballots_not_cast": 0,
+      "ballots_issued": 220,
+      "unused_ballots": 160,
+      "eligible_voters": 380,
+      "turnout_rate": 57.89
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "玉里鎮",
+      "village": "源城里",
+      "polling_station": "307",
+      "agree_votes": 82,
+      "disagree_votes": 181,
+      "valid_votes": 263,
+      "invalid_votes": 2,
+      "total_voters": 265,
+      "ballots_not_cast": 0,
+      "ballots_issued": 265,
+      "unused_ballots": 248,
+      "eligible_voters": 513,
+      "turnout_rate": 51.66
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "cunli": "麥寮鄉_興華村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 517,
+    "disagree_votes": 768,
+    "valid_votes": 1285,
+    "invalid_votes": 8,
+    "total_voters": 1293,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1293,
+    "unused_ballots": 1733,
+    "eligible_voters": 3026,
+    "average_turnout_rate": 42.73
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "興華村",
+      "polling_station": "14",
+      "agree_votes": 226,
+      "disagree_votes": 316,
+      "valid_votes": 542,
+      "invalid_votes": 2,
+      "total_voters": 544,
+      "ballots_not_cast": 0,
+      "ballots_issued": 544,
+      "unused_ballots": 751,
+      "eligible_voters": 1295,
+      "turnout_rate": 42.01
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "興華村",
+      "polling_station": "15",
+      "agree_votes": 180,
+      "disagree_votes": 279,
+      "valid_votes": 459,
+      "invalid_votes": 4,
+      "total_voters": 463,
+      "ballots_not_cast": 0,
+      "ballots_issued": 463,
+      "unused_ballots": 593,
+      "eligible_voters": 1056,
+      "turnout_rate": 43.84
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "麥寮鄉",
+      "village": "興華村",
+      "polling_station": "16",
+      "agree_votes": 111,
+      "disagree_votes": 173,
+      "valid_votes": 284,
+      "invalid_votes": 2,
+      "total_voters": 286,
+      "ballots_not_cast": 0,
+      "ballots_issued": 286,
+      "unused_ballots": 389,
+      "eligible_voters": 675,
+      "turnout_rate": 42.37
+    }
+  ]
+}

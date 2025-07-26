@@ -1,0 +1,50 @@
+{
+  "cunli": "蘆竹區_福祿里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 746,
+    "disagree_votes": 921,
+    "valid_votes": 1667,
+    "invalid_votes": 5,
+    "total_voters": 1672,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1672,
+    "unused_ballots": 1391,
+    "eligible_voters": 3063,
+    "average_turnout_rate": 54.59
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "蘆竹區",
+      "village": "福祿里",
+      "polling_station": "64",
+      "agree_votes": 388,
+      "disagree_votes": 404,
+      "valid_votes": 792,
+      "invalid_votes": 1,
+      "total_voters": 793,
+      "ballots_not_cast": 0,
+      "ballots_issued": 793,
+      "unused_ballots": 625,
+      "eligible_voters": 1418,
+      "turnout_rate": 55.92
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第1選舉區)牛煦庭罷免案各投開票所投開票結果表",
+      "district": "蘆竹區",
+      "village": "福祿里",
+      "polling_station": "65",
+      "agree_votes": 358,
+      "disagree_votes": 517,
+      "valid_votes": 875,
+      "invalid_votes": 4,
+      "total_voters": 879,
+      "ballots_not_cast": 0,
+      "ballots_issued": 879,
+      "unused_ballots": 766,
+      "eligible_voters": 1645,
+      "turnout_rate": 53.43
+    }
+  ]
+}

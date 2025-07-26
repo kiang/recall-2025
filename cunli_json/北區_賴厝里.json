@@ -1,0 +1,66 @@
+{
+  "cunli": "北區_賴厝里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 859,
+    "disagree_votes": 1289,
+    "valid_votes": 2148,
+    "invalid_votes": 13,
+    "total_voters": 2161,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2161,
+    "unused_ballots": 2798,
+    "eligible_voters": 4959,
+    "average_turnout_rate": 43.58
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "賴厝里",
+      "polling_station": "501",
+      "agree_votes": 246,
+      "disagree_votes": 329,
+      "valid_votes": 575,
+      "invalid_votes": 0,
+      "total_voters": 575,
+      "ballots_not_cast": 0,
+      "ballots_issued": 575,
+      "unused_ballots": 1416,
+      "eligible_voters": 1991,
+      "turnout_rate": 28.88
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "賴厝里",
+      "polling_station": "502",
+      "agree_votes": 316,
+      "disagree_votes": 489,
+      "valid_votes": 805,
+      "invalid_votes": 7,
+      "total_voters": 812,
+      "ballots_not_cast": 0,
+      "ballots_issued": 812,
+      "unused_ballots": 674,
+      "eligible_voters": 1486,
+      "turnout_rate": 54.64
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "賴厝里",
+      "polling_station": "503",
+      "agree_votes": 297,
+      "disagree_votes": 471,
+      "valid_votes": 768,
+      "invalid_votes": 6,
+      "total_voters": 774,
+      "ballots_not_cast": 0,
+      "ballots_issued": 774,
+      "unused_ballots": 708,
+      "eligible_voters": 1482,
+      "turnout_rate": 52.23
+    }
+  ]
+}

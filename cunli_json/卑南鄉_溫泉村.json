@@ -1,0 +1,50 @@
+{
+  "cunli": "卑南鄉_溫泉村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 212,
+    "disagree_votes": 230,
+    "valid_votes": 442,
+    "invalid_votes": 6,
+    "total_voters": 448,
+    "ballots_not_cast": 0,
+    "ballots_issued": 448,
+    "unused_ballots": 513,
+    "eligible_voters": 961,
+    "average_turnout_rate": 46.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "卑南鄉",
+      "village": "溫泉村",
+      "polling_station": "135",
+      "agree_votes": 179,
+      "disagree_votes": 197,
+      "valid_votes": 376,
+      "invalid_votes": 5,
+      "total_voters": 381,
+      "ballots_not_cast": 0,
+      "ballots_issued": 381,
+      "unused_ballots": 441,
+      "eligible_voters": 822,
+      "turnout_rate": 46.35
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "卑南鄉",
+      "village": "溫泉村",
+      "polling_station": "136",
+      "agree_votes": 33,
+      "disagree_votes": 33,
+      "valid_votes": 66,
+      "invalid_votes": 1,
+      "total_voters": 67,
+      "ballots_not_cast": 0,
+      "ballots_issued": 67,
+      "unused_ballots": 72,
+      "eligible_voters": 139,
+      "turnout_rate": 48.2
+    }
+  ]
+}

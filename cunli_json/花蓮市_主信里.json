@@ -1,0 +1,34 @@
+{
+  "cunli": "花蓮市_主信里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 176,
+    "disagree_votes": 181,
+    "valid_votes": 357,
+    "invalid_votes": 1,
+    "total_voters": 358,
+    "ballots_not_cast": 0,
+    "ballots_issued": 358,
+    "unused_ballots": 216,
+    "eligible_voters": 574,
+    "average_turnout_rate": 62.37
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "花蓮市",
+      "village": "主信里",
+      "polling_station": "33",
+      "agree_votes": 176,
+      "disagree_votes": 181,
+      "valid_votes": 357,
+      "invalid_votes": 1,
+      "total_voters": 358,
+      "ballots_not_cast": 0,
+      "ballots_issued": 358,
+      "unused_ballots": 216,
+      "eligible_voters": 574,
+      "turnout_rate": 62.37
+    }
+  ]
+}

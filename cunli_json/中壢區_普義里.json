@@ -1,0 +1,66 @@
+{
+  "cunli": "中壢區_普義里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 793,
+    "disagree_votes": 1446,
+    "valid_votes": 2239,
+    "invalid_votes": 12,
+    "total_voters": 2251,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2251,
+    "unused_ballots": 3425,
+    "eligible_voters": 5676,
+    "average_turnout_rate": 39.66
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第3選舉區)魯明哲罷免案各投開票所投開票結果表",
+      "district": "中壢區",
+      "village": "普義里",
+      "polling_station": "550",
+      "agree_votes": 249,
+      "disagree_votes": 430,
+      "valid_votes": 679,
+      "invalid_votes": 3,
+      "total_voters": 682,
+      "ballots_not_cast": 0,
+      "ballots_issued": 682,
+      "unused_ballots": 418,
+      "eligible_voters": 1100,
+      "turnout_rate": 62.0
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第3選舉區)魯明哲罷免案各投開票所投開票結果表",
+      "district": "中壢區",
+      "village": "普義里",
+      "polling_station": "551",
+      "agree_votes": 293,
+      "disagree_votes": 481,
+      "valid_votes": 774,
+      "invalid_votes": 4,
+      "total_voters": 778,
+      "ballots_not_cast": 0,
+      "ballots_issued": 778,
+      "unused_ballots": 448,
+      "eligible_voters": 1226,
+      "turnout_rate": 63.46
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第3選舉區)魯明哲罷免案各投開票所投開票結果表",
+      "district": "中壢區",
+      "village": "普義里",
+      "polling_station": "552",
+      "agree_votes": 251,
+      "disagree_votes": 535,
+      "valid_votes": 786,
+      "invalid_votes": 5,
+      "total_voters": 791,
+      "ballots_not_cast": 0,
+      "ballots_issued": 791,
+      "unused_ballots": 2559,
+      "eligible_voters": 3350,
+      "turnout_rate": 23.61
+    }
+  ]
+}

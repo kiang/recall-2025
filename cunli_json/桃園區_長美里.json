@@ -1,0 +1,34 @@
+{
+  "cunli": "桃園區_長美里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 316,
+    "disagree_votes": 239,
+    "valid_votes": 555,
+    "invalid_votes": 4,
+    "total_voters": 559,
+    "ballots_not_cast": 0,
+    "ballots_issued": 559,
+    "unused_ballots": 429,
+    "eligible_voters": 988,
+    "average_turnout_rate": 56.58
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第4選舉區)萬美玲罷免案各投開票所投開票結果表",
+      "district": "桃園區",
+      "village": "長美里",
+      "polling_station": "769",
+      "agree_votes": 316,
+      "disagree_votes": 239,
+      "valid_votes": 555,
+      "invalid_votes": 4,
+      "total_voters": 559,
+      "ballots_not_cast": 0,
+      "ballots_issued": 559,
+      "unused_ballots": 429,
+      "eligible_voters": 988,
+      "turnout_rate": 56.58
+    }
+  ]
+}

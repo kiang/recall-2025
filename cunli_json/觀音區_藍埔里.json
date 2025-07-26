@@ -1,0 +1,50 @@
+{
+  "cunli": "觀音區_藍埔里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 694,
+    "disagree_votes": 712,
+    "valid_votes": 1406,
+    "invalid_votes": 10,
+    "total_voters": 1416,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1416,
+    "unused_ballots": 1109,
+    "eligible_voters": 2525,
+    "average_turnout_rate": 56.08
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "藍埔里",
+      "polling_station": "320",
+      "agree_votes": 299,
+      "disagree_votes": 400,
+      "valid_votes": 699,
+      "invalid_votes": 4,
+      "total_voters": 703,
+      "ballots_not_cast": 0,
+      "ballots_issued": 703,
+      "unused_ballots": 561,
+      "eligible_voters": 1264,
+      "turnout_rate": 55.62
+    },
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "觀音區",
+      "village": "藍埔里",
+      "polling_station": "321",
+      "agree_votes": 395,
+      "disagree_votes": 312,
+      "valid_votes": 707,
+      "invalid_votes": 6,
+      "total_voters": 713,
+      "ballots_not_cast": 0,
+      "ballots_issued": 713,
+      "unused_ballots": 548,
+      "eligible_voters": 1261,
+      "turnout_rate": 56.54
+    }
+  ]
+}

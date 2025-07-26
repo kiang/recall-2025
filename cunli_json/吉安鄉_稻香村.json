@@ -1,0 +1,66 @@
+{
+  "cunli": "吉安鄉_稻香村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 706,
+    "disagree_votes": 1076,
+    "valid_votes": 1782,
+    "invalid_votes": 9,
+    "total_voters": 1791,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1791,
+    "unused_ballots": 1029,
+    "eligible_voters": 2820,
+    "average_turnout_rate": 63.51
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "吉安鄉",
+      "village": "稻香村",
+      "polling_station": "200",
+      "agree_votes": 240,
+      "disagree_votes": 314,
+      "valid_votes": 554,
+      "invalid_votes": 4,
+      "total_voters": 558,
+      "ballots_not_cast": 0,
+      "ballots_issued": 558,
+      "unused_ballots": 288,
+      "eligible_voters": 846,
+      "turnout_rate": 65.96
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "吉安鄉",
+      "village": "稻香村",
+      "polling_station": "201",
+      "agree_votes": 225,
+      "disagree_votes": 345,
+      "valid_votes": 570,
+      "invalid_votes": 2,
+      "total_voters": 572,
+      "ballots_not_cast": 0,
+      "ballots_issued": 572,
+      "unused_ballots": 306,
+      "eligible_voters": 878,
+      "turnout_rate": 65.15
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "吉安鄉",
+      "village": "稻香村",
+      "polling_station": "202",
+      "agree_votes": 241,
+      "disagree_votes": 417,
+      "valid_votes": 658,
+      "invalid_votes": 3,
+      "total_voters": 661,
+      "ballots_not_cast": 0,
+      "ballots_issued": 661,
+      "unused_ballots": 435,
+      "eligible_voters": 1096,
+      "turnout_rate": 60.31
+    }
+  ]
+}

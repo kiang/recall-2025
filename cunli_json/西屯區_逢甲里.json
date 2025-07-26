@@ -1,0 +1,66 @@
+{
+  "cunli": "西屯區_逢甲里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 1074,
+    "disagree_votes": 1516,
+    "valid_votes": 2590,
+    "invalid_votes": 14,
+    "total_voters": 2604,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2604,
+    "unused_ballots": 1983,
+    "eligible_voters": 4587,
+    "average_turnout_rate": 56.77
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "西屯區",
+      "village": "逢甲里",
+      "polling_station": "44",
+      "agree_votes": 371,
+      "disagree_votes": 548,
+      "valid_votes": 919,
+      "invalid_votes": 7,
+      "total_voters": 926,
+      "ballots_not_cast": 0,
+      "ballots_issued": 926,
+      "unused_ballots": 734,
+      "eligible_voters": 1660,
+      "turnout_rate": 55.78
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "西屯區",
+      "village": "逢甲里",
+      "polling_station": "45",
+      "agree_votes": 333,
+      "disagree_votes": 497,
+      "valid_votes": 830,
+      "invalid_votes": 5,
+      "total_voters": 835,
+      "ballots_not_cast": 0,
+      "ballots_issued": 835,
+      "unused_ballots": 682,
+      "eligible_voters": 1517,
+      "turnout_rate": 55.04
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第4選舉區)廖偉翔罷免案各投開票所投開票結果表",
+      "district": "西屯區",
+      "village": "逢甲里",
+      "polling_station": "46",
+      "agree_votes": 370,
+      "disagree_votes": 471,
+      "valid_votes": 841,
+      "invalid_votes": 2,
+      "total_voters": 843,
+      "ballots_not_cast": 0,
+      "ballots_issued": 843,
+      "unused_ballots": 567,
+      "eligible_voters": 1410,
+      "turnout_rate": 59.79
+    }
+  ]
+}

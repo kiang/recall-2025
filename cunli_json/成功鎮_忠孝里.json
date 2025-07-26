@@ -1,0 +1,50 @@
+{
+  "cunli": "成功鎮_忠孝里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 44,
+    "disagree_votes": 70,
+    "valid_votes": 114,
+    "invalid_votes": 0,
+    "total_voters": 114,
+    "ballots_not_cast": 0,
+    "ballots_issued": 114,
+    "unused_ballots": 177,
+    "eligible_voters": 291,
+    "average_turnout_rate": 39.18
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "成功鎮",
+      "village": "忠孝里",
+      "polling_station": "105",
+      "agree_votes": 22,
+      "disagree_votes": 35,
+      "valid_votes": 57,
+      "invalid_votes": 0,
+      "total_voters": 57,
+      "ballots_not_cast": 0,
+      "ballots_issued": 57,
+      "unused_ballots": 84,
+      "eligible_voters": 141,
+      "turnout_rate": 40.43
+    },
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "成功鎮",
+      "village": "忠孝里",
+      "polling_station": "106",
+      "agree_votes": 22,
+      "disagree_votes": 35,
+      "valid_votes": 57,
+      "invalid_votes": 0,
+      "total_voters": 57,
+      "ballots_not_cast": 0,
+      "ballots_issued": 57,
+      "unused_ballots": 93,
+      "eligible_voters": 150,
+      "turnout_rate": 38.0
+    }
+  ]
+}

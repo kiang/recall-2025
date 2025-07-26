@@ -1,0 +1,82 @@
+{
+  "cunli": "北區_錦祥里",
+  "total_records": 4,
+  "sum_fields": {
+    "agree_votes": 1194,
+    "disagree_votes": 1701,
+    "valid_votes": 2895,
+    "invalid_votes": 17,
+    "total_voters": 2912,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2912,
+    "unused_ballots": 2475,
+    "eligible_voters": 5387,
+    "average_turnout_rate": 54.06
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "錦祥里",
+      "polling_station": "480",
+      "agree_votes": 324,
+      "disagree_votes": 488,
+      "valid_votes": 812,
+      "invalid_votes": 5,
+      "total_voters": 817,
+      "ballots_not_cast": 0,
+      "ballots_issued": 817,
+      "unused_ballots": 712,
+      "eligible_voters": 1529,
+      "turnout_rate": 53.43
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "錦祥里",
+      "polling_station": "481",
+      "agree_votes": 345,
+      "disagree_votes": 441,
+      "valid_votes": 786,
+      "invalid_votes": 3,
+      "total_voters": 789,
+      "ballots_not_cast": 0,
+      "ballots_issued": 789,
+      "unused_ballots": 679,
+      "eligible_voters": 1468,
+      "turnout_rate": 53.75
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "錦祥里",
+      "polling_station": "482",
+      "agree_votes": 276,
+      "disagree_votes": 426,
+      "valid_votes": 702,
+      "invalid_votes": 4,
+      "total_voters": 706,
+      "ballots_not_cast": 0,
+      "ballots_issued": 706,
+      "unused_ballots": 484,
+      "eligible_voters": 1190,
+      "turnout_rate": 59.33
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第5選舉區)黃健豪罷免案各投開票所投開票結果表",
+      "district": "北區",
+      "village": "錦祥里",
+      "polling_station": "483",
+      "agree_votes": 249,
+      "disagree_votes": 346,
+      "valid_votes": 595,
+      "invalid_votes": 5,
+      "total_voters": 600,
+      "ballots_not_cast": 0,
+      "ballots_issued": 600,
+      "unused_ballots": 600,
+      "eligible_voters": 1200,
+      "turnout_rate": 50.0
+    }
+  ]
+}

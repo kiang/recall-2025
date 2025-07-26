@@ -1,0 +1,50 @@
+{
+  "cunli": "新城鄉_嘉新村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 119,
+    "disagree_votes": 234,
+    "valid_votes": 353,
+    "invalid_votes": 3,
+    "total_voters": 356,
+    "ballots_not_cast": 0,
+    "ballots_issued": 356,
+    "unused_ballots": 308,
+    "eligible_voters": 664,
+    "average_turnout_rate": 53.61
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "新城鄉",
+      "village": "嘉新村",
+      "polling_station": "114",
+      "agree_votes": 71,
+      "disagree_votes": 159,
+      "valid_votes": 230,
+      "invalid_votes": 3,
+      "total_voters": 233,
+      "ballots_not_cast": 0,
+      "ballots_issued": 233,
+      "unused_ballots": 211,
+      "eligible_voters": 444,
+      "turnout_rate": 52.48
+    },
+    {
+      "recall_case": "第11屆立法委員(花蓮縣選舉區)傅崐萁罷免案各投開票所投開票結果表",
+      "district": "新城鄉",
+      "village": "嘉新村",
+      "polling_station": "115",
+      "agree_votes": 48,
+      "disagree_votes": 75,
+      "valid_votes": 123,
+      "invalid_votes": 0,
+      "total_voters": 123,
+      "ballots_not_cast": 0,
+      "ballots_issued": 123,
+      "unused_ballots": 97,
+      "eligible_voters": 220,
+      "turnout_rate": 55.91
+    }
+  ]
+}

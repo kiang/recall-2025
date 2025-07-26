@@ -1,0 +1,34 @@
+{
+  "cunli": "新屋區_笨港里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 215,
+    "disagree_votes": 303,
+    "valid_votes": 518,
+    "invalid_votes": 6,
+    "total_voters": 524,
+    "ballots_not_cast": 0,
+    "ballots_issued": 524,
+    "unused_ballots": 442,
+    "eligible_voters": 966,
+    "average_turnout_rate": 54.24
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(桃園市第2選舉區)涂權吉罷免案各投開票所投開票結果表",
+      "district": "新屋區",
+      "village": "笨港里",
+      "polling_station": "381",
+      "agree_votes": 215,
+      "disagree_votes": 303,
+      "valid_votes": 518,
+      "invalid_votes": 6,
+      "total_voters": 524,
+      "ballots_not_cast": 0,
+      "ballots_issued": 524,
+      "unused_ballots": 442,
+      "eligible_voters": 966,
+      "turnout_rate": 54.24
+    }
+  ]
+}

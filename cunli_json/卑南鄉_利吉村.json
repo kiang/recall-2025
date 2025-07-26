@@ -1,0 +1,34 @@
+{
+  "cunli": "卑南鄉_利吉村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 42,
+    "disagree_votes": 64,
+    "valid_votes": 106,
+    "invalid_votes": 2,
+    "total_voters": 108,
+    "ballots_not_cast": 0,
+    "ballots_issued": 108,
+    "unused_ballots": 120,
+    "eligible_voters": 228,
+    "average_turnout_rate": 47.37
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "卑南鄉",
+      "village": "利吉村",
+      "polling_station": "139",
+      "agree_votes": 42,
+      "disagree_votes": 64,
+      "valid_votes": 106,
+      "invalid_votes": 2,
+      "total_voters": 108,
+      "ballots_not_cast": 0,
+      "ballots_issued": 108,
+      "unused_ballots": 120,
+      "eligible_voters": 228,
+      "turnout_rate": 47.37
+    }
+  ]
+}

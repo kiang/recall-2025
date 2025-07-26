@@ -1,0 +1,34 @@
+{
+  "cunli": "元長鄉_崙仔村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 132,
+    "disagree_votes": 180,
+    "valid_votes": 312,
+    "invalid_votes": 5,
+    "total_voters": 317,
+    "ballots_not_cast": 0,
+    "ballots_issued": 317,
+    "unused_ballots": 415,
+    "eligible_voters": 732,
+    "average_turnout_rate": 43.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "元長鄉",
+      "village": "崙仔村",
+      "polling_station": "225",
+      "agree_votes": 132,
+      "disagree_votes": 180,
+      "valid_votes": 312,
+      "invalid_votes": 5,
+      "total_voters": 317,
+      "ballots_not_cast": 0,
+      "ballots_issued": 317,
+      "unused_ballots": 415,
+      "eligible_voters": 732,
+      "turnout_rate": 43.31
+    }
+  ]
+}

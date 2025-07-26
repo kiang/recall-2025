@@ -1,0 +1,50 @@
+{
+  "cunli": "褒忠鄉_中勝村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 351,
+    "disagree_votes": 379,
+    "valid_votes": 730,
+    "invalid_votes": 9,
+    "total_voters": 739,
+    "ballots_not_cast": 0,
+    "ballots_issued": 739,
+    "unused_ballots": 586,
+    "eligible_voters": 1325,
+    "average_turnout_rate": 55.77
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "褒忠鄉",
+      "village": "中勝村",
+      "polling_station": "82",
+      "agree_votes": 169,
+      "disagree_votes": 188,
+      "valid_votes": 357,
+      "invalid_votes": 2,
+      "total_voters": 359,
+      "ballots_not_cast": 0,
+      "ballots_issued": 359,
+      "unused_ballots": 299,
+      "eligible_voters": 658,
+      "turnout_rate": 54.56
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "褒忠鄉",
+      "village": "中勝村",
+      "polling_station": "83",
+      "agree_votes": 182,
+      "disagree_votes": 191,
+      "valid_votes": 373,
+      "invalid_votes": 7,
+      "total_voters": 380,
+      "ballots_not_cast": 0,
+      "ballots_issued": 380,
+      "unused_ballots": 287,
+      "eligible_voters": 667,
+      "turnout_rate": 56.97
+    }
+  ]
+}

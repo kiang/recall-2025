@@ -1,0 +1,50 @@
+{
+  "cunli": "水林鄉_水南村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 504,
+    "disagree_votes": 440,
+    "valid_votes": 944,
+    "invalid_votes": 8,
+    "total_voters": 952,
+    "ballots_not_cast": 0,
+    "ballots_issued": 952,
+    "unused_ballots": 952,
+    "eligible_voters": 1904,
+    "average_turnout_rate": 50.0
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "水林鄉",
+      "village": "水南村",
+      "polling_station": "255",
+      "agree_votes": 321,
+      "disagree_votes": 304,
+      "valid_votes": 625,
+      "invalid_votes": 6,
+      "total_voters": 631,
+      "ballots_not_cast": 0,
+      "ballots_issued": 631,
+      "unused_ballots": 598,
+      "eligible_voters": 1229,
+      "turnout_rate": 51.34
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "水林鄉",
+      "village": "水南村",
+      "polling_station": "256",
+      "agree_votes": 183,
+      "disagree_votes": 136,
+      "valid_votes": 319,
+      "invalid_votes": 2,
+      "total_voters": 321,
+      "ballots_not_cast": 0,
+      "ballots_issued": 321,
+      "unused_ballots": 354,
+      "eligible_voters": 675,
+      "turnout_rate": 47.56
+    }
+  ]
+}

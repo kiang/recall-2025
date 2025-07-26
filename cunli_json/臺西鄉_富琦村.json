@@ -1,0 +1,50 @@
+{
+  "cunli": "臺西鄉_富琦村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 213,
+    "disagree_votes": 515,
+    "valid_votes": 728,
+    "invalid_votes": 3,
+    "total_voters": 731,
+    "ballots_not_cast": 0,
+    "ballots_issued": 731,
+    "unused_ballots": 663,
+    "eligible_voters": 1394,
+    "average_turnout_rate": 52.44
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "臺西鄉",
+      "village": "富琦村",
+      "polling_station": "53",
+      "agree_votes": 159,
+      "disagree_votes": 354,
+      "valid_votes": 513,
+      "invalid_votes": 2,
+      "total_voters": 515,
+      "ballots_not_cast": 0,
+      "ballots_issued": 515,
+      "unused_ballots": 457,
+      "eligible_voters": 972,
+      "turnout_rate": 52.98
+    },
+    {
+      "recall_case": "第11屆立法委員(雲林縣第1選舉區)丁學忠罷免案各投開票所投開票結果表",
+      "district": "臺西鄉",
+      "village": "富琦村",
+      "polling_station": "54",
+      "agree_votes": 54,
+      "disagree_votes": 161,
+      "valid_votes": 215,
+      "invalid_votes": 1,
+      "total_voters": 216,
+      "ballots_not_cast": 0,
+      "ballots_issued": 216,
+      "unused_ballots": 206,
+      "eligible_voters": 422,
+      "turnout_rate": 51.18
+    }
+  ]
+}

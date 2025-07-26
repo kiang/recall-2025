@@ -1,0 +1,34 @@
+{
+  "cunli": "長濱鄉_忠勇村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 39,
+    "disagree_votes": 110,
+    "valid_votes": 149,
+    "invalid_votes": 0,
+    "total_voters": 149,
+    "ballots_not_cast": 0,
+    "ballots_issued": 149,
+    "unused_ballots": 216,
+    "eligible_voters": 365,
+    "average_turnout_rate": 40.82
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺東縣選舉區)黃建賓罷免案各投開票所投開票結果表",
+      "district": "長濱鄉",
+      "village": "忠勇村",
+      "polling_station": "178",
+      "agree_votes": 39,
+      "disagree_votes": 110,
+      "valid_votes": 149,
+      "invalid_votes": 0,
+      "total_voters": 149,
+      "ballots_not_cast": 0,
+      "ballots_issued": 149,
+      "unused_ballots": 216,
+      "eligible_voters": 365,
+      "turnout_rate": 40.82
+    }
+  ]
+}
