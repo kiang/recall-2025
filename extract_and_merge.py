@@ -146,6 +146,32 @@ def merge_by_cunli(all_data):
     
     return dict(cunli_data)
 
+def load_manual_villcode_mapping():
+    """Load manually filled VILLCODE mappings if file exists"""
+    manual_map = {}
+    if os.path.exists('missing_villcode_mapping.json'):
+        try:
+            with open('missing_villcode_mapping.json', 'r', encoding='utf-8') as f:
+                manual_mappings = json.load(f)
+            
+            for mapping in manual_mappings:
+                if mapping.get('villcode'):  # Only add if villcode is filled
+                    key = mapping['cunli_key']
+                    manual_map[key] = {
+                        'VILLCODE': mapping['villcode'],
+                        'COUNTYCODE': mapping['villcode'][:3] if len(mapping['villcode']) >= 3 else '',
+                        'TOWNCODE': mapping['villcode'][:6] if len(mapping['villcode']) >= 6 else '',
+                        'COUNTYNAME': mapping['county'],
+                        'TOWNNAME': mapping['district'],
+                        'VILLNAME': mapping['village']
+                    }
+            
+            print(f"Loaded {len(manual_map)} manual VILLCODE mappings")
+        except Exception as e:
+            print(f"Error loading manual mappings: {e}")
+    
+    return manual_map
+
 def main():
     # Get all Excel files
     excel_files = glob.glob('raw/*.xlsx')
@@ -170,6 +196,9 @@ def main():
     
     # Load VILLCODE mapping
     villcode_map = load_villcode_mapping()
+    
+    # Load manual VILLCODE mappings if available
+    manual_villcode_map = load_manual_villcode_mapping()
     
     # Save individual cunli JSON files
     villcode_files = []
@@ -217,7 +246,16 @@ def main():
         villcode = None
         filename = cunli_key  # fallback
         
-        if county:
+        # First check manual mappings
+        if cunli_key in manual_villcode_map:
+            villcode_info = manual_villcode_map[cunli_key]
+            # Add VILLCODE info to data
+            for k, v in villcode_info.items():
+                data[k] = v
+            villcode = villcode_info['VILLCODE']
+            filename = villcode
+            villcode_files.append(villcode)
+        elif county:
             # Normalize county name
             county = normalize_district_name(county)
             # Try to find VILLCODE
@@ -254,7 +292,8 @@ def main():
         'file_naming': 'VILLCODE (where available), cunli name (fallback)',
         'villcode_list': sorted(villcode_files),
         'cunli_list': sorted(list(cunli_merged.keys())),
-        'note': 'Files are named using official Taiwan VILLCODE when available for precise geographic identification'
+        'note': 'Files are named using official Taiwan VILLCODE for precise geographic identification',
+        'manual_mappings_applied': len(manual_villcode_map)
     }
     
     with open('cunli_json/summary.json', 'w', encoding='utf-8') as f:
