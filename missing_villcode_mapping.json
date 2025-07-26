@@ -4,7 +4,7 @@
     "district": "中和區",
     "village": "瓦磘里",
     "county": "新北市",
-    "villcode": "",
+    "villcode": "65000030017",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -12,7 +12,7 @@
     "district": "中和區",
     "village": "灰磘里",
     "county": "新北市",
-    "villcode": "",
+    "villcode": "65000030054",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -20,7 +20,7 @@
     "district": "麥寮鄉",
     "village": "瓦磘村",
     "county": "雲林縣",
-    "villcode": "",
+    "villcode": "10009130003",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -28,7 +28,7 @@
     "district": "四湖鄉",
     "village": "萡子村",
     "county": "雲林縣",
-    "villcode": "",
+    "villcode": "10009180016",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -36,7 +36,7 @@
     "district": "四湖鄉",
     "village": "萡東村",
     "county": "雲林縣",
-    "villcode": "",
+    "villcode": "10009180021",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -44,7 +44,7 @@
     "district": "元長鄉",
     "village": "瓦磘村",
     "county": "雲林縣",
-    "villcode": "",
+    "villcode": "10009170018",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -52,7 +52,7 @@
     "district": "水林鄉",
     "village": "瓊埔村",
     "county": "雲林縣",
-    "villcode": "",
+    "villcode": "10009200021",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -60,7 +60,7 @@
     "district": "瑞芳區",
     "village": "濓洞里",
     "county": "新北市",
-    "villcode": "",
+    "villcode": "65000120028",
     "note": "Please fill VILLCODE manually"
   },
   {
@@ -68,7 +68,7 @@
     "district": "瑞芳區",
     "village": "濓新里",
     "county": "新北市",
-    "villcode": "",
+    "villcode": "65000120027",
     "note": "Please fill VILLCODE manually"
   }
 ]

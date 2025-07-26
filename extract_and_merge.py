@@ -363,9 +363,33 @@ def main():
     
     # Save missing VILLCODE mapping file for manual completion
     if missing_villcode:
+        # Check if file already exists and preserve any manual entries
+        existing_mappings = {}
+        if os.path.exists('missing_villcode_mapping.json'):
+            try:
+                with open('missing_villcode_mapping.json', 'r', encoding='utf-8') as f:
+                    existing_data = json.load(f)
+                for item in existing_data:
+                    if item.get('villcode'):  # If villcode was manually filled
+                        existing_mappings[item['cunli_key']] = item
+                print(f"Preserved {len(existing_mappings)} existing manual mappings")
+            except Exception as e:
+                print(f"Error reading existing mappings: {e}")
+        
+        # Update missing_villcode list with preserved mappings
+        updated_missing = []
+        for item in missing_villcode:
+            key = item['cunli_key']
+            if key in existing_mappings:
+                # Use the existing manual mapping
+                updated_missing.append(existing_mappings[key])
+            else:
+                # Use the new entry
+                updated_missing.append(item)
+        
         with open('missing_villcode_mapping.json', 'w', encoding='utf-8') as f:
-            json.dump(missing_villcode, f, ensure_ascii=False, indent=2)
-        print(f"Created missing_villcode_mapping.json with {len(missing_villcode)} entries for manual completion")
+            json.dump(updated_missing, f, ensure_ascii=False, indent=2)
+        print(f"Created missing_villcode_mapping.json with {len(updated_missing)} entries for manual completion")
     
     print("\nExtraction and merging completed!")
     print(f"Created {len(villcode_files)} files with VILLCODE names")
