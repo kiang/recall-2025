@@ -86,6 +86,36 @@ def combine_data(cunli_data, election_data):
                     winner_name = vote_info['name']
                     winner_party = vote_info['party']
             
+            # Handle 新竹市 special case - filter to correct recall case
+            recall_data = cunli_info['sum_fields'].copy()
+            recall_case_name = cunli_info['records'][0]['recall_case'] if cunli_info['records'] else ""
+            
+            if county_name == '新竹市':
+                # For 新竹市, we need to separate the recall cases
+                # 鄭正鈐罷免案 (立法委員) vs 高虹安罷免案 (市長)
+                legislator_records = []
+                mayor_records = []
+                
+                for record in cunli_info['records']:
+                    if '鄭正鈐罷免案' in record['recall_case']:
+                        legislator_records.append(record)
+                    elif '高虹安罷免案' in record['recall_case']:
+                        mayor_records.append(record)
+                
+                # Use legislator recall data since we're comparing with legislative election
+                if legislator_records:
+                    recall_data = {
+                        'agree_votes': sum(r['agree_votes'] for r in legislator_records),
+                        'disagree_votes': sum(r['disagree_votes'] for r in legislator_records),
+                        'valid_votes': sum(r['valid_votes'] for r in legislator_records),
+                        'invalid_votes': sum(r['invalid_votes'] for r in legislator_records),
+                        'eligible_voters': sum(r['eligible_voters'] for r in legislator_records),
+                    }
+                    # Calculate turnout rate
+                    total_voters = sum(r['total_voters'] for r in legislator_records)
+                    recall_data['average_turnout_rate'] = (total_voters / recall_data['eligible_voters'] * 100) if recall_data['eligible_voters'] > 0 else 0
+                    recall_case_name = legislator_records[0]['recall_case']
+            
             # Combine the data
             combined_record = {
                 'VILLCODE': cunli_info['VILLCODE'],
@@ -99,13 +129,13 @@ def combine_data(cunli_data, election_data):
                 'winner_name': winner_name,
                 'winner_party': winner_party,
                 'winner_votes': winner_votes,
-                'recall_agree_votes': cunli_info['sum_fields']['agree_votes'],
-                'recall_disagree_votes': cunli_info['sum_fields']['disagree_votes'],
-                'recall_valid_votes': cunli_info['sum_fields']['valid_votes'],
-                'recall_invalid_votes': cunli_info['sum_fields']['invalid_votes'],
-                'recall_eligible_voters': cunli_info['sum_fields']['eligible_voters'],
-                'recall_turnout_rate': cunli_info['sum_fields']['average_turnout_rate'],
-                'recall_case': cunli_info['records'][0]['recall_case'] if cunli_info['records'] else ""
+                'recall_agree_votes': recall_data['agree_votes'],
+                'recall_disagree_votes': recall_data['disagree_votes'],
+                'recall_valid_votes': recall_data['valid_votes'],
+                'recall_invalid_votes': recall_data['invalid_votes'],
+                'recall_eligible_voters': recall_data['eligible_voters'],
+                'recall_turnout_rate': recall_data['average_turnout_rate'],
+                'recall_case': recall_case_name
             }
             
             # Add individual candidate vote data
