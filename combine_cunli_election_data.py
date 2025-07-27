@@ -86,35 +86,61 @@ def combine_data(cunli_data, election_data):
                     winner_name = vote_info['name']
                     winner_party = vote_info['party']
             
-            # Handle 新竹市 special case - filter to correct recall case
+            # Handle multiple recall cases - filter to match election zone
             recall_data = cunli_info['sum_fields'].copy()
             recall_case_name = cunli_info['records'][0]['recall_case'] if cunli_info['records'] else ""
             
-            if county_name == '新竹市':
-                # For 新竹市, we need to separate the recall cases
-                # 鄭正鈐罷免案 (立法委員) vs 高虹安罷免案 (市長)
-                legislator_records = []
-                mayor_records = []
+            # Check if there are multiple different recall cases
+            recall_cases = set(record['recall_case'] for record in cunli_info['records'])
+            
+            if len(recall_cases) > 1:
+                # Multiple recall cases - need to filter to matching zone
+                matching_records = []
+                election_zone = election_info['zone']
                 
+                # Try to match recall case to election zone
                 for record in cunli_info['records']:
-                    if '鄭正鈐罷免案' in record['recall_case']:
-                        legislator_records.append(record)
-                    elif '高虹安罷免案' in record['recall_case']:
-                        mayor_records.append(record)
+                    recall_case = record['recall_case']
+                    
+                    # For 新竹市: separate legislator vs mayor recalls
+                    if county_name == '新竹市':
+                        if '鄭正鈐罷免案' in recall_case:
+                            matching_records.append(record)
+                    # For 基隆市: match 基隆市選舉區
+                    elif county_name == '基隆市' and '基隆市選舉區' in recall_case:
+                        matching_records.append(record)
+                    # For 臺北市: match zone number in recall case
+                    elif county_name == '臺北市':
+                        if election_zone == '臺北市第01選區' and '臺北市第1選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第02選區' and '臺北市第2選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第03選區' and '臺北市第3選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第04選區' and '臺北市第4選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第05選區' and '臺北市第5選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第06選區' and '臺北市第6選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第07選區' and '臺北市第7選舉區' in recall_case:
+                            matching_records.append(record)
+                        elif election_zone == '臺北市第08選區' and '臺北市第8選舉區' in recall_case:
+                            matching_records.append(record)
                 
-                # Use legislator recall data since we're comparing with legislative election
-                if legislator_records:
+                # Use matching records if found, otherwise fall back to first case
+                if matching_records:
                     recall_data = {
-                        'agree_votes': sum(r['agree_votes'] for r in legislator_records),
-                        'disagree_votes': sum(r['disagree_votes'] for r in legislator_records),
-                        'valid_votes': sum(r['valid_votes'] for r in legislator_records),
-                        'invalid_votes': sum(r['invalid_votes'] for r in legislator_records),
-                        'eligible_voters': sum(r['eligible_voters'] for r in legislator_records),
+                        'agree_votes': sum(r['agree_votes'] for r in matching_records),
+                        'disagree_votes': sum(r['disagree_votes'] for r in matching_records),
+                        'valid_votes': sum(r['valid_votes'] for r in matching_records),
+                        'invalid_votes': sum(r['invalid_votes'] for r in matching_records),
+                        'eligible_voters': sum(r['eligible_voters'] for r in matching_records),
                     }
                     # Calculate turnout rate
-                    total_voters = sum(r['total_voters'] for r in legislator_records)
+                    total_voters = sum(r['total_voters'] for r in matching_records)
                     recall_data['average_turnout_rate'] = (total_voters / recall_data['eligible_voters'] * 100) if recall_data['eligible_voters'] > 0 else 0
-                    recall_case_name = legislator_records[0]['recall_case']
+                    recall_case_name = matching_records[0]['recall_case']
             
             # Combine the data
             combined_record = {
