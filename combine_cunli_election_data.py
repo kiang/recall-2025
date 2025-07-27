@@ -1,0 +1,175 @@
+#!/usr/bin/env python3
+import json
+import csv
+import os
+from pathlib import Path
+
+def load_cunli_data(cunli_json_dir):
+    """Load all cunli JSON files"""
+    cunli_data = {}
+    
+    for json_file in Path(cunli_json_dir).glob("*.json"):
+        try:
+            with open(json_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                
+                # Check if required fields exist
+                if 'COUNTYNAME' not in data or 'TOWNNAME' not in data or 'VILLNAME' not in data:
+                    print(f"Skipping {json_file.name}: Missing required fields")
+                    print(f"  Available keys: {list(data.keys())}")
+                    continue
+                
+                # Create key using COUNTYNAME+TOWNNAME+VILLNAME
+                key = data['COUNTYNAME'] + data['TOWNNAME'] + data['VILLNAME']
+                cunli_data[key] = data
+        except Exception as e:
+            print(f"Error processing {json_file.name}: {e}")
+            continue
+    
+    return cunli_data
+
+def load_election_data(election_json_path):
+    """Load 2024 election results"""
+    with open(election_json_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def combine_data(cunli_data, election_data):
+    """Combine cunli and election data using the key"""
+    combined_results = []
+    
+    for cunli_code, election_info in election_data.items():
+        # Extract location info from election data name
+        # Format: "縣市+區+里"
+        location_parts = election_info['name'].split('縣')
+        if len(location_parts) == 2:
+            county_name = location_parts[0] + '縣'
+            remaining = location_parts[1]
+        else:
+            location_parts = election_info['name'].split('市')
+            if len(location_parts) >= 2:
+                county_name = location_parts[0] + '市'
+                remaining = '市'.join(location_parts[1:])
+            else:
+                continue
+        
+        # Further split town and village
+        if '區' in remaining:
+            town_parts = remaining.split('區')
+            town_name = town_parts[0] + '區'
+            village_name = '區'.join(town_parts[1:])
+        elif '鎮' in remaining:
+            town_parts = remaining.split('鎮')
+            town_name = town_parts[0] + '鎮'
+            village_name = '鎮'.join(town_parts[1:])
+        elif '鄉' in remaining:
+            town_parts = remaining.split('鄉')
+            town_name = town_parts[0] + '鄉'
+            village_name = '鄉'.join(town_parts[1:])
+        else:
+            continue
+        
+        # Create matching key
+        match_key = county_name + town_name + village_name
+        
+        # Find matching cunli data
+        if match_key in cunli_data:
+            cunli_info = cunli_data[match_key]
+            
+            # Get winner info
+            winner_name = ""
+            winner_party = ""
+            winner_votes = 0
+            
+            for candidate, vote_info in election_info['votes'].items():
+                if vote_info['votes'] > winner_votes:
+                    winner_votes = vote_info['votes']
+                    winner_name = vote_info['name']
+                    winner_party = vote_info['party']
+            
+            # Combine the data
+            combined_record = {
+                'VILLCODE': cunli_info['VILLCODE'],
+                'COUNTYNAME': cunli_info['COUNTYNAME'],
+                'TOWNNAME': cunli_info['TOWNNAME'],
+                'VILLNAME': cunli_info['VILLNAME'],
+                'election_zone': election_info['zone'],
+                'election_zone_code': election_info['zoneCode'],
+                'total_election_votes': election_info['total'],
+                'eligible_voters_election': election_info['votes_all'],
+                'winner_name': winner_name,
+                'winner_party': winner_party,
+                'winner_votes': winner_votes,
+                'recall_agree_votes': cunli_info['sum_fields']['agree_votes'],
+                'recall_disagree_votes': cunli_info['sum_fields']['disagree_votes'],
+                'recall_valid_votes': cunli_info['sum_fields']['valid_votes'],
+                'recall_invalid_votes': cunli_info['sum_fields']['invalid_votes'],
+                'recall_eligible_voters': cunli_info['sum_fields']['eligible_voters'],
+                'recall_turnout_rate': cunli_info['sum_fields']['average_turnout_rate'],
+                'recall_case': cunli_info['records'][0]['recall_case'] if cunli_info['records'] else ""
+            }
+            
+            # Add individual candidate vote data
+            for i, (candidate, vote_info) in enumerate(election_info['votes'].items(), 1):
+                combined_record[f'candidate_{i}_name'] = vote_info['name']
+                combined_record[f'candidate_{i}_party'] = vote_info['party']
+                combined_record[f'candidate_{i}_votes'] = vote_info['votes']
+                combined_record[f'candidate_{i}_number'] = vote_info['no']
+            
+            combined_results.append(combined_record)
+    
+    return combined_results
+
+def write_csv(data, output_file):
+    """Write combined data to CSV"""
+    if not data:
+        print("No data to write")
+        return
+    
+    # Get all possible field names
+    all_fields = set()
+    for record in data:
+        all_fields.update(record.keys())
+    
+    # Sort fields for consistent output
+    base_fields = [
+        'VILLCODE', 'COUNTYNAME', 'TOWNNAME', 'VILLNAME',
+        'election_zone', 'election_zone_code', 'total_election_votes', 'eligible_voters_election',
+        'winner_name', 'winner_party', 'winner_votes',
+        'recall_agree_votes', 'recall_disagree_votes', 'recall_valid_votes', 
+        'recall_invalid_votes', 'recall_eligible_voters', 'recall_turnout_rate', 'recall_case'
+    ]
+    
+    candidate_fields = sorted([f for f in all_fields if f.startswith('candidate_')])
+    fieldnames = base_fields + candidate_fields
+    
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(data)
+
+def main():
+    # Paths
+    cunli_json_dir = "/home/kiang/public_html/recall-2025/docs/cunli_json"
+    election_json_path = "/home/kiang/public_html/db.cec.gov.tw/data/ly/2024_zone_cunli.json"
+    output_csv = "/home/kiang/public_html/recall-2025/cunli_combined_results.csv"
+    
+    print("Loading cunli data...")
+    cunli_data = load_cunli_data(cunli_json_dir)
+    print(f"Loaded {len(cunli_data)} cunli records")
+    
+    print("Loading 2024 election data...")
+    election_data = load_election_data(election_json_path)
+    print(f"Loaded {len(election_data)} election records")
+    
+    print("Combining data...")
+    combined_data = combine_data(cunli_data, election_data)
+    print(f"Combined {len(combined_data)} matching records")
+    
+    print(f"Writing results to {output_csv}...")
+    write_csv(combined_data, output_csv)
+    
+    print("Done!")
+    print(f"Results written to: {output_csv}")
+
+if __name__ == "__main__":
+    main()
