@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_卡里布安村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 2,
+    "disagree_votes": 19,
+    "valid_votes": 21,
+    "invalid_votes": 0,
+    "total_voters": 21,
+    "ballots_not_cast": 0,
+    "ballots_issued": 21,
+    "unused_ballots": 24,
+    "eligible_voters": 45,
+    "average_turnout_rate": 46.67
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "卡里布安村",
+      "polling_station": "483",
+      "agree_votes": 2,
+      "disagree_votes": 19,
+      "valid_votes": 21,
+      "invalid_votes": 0,
+      "total_voters": 21,
+      "ballots_not_cast": 0,
+      "ballots_issued": 21,
+      "unused_ballots": 24,
+      "eligible_voters": 45,
+      "turnout_rate": 46.67
+    }
+  ],
+  "VILLCODE": "10008120015",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "卡里布安村"
+}

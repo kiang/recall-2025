@@ -1,0 +1,40 @@
+{
+  "cunli": "豐原區_頂街里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 196,
+    "disagree_votes": 261,
+    "valid_votes": 457,
+    "invalid_votes": 4,
+    "total_voters": 461,
+    "ballots_not_cast": 0,
+    "ballots_issued": 461,
+    "unused_ballots": 419,
+    "eligible_voters": 880,
+    "average_turnout_rate": 52.39
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "頂街里",
+      "polling_station": "1700",
+      "agree_votes": 196,
+      "disagree_votes": 261,
+      "valid_votes": 457,
+      "invalid_votes": 4,
+      "total_voters": 461,
+      "ballots_not_cast": 0,
+      "ballots_issued": 461,
+      "unused_ballots": 419,
+      "eligible_voters": 880,
+      "turnout_rate": 52.39
+    }
+  ],
+  "VILLCODE": "66000090002",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "頂街里"
+}

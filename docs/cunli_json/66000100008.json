@@ -1,0 +1,72 @@
+{
+  "cunli": "東勢區_泰昌里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 345,
+    "disagree_votes": 1212,
+    "valid_votes": 1557,
+    "invalid_votes": 17,
+    "total_voters": 1574,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1574,
+    "unused_ballots": 1518,
+    "eligible_voters": 3092,
+    "average_turnout_rate": 50.91
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "泰昌里",
+      "polling_station": "1858",
+      "agree_votes": 113,
+      "disagree_votes": 397,
+      "valid_votes": 510,
+      "invalid_votes": 2,
+      "total_voters": 512,
+      "ballots_not_cast": 0,
+      "ballots_issued": 512,
+      "unused_ballots": 477,
+      "eligible_voters": 989,
+      "turnout_rate": 51.77
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "泰昌里",
+      "polling_station": "1859",
+      "agree_votes": 128,
+      "disagree_votes": 450,
+      "valid_votes": 578,
+      "invalid_votes": 5,
+      "total_voters": 583,
+      "ballots_not_cast": 0,
+      "ballots_issued": 583,
+      "unused_ballots": 541,
+      "eligible_voters": 1124,
+      "turnout_rate": 51.87
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "泰昌里",
+      "polling_station": "1860",
+      "agree_votes": 104,
+      "disagree_votes": 365,
+      "valid_votes": 469,
+      "invalid_votes": 10,
+      "total_voters": 479,
+      "ballots_not_cast": 0,
+      "ballots_issued": 479,
+      "unused_ballots": 500,
+      "eligible_voters": 979,
+      "turnout_rate": 48.93
+    }
+  ],
+  "VILLCODE": "66000100008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "泰昌里"
+}

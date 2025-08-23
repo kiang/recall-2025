@@ -1,0 +1,56 @@
+{
+  "cunli": "東勢區_下新里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 211,
+    "disagree_votes": 542,
+    "valid_votes": 753,
+    "invalid_votes": 11,
+    "total_voters": 764,
+    "ballots_not_cast": 0,
+    "ballots_issued": 764,
+    "unused_ballots": 769,
+    "eligible_voters": 1533,
+    "average_turnout_rate": 49.84
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "下新里",
+      "polling_station": "1872",
+      "agree_votes": 114,
+      "disagree_votes": 237,
+      "valid_votes": 351,
+      "invalid_votes": 5,
+      "total_voters": 356,
+      "ballots_not_cast": 0,
+      "ballots_issued": 356,
+      "unused_ballots": 362,
+      "eligible_voters": 718,
+      "turnout_rate": 49.58
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "下新里",
+      "polling_station": "1873",
+      "agree_votes": 97,
+      "disagree_votes": 305,
+      "valid_votes": 402,
+      "invalid_votes": 6,
+      "total_voters": 408,
+      "ballots_not_cast": 0,
+      "ballots_issued": 408,
+      "unused_ballots": 407,
+      "eligible_voters": 815,
+      "turnout_rate": 50.06
+    }
+  ],
+  "VILLCODE": "66000100020",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "下新里"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "新店區_文明里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 467,
+    "disagree_votes": 678,
+    "valid_votes": 1145,
+    "invalid_votes": 8,
+    "total_voters": 1153,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1153,
+    "unused_ballots": 1032,
+    "eligible_voters": 2185,
+    "average_turnout_rate": 52.77
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "文明里",
+      "polling_station": "2166",
+      "agree_votes": 279,
+      "disagree_votes": 361,
+      "valid_votes": 640,
+      "invalid_votes": 4,
+      "total_voters": 644,
+      "ballots_not_cast": 0,
+      "ballots_issued": 644,
+      "unused_ballots": 605,
+      "eligible_voters": 1249,
+      "turnout_rate": 51.56
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "文明里",
+      "polling_station": "2167",
+      "agree_votes": 188,
+      "disagree_votes": 317,
+      "valid_votes": 505,
+      "invalid_votes": 4,
+      "total_voters": 509,
+      "ballots_not_cast": 0,
+      "ballots_issued": 509,
+      "unused_ballots": 427,
+      "eligible_voters": 936,
+      "turnout_rate": 54.38
+    }
+  ],
+  "VILLCODE": "65000060036",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000060",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "新店區",
+  "VILLNAME": "文明里"
+}

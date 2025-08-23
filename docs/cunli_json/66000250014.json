@@ -1,0 +1,40 @@
+{
+  "cunli": "龍井區_南寮里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 247,
+    "disagree_votes": 560,
+    "valid_votes": 807,
+    "invalid_votes": 13,
+    "total_voters": 820,
+    "ballots_not_cast": 0,
+    "ballots_issued": 820,
+    "unused_ballots": 553,
+    "eligible_voters": 1373,
+    "average_turnout_rate": 59.72
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "龍井區",
+      "village": "南寮里",
+      "polling_station": "312",
+      "agree_votes": 247,
+      "disagree_votes": 560,
+      "valid_votes": 807,
+      "invalid_votes": 13,
+      "total_voters": 820,
+      "ballots_not_cast": 0,
+      "ballots_issued": 820,
+      "unused_ballots": 553,
+      "eligible_voters": 1373,
+      "turnout_rate": 59.72
+    }
+  ],
+  "VILLCODE": "66000250014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000250",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "龍井區",
+  "VILLNAME": "南寮里"
+}

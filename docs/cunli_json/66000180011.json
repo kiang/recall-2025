@@ -1,0 +1,72 @@
+{
+  "cunli": "大雅區_四德里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 763,
+    "disagree_votes": 1439,
+    "valid_votes": 2202,
+    "invalid_votes": 23,
+    "total_voters": 2225,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2225,
+    "unused_ballots": 2071,
+    "eligible_voters": 4296,
+    "average_turnout_rate": 51.79
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "大雅區",
+      "village": "四德里",
+      "polling_station": "567",
+      "agree_votes": 249,
+      "disagree_votes": 463,
+      "valid_votes": 712,
+      "invalid_votes": 5,
+      "total_voters": 717,
+      "ballots_not_cast": 0,
+      "ballots_issued": 717,
+      "unused_ballots": 722,
+      "eligible_voters": 1439,
+      "turnout_rate": 49.83
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "大雅區",
+      "village": "四德里",
+      "polling_station": "568",
+      "agree_votes": 269,
+      "disagree_votes": 492,
+      "valid_votes": 761,
+      "invalid_votes": 8,
+      "total_voters": 769,
+      "ballots_not_cast": 0,
+      "ballots_issued": 769,
+      "unused_ballots": 723,
+      "eligible_voters": 1492,
+      "turnout_rate": 51.54
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "大雅區",
+      "village": "四德里",
+      "polling_station": "569",
+      "agree_votes": 245,
+      "disagree_votes": 484,
+      "valid_votes": 729,
+      "invalid_votes": 10,
+      "total_voters": 739,
+      "ballots_not_cast": 0,
+      "ballots_issued": 739,
+      "unused_ballots": 626,
+      "eligible_voters": 1365,
+      "turnout_rate": 54.14
+    }
+  ],
+  "VILLCODE": "66000180011",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000180",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大雅區",
+  "VILLNAME": "四德里"
+}

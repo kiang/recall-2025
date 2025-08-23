@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_望美村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 25,
+    "disagree_votes": 76,
+    "valid_votes": 101,
+    "invalid_votes": 0,
+    "total_voters": 101,
+    "ballots_not_cast": 0,
+    "ballots_issued": 101,
+    "unused_ballots": 188,
+    "eligible_voters": 289,
+    "average_turnout_rate": 34.95
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "望美村",
+      "polling_station": "482",
+      "agree_votes": 25,
+      "disagree_votes": 76,
+      "valid_votes": 101,
+      "invalid_votes": 0,
+      "total_voters": 101,
+      "ballots_not_cast": 0,
+      "ballots_issued": 101,
+      "unused_ballots": 188,
+      "eligible_voters": 289,
+      "turnout_rate": 34.95
+    }
+  ],
+  "VILLCODE": "10008120008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "望美村"
+}

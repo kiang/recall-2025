@@ -1,0 +1,56 @@
+{
+  "cunli": "國姓鄉_北山村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 179,
+    "disagree_votes": 399,
+    "valid_votes": 578,
+    "invalid_votes": 12,
+    "total_voters": 590,
+    "ballots_not_cast": 0,
+    "ballots_issued": 590,
+    "unused_ballots": 731,
+    "eligible_voters": 1321,
+    "average_turnout_rate": 44.66
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "國姓鄉",
+      "village": "北山村",
+      "polling_station": "94",
+      "agree_votes": 134,
+      "disagree_votes": 304,
+      "valid_votes": 438,
+      "invalid_votes": 11,
+      "total_voters": 449,
+      "ballots_not_cast": 0,
+      "ballots_issued": 449,
+      "unused_ballots": 505,
+      "eligible_voters": 954,
+      "turnout_rate": 47.06
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "國姓鄉",
+      "village": "北山村",
+      "polling_station": "95",
+      "agree_votes": 45,
+      "disagree_votes": 95,
+      "valid_votes": 140,
+      "invalid_votes": 1,
+      "total_voters": 141,
+      "ballots_not_cast": 0,
+      "ballots_issued": 141,
+      "unused_ballots": 226,
+      "eligible_voters": 367,
+      "turnout_rate": 38.42
+    }
+  ],
+  "VILLCODE": "10008100010",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008100",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "國姓鄉",
+  "VILLNAME": "北山村"
+}

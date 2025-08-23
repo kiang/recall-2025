@@ -1,0 +1,40 @@
+{
+  "cunli": "石岡區_萬興里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 202,
+    "disagree_votes": 490,
+    "valid_votes": 692,
+    "invalid_votes": 11,
+    "total_voters": 703,
+    "ballots_not_cast": 0,
+    "ballots_issued": 703,
+    "unused_ballots": 641,
+    "eligible_voters": 1344,
+    "average_turnout_rate": 52.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "石岡區",
+      "village": "萬興里",
+      "polling_station": "1812",
+      "agree_votes": 202,
+      "disagree_votes": 490,
+      "valid_votes": 692,
+      "invalid_votes": 11,
+      "total_voters": 703,
+      "ballots_not_cast": 0,
+      "ballots_issued": 703,
+      "unused_ballots": 641,
+      "eligible_voters": 1344,
+      "turnout_rate": 52.31
+    }
+  ],
+  "VILLCODE": "66000200006",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000200",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "石岡區",
+  "VILLNAME": "萬興里"
+}

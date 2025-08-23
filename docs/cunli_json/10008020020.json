@@ -1,0 +1,56 @@
+{
+  "cunli": "埔里鎮_房里里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 177,
+    "disagree_votes": 473,
+    "valid_votes": 650,
+    "invalid_votes": 8,
+    "total_voters": 658,
+    "ballots_not_cast": 0,
+    "ballots_issued": 658,
+    "unused_ballots": 567,
+    "eligible_voters": 1225,
+    "average_turnout_rate": 53.71
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "房里里",
+      "polling_station": "155",
+      "agree_votes": 125,
+      "disagree_votes": 333,
+      "valid_votes": 458,
+      "invalid_votes": 8,
+      "total_voters": 466,
+      "ballots_not_cast": 0,
+      "ballots_issued": 466,
+      "unused_ballots": 420,
+      "eligible_voters": 886,
+      "turnout_rate": 52.6
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "房里里",
+      "polling_station": "156",
+      "agree_votes": 52,
+      "disagree_votes": 140,
+      "valid_votes": 192,
+      "invalid_votes": 0,
+      "total_voters": 192,
+      "ballots_not_cast": 0,
+      "ballots_issued": 192,
+      "unused_ballots": 147,
+      "eligible_voters": 339,
+      "turnout_rate": 56.64
+    }
+  ],
+  "VILLCODE": "10008020020",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "房里里"
+}

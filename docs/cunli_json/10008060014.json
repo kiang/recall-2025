@@ -1,0 +1,40 @@
+{
+  "cunli": "名間鄉_竹圍村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 170,
+    "disagree_votes": 233,
+    "valid_votes": 403,
+    "invalid_votes": 6,
+    "total_voters": 409,
+    "ballots_not_cast": 0,
+    "ballots_issued": 409,
+    "unused_ballots": 445,
+    "eligible_voters": 854,
+    "average_turnout_rate": 47.89
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "竹圍村",
+      "polling_station": "351",
+      "agree_votes": 170,
+      "disagree_votes": 233,
+      "valid_votes": 403,
+      "invalid_votes": 6,
+      "total_voters": 409,
+      "ballots_not_cast": 0,
+      "ballots_issued": 409,
+      "unused_ballots": 445,
+      "eligible_voters": 854,
+      "turnout_rate": 47.89
+    }
+  ],
+  "VILLCODE": "10008060014",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "竹圍村"
+}

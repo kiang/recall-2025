@@ -1,0 +1,56 @@
+{
+  "cunli": "和平區_南勢里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 138,
+    "disagree_votes": 450,
+    "valid_votes": 588,
+    "invalid_votes": 3,
+    "total_voters": 591,
+    "ballots_not_cast": 0,
+    "ballots_issued": 591,
+    "unused_ballots": 832,
+    "eligible_voters": 1423,
+    "average_turnout_rate": 41.53
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "南勢里",
+      "polling_station": "1882",
+      "agree_votes": 101,
+      "disagree_votes": 251,
+      "valid_votes": 352,
+      "invalid_votes": 3,
+      "total_voters": 355,
+      "ballots_not_cast": 0,
+      "ballots_issued": 355,
+      "unused_ballots": 504,
+      "eligible_voters": 859,
+      "turnout_rate": 41.33
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "南勢里",
+      "polling_station": "1883",
+      "agree_votes": 37,
+      "disagree_votes": 199,
+      "valid_votes": 236,
+      "invalid_votes": 0,
+      "total_voters": 236,
+      "ballots_not_cast": 0,
+      "ballots_issued": 236,
+      "unused_ballots": 328,
+      "eligible_voters": 564,
+      "turnout_rate": 41.84
+    }
+  ],
+  "VILLCODE": "66000290001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000290",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "和平區",
+  "VILLNAME": "南勢里"
+}

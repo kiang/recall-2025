@@ -1,0 +1,40 @@
+{
+  "cunli": "鹿谷鄉_清水村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 106,
+    "disagree_votes": 156,
+    "valid_votes": 262,
+    "invalid_votes": 4,
+    "total_voters": 266,
+    "ballots_not_cast": 0,
+    "ballots_issued": 266,
+    "unused_ballots": 327,
+    "eligible_voters": 593,
+    "average_turnout_rate": 44.86
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "鹿谷鄉",
+      "village": "清水村",
+      "polling_station": "448",
+      "agree_votes": 106,
+      "disagree_votes": 156,
+      "valid_votes": 262,
+      "invalid_votes": 4,
+      "total_voters": 266,
+      "ballots_not_cast": 0,
+      "ballots_issued": 266,
+      "unused_ballots": 327,
+      "eligible_voters": 593,
+      "turnout_rate": 44.86
+    }
+  ],
+  "VILLCODE": "10008070012",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008070",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "鹿谷鄉",
+  "VILLNAME": "清水村"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "寶山鄉_雙新村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 327,
+    "disagree_votes": 782,
+    "valid_votes": 1109,
+    "invalid_votes": 15,
+    "total_voters": 1124,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1124,
+    "unused_ballots": 1520,
+    "eligible_voters": 2644,
+    "average_turnout_rate": 42.51
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "寶山鄉",
+      "village": "雙新村",
+      "polling_station": "440",
+      "agree_votes": 169,
+      "disagree_votes": 386,
+      "valid_votes": 555,
+      "invalid_votes": 6,
+      "total_voters": 561,
+      "ballots_not_cast": 0,
+      "ballots_issued": 561,
+      "unused_ballots": 770,
+      "eligible_voters": 1331,
+      "turnout_rate": 42.15
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "寶山鄉",
+      "village": "雙新村",
+      "polling_station": "441",
+      "agree_votes": 158,
+      "disagree_votes": 396,
+      "valid_votes": 554,
+      "invalid_votes": 9,
+      "total_voters": 563,
+      "ballots_not_cast": 0,
+      "ballots_issued": 563,
+      "unused_ballots": 750,
+      "eligible_voters": 1313,
+      "turnout_rate": 42.88
+    }
+  ],
+  "VILLCODE": "10004100010",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004100",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "寶山鄉",
+  "VILLNAME": "雙新村"
+}

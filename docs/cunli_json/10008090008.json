@@ -1,0 +1,56 @@
+{
+  "cunli": "魚池鄉_大雁村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 66,
+    "disagree_votes": 165,
+    "valid_votes": 231,
+    "invalid_votes": 2,
+    "total_voters": 233,
+    "ballots_not_cast": 0,
+    "ballots_issued": 233,
+    "unused_ballots": 335,
+    "eligible_voters": 568,
+    "average_turnout_rate": 41.02
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "大雁村",
+      "polling_station": "229",
+      "agree_votes": 35,
+      "disagree_votes": 71,
+      "valid_votes": 106,
+      "invalid_votes": 2,
+      "total_voters": 108,
+      "ballots_not_cast": 0,
+      "ballots_issued": 108,
+      "unused_ballots": 146,
+      "eligible_voters": 254,
+      "turnout_rate": 42.52
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "大雁村",
+      "polling_station": "230",
+      "agree_votes": 31,
+      "disagree_votes": 94,
+      "valid_votes": 125,
+      "invalid_votes": 0,
+      "total_voters": 125,
+      "ballots_not_cast": 0,
+      "ballots_issued": 125,
+      "unused_ballots": 189,
+      "eligible_voters": 314,
+      "turnout_rate": 39.81
+    }
+  ],
+  "VILLCODE": "10008090008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008090",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "魚池鄉",
+  "VILLNAME": "大雁村"
+}

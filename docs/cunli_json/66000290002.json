@@ -1,0 +1,40 @@
+{
+  "cunli": "和平區_天輪里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 48,
+    "disagree_votes": 116,
+    "valid_votes": 164,
+    "invalid_votes": 3,
+    "total_voters": 167,
+    "ballots_not_cast": 0,
+    "ballots_issued": 167,
+    "unused_ballots": 230,
+    "eligible_voters": 397,
+    "average_turnout_rate": 42.07
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "天輪里",
+      "polling_station": "1884",
+      "agree_votes": 48,
+      "disagree_votes": 116,
+      "valid_votes": 164,
+      "invalid_votes": 3,
+      "total_voters": 167,
+      "ballots_not_cast": 0,
+      "ballots_issued": 167,
+      "unused_ballots": 230,
+      "eligible_voters": 397,
+      "turnout_rate": 42.07
+    }
+  ],
+  "VILLCODE": "66000290002",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000290",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "和平區",
+  "VILLNAME": "天輪里"
+}

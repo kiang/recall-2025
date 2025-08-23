@@ -1,0 +1,56 @@
+{
+  "cunli": "南投市_漳興里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 538,
+    "disagree_votes": 790,
+    "valid_votes": 1328,
+    "invalid_votes": 7,
+    "total_voters": 1335,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1335,
+    "unused_ballots": 1164,
+    "eligible_voters": 2499,
+    "average_turnout_rate": 53.42
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "漳興里",
+      "polling_station": "297",
+      "agree_votes": 307,
+      "disagree_votes": 418,
+      "valid_votes": 725,
+      "invalid_votes": 2,
+      "total_voters": 727,
+      "ballots_not_cast": 0,
+      "ballots_issued": 727,
+      "unused_ballots": 636,
+      "eligible_voters": 1363,
+      "turnout_rate": 53.34
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "漳興里",
+      "polling_station": "298",
+      "agree_votes": 231,
+      "disagree_votes": 372,
+      "valid_votes": 603,
+      "invalid_votes": 5,
+      "total_voters": 608,
+      "ballots_not_cast": 0,
+      "ballots_issued": 608,
+      "unused_ballots": 528,
+      "eligible_voters": 1136,
+      "turnout_rate": 53.52
+    }
+  ],
+  "VILLCODE": "10008010008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "漳興里"
+}

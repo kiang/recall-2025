@@ -1,0 +1,40 @@
+{
+  "cunli": "埔里鎮_珠格里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 162,
+    "disagree_votes": 308,
+    "valid_votes": 470,
+    "invalid_votes": 6,
+    "total_voters": 476,
+    "ballots_not_cast": 0,
+    "ballots_issued": 476,
+    "unused_ballots": 549,
+    "eligible_voters": 1025,
+    "average_turnout_rate": 46.44
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "珠格里",
+      "polling_station": "114",
+      "agree_votes": 162,
+      "disagree_votes": 308,
+      "valid_votes": 470,
+      "invalid_votes": 6,
+      "total_voters": 476,
+      "ballots_not_cast": 0,
+      "ballots_issued": 476,
+      "unused_ballots": 549,
+      "eligible_voters": 1025,
+      "turnout_rate": 46.44
+    }
+  ],
+  "VILLCODE": "10008020013",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "珠格里"
+}

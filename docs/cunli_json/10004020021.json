@@ -1,0 +1,56 @@
+{
+  "cunli": "竹東鎮_中正里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 332,
+    "disagree_votes": 932,
+    "valid_votes": 1264,
+    "invalid_votes": 12,
+    "total_voters": 1276,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1276,
+    "unused_ballots": 1266,
+    "eligible_voters": 2542,
+    "average_turnout_rate": 50.2
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "中正里",
+      "polling_station": "161",
+      "agree_votes": 163,
+      "disagree_votes": 425,
+      "valid_votes": 588,
+      "invalid_votes": 4,
+      "total_voters": 592,
+      "ballots_not_cast": 0,
+      "ballots_issued": 592,
+      "unused_ballots": 629,
+      "eligible_voters": 1221,
+      "turnout_rate": 48.48
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "中正里",
+      "polling_station": "162",
+      "agree_votes": 169,
+      "disagree_votes": 507,
+      "valid_votes": 676,
+      "invalid_votes": 8,
+      "total_voters": 684,
+      "ballots_not_cast": 0,
+      "ballots_issued": 684,
+      "unused_ballots": 637,
+      "eligible_voters": 1321,
+      "turnout_rate": 51.78
+    }
+  ],
+  "VILLCODE": "10004020021",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "中正里"
+}

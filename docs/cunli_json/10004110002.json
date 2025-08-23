@@ -1,0 +1,40 @@
+{
+  "cunli": "峨眉鄉_中盛村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 83,
+    "disagree_votes": 213,
+    "valid_votes": 296,
+    "invalid_votes": 3,
+    "total_voters": 299,
+    "ballots_not_cast": 0,
+    "ballots_issued": 299,
+    "unused_ballots": 349,
+    "eligible_voters": 648,
+    "average_turnout_rate": 46.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "峨眉鄉",
+      "village": "中盛村",
+      "polling_station": "454",
+      "agree_votes": 83,
+      "disagree_votes": 213,
+      "valid_votes": 296,
+      "invalid_votes": 3,
+      "total_voters": 299,
+      "ballots_not_cast": 0,
+      "ballots_issued": 299,
+      "unused_ballots": 349,
+      "eligible_voters": 648,
+      "turnout_rate": 46.14
+    }
+  ],
+  "VILLCODE": "10004110002",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004110",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "峨眉鄉",
+  "VILLNAME": "中盛村"
+}

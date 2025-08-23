@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_地利村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 16,
+    "disagree_votes": 9,
+    "valid_votes": 25,
+    "invalid_votes": 0,
+    "total_voters": 25,
+    "ballots_not_cast": 0,
+    "ballots_issued": 25,
+    "unused_ballots": 48,
+    "eligible_voters": 73,
+    "average_turnout_rate": 34.25
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "地利村",
+      "polling_station": "491",
+      "agree_votes": 16,
+      "disagree_votes": 9,
+      "valid_votes": 25,
+      "invalid_votes": 0,
+      "total_voters": 25,
+      "ballots_not_cast": 0,
+      "ballots_issued": 25,
+      "unused_ballots": 48,
+      "eligible_voters": 73,
+      "turnout_rate": 34.25
+    }
+  ],
+  "VILLCODE": "10008120002",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "地利村"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "名間鄉_大坑村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 144,
+    "disagree_votes": 151,
+    "valid_votes": 295,
+    "invalid_votes": 6,
+    "total_voters": 301,
+    "ballots_not_cast": 0,
+    "ballots_issued": 301,
+    "unused_ballots": 372,
+    "eligible_voters": 673,
+    "average_turnout_rate": 44.73
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "大坑村",
+      "polling_station": "345",
+      "agree_votes": 144,
+      "disagree_votes": 151,
+      "valid_votes": 295,
+      "invalid_votes": 6,
+      "total_voters": 301,
+      "ballots_not_cast": 0,
+      "ballots_issued": 301,
+      "unused_ballots": 372,
+      "eligible_voters": 673,
+      "turnout_rate": 44.73
+    }
+  ],
+  "VILLCODE": "10008060013",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "大坑村"
+}

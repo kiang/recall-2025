@@ -1,0 +1,72 @@
+{
+  "cunli": "沙鹿區_興仁里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 421,
+    "disagree_votes": 726,
+    "valid_votes": 1147,
+    "invalid_votes": 13,
+    "total_voters": 1160,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1160,
+    "unused_ballots": 1112,
+    "eligible_voters": 2272,
+    "average_turnout_rate": 51.06
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "沙鹿區",
+      "village": "興仁里",
+      "polling_station": "207",
+      "agree_votes": 140,
+      "disagree_votes": 247,
+      "valid_votes": 387,
+      "invalid_votes": 3,
+      "total_voters": 390,
+      "ballots_not_cast": 0,
+      "ballots_issued": 390,
+      "unused_ballots": 365,
+      "eligible_voters": 755,
+      "turnout_rate": 51.66
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "沙鹿區",
+      "village": "興仁里",
+      "polling_station": "208",
+      "agree_votes": 149,
+      "disagree_votes": 299,
+      "valid_votes": 448,
+      "invalid_votes": 6,
+      "total_voters": 454,
+      "ballots_not_cast": 0,
+      "ballots_issued": 454,
+      "unused_ballots": 428,
+      "eligible_voters": 882,
+      "turnout_rate": 51.47
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "沙鹿區",
+      "village": "興仁里",
+      "polling_station": "209",
+      "agree_votes": 132,
+      "disagree_votes": 180,
+      "valid_votes": 312,
+      "invalid_votes": 4,
+      "total_voters": 316,
+      "ballots_not_cast": 0,
+      "ballots_issued": 316,
+      "unused_ballots": 319,
+      "eligible_voters": 635,
+      "turnout_rate": 49.76
+    }
+  ],
+  "VILLCODE": "66000130005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000130",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "沙鹿區",
+  "VILLNAME": "興仁里"
+}

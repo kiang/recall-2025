@@ -1,0 +1,56 @@
+{
+  "cunli": "深坑區_昇高里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 307,
+    "disagree_votes": 619,
+    "valid_votes": 926,
+    "invalid_votes": 9,
+    "total_voters": 935,
+    "ballots_not_cast": 0,
+    "ballots_issued": 935,
+    "unused_ballots": 910,
+    "eligible_voters": 1845,
+    "average_turnout_rate": 50.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "深坑區",
+      "village": "昇高里",
+      "polling_station": "2390",
+      "agree_votes": 143,
+      "disagree_votes": 180,
+      "valid_votes": 323,
+      "invalid_votes": 2,
+      "total_voters": 325,
+      "ballots_not_cast": 0,
+      "ballots_issued": 325,
+      "unused_ballots": 372,
+      "eligible_voters": 697,
+      "turnout_rate": 46.63
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "深坑區",
+      "village": "昇高里",
+      "polling_station": "2391",
+      "agree_votes": 164,
+      "disagree_votes": 439,
+      "valid_votes": 603,
+      "invalid_votes": 7,
+      "total_voters": 610,
+      "ballots_not_cast": 0,
+      "ballots_issued": 610,
+      "unused_ballots": 538,
+      "eligible_voters": 1148,
+      "turnout_rate": 53.14
+    }
+  ],
+  "VILLCODE": "65000180004",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000180",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "深坑區",
+  "VILLNAME": "昇高里"
+}

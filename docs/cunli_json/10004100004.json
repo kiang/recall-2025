@@ -1,0 +1,40 @@
+{
+  "cunli": "寶山鄉_新城村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 129,
+    "disagree_votes": 370,
+    "valid_votes": 499,
+    "invalid_votes": 7,
+    "total_voters": 506,
+    "ballots_not_cast": 0,
+    "ballots_issued": 506,
+    "unused_ballots": 583,
+    "eligible_voters": 1089,
+    "average_turnout_rate": 46.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "寶山鄉",
+      "village": "新城村",
+      "polling_station": "447",
+      "agree_votes": 129,
+      "disagree_votes": 370,
+      "valid_votes": 499,
+      "invalid_votes": 7,
+      "total_voters": 506,
+      "ballots_not_cast": 0,
+      "ballots_issued": 506,
+      "unused_ballots": 583,
+      "eligible_voters": 1089,
+      "turnout_rate": 46.46
+    }
+  ],
+  "VILLCODE": "10004100004",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004100",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "寶山鄉",
+  "VILLNAME": "新城村"
+}

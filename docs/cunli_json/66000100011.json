@@ -1,0 +1,40 @@
+{
+  "cunli": "東勢區_隆興里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 164,
+    "disagree_votes": 452,
+    "valid_votes": 616,
+    "invalid_votes": 7,
+    "total_voters": 623,
+    "ballots_not_cast": 0,
+    "ballots_issued": 623,
+    "unused_ballots": 755,
+    "eligible_voters": 1378,
+    "average_turnout_rate": 45.21
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "隆興里",
+      "polling_station": "1855",
+      "agree_votes": 164,
+      "disagree_votes": 452,
+      "valid_votes": 616,
+      "invalid_votes": 7,
+      "total_voters": 623,
+      "ballots_not_cast": 0,
+      "ballots_issued": 623,
+      "unused_ballots": 755,
+      "eligible_voters": 1378,
+      "turnout_rate": 45.21
+    }
+  ],
+  "VILLCODE": "66000100011",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "隆興里"
+}

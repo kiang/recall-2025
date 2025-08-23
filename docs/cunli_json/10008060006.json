@@ -1,0 +1,40 @@
+{
+  "cunli": "名間鄉_新民村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 217,
+    "disagree_votes": 229,
+    "valid_votes": 446,
+    "invalid_votes": 5,
+    "total_voters": 451,
+    "ballots_not_cast": 0,
+    "ballots_issued": 451,
+    "unused_ballots": 464,
+    "eligible_voters": 915,
+    "average_turnout_rate": 49.29
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "新民村",
+      "polling_station": "334",
+      "agree_votes": 217,
+      "disagree_votes": 229,
+      "valid_votes": 446,
+      "invalid_votes": 5,
+      "total_voters": 451,
+      "ballots_not_cast": 0,
+      "ballots_issued": 451,
+      "unused_ballots": 464,
+      "eligible_voters": 915,
+      "turnout_rate": 49.29
+    }
+  ],
+  "VILLCODE": "10008060006",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "新民村"
+}

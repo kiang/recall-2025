@@ -1,0 +1,40 @@
+{
+  "cunli": "竹東鎮_東華里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 71,
+    "disagree_votes": 223,
+    "valid_votes": 294,
+    "invalid_votes": 8,
+    "total_voters": 302,
+    "ballots_not_cast": 0,
+    "ballots_issued": 302,
+    "unused_ballots": 288,
+    "eligible_voters": 590,
+    "average_turnout_rate": 51.19
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "東華里",
+      "polling_station": "170",
+      "agree_votes": 71,
+      "disagree_votes": 223,
+      "valid_votes": 294,
+      "invalid_votes": 8,
+      "total_voters": 302,
+      "ballots_not_cast": 0,
+      "ballots_issued": 302,
+      "unused_ballots": 288,
+      "eligible_voters": 590,
+      "turnout_rate": 51.19
+    }
+  ],
+  "VILLCODE": "10004020008",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "東華里"
+}

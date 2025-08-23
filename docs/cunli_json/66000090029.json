@@ -1,0 +1,40 @@
+{
+  "cunli": "豐原區_東陽里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 306,
+    "disagree_votes": 434,
+    "valid_votes": 740,
+    "invalid_votes": 13,
+    "total_voters": 753,
+    "ballots_not_cast": 0,
+    "ballots_issued": 753,
+    "unused_ballots": 716,
+    "eligible_voters": 1469,
+    "average_turnout_rate": 51.26
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "東陽里",
+      "polling_station": "1786",
+      "agree_votes": 306,
+      "disagree_votes": 434,
+      "valid_votes": 740,
+      "invalid_votes": 13,
+      "total_voters": 753,
+      "ballots_not_cast": 0,
+      "ballots_issued": 753,
+      "unused_ballots": 716,
+      "eligible_voters": 1469,
+      "turnout_rate": 51.26
+    }
+  ],
+  "VILLCODE": "66000090029",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "東陽里"
+}

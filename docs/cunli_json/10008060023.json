@@ -1,0 +1,40 @@
+{
+  "cunli": "名間鄉_仁和村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 142,
+    "disagree_votes": 257,
+    "valid_votes": 399,
+    "invalid_votes": 7,
+    "total_voters": 406,
+    "ballots_not_cast": 0,
+    "ballots_issued": 406,
+    "unused_ballots": 411,
+    "eligible_voters": 817,
+    "average_turnout_rate": 49.69
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "仁和村",
+      "polling_station": "342",
+      "agree_votes": 142,
+      "disagree_votes": 257,
+      "valid_votes": 399,
+      "invalid_votes": 7,
+      "total_voters": 406,
+      "ballots_not_cast": 0,
+      "ballots_issued": 406,
+      "unused_ballots": 411,
+      "eligible_voters": 817,
+      "turnout_rate": 49.69
+    }
+  ],
+  "VILLCODE": "10008060023",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "仁和村"
+}

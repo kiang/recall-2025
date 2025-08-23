@@ -1,0 +1,72 @@
+{
+  "cunli": "信義鄉_明德村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 125,
+    "disagree_votes": 308,
+    "valid_votes": 433,
+    "invalid_votes": 5,
+    "total_voters": 438,
+    "ballots_not_cast": 0,
+    "ballots_issued": 438,
+    "unused_ballots": 467,
+    "eligible_voters": 905,
+    "average_turnout_rate": 48.4
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "明德村",
+      "polling_station": "472",
+      "agree_votes": 38,
+      "disagree_votes": 46,
+      "valid_votes": 84,
+      "invalid_votes": 1,
+      "total_voters": 85,
+      "ballots_not_cast": 0,
+      "ballots_issued": 85,
+      "unused_ballots": 75,
+      "eligible_voters": 160,
+      "turnout_rate": 53.13
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "明德村",
+      "polling_station": "473",
+      "agree_votes": 60,
+      "disagree_votes": 172,
+      "valid_votes": 232,
+      "invalid_votes": 0,
+      "total_voters": 232,
+      "ballots_not_cast": 0,
+      "ballots_issued": 232,
+      "unused_ballots": 259,
+      "eligible_voters": 491,
+      "turnout_rate": 47.25
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "明德村",
+      "polling_station": "474",
+      "agree_votes": 27,
+      "disagree_votes": 90,
+      "valid_votes": 117,
+      "invalid_votes": 4,
+      "total_voters": 121,
+      "ballots_not_cast": 0,
+      "ballots_issued": 121,
+      "unused_ballots": 133,
+      "eligible_voters": 254,
+      "turnout_rate": 47.64
+    }
+  ],
+  "VILLCODE": "10008120004",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "明德村"
+}

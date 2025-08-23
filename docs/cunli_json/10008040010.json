@@ -1,0 +1,56 @@
+{
+  "cunli": "竹山鎮_德興里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 109,
+    "disagree_votes": 277,
+    "valid_votes": 386,
+    "invalid_votes": 8,
+    "total_voters": 394,
+    "ballots_not_cast": 0,
+    "ballots_issued": 394,
+    "unused_ballots": 420,
+    "eligible_voters": 814,
+    "average_turnout_rate": 48.4
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "德興里",
+      "polling_station": "419",
+      "agree_votes": 43,
+      "disagree_votes": 119,
+      "valid_votes": 162,
+      "invalid_votes": 2,
+      "total_voters": 164,
+      "ballots_not_cast": 0,
+      "ballots_issued": 164,
+      "unused_ballots": 179,
+      "eligible_voters": 343,
+      "turnout_rate": 47.81
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "德興里",
+      "polling_station": "420",
+      "agree_votes": 66,
+      "disagree_votes": 158,
+      "valid_votes": 224,
+      "invalid_votes": 6,
+      "total_voters": 230,
+      "ballots_not_cast": 0,
+      "ballots_issued": 230,
+      "unused_ballots": 241,
+      "eligible_voters": 471,
+      "turnout_rate": 48.83
+    }
+  ],
+  "VILLCODE": "10008040010",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "德興里"
+}

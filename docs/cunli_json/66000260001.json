@@ -1,0 +1,40 @@
+{
+  "cunli": "霧峰區_桐林里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 186,
+    "disagree_votes": 429,
+    "valid_votes": 615,
+    "invalid_votes": 1,
+    "total_voters": 616,
+    "ballots_not_cast": 0,
+    "ballots_issued": 616,
+    "unused_ballots": 566,
+    "eligible_voters": 1182,
+    "average_turnout_rate": 52.12
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "桐林里",
+      "polling_station": "414",
+      "agree_votes": 186,
+      "disagree_votes": 429,
+      "valid_votes": 615,
+      "invalid_votes": 1,
+      "total_voters": 616,
+      "ballots_not_cast": 0,
+      "ballots_issued": 616,
+      "unused_ballots": 566,
+      "eligible_voters": 1182,
+      "turnout_rate": 52.12
+    }
+  ],
+  "VILLCODE": "66000260001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "桐林里"
+}

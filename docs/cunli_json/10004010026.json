@@ -1,0 +1,72 @@
+{
+  "cunli": "竹北市_福德里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 458,
+    "disagree_votes": 1016,
+    "valid_votes": 1474,
+    "invalid_votes": 17,
+    "total_voters": 1491,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1491,
+    "unused_ballots": 1614,
+    "eligible_voters": 3105,
+    "average_turnout_rate": 48.02
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹北市",
+      "village": "福德里",
+      "polling_station": "100",
+      "agree_votes": 142,
+      "disagree_votes": 326,
+      "valid_votes": 468,
+      "invalid_votes": 3,
+      "total_voters": 471,
+      "ballots_not_cast": 0,
+      "ballots_issued": 471,
+      "unused_ballots": 508,
+      "eligible_voters": 979,
+      "turnout_rate": 48.11
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹北市",
+      "village": "福德里",
+      "polling_station": "101",
+      "agree_votes": 178,
+      "disagree_votes": 353,
+      "valid_votes": 531,
+      "invalid_votes": 8,
+      "total_voters": 539,
+      "ballots_not_cast": 0,
+      "ballots_issued": 539,
+      "unused_ballots": 552,
+      "eligible_voters": 1091,
+      "turnout_rate": 49.4
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹北市",
+      "village": "福德里",
+      "polling_station": "102",
+      "agree_votes": 138,
+      "disagree_votes": 337,
+      "valid_votes": 475,
+      "invalid_votes": 6,
+      "total_voters": 481,
+      "ballots_not_cast": 0,
+      "ballots_issued": 481,
+      "unused_ballots": 554,
+      "eligible_voters": 1035,
+      "turnout_rate": 46.47
+    }
+  ],
+  "VILLCODE": "10004010026",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004010",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹北市",
+  "VILLNAME": "福德里"
+}

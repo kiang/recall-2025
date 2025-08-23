@@ -1,0 +1,72 @@
+{
+  "cunli": "南投市_軍功里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 684,
+    "disagree_votes": 1312,
+    "valid_votes": 1996,
+    "invalid_votes": 25,
+    "total_voters": 2021,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2021,
+    "unused_ballots": 2066,
+    "eligible_voters": 4087,
+    "average_turnout_rate": 49.45
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "軍功里",
+      "polling_station": "273",
+      "agree_votes": 199,
+      "disagree_votes": 425,
+      "valid_votes": 624,
+      "invalid_votes": 8,
+      "total_voters": 632,
+      "ballots_not_cast": 0,
+      "ballots_issued": 632,
+      "unused_ballots": 643,
+      "eligible_voters": 1275,
+      "turnout_rate": 49.57
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "軍功里",
+      "polling_station": "274",
+      "agree_votes": 246,
+      "disagree_votes": 415,
+      "valid_votes": 661,
+      "invalid_votes": 6,
+      "total_voters": 667,
+      "ballots_not_cast": 0,
+      "ballots_issued": 667,
+      "unused_ballots": 687,
+      "eligible_voters": 1354,
+      "turnout_rate": 49.26
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "軍功里",
+      "polling_station": "275",
+      "agree_votes": 239,
+      "disagree_votes": 472,
+      "valid_votes": 711,
+      "invalid_votes": 11,
+      "total_voters": 722,
+      "ballots_not_cast": 0,
+      "ballots_issued": 722,
+      "unused_ballots": 736,
+      "eligible_voters": 1458,
+      "turnout_rate": 49.52
+    }
+  ],
+  "VILLCODE": "10008010010",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "軍功里"
+}

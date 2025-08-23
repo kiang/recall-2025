@@ -1,0 +1,56 @@
+{
+  "cunli": "峨眉鄉_七星村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 55,
+    "disagree_votes": 177,
+    "valid_votes": 232,
+    "invalid_votes": 8,
+    "total_voters": 240,
+    "ballots_not_cast": 0,
+    "ballots_issued": 240,
+    "unused_ballots": 327,
+    "eligible_voters": 567,
+    "average_turnout_rate": 42.33
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "峨眉鄉",
+      "village": "七星村",
+      "polling_station": "456",
+      "agree_votes": 30,
+      "disagree_votes": 99,
+      "valid_votes": 129,
+      "invalid_votes": 3,
+      "total_voters": 132,
+      "ballots_not_cast": 0,
+      "ballots_issued": 132,
+      "unused_ballots": 186,
+      "eligible_voters": 318,
+      "turnout_rate": 41.51
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "峨眉鄉",
+      "village": "七星村",
+      "polling_station": "457",
+      "agree_votes": 25,
+      "disagree_votes": 78,
+      "valid_votes": 103,
+      "invalid_votes": 5,
+      "total_voters": 108,
+      "ballots_not_cast": 0,
+      "ballots_issued": 108,
+      "unused_ballots": 141,
+      "eligible_voters": 249,
+      "turnout_rate": 43.37
+    }
+  ],
+  "VILLCODE": "10004110005",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004110",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "峨眉鄉",
+  "VILLNAME": "七星村"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "竹山鎮_瑞竹里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 82,
+    "disagree_votes": 138,
+    "valid_votes": 220,
+    "invalid_votes": 2,
+    "total_voters": 222,
+    "ballots_not_cast": 0,
+    "ballots_issued": 222,
+    "unused_ballots": 296,
+    "eligible_voters": 518,
+    "average_turnout_rate": 42.86
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "瑞竹里",
+      "polling_station": "426",
+      "agree_votes": 82,
+      "disagree_votes": 138,
+      "valid_votes": 220,
+      "invalid_votes": 2,
+      "total_voters": 222,
+      "ballots_not_cast": 0,
+      "ballots_issued": 222,
+      "unused_ballots": 296,
+      "eligible_voters": 518,
+      "turnout_rate": 42.86
+    }
+  ],
+  "VILLCODE": "10008040023",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "瑞竹里"
+}

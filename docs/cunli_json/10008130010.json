@@ -1,0 +1,56 @@
+{
+  "cunli": "仁愛鄉_南豐村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 50,
+    "disagree_votes": 163,
+    "valid_votes": 213,
+    "invalid_votes": 1,
+    "total_voters": 214,
+    "ballots_not_cast": 0,
+    "ballots_issued": 214,
+    "unused_ballots": 276,
+    "eligible_voters": 490,
+    "average_turnout_rate": 43.67
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "仁愛鄉",
+      "village": "南豐村",
+      "polling_station": "167",
+      "agree_votes": 14,
+      "disagree_votes": 53,
+      "valid_votes": 67,
+      "invalid_votes": 0,
+      "total_voters": 67,
+      "ballots_not_cast": 0,
+      "ballots_issued": 67,
+      "unused_ballots": 96,
+      "eligible_voters": 163,
+      "turnout_rate": 41.1
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "仁愛鄉",
+      "village": "南豐村",
+      "polling_station": "168",
+      "agree_votes": 36,
+      "disagree_votes": 110,
+      "valid_votes": 146,
+      "invalid_votes": 1,
+      "total_voters": 147,
+      "ballots_not_cast": 0,
+      "ballots_issued": 147,
+      "unused_ballots": 180,
+      "eligible_voters": 327,
+      "turnout_rate": 44.95
+    }
+  ],
+  "VILLCODE": "10008130010",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008130",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "仁愛鄉",
+  "VILLNAME": "南豐村"
+}

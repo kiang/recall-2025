@@ -1,0 +1,40 @@
+{
+  "cunli": "霧峰區_峰谷里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 181,
+    "disagree_votes": 382,
+    "valid_votes": 563,
+    "invalid_votes": 4,
+    "total_voters": 567,
+    "ballots_not_cast": 0,
+    "ballots_issued": 567,
+    "unused_ballots": 509,
+    "eligible_voters": 1076,
+    "average_turnout_rate": 52.7
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "峰谷里",
+      "polling_station": "459",
+      "agree_votes": 181,
+      "disagree_votes": 382,
+      "valid_votes": 563,
+      "invalid_votes": 4,
+      "total_voters": 567,
+      "ballots_not_cast": 0,
+      "ballots_issued": 567,
+      "unused_ballots": 509,
+      "eligible_voters": 1076,
+      "turnout_rate": 52.7
+    }
+  ],
+  "VILLCODE": "66000260016",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "峰谷里"
+}

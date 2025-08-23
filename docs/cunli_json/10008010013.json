@@ -1,0 +1,72 @@
+{
+  "cunli": "南投市_振興里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 391,
+    "disagree_votes": 604,
+    "valid_votes": 995,
+    "invalid_votes": 7,
+    "total_voters": 1002,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1002,
+    "unused_ballots": 973,
+    "eligible_voters": 1975,
+    "average_turnout_rate": 50.73
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "振興里",
+      "polling_station": "269",
+      "agree_votes": 97,
+      "disagree_votes": 175,
+      "valid_votes": 272,
+      "invalid_votes": 2,
+      "total_voters": 274,
+      "ballots_not_cast": 0,
+      "ballots_issued": 274,
+      "unused_ballots": 272,
+      "eligible_voters": 546,
+      "turnout_rate": 50.18
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "振興里",
+      "polling_station": "270",
+      "agree_votes": 152,
+      "disagree_votes": 239,
+      "valid_votes": 391,
+      "invalid_votes": 3,
+      "total_voters": 394,
+      "ballots_not_cast": 0,
+      "ballots_issued": 394,
+      "unused_ballots": 359,
+      "eligible_voters": 753,
+      "turnout_rate": 52.32
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "振興里",
+      "polling_station": "271",
+      "agree_votes": 142,
+      "disagree_votes": 190,
+      "valid_votes": 332,
+      "invalid_votes": 2,
+      "total_voters": 334,
+      "ballots_not_cast": 0,
+      "ballots_issued": 334,
+      "unused_ballots": 342,
+      "eligible_voters": 676,
+      "turnout_rate": 49.41
+    }
+  ],
+  "VILLCODE": "10008010013",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "振興里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "神岡區_山皮里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 204,
+    "disagree_votes": 311,
+    "valid_votes": 515,
+    "invalid_votes": 13,
+    "total_voters": 528,
+    "ballots_not_cast": 0,
+    "ballots_issued": 528,
+    "unused_ballots": 494,
+    "eligible_voters": 1022,
+    "average_turnout_rate": 51.66
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "神岡區",
+      "village": "山皮里",
+      "polling_station": "519",
+      "agree_votes": 204,
+      "disagree_votes": 311,
+      "valid_votes": 515,
+      "invalid_votes": 13,
+      "total_voters": 528,
+      "ballots_not_cast": 0,
+      "ballots_issued": 528,
+      "unused_ballots": 494,
+      "eligible_voters": 1022,
+      "turnout_rate": 51.66
+    }
+  ],
+  "VILLCODE": "66000160016",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000160",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "神岡區",
+  "VILLNAME": "山皮里"
+}

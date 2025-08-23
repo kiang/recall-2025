@@ -1,0 +1,56 @@
+{
+  "cunli": "埔里鎮_愛蘭里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 182,
+    "disagree_votes": 438,
+    "valid_votes": 620,
+    "invalid_votes": 6,
+    "total_voters": 626,
+    "ballots_not_cast": 1,
+    "ballots_issued": 627,
+    "unused_ballots": 659,
+    "eligible_voters": 1286,
+    "average_turnout_rate": 48.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "愛蘭里",
+      "polling_station": "151",
+      "agree_votes": 82,
+      "disagree_votes": 214,
+      "valid_votes": 296,
+      "invalid_votes": 3,
+      "total_voters": 299,
+      "ballots_not_cast": 1,
+      "ballots_issued": 300,
+      "unused_ballots": 309,
+      "eligible_voters": 609,
+      "turnout_rate": 49.1
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "愛蘭里",
+      "polling_station": "152",
+      "agree_votes": 100,
+      "disagree_votes": 224,
+      "valid_votes": 324,
+      "invalid_votes": 3,
+      "total_voters": 327,
+      "ballots_not_cast": 0,
+      "ballots_issued": 327,
+      "unused_ballots": 350,
+      "eligible_voters": 677,
+      "turnout_rate": 48.3
+    }
+  ],
+  "VILLCODE": "10008020018",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "愛蘭里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "豐原區_中山里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 189,
+    "disagree_votes": 223,
+    "valid_votes": 412,
+    "invalid_votes": 4,
+    "total_voters": 416,
+    "ballots_not_cast": 1,
+    "ballots_issued": 417,
+    "unused_ballots": 320,
+    "eligible_voters": 737,
+    "average_turnout_rate": 56.45
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "中山里",
+      "polling_station": "1701",
+      "agree_votes": 189,
+      "disagree_votes": 223,
+      "valid_votes": 412,
+      "invalid_votes": 4,
+      "total_voters": 416,
+      "ballots_not_cast": 1,
+      "ballots_issued": 417,
+      "unused_ballots": 320,
+      "eligible_voters": 737,
+      "turnout_rate": 56.45
+    }
+  ],
+  "VILLCODE": "66000090003",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "中山里"
+}

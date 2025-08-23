@@ -1,0 +1,40 @@
+{
+  "cunli": "霧峰區_錦榮里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 220,
+    "disagree_votes": 400,
+    "valid_votes": 620,
+    "invalid_votes": 5,
+    "total_voters": 625,
+    "ballots_not_cast": 0,
+    "ballots_issued": 625,
+    "unused_ballots": 613,
+    "eligible_voters": 1238,
+    "average_turnout_rate": 50.48
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "錦榮里",
+      "polling_station": "431",
+      "agree_votes": 220,
+      "disagree_votes": 400,
+      "valid_votes": 620,
+      "invalid_votes": 5,
+      "total_voters": 625,
+      "ballots_not_cast": 0,
+      "ballots_issued": 625,
+      "unused_ballots": 613,
+      "eligible_voters": 1238,
+      "turnout_rate": 50.48
+    }
+  ],
+  "VILLCODE": "66000260006",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "錦榮里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "埔里鎮_牛眠里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 454,
+    "disagree_votes": 829,
+    "valid_votes": 1283,
+    "invalid_votes": 21,
+    "total_voters": 1304,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1304,
+    "unused_ballots": 1385,
+    "eligible_voters": 2689,
+    "average_turnout_rate": 48.49
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "牛眠里",
+      "polling_station": "164",
+      "agree_votes": 147,
+      "disagree_votes": 273,
+      "valid_votes": 420,
+      "invalid_votes": 7,
+      "total_voters": 427,
+      "ballots_not_cast": 0,
+      "ballots_issued": 427,
+      "unused_ballots": 422,
+      "eligible_voters": 849,
+      "turnout_rate": 50.29
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "牛眠里",
+      "polling_station": "165",
+      "agree_votes": 133,
+      "disagree_votes": 283,
+      "valid_votes": 416,
+      "invalid_votes": 5,
+      "total_voters": 421,
+      "ballots_not_cast": 0,
+      "ballots_issued": 421,
+      "unused_ballots": 446,
+      "eligible_voters": 867,
+      "turnout_rate": 48.56
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "牛眠里",
+      "polling_station": "166",
+      "agree_votes": 174,
+      "disagree_votes": 273,
+      "valid_votes": 447,
+      "invalid_votes": 9,
+      "total_voters": 456,
+      "ballots_not_cast": 0,
+      "ballots_issued": 456,
+      "unused_ballots": 517,
+      "eligible_voters": 973,
+      "turnout_rate": 46.87
+    }
+  ],
+  "VILLCODE": "10008020026",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "牛眠里"
+}

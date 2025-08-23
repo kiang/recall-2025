@@ -1,0 +1,40 @@
+{
+  "cunli": "北埔鄉_水磜村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 85,
+    "disagree_votes": 258,
+    "valid_votes": 343,
+    "invalid_votes": 7,
+    "total_voters": 350,
+    "ballots_not_cast": 0,
+    "ballots_issued": 350,
+    "unused_ballots": 448,
+    "eligible_voters": 798,
+    "average_turnout_rate": 43.86
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "北埔鄉",
+      "village": "水磜村",
+      "polling_station": "435",
+      "agree_votes": 85,
+      "disagree_votes": 258,
+      "valid_votes": 343,
+      "invalid_votes": 7,
+      "total_voters": 350,
+      "ballots_not_cast": 0,
+      "ballots_issued": 350,
+      "unused_ballots": 448,
+      "eligible_voters": 798,
+      "turnout_rate": 43.86
+    }
+  ],
+  "VILLCODE": "10004090004",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004090",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "北埔鄉",
+  "VILLNAME": "水磜村"
+}

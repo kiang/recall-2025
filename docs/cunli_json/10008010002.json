@@ -1,0 +1,56 @@
+{
+  "cunli": "南投市_康壽里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 295,
+    "disagree_votes": 430,
+    "valid_votes": 725,
+    "invalid_votes": 6,
+    "total_voters": 731,
+    "ballots_not_cast": 0,
+    "ballots_issued": 731,
+    "unused_ballots": 535,
+    "eligible_voters": 1266,
+    "average_turnout_rate": 57.74
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "康壽里",
+      "polling_station": "242",
+      "agree_votes": 143,
+      "disagree_votes": 234,
+      "valid_votes": 377,
+      "invalid_votes": 3,
+      "total_voters": 380,
+      "ballots_not_cast": 0,
+      "ballots_issued": 380,
+      "unused_ballots": 268,
+      "eligible_voters": 648,
+      "turnout_rate": 58.64
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "康壽里",
+      "polling_station": "243",
+      "agree_votes": 152,
+      "disagree_votes": 196,
+      "valid_votes": 348,
+      "invalid_votes": 3,
+      "total_voters": 351,
+      "ballots_not_cast": 0,
+      "ballots_issued": 351,
+      "unused_ballots": 267,
+      "eligible_voters": 618,
+      "turnout_rate": 56.8
+    }
+  ],
+  "VILLCODE": "10008010002",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "康壽里"
+}

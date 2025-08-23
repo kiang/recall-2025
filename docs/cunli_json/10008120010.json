@@ -1,0 +1,56 @@
+{
+  "cunli": "信義鄉_神木村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 37,
+    "disagree_votes": 177,
+    "valid_votes": 214,
+    "invalid_votes": 1,
+    "total_voters": 215,
+    "ballots_not_cast": 0,
+    "ballots_issued": 215,
+    "unused_ballots": 323,
+    "eligible_voters": 538,
+    "average_turnout_rate": 39.96
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "神木村",
+      "polling_station": "486",
+      "agree_votes": 29,
+      "disagree_votes": 128,
+      "valid_votes": 157,
+      "invalid_votes": 1,
+      "total_voters": 158,
+      "ballots_not_cast": 0,
+      "ballots_issued": 158,
+      "unused_ballots": 248,
+      "eligible_voters": 406,
+      "turnout_rate": 38.92
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "神木村",
+      "polling_station": "487",
+      "agree_votes": 8,
+      "disagree_votes": 49,
+      "valid_votes": 57,
+      "invalid_votes": 0,
+      "total_voters": 57,
+      "ballots_not_cast": 0,
+      "ballots_issued": 57,
+      "unused_ballots": 75,
+      "eligible_voters": 132,
+      "turnout_rate": 43.18
+    }
+  ],
+  "VILLCODE": "10008120010",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "神木村"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "竹東鎮_榮樂里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 145,
+    "disagree_votes": 452,
+    "valid_votes": 597,
+    "invalid_votes": 12,
+    "total_voters": 609,
+    "ballots_not_cast": 0,
+    "ballots_issued": 609,
+    "unused_ballots": 589,
+    "eligible_voters": 1198,
+    "average_turnout_rate": 50.83
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "榮樂里",
+      "polling_station": "185",
+      "agree_votes": 75,
+      "disagree_votes": 223,
+      "valid_votes": 298,
+      "invalid_votes": 8,
+      "total_voters": 306,
+      "ballots_not_cast": 0,
+      "ballots_issued": 306,
+      "unused_ballots": 293,
+      "eligible_voters": 599,
+      "turnout_rate": 51.09
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "榮樂里",
+      "polling_station": "186",
+      "agree_votes": 70,
+      "disagree_votes": 229,
+      "valid_votes": 299,
+      "invalid_votes": 4,
+      "total_voters": 303,
+      "ballots_not_cast": 0,
+      "ballots_issued": 303,
+      "unused_ballots": 296,
+      "eligible_voters": 599,
+      "turnout_rate": 50.58
+    }
+  ],
+  "VILLCODE": "10004020011",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "榮樂里"
+}

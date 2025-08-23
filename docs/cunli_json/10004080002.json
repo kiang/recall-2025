@@ -1,0 +1,40 @@
+{
+  "cunli": "橫山鄉_田寮村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 108,
+    "disagree_votes": 305,
+    "valid_votes": 413,
+    "invalid_votes": 5,
+    "total_voters": 418,
+    "ballots_not_cast": 0,
+    "ballots_issued": 418,
+    "unused_ballots": 394,
+    "eligible_voters": 812,
+    "average_turnout_rate": 51.48
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "橫山鄉",
+      "village": "田寮村",
+      "polling_station": "415",
+      "agree_votes": 108,
+      "disagree_votes": 305,
+      "valid_votes": 413,
+      "invalid_votes": 5,
+      "total_voters": 418,
+      "ballots_not_cast": 0,
+      "ballots_issued": 418,
+      "unused_ballots": 394,
+      "eligible_voters": 812,
+      "turnout_rate": 51.48
+    }
+  ],
+  "VILLCODE": "10004080002",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004080",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "橫山鄉",
+  "VILLNAME": "田寮村"
+}

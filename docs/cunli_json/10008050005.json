@@ -1,0 +1,40 @@
+{
+  "cunli": "集集鎮_隘寮里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 70,
+    "disagree_votes": 133,
+    "valid_votes": 203,
+    "invalid_votes": 8,
+    "total_voters": 211,
+    "ballots_not_cast": 0,
+    "ballots_issued": 211,
+    "unused_ballots": 215,
+    "eligible_voters": 426,
+    "average_turnout_rate": 49.53
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "集集鎮",
+      "village": "隘寮里",
+      "polling_station": "367",
+      "agree_votes": 70,
+      "disagree_votes": 133,
+      "valid_votes": 203,
+      "invalid_votes": 8,
+      "total_voters": 211,
+      "ballots_not_cast": 0,
+      "ballots_issued": 211,
+      "unused_ballots": 215,
+      "eligible_voters": 426,
+      "turnout_rate": 49.53
+    }
+  ],
+  "VILLCODE": "10008050005",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008050",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "集集鎮",
+  "VILLNAME": "隘寮里"
+}

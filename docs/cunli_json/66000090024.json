@@ -1,0 +1,72 @@
+{
+  "cunli": "豐原區_鎌村里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 762,
+    "disagree_votes": 1461,
+    "valid_votes": 2223,
+    "invalid_votes": 23,
+    "total_voters": 2246,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2246,
+    "unused_ballots": 2112,
+    "eligible_voters": 4358,
+    "average_turnout_rate": 51.54
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "鎌村里",
+      "polling_station": "1764",
+      "agree_votes": 266,
+      "disagree_votes": 452,
+      "valid_votes": 718,
+      "invalid_votes": 3,
+      "total_voters": 721,
+      "ballots_not_cast": 0,
+      "ballots_issued": 721,
+      "unused_ballots": 700,
+      "eligible_voters": 1421,
+      "turnout_rate": 50.74
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "鎌村里",
+      "polling_station": "1765",
+      "agree_votes": 235,
+      "disagree_votes": 487,
+      "valid_votes": 722,
+      "invalid_votes": 8,
+      "total_voters": 730,
+      "ballots_not_cast": 0,
+      "ballots_issued": 730,
+      "unused_ballots": 693,
+      "eligible_voters": 1423,
+      "turnout_rate": 51.3
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "鎌村里",
+      "polling_station": "1766",
+      "agree_votes": 261,
+      "disagree_votes": 522,
+      "valid_votes": 783,
+      "invalid_votes": 12,
+      "total_voters": 795,
+      "ballots_not_cast": 0,
+      "ballots_issued": 795,
+      "unused_ballots": 719,
+      "eligible_voters": 1514,
+      "turnout_rate": 52.51
+    }
+  ],
+  "VILLCODE": "66000090024",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "鎌村里"
+}

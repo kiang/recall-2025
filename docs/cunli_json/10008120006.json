@@ -1,0 +1,56 @@
+{
+  "cunli": "信義鄉_自強村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 86,
+    "disagree_votes": 190,
+    "valid_votes": 276,
+    "invalid_votes": 1,
+    "total_voters": 277,
+    "ballots_not_cast": 0,
+    "ballots_issued": 277,
+    "unused_ballots": 331,
+    "eligible_voters": 608,
+    "average_turnout_rate": 45.56
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "自強村",
+      "polling_station": "476",
+      "agree_votes": 46,
+      "disagree_votes": 103,
+      "valid_votes": 149,
+      "invalid_votes": 1,
+      "total_voters": 150,
+      "ballots_not_cast": 0,
+      "ballots_issued": 150,
+      "unused_ballots": 184,
+      "eligible_voters": 334,
+      "turnout_rate": 44.91
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "自強村",
+      "polling_station": "477",
+      "agree_votes": 40,
+      "disagree_votes": 87,
+      "valid_votes": 127,
+      "invalid_votes": 0,
+      "total_voters": 127,
+      "ballots_not_cast": 0,
+      "ballots_issued": 127,
+      "unused_ballots": 147,
+      "eligible_voters": 274,
+      "turnout_rate": 46.35
+    }
+  ],
+  "VILLCODE": "10008120006",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "自強村"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "和平區_中坑里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 49,
+    "disagree_votes": 161,
+    "valid_votes": 210,
+    "invalid_votes": 1,
+    "total_voters": 211,
+    "ballots_not_cast": 0,
+    "ballots_issued": 211,
+    "unused_ballots": 210,
+    "eligible_voters": 421,
+    "average_turnout_rate": 50.12
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "中坑里",
+      "polling_station": "1892",
+      "agree_votes": 49,
+      "disagree_votes": 161,
+      "valid_votes": 210,
+      "invalid_votes": 1,
+      "total_voters": 211,
+      "ballots_not_cast": 0,
+      "ballots_issued": 211,
+      "unused_ballots": 210,
+      "eligible_voters": 421,
+      "turnout_rate": 50.12
+    }
+  ],
+  "VILLCODE": "66000290004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000290",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "和平區",
+  "VILLNAME": "中坑里"
+}

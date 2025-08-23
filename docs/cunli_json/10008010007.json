@@ -1,0 +1,40 @@
+{
+  "cunli": "南投市_崇文里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 173,
+    "disagree_votes": 262,
+    "valid_votes": 435,
+    "invalid_votes": 4,
+    "total_voters": 439,
+    "ballots_not_cast": 0,
+    "ballots_issued": 439,
+    "unused_ballots": 417,
+    "eligible_voters": 856,
+    "average_turnout_rate": 51.29
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "崇文里",
+      "polling_station": "248",
+      "agree_votes": 173,
+      "disagree_votes": 262,
+      "valid_votes": 435,
+      "invalid_votes": 4,
+      "total_voters": 439,
+      "ballots_not_cast": 0,
+      "ballots_issued": 439,
+      "unused_ballots": 417,
+      "eligible_voters": 856,
+      "turnout_rate": 51.29
+    }
+  ],
+  "VILLCODE": "10008010007",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "崇文里"
+}

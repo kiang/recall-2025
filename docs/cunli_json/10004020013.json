@@ -1,0 +1,72 @@
+{
+  "cunli": "竹東鎮_仁愛里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 377,
+    "disagree_votes": 1070,
+    "valid_votes": 1447,
+    "invalid_votes": 18,
+    "total_voters": 1465,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1465,
+    "unused_ballots": 1616,
+    "eligible_voters": 3081,
+    "average_turnout_rate": 47.55
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "仁愛里",
+      "polling_station": "182",
+      "agree_votes": 104,
+      "disagree_votes": 310,
+      "valid_votes": 414,
+      "invalid_votes": 6,
+      "total_voters": 420,
+      "ballots_not_cast": 0,
+      "ballots_issued": 420,
+      "unused_ballots": 443,
+      "eligible_voters": 863,
+      "turnout_rate": 48.67
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "仁愛里",
+      "polling_station": "183",
+      "agree_votes": 122,
+      "disagree_votes": 386,
+      "valid_votes": 508,
+      "invalid_votes": 6,
+      "total_voters": 514,
+      "ballots_not_cast": 0,
+      "ballots_issued": 514,
+      "unused_ballots": 634,
+      "eligible_voters": 1148,
+      "turnout_rate": 44.77
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "仁愛里",
+      "polling_station": "184",
+      "agree_votes": 151,
+      "disagree_votes": 374,
+      "valid_votes": 525,
+      "invalid_votes": 6,
+      "total_voters": 531,
+      "ballots_not_cast": 0,
+      "ballots_issued": 531,
+      "unused_ballots": 539,
+      "eligible_voters": 1070,
+      "turnout_rate": 49.63
+    }
+  ],
+  "VILLCODE": "10004020013",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "仁愛里"
+}

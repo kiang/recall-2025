@@ -1,0 +1,72 @@
+{
+  "cunli": "豐原區_朴子里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 579,
+    "disagree_votes": 992,
+    "valid_votes": 1571,
+    "invalid_votes": 20,
+    "total_voters": 1591,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1591,
+    "unused_ballots": 1607,
+    "eligible_voters": 3198,
+    "average_turnout_rate": 49.75
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "朴子里",
+      "polling_station": "1804",
+      "agree_votes": 208,
+      "disagree_votes": 342,
+      "valid_votes": 550,
+      "invalid_votes": 6,
+      "total_voters": 556,
+      "ballots_not_cast": 0,
+      "ballots_issued": 556,
+      "unused_ballots": 488,
+      "eligible_voters": 1044,
+      "turnout_rate": 53.26
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "朴子里",
+      "polling_station": "1805",
+      "agree_votes": 181,
+      "disagree_votes": 293,
+      "valid_votes": 474,
+      "invalid_votes": 8,
+      "total_voters": 482,
+      "ballots_not_cast": 0,
+      "ballots_issued": 482,
+      "unused_ballots": 531,
+      "eligible_voters": 1013,
+      "turnout_rate": 47.58
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "朴子里",
+      "polling_station": "1806",
+      "agree_votes": 190,
+      "disagree_votes": 357,
+      "valid_votes": 547,
+      "invalid_votes": 6,
+      "total_voters": 553,
+      "ballots_not_cast": 0,
+      "ballots_issued": 553,
+      "unused_ballots": 588,
+      "eligible_voters": 1141,
+      "turnout_rate": 48.47
+    }
+  ],
+  "VILLCODE": "66000090036",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "朴子里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "潭子區_聚興里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 612,
+    "disagree_votes": 1214,
+    "valid_votes": 1826,
+    "invalid_votes": 28,
+    "total_voters": 1854,
+    "ballots_not_cast": 1,
+    "ballots_issued": 1855,
+    "unused_ballots": 2403,
+    "eligible_voters": 4258,
+    "average_turnout_rate": 43.54
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "潭子區",
+      "village": "聚興里",
+      "polling_station": "673",
+      "agree_votes": 169,
+      "disagree_votes": 399,
+      "valid_votes": 568,
+      "invalid_votes": 10,
+      "total_voters": 578,
+      "ballots_not_cast": 1,
+      "ballots_issued": 579,
+      "unused_ballots": 608,
+      "eligible_voters": 1187,
+      "turnout_rate": 48.69
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "潭子區",
+      "village": "聚興里",
+      "polling_station": "674",
+      "agree_votes": 220,
+      "disagree_votes": 405,
+      "valid_votes": 625,
+      "invalid_votes": 11,
+      "total_voters": 636,
+      "ballots_not_cast": 0,
+      "ballots_issued": 636,
+      "unused_ballots": 646,
+      "eligible_voters": 1282,
+      "turnout_rate": 49.61
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "潭子區",
+      "village": "聚興里",
+      "polling_station": "675",
+      "agree_votes": 223,
+      "disagree_votes": 410,
+      "valid_votes": 633,
+      "invalid_votes": 7,
+      "total_voters": 640,
+      "ballots_not_cast": 0,
+      "ballots_issued": 640,
+      "unused_ballots": 1149,
+      "eligible_voters": 1789,
+      "turnout_rate": 35.77
+    }
+  ],
+  "VILLCODE": "66000170013",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000170",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "潭子區",
+  "VILLNAME": "聚興里"
+}

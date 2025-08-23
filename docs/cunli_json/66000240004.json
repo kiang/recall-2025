@@ -1,0 +1,40 @@
+{
+  "cunli": "大肚區_營埔里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 240,
+    "disagree_votes": 534,
+    "valid_votes": 774,
+    "invalid_votes": 7,
+    "total_voters": 781,
+    "ballots_not_cast": 0,
+    "ballots_issued": 781,
+    "unused_ballots": 649,
+    "eligible_voters": 1430,
+    "average_turnout_rate": 54.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "營埔里",
+      "polling_station": "330",
+      "agree_votes": 240,
+      "disagree_votes": 534,
+      "valid_votes": 774,
+      "invalid_votes": 7,
+      "total_voters": 781,
+      "ballots_not_cast": 0,
+      "ballots_issued": 781,
+      "unused_ballots": 649,
+      "eligible_voters": 1430,
+      "turnout_rate": 54.62
+    }
+  ],
+  "VILLCODE": "66000240004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "營埔里"
+}

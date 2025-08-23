@@ -1,0 +1,40 @@
+{
+  "cunli": "潭子區_新田里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 270,
+    "disagree_votes": 378,
+    "valid_votes": 648,
+    "invalid_votes": 8,
+    "total_voters": 656,
+    "ballots_not_cast": 0,
+    "ballots_issued": 656,
+    "unused_ballots": 739,
+    "eligible_voters": 1395,
+    "average_turnout_rate": 47.03
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "潭子區",
+      "village": "新田里",
+      "polling_station": "672",
+      "agree_votes": 270,
+      "disagree_votes": 378,
+      "valid_votes": 648,
+      "invalid_votes": 8,
+      "total_voters": 656,
+      "ballots_not_cast": 0,
+      "ballots_issued": 656,
+      "unused_ballots": 739,
+      "eligible_voters": 1395,
+      "turnout_rate": 47.03
+    }
+  ],
+  "VILLCODE": "66000170012",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000170",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "潭子區",
+  "VILLNAME": "新田里"
+}

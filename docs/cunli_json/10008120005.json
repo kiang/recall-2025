@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_愛國村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 49,
+    "disagree_votes": 159,
+    "valid_votes": 208,
+    "invalid_votes": 1,
+    "total_voters": 209,
+    "ballots_not_cast": 0,
+    "ballots_issued": 209,
+    "unused_ballots": 225,
+    "eligible_voters": 434,
+    "average_turnout_rate": 48.16
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "愛國村",
+      "polling_station": "475",
+      "agree_votes": 49,
+      "disagree_votes": 159,
+      "valid_votes": 208,
+      "invalid_votes": 1,
+      "total_voters": 209,
+      "ballots_not_cast": 0,
+      "ballots_issued": 209,
+      "unused_ballots": 225,
+      "eligible_voters": 434,
+      "turnout_rate": 48.16
+    }
+  ],
+  "VILLCODE": "10008120005",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "愛國村"
+}

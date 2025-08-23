@@ -1,0 +1,56 @@
+{
+  "cunli": "草屯鎮_石川里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 265,
+    "disagree_votes": 478,
+    "valid_votes": 743,
+    "invalid_votes": 3,
+    "total_voters": 746,
+    "ballots_not_cast": 0,
+    "ballots_issued": 746,
+    "unused_ballots": 790,
+    "eligible_voters": 1536,
+    "average_turnout_rate": 48.57
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "石川里",
+      "polling_station": "52",
+      "agree_votes": 118,
+      "disagree_votes": 247,
+      "valid_votes": 365,
+      "invalid_votes": 1,
+      "total_voters": 366,
+      "ballots_not_cast": 0,
+      "ballots_issued": 366,
+      "unused_ballots": 378,
+      "eligible_voters": 744,
+      "turnout_rate": 49.19
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "石川里",
+      "polling_station": "53",
+      "agree_votes": 147,
+      "disagree_votes": 231,
+      "valid_votes": 378,
+      "invalid_votes": 2,
+      "total_voters": 380,
+      "ballots_not_cast": 0,
+      "ballots_issued": 380,
+      "unused_ballots": 412,
+      "eligible_voters": 792,
+      "turnout_rate": 47.98
+    }
+  ],
+  "VILLCODE": "10008030015",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008030",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "草屯鎮",
+  "VILLNAME": "石川里"
+}

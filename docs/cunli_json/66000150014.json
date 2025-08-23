@@ -1,0 +1,72 @@
+{
+  "cunli": "后里區_眉山里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 382,
+    "disagree_votes": 1074,
+    "valid_votes": 1456,
+    "invalid_votes": 20,
+    "total_voters": 1476,
+    "ballots_not_cast": 1,
+    "ballots_issued": 1477,
+    "unused_ballots": 1660,
+    "eligible_voters": 3137,
+    "average_turnout_rate": 47.05
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "后里區",
+      "village": "眉山里",
+      "polling_station": "495",
+      "agree_votes": 148,
+      "disagree_votes": 377,
+      "valid_votes": 525,
+      "invalid_votes": 7,
+      "total_voters": 532,
+      "ballots_not_cast": 1,
+      "ballots_issued": 533,
+      "unused_ballots": 565,
+      "eligible_voters": 1098,
+      "turnout_rate": 48.45
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "后里區",
+      "village": "眉山里",
+      "polling_station": "496",
+      "agree_votes": 146,
+      "disagree_votes": 328,
+      "valid_votes": 474,
+      "invalid_votes": 12,
+      "total_voters": 486,
+      "ballots_not_cast": 0,
+      "ballots_issued": 486,
+      "unused_ballots": 572,
+      "eligible_voters": 1058,
+      "turnout_rate": 45.94
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "后里區",
+      "village": "眉山里",
+      "polling_station": "497",
+      "agree_votes": 88,
+      "disagree_votes": 369,
+      "valid_votes": 457,
+      "invalid_votes": 1,
+      "total_voters": 458,
+      "ballots_not_cast": 0,
+      "ballots_issued": 458,
+      "unused_ballots": 523,
+      "eligible_voters": 981,
+      "turnout_rate": 46.69
+    }
+  ],
+  "VILLCODE": "66000150014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000150",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "后里區",
+  "VILLNAME": "眉山里"
+}

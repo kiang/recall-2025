@@ -1,0 +1,72 @@
+{
+  "cunli": "埔里鎮_清新里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 556,
+    "disagree_votes": 1063,
+    "valid_votes": 1619,
+    "invalid_votes": 16,
+    "total_voters": 1635,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1635,
+    "unused_ballots": 1671,
+    "eligible_voters": 3306,
+    "average_turnout_rate": 49.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "清新里",
+      "polling_station": "137",
+      "agree_votes": 193,
+      "disagree_votes": 348,
+      "valid_votes": 541,
+      "invalid_votes": 4,
+      "total_voters": 545,
+      "ballots_not_cast": 0,
+      "ballots_issued": 545,
+      "unused_ballots": 466,
+      "eligible_voters": 1011,
+      "turnout_rate": 53.91
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "清新里",
+      "polling_station": "138",
+      "agree_votes": 186,
+      "disagree_votes": 355,
+      "valid_votes": 541,
+      "invalid_votes": 6,
+      "total_voters": 547,
+      "ballots_not_cast": 0,
+      "ballots_issued": 547,
+      "unused_ballots": 609,
+      "eligible_voters": 1156,
+      "turnout_rate": 47.32
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "清新里",
+      "polling_station": "139",
+      "agree_votes": 177,
+      "disagree_votes": 360,
+      "valid_votes": 537,
+      "invalid_votes": 6,
+      "total_voters": 543,
+      "ballots_not_cast": 0,
+      "ballots_issued": 543,
+      "unused_ballots": 596,
+      "eligible_voters": 1139,
+      "turnout_rate": 47.67
+    }
+  ],
+  "VILLCODE": "10008020007",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "清新里"
+}

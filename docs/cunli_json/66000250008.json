@@ -1,0 +1,56 @@
+{
+  "cunli": "龍井區_三德里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 436,
+    "disagree_votes": 852,
+    "valid_votes": 1288,
+    "invalid_votes": 12,
+    "total_voters": 1300,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1300,
+    "unused_ballots": 1430,
+    "eligible_voters": 2730,
+    "average_turnout_rate": 47.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "龍井區",
+      "village": "三德里",
+      "polling_station": "289",
+      "agree_votes": 232,
+      "disagree_votes": 431,
+      "valid_votes": 663,
+      "invalid_votes": 4,
+      "total_voters": 667,
+      "ballots_not_cast": 0,
+      "ballots_issued": 667,
+      "unused_ballots": 734,
+      "eligible_voters": 1401,
+      "turnout_rate": 47.61
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "龍井區",
+      "village": "三德里",
+      "polling_station": "290",
+      "agree_votes": 204,
+      "disagree_votes": 421,
+      "valid_votes": 625,
+      "invalid_votes": 8,
+      "total_voters": 633,
+      "ballots_not_cast": 0,
+      "ballots_issued": 633,
+      "unused_ballots": 696,
+      "eligible_voters": 1329,
+      "turnout_rate": 47.63
+    }
+  ],
+  "VILLCODE": "66000250008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000250",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "龍井區",
+  "VILLNAME": "三德里"
+}

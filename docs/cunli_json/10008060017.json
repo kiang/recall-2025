@@ -1,0 +1,56 @@
+{
+  "cunli": "名間鄉_松山村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 342,
+    "disagree_votes": 391,
+    "valid_votes": 733,
+    "invalid_votes": 11,
+    "total_voters": 744,
+    "ballots_not_cast": 0,
+    "ballots_issued": 744,
+    "unused_ballots": 637,
+    "eligible_voters": 1381,
+    "average_turnout_rate": 53.87
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "松山村",
+      "polling_station": "354",
+      "agree_votes": 153,
+      "disagree_votes": 183,
+      "valid_votes": 336,
+      "invalid_votes": 4,
+      "total_voters": 340,
+      "ballots_not_cast": 0,
+      "ballots_issued": 340,
+      "unused_ballots": 330,
+      "eligible_voters": 670,
+      "turnout_rate": 50.75
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "松山村",
+      "polling_station": "355",
+      "agree_votes": 189,
+      "disagree_votes": 208,
+      "valid_votes": 397,
+      "invalid_votes": 7,
+      "total_voters": 404,
+      "ballots_not_cast": 0,
+      "ballots_issued": 404,
+      "unused_ballots": 307,
+      "eligible_voters": 711,
+      "turnout_rate": 56.82
+    }
+  ],
+  "VILLCODE": "10008060017",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "松山村"
+}

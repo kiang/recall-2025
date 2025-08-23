@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_五福里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 410,
+    "disagree_votes": 819,
+    "valid_votes": 1229,
+    "invalid_votes": 17,
+    "total_voters": 1246,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1246,
+    "unused_ballots": 1266,
+    "eligible_voters": 2512,
+    "average_turnout_rate": 49.6
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "五福里",
+      "polling_station": "445",
+      "agree_votes": 196,
+      "disagree_votes": 449,
+      "valid_votes": 645,
+      "invalid_votes": 9,
+      "total_voters": 654,
+      "ballots_not_cast": 0,
+      "ballots_issued": 654,
+      "unused_ballots": 640,
+      "eligible_voters": 1294,
+      "turnout_rate": 50.54
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "五福里",
+      "polling_station": "446",
+      "agree_votes": 214,
+      "disagree_votes": 370,
+      "valid_votes": 584,
+      "invalid_votes": 8,
+      "total_voters": 592,
+      "ballots_not_cast": 0,
+      "ballots_issued": 592,
+      "unused_ballots": 626,
+      "eligible_voters": 1218,
+      "turnout_rate": 48.6
+    }
+  ],
+  "VILLCODE": "66000260013",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "五福里"
+}

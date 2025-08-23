@@ -1,0 +1,56 @@
+{
+  "cunli": "名間鄉_東湖村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 292,
+    "disagree_votes": 384,
+    "valid_votes": 676,
+    "invalid_votes": 15,
+    "total_voters": 691,
+    "ballots_not_cast": 0,
+    "ballots_issued": 691,
+    "unused_ballots": 778,
+    "eligible_voters": 1469,
+    "average_turnout_rate": 47.04
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "東湖村",
+      "polling_station": "340",
+      "agree_votes": 139,
+      "disagree_votes": 168,
+      "valid_votes": 307,
+      "invalid_votes": 6,
+      "total_voters": 313,
+      "ballots_not_cast": 0,
+      "ballots_issued": 313,
+      "unused_ballots": 343,
+      "eligible_voters": 656,
+      "turnout_rate": 47.71
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "東湖村",
+      "polling_station": "341",
+      "agree_votes": 153,
+      "disagree_votes": 216,
+      "valid_votes": 369,
+      "invalid_votes": 9,
+      "total_voters": 378,
+      "ballots_not_cast": 0,
+      "ballots_issued": 378,
+      "unused_ballots": 435,
+      "eligible_voters": 813,
+      "turnout_rate": 46.49
+    }
+  ],
+  "VILLCODE": "10008060008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "東湖村"
+}

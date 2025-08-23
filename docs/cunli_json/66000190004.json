@@ -1,0 +1,40 @@
+{
+  "cunli": "新社區_月湖里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 138,
+    "disagree_votes": 304,
+    "valid_votes": 442,
+    "invalid_votes": 5,
+    "total_voters": 447,
+    "ballots_not_cast": 0,
+    "ballots_issued": 447,
+    "unused_ballots": 515,
+    "eligible_voters": 962,
+    "average_turnout_rate": 46.47
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "新社區",
+      "village": "月湖里",
+      "polling_station": "1824",
+      "agree_votes": 138,
+      "disagree_votes": 304,
+      "valid_votes": 442,
+      "invalid_votes": 5,
+      "total_voters": 447,
+      "ballots_not_cast": 0,
+      "ballots_issued": 447,
+      "unused_ballots": 515,
+      "eligible_voters": 962,
+      "turnout_rate": 46.47
+    }
+  ],
+  "VILLCODE": "66000190004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000190",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "新社區",
+  "VILLNAME": "月湖里"
+}

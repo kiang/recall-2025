@@ -1,0 +1,40 @@
+{
+  "cunli": "南投市_鳳鳴里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 102,
+    "disagree_votes": 96,
+    "valid_votes": 198,
+    "invalid_votes": 2,
+    "total_voters": 200,
+    "ballots_not_cast": 0,
+    "ballots_issued": 200,
+    "unused_ballots": 337,
+    "eligible_voters": 537,
+    "average_turnout_rate": 37.24
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "鳳鳴里",
+      "polling_station": "322",
+      "agree_votes": 102,
+      "disagree_votes": 96,
+      "valid_votes": 198,
+      "invalid_votes": 2,
+      "total_voters": 200,
+      "ballots_not_cast": 0,
+      "ballots_issued": 200,
+      "unused_ballots": 337,
+      "eligible_voters": 537,
+      "turnout_rate": 37.24
+    }
+  ],
+  "VILLCODE": "10008010021",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "鳳鳴里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "中寮鄉_爽文村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 67,
+    "disagree_votes": 140,
+    "valid_votes": 207,
+    "invalid_votes": 3,
+    "total_voters": 210,
+    "ballots_not_cast": 0,
+    "ballots_issued": 210,
+    "unused_ballots": 194,
+    "eligible_voters": 404,
+    "average_turnout_rate": 51.98
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "中寮鄉",
+      "village": "爽文村",
+      "polling_station": "211",
+      "agree_votes": 67,
+      "disagree_votes": 140,
+      "valid_votes": 207,
+      "invalid_votes": 3,
+      "total_voters": 210,
+      "ballots_not_cast": 0,
+      "ballots_issued": 210,
+      "unused_ballots": 194,
+      "eligible_voters": 404,
+      "turnout_rate": 51.98
+    }
+  ],
+  "VILLCODE": "10008080018",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008080",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "中寮鄉",
+  "VILLNAME": "爽文村"
+}

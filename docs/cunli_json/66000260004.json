@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_本鄉里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 435,
+    "disagree_votes": 730,
+    "valid_votes": 1165,
+    "invalid_votes": 6,
+    "total_voters": 1171,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1171,
+    "unused_ballots": 986,
+    "eligible_voters": 2157,
+    "average_turnout_rate": 54.29
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "本鄉里",
+      "polling_station": "427",
+      "agree_votes": 217,
+      "disagree_votes": 339,
+      "valid_votes": 556,
+      "invalid_votes": 5,
+      "total_voters": 561,
+      "ballots_not_cast": 0,
+      "ballots_issued": 561,
+      "unused_ballots": 422,
+      "eligible_voters": 983,
+      "turnout_rate": 57.07
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "本鄉里",
+      "polling_station": "428",
+      "agree_votes": 218,
+      "disagree_votes": 391,
+      "valid_votes": 609,
+      "invalid_votes": 1,
+      "total_voters": 610,
+      "ballots_not_cast": 0,
+      "ballots_issued": 610,
+      "unused_ballots": 564,
+      "eligible_voters": 1174,
+      "turnout_rate": 51.96
+    }
+  ],
+  "VILLCODE": "66000260004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "本鄉里"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_中正里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 390,
+    "disagree_votes": 641,
+    "valid_votes": 1031,
+    "invalid_votes": 4,
+    "total_voters": 1035,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1035,
+    "unused_ballots": 844,
+    "eligible_voters": 1879,
+    "average_turnout_rate": 55.08
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "中正里",
+      "polling_station": "429",
+      "agree_votes": 225,
+      "disagree_votes": 401,
+      "valid_votes": 626,
+      "invalid_votes": 1,
+      "total_voters": 627,
+      "ballots_not_cast": 0,
+      "ballots_issued": 627,
+      "unused_ballots": 474,
+      "eligible_voters": 1101,
+      "turnout_rate": 56.95
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "中正里",
+      "polling_station": "430",
+      "agree_votes": 165,
+      "disagree_votes": 240,
+      "valid_votes": 405,
+      "invalid_votes": 3,
+      "total_voters": 408,
+      "ballots_not_cast": 0,
+      "ballots_issued": 408,
+      "unused_ballots": 370,
+      "eligible_voters": 778,
+      "turnout_rate": 52.44
+    }
+  ],
+  "VILLCODE": "66000260005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "中正里"
+}

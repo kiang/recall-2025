@@ -1,0 +1,40 @@
+{
+  "cunli": "南投市_南投里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 111,
+    "disagree_votes": 134,
+    "valid_votes": 245,
+    "invalid_votes": 7,
+    "total_voters": 252,
+    "ballots_not_cast": 0,
+    "ballots_issued": 252,
+    "unused_ballots": 227,
+    "eligible_voters": 479,
+    "average_turnout_rate": 52.61
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "南投里",
+      "polling_station": "246",
+      "agree_votes": 111,
+      "disagree_votes": 134,
+      "valid_votes": 245,
+      "invalid_votes": 7,
+      "total_voters": 252,
+      "ballots_not_cast": 0,
+      "ballots_issued": 252,
+      "unused_ballots": 227,
+      "eligible_voters": 479,
+      "turnout_rate": 52.61
+    }
+  ],
+  "VILLCODE": "10008010005",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "南投里"
+}

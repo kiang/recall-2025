@@ -1,0 +1,72 @@
+{
+  "cunli": "大肚區_自強里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 531,
+    "disagree_votes": 1125,
+    "valid_votes": 1656,
+    "invalid_votes": 20,
+    "total_voters": 1676,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1676,
+    "unused_ballots": 1623,
+    "eligible_voters": 3299,
+    "average_turnout_rate": 50.8
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "自強里",
+      "polling_station": "359",
+      "agree_votes": 207,
+      "disagree_votes": 299,
+      "valid_votes": 506,
+      "invalid_votes": 4,
+      "total_voters": 510,
+      "ballots_not_cast": 0,
+      "ballots_issued": 510,
+      "unused_ballots": 644,
+      "eligible_voters": 1154,
+      "turnout_rate": 44.19
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "自強里",
+      "polling_station": "360",
+      "agree_votes": 175,
+      "disagree_votes": 457,
+      "valid_votes": 632,
+      "invalid_votes": 8,
+      "total_voters": 640,
+      "ballots_not_cast": 0,
+      "ballots_issued": 640,
+      "unused_ballots": 517,
+      "eligible_voters": 1157,
+      "turnout_rate": 55.32
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "自強里",
+      "polling_station": "361",
+      "agree_votes": 149,
+      "disagree_votes": 369,
+      "valid_votes": 518,
+      "invalid_votes": 8,
+      "total_voters": 526,
+      "ballots_not_cast": 0,
+      "ballots_issued": 526,
+      "unused_ballots": 462,
+      "eligible_voters": 988,
+      "turnout_rate": 53.24
+    }
+  ],
+  "VILLCODE": "66000240017",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "自強里"
+}

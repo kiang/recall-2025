@@ -1,0 +1,56 @@
+{
+  "cunli": "南投市_福山里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 268,
+    "disagree_votes": 518,
+    "valid_votes": 786,
+    "invalid_votes": 11,
+    "total_voters": 797,
+    "ballots_not_cast": 0,
+    "ballots_issued": 797,
+    "unused_ballots": 998,
+    "eligible_voters": 1795,
+    "average_turnout_rate": 44.4
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "福山里",
+      "polling_station": "323",
+      "agree_votes": 152,
+      "disagree_votes": 250,
+      "valid_votes": 402,
+      "invalid_votes": 6,
+      "total_voters": 408,
+      "ballots_not_cast": 0,
+      "ballots_issued": 408,
+      "unused_ballots": 540,
+      "eligible_voters": 948,
+      "turnout_rate": 43.04
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "福山里",
+      "polling_station": "324",
+      "agree_votes": 116,
+      "disagree_votes": 268,
+      "valid_votes": 384,
+      "invalid_votes": 5,
+      "total_voters": 389,
+      "ballots_not_cast": 0,
+      "ballots_issued": 389,
+      "unused_ballots": 458,
+      "eligible_voters": 847,
+      "turnout_rate": 45.93
+    }
+  ],
+  "VILLCODE": "10008010019",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "福山里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_潭南村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 1,
+    "disagree_votes": 3,
+    "valid_votes": 4,
+    "invalid_votes": 1,
+    "total_voters": 5,
+    "ballots_not_cast": 0,
+    "ballots_issued": 5,
+    "unused_ballots": 8,
+    "eligible_voters": 13,
+    "average_turnout_rate": 38.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "潭南村",
+      "polling_station": "493",
+      "agree_votes": 1,
+      "disagree_votes": 3,
+      "valid_votes": 4,
+      "invalid_votes": 1,
+      "total_voters": 5,
+      "ballots_not_cast": 0,
+      "ballots_issued": 5,
+      "unused_ballots": 8,
+      "eligible_voters": 13,
+      "turnout_rate": 38.46
+    }
+  ],
+  "VILLCODE": "10008120003",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "潭南村"
+}

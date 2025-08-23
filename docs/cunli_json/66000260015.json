@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_舊正里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 318,
+    "disagree_votes": 613,
+    "valid_votes": 931,
+    "invalid_votes": 11,
+    "total_voters": 942,
+    "ballots_not_cast": 0,
+    "ballots_issued": 942,
+    "unused_ballots": 1026,
+    "eligible_voters": 1968,
+    "average_turnout_rate": 47.87
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "舊正里",
+      "polling_station": "454",
+      "agree_votes": 151,
+      "disagree_votes": 267,
+      "valid_votes": 418,
+      "invalid_votes": 4,
+      "total_voters": 422,
+      "ballots_not_cast": 0,
+      "ballots_issued": 422,
+      "unused_ballots": 500,
+      "eligible_voters": 922,
+      "turnout_rate": 45.77
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "舊正里",
+      "polling_station": "455",
+      "agree_votes": 167,
+      "disagree_votes": 346,
+      "valid_votes": 513,
+      "invalid_votes": 7,
+      "total_voters": 520,
+      "ballots_not_cast": 0,
+      "ballots_issued": 520,
+      "unused_ballots": 526,
+      "eligible_voters": 1046,
+      "turnout_rate": 49.71
+    }
+  ],
+  "VILLCODE": "66000260015",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "舊正里"
+}

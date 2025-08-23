@@ -1,0 +1,56 @@
+{
+  "cunli": "坪林區_漁光里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 131,
+    "disagree_votes": 102,
+    "valid_votes": 233,
+    "invalid_votes": 4,
+    "total_voters": 237,
+    "ballots_not_cast": 0,
+    "ballots_issued": 237,
+    "unused_ballots": 562,
+    "eligible_voters": 799,
+    "average_turnout_rate": 29.66
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "坪林區",
+      "village": "漁光里",
+      "polling_station": "2416",
+      "agree_votes": 64,
+      "disagree_votes": 44,
+      "valid_votes": 108,
+      "invalid_votes": 2,
+      "total_voters": 110,
+      "ballots_not_cast": 0,
+      "ballots_issued": 110,
+      "unused_ballots": 263,
+      "eligible_voters": 373,
+      "turnout_rate": 29.49
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "坪林區",
+      "village": "漁光里",
+      "polling_station": "2417",
+      "agree_votes": 67,
+      "disagree_votes": 58,
+      "valid_votes": 125,
+      "invalid_votes": 2,
+      "total_voters": 127,
+      "ballots_not_cast": 0,
+      "ballots_issued": 127,
+      "unused_ballots": 299,
+      "eligible_voters": 426,
+      "turnout_rate": 29.81
+    }
+  ],
+  "VILLCODE": "65000200007",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000200",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "坪林區",
+  "VILLNAME": "漁光里"
+}

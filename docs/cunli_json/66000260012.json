@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_四德里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 459,
+    "disagree_votes": 729,
+    "valid_votes": 1188,
+    "invalid_votes": 11,
+    "total_voters": 1199,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1199,
+    "unused_ballots": 1182,
+    "eligible_voters": 2381,
+    "average_turnout_rate": 50.36
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "四德里",
+      "polling_station": "443",
+      "agree_votes": 250,
+      "disagree_votes": 409,
+      "valid_votes": 659,
+      "invalid_votes": 8,
+      "total_voters": 667,
+      "ballots_not_cast": 0,
+      "ballots_issued": 667,
+      "unused_ballots": 705,
+      "eligible_voters": 1372,
+      "turnout_rate": 48.62
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "四德里",
+      "polling_station": "444",
+      "agree_votes": 209,
+      "disagree_votes": 320,
+      "valid_votes": 529,
+      "invalid_votes": 3,
+      "total_voters": 532,
+      "ballots_not_cast": 0,
+      "ballots_issued": 532,
+      "unused_ballots": 477,
+      "eligible_voters": 1009,
+      "turnout_rate": 52.73
+    }
+  ],
+  "VILLCODE": "66000260012",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "四德里"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "竹山鎮_竹山里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 327,
+    "disagree_votes": 562,
+    "valid_votes": 889,
+    "invalid_votes": 8,
+    "total_voters": 897,
+    "ballots_not_cast": 0,
+    "ballots_issued": 897,
+    "unused_ballots": 894,
+    "eligible_voters": 1791,
+    "average_turnout_rate": 50.08
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "竹山里",
+      "polling_station": "376",
+      "agree_votes": 192,
+      "disagree_votes": 330,
+      "valid_votes": 522,
+      "invalid_votes": 7,
+      "total_voters": 529,
+      "ballots_not_cast": 0,
+      "ballots_issued": 529,
+      "unused_ballots": 541,
+      "eligible_voters": 1070,
+      "turnout_rate": 49.44
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "竹山里",
+      "polling_station": "377",
+      "agree_votes": 135,
+      "disagree_votes": 232,
+      "valid_votes": 367,
+      "invalid_votes": 1,
+      "total_voters": 368,
+      "ballots_not_cast": 0,
+      "ballots_issued": 368,
+      "unused_ballots": 353,
+      "eligible_voters": 721,
+      "turnout_rate": 51.04
+    }
+  ],
+  "VILLCODE": "10008040001",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "竹山里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "魚池鄉_新城村",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 188,
+    "disagree_votes": 353,
+    "valid_votes": 541,
+    "invalid_votes": 3,
+    "total_voters": 544,
+    "ballots_not_cast": 0,
+    "ballots_issued": 544,
+    "unused_ballots": 670,
+    "eligible_voters": 1214,
+    "average_turnout_rate": 44.81
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "新城村",
+      "polling_station": "226",
+      "agree_votes": 96,
+      "disagree_votes": 228,
+      "valid_votes": 324,
+      "invalid_votes": 1,
+      "total_voters": 325,
+      "ballots_not_cast": 0,
+      "ballots_issued": 325,
+      "unused_ballots": 403,
+      "eligible_voters": 728,
+      "turnout_rate": 44.64
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "新城村",
+      "polling_station": "227",
+      "agree_votes": 49,
+      "disagree_votes": 64,
+      "valid_votes": 113,
+      "invalid_votes": 1,
+      "total_voters": 114,
+      "ballots_not_cast": 0,
+      "ballots_issued": 114,
+      "unused_ballots": 136,
+      "eligible_voters": 250,
+      "turnout_rate": 45.6
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "新城村",
+      "polling_station": "228",
+      "agree_votes": 43,
+      "disagree_votes": 61,
+      "valid_votes": 104,
+      "invalid_votes": 1,
+      "total_voters": 105,
+      "ballots_not_cast": 0,
+      "ballots_issued": 105,
+      "unused_ballots": 131,
+      "eligible_voters": 236,
+      "turnout_rate": 44.49
+    }
+  ],
+  "VILLCODE": "10008090004",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008090",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "魚池鄉",
+  "VILLNAME": "新城村"
+}

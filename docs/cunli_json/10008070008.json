@@ -1,0 +1,40 @@
+{
+  "cunli": "鹿谷鄉_和雅村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 67,
+    "disagree_votes": 223,
+    "valid_votes": 290,
+    "invalid_votes": 3,
+    "total_voters": 293,
+    "ballots_not_cast": 0,
+    "ballots_issued": 293,
+    "unused_ballots": 287,
+    "eligible_voters": 580,
+    "average_turnout_rate": 50.52
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "鹿谷鄉",
+      "village": "和雅村",
+      "polling_station": "441",
+      "agree_votes": 67,
+      "disagree_votes": 223,
+      "valid_votes": 290,
+      "invalid_votes": 3,
+      "total_voters": 293,
+      "ballots_not_cast": 0,
+      "ballots_issued": 293,
+      "unused_ballots": 287,
+      "eligible_voters": 580,
+      "turnout_rate": 50.52
+    }
+  ],
+  "VILLCODE": "10008070008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008070",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "鹿谷鄉",
+  "VILLNAME": "和雅村"
+}

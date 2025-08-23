@@ -1,0 +1,72 @@
+{
+  "cunli": "埔里鎮_北安里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 516,
+    "disagree_votes": 1021,
+    "valid_votes": 1537,
+    "invalid_votes": 13,
+    "total_voters": 1550,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1550,
+    "unused_ballots": 1245,
+    "eligible_voters": 2795,
+    "average_turnout_rate": 55.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "北安里",
+      "polling_station": "122",
+      "agree_votes": 153,
+      "disagree_votes": 327,
+      "valid_votes": 480,
+      "invalid_votes": 3,
+      "total_voters": 483,
+      "ballots_not_cast": 0,
+      "ballots_issued": 483,
+      "unused_ballots": 368,
+      "eligible_voters": 851,
+      "turnout_rate": 56.76
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "北安里",
+      "polling_station": "123",
+      "agree_votes": 166,
+      "disagree_votes": 375,
+      "valid_votes": 541,
+      "invalid_votes": 7,
+      "total_voters": 548,
+      "ballots_not_cast": 0,
+      "ballots_issued": 548,
+      "unused_ballots": 469,
+      "eligible_voters": 1017,
+      "turnout_rate": 53.88
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "北安里",
+      "polling_station": "124",
+      "agree_votes": 197,
+      "disagree_votes": 319,
+      "valid_votes": 516,
+      "invalid_votes": 3,
+      "total_voters": 519,
+      "ballots_not_cast": 0,
+      "ballots_issued": 519,
+      "unused_ballots": 408,
+      "eligible_voters": 927,
+      "turnout_rate": 55.99
+    }
+  ],
+  "VILLCODE": "10008020030",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "北安里"
+}

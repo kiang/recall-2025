@@ -1,0 +1,56 @@
+{
+  "cunli": "和平區_博愛里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 58,
+    "disagree_votes": 265,
+    "valid_votes": 323,
+    "invalid_votes": 4,
+    "total_voters": 327,
+    "ballots_not_cast": 0,
+    "ballots_issued": 327,
+    "unused_ballots": 499,
+    "eligible_voters": 826,
+    "average_turnout_rate": 39.59
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "博愛里",
+      "polling_station": "1885",
+      "agree_votes": 41,
+      "disagree_votes": 147,
+      "valid_votes": 188,
+      "invalid_votes": 4,
+      "total_voters": 192,
+      "ballots_not_cast": 0,
+      "ballots_issued": 192,
+      "unused_ballots": 248,
+      "eligible_voters": 440,
+      "turnout_rate": 43.64
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "博愛里",
+      "polling_station": "1886",
+      "agree_votes": 17,
+      "disagree_votes": 118,
+      "valid_votes": 135,
+      "invalid_votes": 0,
+      "total_voters": 135,
+      "ballots_not_cast": 0,
+      "ballots_issued": 135,
+      "unused_ballots": 251,
+      "eligible_voters": 386,
+      "turnout_rate": 34.97
+    }
+  ],
+  "VILLCODE": "66000290003",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000290",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "和平區",
+  "VILLNAME": "博愛里"
+}

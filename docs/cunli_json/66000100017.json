@@ -1,0 +1,40 @@
+{
+  "cunli": "東勢區_慶福里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 125,
+    "disagree_votes": 346,
+    "valid_votes": 471,
+    "invalid_votes": 6,
+    "total_voters": 477,
+    "ballots_not_cast": 0,
+    "ballots_issued": 477,
+    "unused_ballots": 642,
+    "eligible_voters": 1119,
+    "average_turnout_rate": 42.63
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "慶福里",
+      "polling_station": "1841",
+      "agree_votes": 125,
+      "disagree_votes": 346,
+      "valid_votes": 471,
+      "invalid_votes": 6,
+      "total_voters": 477,
+      "ballots_not_cast": 0,
+      "ballots_issued": 477,
+      "unused_ballots": 642,
+      "eligible_voters": 1119,
+      "turnout_rate": 42.63
+    }
+  ],
+  "VILLCODE": "66000100017",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "慶福里"
+}

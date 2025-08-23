@@ -1,0 +1,56 @@
+{
+  "cunli": "沙鹿區_居仁里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 241,
+    "disagree_votes": 356,
+    "valid_votes": 597,
+    "invalid_votes": 5,
+    "total_voters": 602,
+    "ballots_not_cast": 0,
+    "ballots_issued": 602,
+    "unused_ballots": 627,
+    "eligible_voters": 1229,
+    "average_turnout_rate": 48.98
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "沙鹿區",
+      "village": "居仁里",
+      "polling_station": "201",
+      "agree_votes": 154,
+      "disagree_votes": 193,
+      "valid_votes": 347,
+      "invalid_votes": 0,
+      "total_voters": 347,
+      "ballots_not_cast": 0,
+      "ballots_issued": 347,
+      "unused_ballots": 335,
+      "eligible_voters": 682,
+      "turnout_rate": 50.88
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "沙鹿區",
+      "village": "居仁里",
+      "polling_station": "202",
+      "agree_votes": 87,
+      "disagree_votes": 163,
+      "valid_votes": 250,
+      "invalid_votes": 5,
+      "total_voters": 255,
+      "ballots_not_cast": 0,
+      "ballots_issued": 255,
+      "unused_ballots": 292,
+      "eligible_voters": 547,
+      "turnout_rate": 46.62
+    }
+  ],
+  "VILLCODE": "66000130001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000130",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "沙鹿區",
+  "VILLNAME": "居仁里"
+}

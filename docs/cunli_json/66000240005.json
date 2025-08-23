@@ -1,0 +1,56 @@
+{
+  "cunli": "大肚區_社腳里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 354,
+    "disagree_votes": 876,
+    "valid_votes": 1230,
+    "invalid_votes": 15,
+    "total_voters": 1245,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1245,
+    "unused_ballots": 973,
+    "eligible_voters": 2218,
+    "average_turnout_rate": 56.13
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "社腳里",
+      "polling_station": "331",
+      "agree_votes": 162,
+      "disagree_votes": 457,
+      "valid_votes": 619,
+      "invalid_votes": 11,
+      "total_voters": 630,
+      "ballots_not_cast": 0,
+      "ballots_issued": 630,
+      "unused_ballots": 472,
+      "eligible_voters": 1102,
+      "turnout_rate": 57.17
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "社腳里",
+      "polling_station": "332",
+      "agree_votes": 192,
+      "disagree_votes": 419,
+      "valid_votes": 611,
+      "invalid_votes": 4,
+      "total_voters": 615,
+      "ballots_not_cast": 0,
+      "ballots_issued": 615,
+      "unused_ballots": 501,
+      "eligible_voters": 1116,
+      "turnout_rate": 55.11
+    }
+  ],
+  "VILLCODE": "66000240005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "社腳里"
+}

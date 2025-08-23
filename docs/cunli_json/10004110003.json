@@ -1,0 +1,40 @@
+{
+  "cunli": "峨眉鄉_石井村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 72,
+    "disagree_votes": 180,
+    "valid_votes": 252,
+    "invalid_votes": 6,
+    "total_voters": 258,
+    "ballots_not_cast": 0,
+    "ballots_issued": 258,
+    "unused_ballots": 244,
+    "eligible_voters": 502,
+    "average_turnout_rate": 51.39
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "峨眉鄉",
+      "village": "石井村",
+      "polling_station": "455",
+      "agree_votes": 72,
+      "disagree_votes": 180,
+      "valid_votes": 252,
+      "invalid_votes": 6,
+      "total_voters": 258,
+      "ballots_not_cast": 0,
+      "ballots_issued": 258,
+      "unused_ballots": 244,
+      "eligible_voters": 502,
+      "turnout_rate": 51.39
+    }
+  ],
+  "VILLCODE": "10004110003",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004110",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "峨眉鄉",
+  "VILLNAME": "石井村"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_新鄉村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 13,
+    "disagree_votes": 7,
+    "valid_votes": 20,
+    "invalid_votes": 0,
+    "total_voters": 20,
+    "ballots_not_cast": 0,
+    "ballots_issued": 20,
+    "unused_ballots": 34,
+    "eligible_voters": 54,
+    "average_turnout_rate": 37.04
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "新鄉村",
+      "polling_station": "479",
+      "agree_votes": 13,
+      "disagree_votes": 7,
+      "valid_votes": 20,
+      "invalid_votes": 0,
+      "total_voters": 20,
+      "ballots_not_cast": 0,
+      "ballots_issued": 20,
+      "unused_ballots": 34,
+      "eligible_voters": 54,
+      "turnout_rate": 37.04
+    }
+  ],
+  "VILLCODE": "10008120013",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "新鄉村"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "水里鄉_永豐村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 181,
+    "disagree_votes": 356,
+    "valid_votes": 537,
+    "invalid_votes": 7,
+    "total_voters": 544,
+    "ballots_not_cast": 0,
+    "ballots_issued": 544,
+    "unused_ballots": 645,
+    "eligible_voters": 1189,
+    "average_turnout_rate": 45.75
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "水里鄉",
+      "village": "永豐村",
+      "polling_station": "462",
+      "agree_votes": 116,
+      "disagree_votes": 165,
+      "valid_votes": 281,
+      "invalid_votes": 2,
+      "total_voters": 283,
+      "ballots_not_cast": 0,
+      "ballots_issued": 283,
+      "unused_ballots": 375,
+      "eligible_voters": 658,
+      "turnout_rate": 43.01
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "水里鄉",
+      "village": "永豐村",
+      "polling_station": "463",
+      "agree_votes": 65,
+      "disagree_votes": 191,
+      "valid_votes": 256,
+      "invalid_votes": 5,
+      "total_voters": 261,
+      "ballots_not_cast": 0,
+      "ballots_issued": 261,
+      "unused_ballots": 270,
+      "eligible_voters": 531,
+      "turnout_rate": 49.15
+    }
+  ],
+  "VILLCODE": "10008110008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008110",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "水里鄉",
+  "VILLNAME": "永豐村"
+}

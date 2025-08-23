@@ -1,0 +1,40 @@
+{
+  "cunli": "東勢區_埤頭里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 114,
+    "disagree_votes": 213,
+    "valid_votes": 327,
+    "invalid_votes": 5,
+    "total_voters": 332,
+    "ballots_not_cast": 0,
+    "ballots_issued": 332,
+    "unused_ballots": 278,
+    "eligible_voters": 610,
+    "average_turnout_rate": 54.43
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "埤頭里",
+      "polling_station": "1880",
+      "agree_votes": 114,
+      "disagree_votes": 213,
+      "valid_votes": 327,
+      "invalid_votes": 5,
+      "total_voters": 332,
+      "ballots_not_cast": 0,
+      "ballots_issued": 332,
+      "unused_ballots": 278,
+      "eligible_voters": 610,
+      "turnout_rate": 54.43
+    }
+  ],
+  "VILLCODE": "66000100024",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "埤頭里"
+}

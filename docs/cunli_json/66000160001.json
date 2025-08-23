@@ -1,0 +1,72 @@
+{
+  "cunli": "神岡區_神岡里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 497,
+    "disagree_votes": 1004,
+    "valid_votes": 1501,
+    "invalid_votes": 19,
+    "total_voters": 1520,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1520,
+    "unused_ballots": 1509,
+    "eligible_voters": 3029,
+    "average_turnout_rate": 50.18
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "神岡區",
+      "village": "神岡里",
+      "polling_station": "503",
+      "agree_votes": 161,
+      "disagree_votes": 363,
+      "valid_votes": 524,
+      "invalid_votes": 7,
+      "total_voters": 531,
+      "ballots_not_cast": 0,
+      "ballots_issued": 531,
+      "unused_ballots": 514,
+      "eligible_voters": 1045,
+      "turnout_rate": 50.81
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "神岡區",
+      "village": "神岡里",
+      "polling_station": "504",
+      "agree_votes": 166,
+      "disagree_votes": 303,
+      "valid_votes": 469,
+      "invalid_votes": 8,
+      "total_voters": 477,
+      "ballots_not_cast": 0,
+      "ballots_issued": 477,
+      "unused_ballots": 412,
+      "eligible_voters": 889,
+      "turnout_rate": 53.66
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "神岡區",
+      "village": "神岡里",
+      "polling_station": "505",
+      "agree_votes": 170,
+      "disagree_votes": 338,
+      "valid_votes": 508,
+      "invalid_votes": 4,
+      "total_voters": 512,
+      "ballots_not_cast": 0,
+      "ballots_issued": 512,
+      "unused_ballots": 583,
+      "eligible_voters": 1095,
+      "turnout_rate": 46.76
+    }
+  ],
+  "VILLCODE": "66000160001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000160",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "神岡區",
+  "VILLNAME": "神岡里"
+}

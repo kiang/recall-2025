@@ -1,0 +1,56 @@
+{
+  "cunli": "橫山鄉_沙坑村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 116,
+    "disagree_votes": 293,
+    "valid_votes": 409,
+    "invalid_votes": 9,
+    "total_voters": 418,
+    "ballots_not_cast": 0,
+    "ballots_issued": 418,
+    "unused_ballots": 436,
+    "eligible_voters": 854,
+    "average_turnout_rate": 48.95
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "橫山鄉",
+      "village": "沙坑村",
+      "polling_station": "423",
+      "agree_votes": 74,
+      "disagree_votes": 203,
+      "valid_votes": 277,
+      "invalid_votes": 6,
+      "total_voters": 283,
+      "ballots_not_cast": 0,
+      "ballots_issued": 283,
+      "unused_ballots": 314,
+      "eligible_voters": 597,
+      "turnout_rate": 47.4
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "橫山鄉",
+      "village": "沙坑村",
+      "polling_station": "424",
+      "agree_votes": 42,
+      "disagree_votes": 90,
+      "valid_votes": 132,
+      "invalid_votes": 3,
+      "total_voters": 135,
+      "ballots_not_cast": 0,
+      "ballots_issued": 135,
+      "unused_ballots": 122,
+      "eligible_voters": 257,
+      "turnout_rate": 52.53
+    }
+  ],
+  "VILLCODE": "10004080008",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004080",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "橫山鄉",
+  "VILLNAME": "沙坑村"
+}

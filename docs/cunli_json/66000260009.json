@@ -1,0 +1,72 @@
+{
+  "cunli": "霧峰區_坑口里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 476,
+    "disagree_votes": 935,
+    "valid_votes": 1411,
+    "invalid_votes": 15,
+    "total_voters": 1426,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1426,
+    "unused_ballots": 1418,
+    "eligible_voters": 2844,
+    "average_turnout_rate": 50.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "坑口里",
+      "polling_station": "456",
+      "agree_votes": 160,
+      "disagree_votes": 389,
+      "valid_votes": 549,
+      "invalid_votes": 5,
+      "total_voters": 554,
+      "ballots_not_cast": 0,
+      "ballots_issued": 554,
+      "unused_ballots": 479,
+      "eligible_voters": 1033,
+      "turnout_rate": 53.63
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "坑口里",
+      "polling_station": "457",
+      "agree_votes": 173,
+      "disagree_votes": 264,
+      "valid_votes": 437,
+      "invalid_votes": 8,
+      "total_voters": 445,
+      "ballots_not_cast": 0,
+      "ballots_issued": 445,
+      "unused_ballots": 535,
+      "eligible_voters": 980,
+      "turnout_rate": 45.41
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "坑口里",
+      "polling_station": "458",
+      "agree_votes": 143,
+      "disagree_votes": 282,
+      "valid_votes": 425,
+      "invalid_votes": 2,
+      "total_voters": 427,
+      "ballots_not_cast": 0,
+      "ballots_issued": 427,
+      "unused_ballots": 404,
+      "eligible_voters": 831,
+      "turnout_rate": 51.38
+    }
+  ],
+  "VILLCODE": "66000260009",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "坑口里"
+}

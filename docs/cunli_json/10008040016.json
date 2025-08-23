@@ -1,0 +1,40 @@
+{
+  "cunli": "竹山鎮_社寮里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 204,
+    "disagree_votes": 390,
+    "valid_votes": 594,
+    "invalid_votes": 8,
+    "total_voters": 602,
+    "ballots_not_cast": 0,
+    "ballots_issued": 602,
+    "unused_ballots": 662,
+    "eligible_voters": 1264,
+    "average_turnout_rate": 47.63
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "社寮里",
+      "polling_station": "413",
+      "agree_votes": 204,
+      "disagree_votes": 390,
+      "valid_votes": 594,
+      "invalid_votes": 8,
+      "total_voters": 602,
+      "ballots_not_cast": 0,
+      "ballots_issued": 602,
+      "unused_ballots": 662,
+      "eligible_voters": 1264,
+      "turnout_rate": 47.63
+    }
+  ],
+  "VILLCODE": "10008040016",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "社寮里"
+}

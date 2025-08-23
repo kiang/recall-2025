@@ -1,0 +1,40 @@
+{
+  "cunli": "南投市_光明里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 55,
+    "disagree_votes": 312,
+    "valid_votes": 367,
+    "invalid_votes": 7,
+    "total_voters": 374,
+    "ballots_not_cast": 0,
+    "ballots_issued": 374,
+    "unused_ballots": 234,
+    "eligible_voters": 608,
+    "average_turnout_rate": 61.51
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "光明里",
+      "polling_station": "295",
+      "agree_votes": 55,
+      "disagree_votes": 312,
+      "valid_votes": 367,
+      "invalid_votes": 7,
+      "total_voters": 374,
+      "ballots_not_cast": 0,
+      "ballots_issued": 374,
+      "unused_ballots": 234,
+      "eligible_voters": 608,
+      "turnout_rate": 61.51
+    }
+  ],
+  "VILLCODE": "10008010033",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "光明里"
+}

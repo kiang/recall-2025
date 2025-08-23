@@ -1,0 +1,40 @@
+{
+  "cunli": "信義鄉_東埔村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 39,
+    "disagree_votes": 62,
+    "valid_votes": 101,
+    "invalid_votes": 0,
+    "total_voters": 101,
+    "ballots_not_cast": 0,
+    "ballots_issued": 101,
+    "unused_ballots": 175,
+    "eligible_voters": 276,
+    "average_turnout_rate": 36.59
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "信義鄉",
+      "village": "東埔村",
+      "polling_station": "488",
+      "agree_votes": 39,
+      "disagree_votes": 62,
+      "valid_votes": 101,
+      "invalid_votes": 0,
+      "total_voters": 101,
+      "ballots_not_cast": 0,
+      "ballots_issued": 101,
+      "unused_ballots": 175,
+      "eligible_voters": 276,
+      "turnout_rate": 36.59
+    }
+  ],
+  "VILLCODE": "10008120011",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008120",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "信義鄉",
+  "VILLNAME": "東埔村"
+}

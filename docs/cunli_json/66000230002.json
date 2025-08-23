@@ -1,0 +1,56 @@
+{
+  "cunli": "烏日區_湖日里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 543,
+    "disagree_votes": 765,
+    "valid_votes": 1308,
+    "invalid_votes": 19,
+    "total_voters": 1327,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1327,
+    "unused_ballots": 1490,
+    "eligible_voters": 2817,
+    "average_turnout_rate": 47.11
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "湖日里",
+      "polling_station": "368",
+      "agree_votes": 283,
+      "disagree_votes": 334,
+      "valid_votes": 617,
+      "invalid_votes": 8,
+      "total_voters": 625,
+      "ballots_not_cast": 0,
+      "ballots_issued": 625,
+      "unused_ballots": 565,
+      "eligible_voters": 1190,
+      "turnout_rate": 52.52
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "湖日里",
+      "polling_station": "369",
+      "agree_votes": 260,
+      "disagree_votes": 431,
+      "valid_votes": 691,
+      "invalid_votes": 11,
+      "total_voters": 702,
+      "ballots_not_cast": 0,
+      "ballots_issued": 702,
+      "unused_ballots": 925,
+      "eligible_voters": 1627,
+      "turnout_rate": 43.15
+    }
+  ],
+  "VILLCODE": "66000230002",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000230",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "烏日區",
+  "VILLNAME": "湖日里"
+}

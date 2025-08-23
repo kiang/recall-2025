@@ -1,0 +1,40 @@
+{
+  "cunli": "大肚區_山陽里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 214,
+    "disagree_votes": 412,
+    "valid_votes": 626,
+    "invalid_votes": 7,
+    "total_voters": 633,
+    "ballots_not_cast": 0,
+    "ballots_issued": 633,
+    "unused_ballots": 623,
+    "eligible_voters": 1256,
+    "average_turnout_rate": 50.4
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "山陽里",
+      "polling_station": "344",
+      "agree_votes": 214,
+      "disagree_votes": 412,
+      "valid_votes": 626,
+      "invalid_votes": 7,
+      "total_voters": 633,
+      "ballots_not_cast": 0,
+      "ballots_issued": 633,
+      "unused_ballots": 623,
+      "eligible_voters": 1256,
+      "turnout_rate": 50.4
+    }
+  ],
+  "VILLCODE": "66000240013",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "山陽里"
+}

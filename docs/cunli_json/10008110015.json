@@ -1,0 +1,40 @@
+{
+  "cunli": "水里鄉_民和村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 99,
+    "disagree_votes": 197,
+    "valid_votes": 296,
+    "invalid_votes": 2,
+    "total_voters": 298,
+    "ballots_not_cast": 0,
+    "ballots_issued": 298,
+    "unused_ballots": 445,
+    "eligible_voters": 743,
+    "average_turnout_rate": 40.11
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "水里鄉",
+      "village": "民和村",
+      "polling_station": "464",
+      "agree_votes": 99,
+      "disagree_votes": 197,
+      "valid_votes": 296,
+      "invalid_votes": 2,
+      "total_voters": 298,
+      "ballots_not_cast": 0,
+      "ballots_issued": 298,
+      "unused_ballots": 445,
+      "eligible_voters": 743,
+      "turnout_rate": 40.11
+    }
+  ],
+  "VILLCODE": "10008110015",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008110",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "水里鄉",
+  "VILLNAME": "民和村"
+}

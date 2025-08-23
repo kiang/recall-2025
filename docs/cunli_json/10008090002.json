@@ -1,0 +1,56 @@
+{
+  "cunli": "魚池鄉_魚池村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 280,
+    "disagree_votes": 497,
+    "valid_votes": 777,
+    "invalid_votes": 6,
+    "total_voters": 783,
+    "ballots_not_cast": 0,
+    "ballots_issued": 783,
+    "unused_ballots": 977,
+    "eligible_voters": 1760,
+    "average_turnout_rate": 44.49
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "魚池村",
+      "polling_station": "215",
+      "agree_votes": 129,
+      "disagree_votes": 226,
+      "valid_votes": 355,
+      "invalid_votes": 4,
+      "total_voters": 359,
+      "ballots_not_cast": 0,
+      "ballots_issued": 359,
+      "unused_ballots": 435,
+      "eligible_voters": 794,
+      "turnout_rate": 45.21
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "魚池村",
+      "polling_station": "216",
+      "agree_votes": 151,
+      "disagree_votes": 271,
+      "valid_votes": 422,
+      "invalid_votes": 2,
+      "total_voters": 424,
+      "ballots_not_cast": 0,
+      "ballots_issued": 424,
+      "unused_ballots": 542,
+      "eligible_voters": 966,
+      "turnout_rate": 43.89
+    }
+  ],
+  "VILLCODE": "10008090002",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008090",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "魚池鄉",
+  "VILLNAME": "魚池村"
+}

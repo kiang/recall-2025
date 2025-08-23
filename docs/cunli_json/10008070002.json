@@ -1,0 +1,56 @@
+{
+  "cunli": "鹿谷鄉_初鄉村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 155,
+    "disagree_votes": 428,
+    "valid_votes": 583,
+    "invalid_votes": 6,
+    "total_voters": 589,
+    "ballots_not_cast": 0,
+    "ballots_issued": 589,
+    "unused_ballots": 689,
+    "eligible_voters": 1278,
+    "average_turnout_rate": 46.09
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "鹿谷鄉",
+      "village": "初鄉村",
+      "polling_station": "445",
+      "agree_votes": 77,
+      "disagree_votes": 225,
+      "valid_votes": 302,
+      "invalid_votes": 5,
+      "total_voters": 307,
+      "ballots_not_cast": 0,
+      "ballots_issued": 307,
+      "unused_ballots": 353,
+      "eligible_voters": 660,
+      "turnout_rate": 46.52
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "鹿谷鄉",
+      "village": "初鄉村",
+      "polling_station": "446",
+      "agree_votes": 78,
+      "disagree_votes": 203,
+      "valid_votes": 281,
+      "invalid_votes": 1,
+      "total_voters": 282,
+      "ballots_not_cast": 0,
+      "ballots_issued": 282,
+      "unused_ballots": 336,
+      "eligible_voters": 618,
+      "turnout_rate": 45.63
+    }
+  ],
+  "VILLCODE": "10008070002",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008070",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "鹿谷鄉",
+  "VILLNAME": "初鄉村"
+}

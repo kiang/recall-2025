@@ -1,0 +1,72 @@
+{
+  "cunli": "大雅區_橫山里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 708,
+    "disagree_votes": 1309,
+    "valid_votes": 2017,
+    "invalid_votes": 18,
+    "total_voters": 2035,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2035,
+    "unused_ballots": 2010,
+    "eligible_voters": 4045,
+    "average_turnout_rate": 50.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "大雅區",
+      "village": "橫山里",
+      "polling_station": "597",
+      "agree_votes": 234,
+      "disagree_votes": 450,
+      "valid_votes": 684,
+      "invalid_votes": 2,
+      "total_voters": 686,
+      "ballots_not_cast": 0,
+      "ballots_issued": 686,
+      "unused_ballots": 651,
+      "eligible_voters": 1337,
+      "turnout_rate": 51.31
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "大雅區",
+      "village": "橫山里",
+      "polling_station": "598",
+      "agree_votes": 261,
+      "disagree_votes": 459,
+      "valid_votes": 720,
+      "invalid_votes": 10,
+      "total_voters": 730,
+      "ballots_not_cast": 0,
+      "ballots_issued": 730,
+      "unused_ballots": 703,
+      "eligible_voters": 1433,
+      "turnout_rate": 50.94
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "大雅區",
+      "village": "橫山里",
+      "polling_station": "599",
+      "agree_votes": 213,
+      "disagree_votes": 400,
+      "valid_votes": 613,
+      "invalid_votes": 6,
+      "total_voters": 619,
+      "ballots_not_cast": 0,
+      "ballots_issued": 619,
+      "unused_ballots": 656,
+      "eligible_voters": 1275,
+      "turnout_rate": 48.55
+    }
+  ],
+  "VILLCODE": "66000180006",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000180",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大雅區",
+  "VILLNAME": "橫山里"
+}

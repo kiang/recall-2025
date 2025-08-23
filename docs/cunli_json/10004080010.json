@@ -1,0 +1,56 @@
+{
+  "cunli": "橫山鄉_大肚村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 147,
+    "disagree_votes": 605,
+    "valid_votes": 752,
+    "invalid_votes": 6,
+    "total_voters": 758,
+    "ballots_not_cast": 0,
+    "ballots_issued": 758,
+    "unused_ballots": 839,
+    "eligible_voters": 1597,
+    "average_turnout_rate": 47.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "橫山鄉",
+      "village": "大肚村",
+      "polling_station": "427",
+      "agree_votes": 68,
+      "disagree_votes": 288,
+      "valid_votes": 356,
+      "invalid_votes": 5,
+      "total_voters": 361,
+      "ballots_not_cast": 0,
+      "ballots_issued": 361,
+      "unused_ballots": 391,
+      "eligible_voters": 752,
+      "turnout_rate": 48.01
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "橫山鄉",
+      "village": "大肚村",
+      "polling_station": "428",
+      "agree_votes": 79,
+      "disagree_votes": 317,
+      "valid_votes": 396,
+      "invalid_votes": 1,
+      "total_voters": 397,
+      "ballots_not_cast": 0,
+      "ballots_issued": 397,
+      "unused_ballots": 448,
+      "eligible_voters": 845,
+      "turnout_rate": 46.98
+    }
+  ],
+  "VILLCODE": "10004080010",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004080",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "橫山鄉",
+  "VILLNAME": "大肚村"
+}

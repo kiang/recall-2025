@@ -1,0 +1,40 @@
+{
+  "cunli": "名間鄉_崁腳村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 136,
+    "disagree_votes": 273,
+    "valid_votes": 409,
+    "invalid_votes": 6,
+    "total_voters": 415,
+    "ballots_not_cast": 0,
+    "ballots_issued": 415,
+    "unused_ballots": 381,
+    "eligible_voters": 796,
+    "average_turnout_rate": 52.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "崁腳村",
+      "polling_station": "357",
+      "agree_votes": 136,
+      "disagree_votes": 273,
+      "valid_votes": 409,
+      "invalid_votes": 6,
+      "total_voters": 415,
+      "ballots_not_cast": 0,
+      "ballots_issued": 415,
+      "unused_ballots": 381,
+      "eligible_voters": 796,
+      "turnout_rate": 52.14
+    }
+  ],
+  "VILLCODE": "10008060020",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "崁腳村"
+}

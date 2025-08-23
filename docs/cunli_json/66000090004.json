@@ -1,0 +1,40 @@
+{
+  "cunli": "豐原區_豐榮里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 210,
+    "disagree_votes": 306,
+    "valid_votes": 516,
+    "invalid_votes": 2,
+    "total_voters": 518,
+    "ballots_not_cast": 0,
+    "ballots_issued": 518,
+    "unused_ballots": 515,
+    "eligible_voters": 1033,
+    "average_turnout_rate": 50.15
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "豐榮里",
+      "polling_station": "1699",
+      "agree_votes": 210,
+      "disagree_votes": 306,
+      "valid_votes": 516,
+      "invalid_votes": 2,
+      "total_voters": 518,
+      "ballots_not_cast": 0,
+      "ballots_issued": 518,
+      "unused_ballots": 515,
+      "eligible_voters": 1033,
+      "turnout_rate": 50.15
+    }
+  ],
+  "VILLCODE": "66000090004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "豐榮里"
+}

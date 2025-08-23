@@ -1,0 +1,56 @@
+{
+  "cunli": "草屯鎮_土城里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 221,
+    "disagree_votes": 520,
+    "valid_votes": 741,
+    "invalid_votes": 6,
+    "total_voters": 747,
+    "ballots_not_cast": 0,
+    "ballots_issued": 747,
+    "unused_ballots": 796,
+    "eligible_voters": 1543,
+    "average_turnout_rate": 48.41
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "土城里",
+      "polling_station": "73",
+      "agree_votes": 70,
+      "disagree_votes": 228,
+      "valid_votes": 298,
+      "invalid_votes": 2,
+      "total_voters": 300,
+      "ballots_not_cast": 0,
+      "ballots_issued": 300,
+      "unused_ballots": 312,
+      "eligible_voters": 612,
+      "turnout_rate": 49.02
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "土城里",
+      "polling_station": "74",
+      "agree_votes": 151,
+      "disagree_votes": 292,
+      "valid_votes": 443,
+      "invalid_votes": 4,
+      "total_voters": 447,
+      "ballots_not_cast": 0,
+      "ballots_issued": 447,
+      "unused_ballots": 484,
+      "eligible_voters": 931,
+      "turnout_rate": 48.01
+    }
+  ],
+  "VILLCODE": "10008030020",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008030",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "草屯鎮",
+  "VILLNAME": "土城里"
+}

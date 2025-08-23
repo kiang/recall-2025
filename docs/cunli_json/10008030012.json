@@ -1,0 +1,72 @@
+{
+  "cunli": "草屯鎮_上林里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 538,
+    "disagree_votes": 1126,
+    "valid_votes": 1664,
+    "invalid_votes": 8,
+    "total_voters": 1672,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1672,
+    "unused_ballots": 1391,
+    "eligible_voters": 3063,
+    "average_turnout_rate": 54.59
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "上林里",
+      "polling_station": "26",
+      "agree_votes": 203,
+      "disagree_votes": 413,
+      "valid_votes": 616,
+      "invalid_votes": 3,
+      "total_voters": 619,
+      "ballots_not_cast": 0,
+      "ballots_issued": 619,
+      "unused_ballots": 453,
+      "eligible_voters": 1072,
+      "turnout_rate": 57.74
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "上林里",
+      "polling_station": "27",
+      "agree_votes": 147,
+      "disagree_votes": 330,
+      "valid_votes": 477,
+      "invalid_votes": 3,
+      "total_voters": 480,
+      "ballots_not_cast": 0,
+      "ballots_issued": 480,
+      "unused_ballots": 499,
+      "eligible_voters": 979,
+      "turnout_rate": 49.03
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "上林里",
+      "polling_station": "28",
+      "agree_votes": 188,
+      "disagree_votes": 383,
+      "valid_votes": 571,
+      "invalid_votes": 2,
+      "total_voters": 573,
+      "ballots_not_cast": 0,
+      "ballots_issued": 573,
+      "unused_ballots": 439,
+      "eligible_voters": 1012,
+      "turnout_rate": 56.62
+    }
+  ],
+  "VILLCODE": "10008030012",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008030",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "草屯鎮",
+  "VILLNAME": "上林里"
+}

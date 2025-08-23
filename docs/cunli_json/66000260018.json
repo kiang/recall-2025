@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_丁台里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 413,
+    "disagree_votes": 679,
+    "valid_votes": 1092,
+    "invalid_votes": 12,
+    "total_voters": 1104,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1104,
+    "unused_ballots": 1084,
+    "eligible_voters": 2188,
+    "average_turnout_rate": 50.46
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "丁台里",
+      "polling_station": "447",
+      "agree_votes": 185,
+      "disagree_votes": 389,
+      "valid_votes": 574,
+      "invalid_votes": 6,
+      "total_voters": 580,
+      "ballots_not_cast": 0,
+      "ballots_issued": 580,
+      "unused_ballots": 475,
+      "eligible_voters": 1055,
+      "turnout_rate": 54.98
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "丁台里",
+      "polling_station": "448",
+      "agree_votes": 228,
+      "disagree_votes": 290,
+      "valid_votes": 518,
+      "invalid_votes": 6,
+      "total_voters": 524,
+      "ballots_not_cast": 0,
+      "ballots_issued": 524,
+      "unused_ballots": 609,
+      "eligible_voters": 1133,
+      "turnout_rate": 46.25
+    }
+  ],
+  "VILLCODE": "66000260018",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "丁台里"
+}

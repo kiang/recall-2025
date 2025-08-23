@@ -1,0 +1,40 @@
+{
+  "cunli": "石岡區_土牛里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 135,
+    "disagree_votes": 359,
+    "valid_votes": 494,
+    "invalid_votes": 8,
+    "total_voters": 502,
+    "ballots_not_cast": 0,
+    "ballots_issued": 502,
+    "unused_ballots": 473,
+    "eligible_voters": 975,
+    "average_turnout_rate": 51.49
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "石岡區",
+      "village": "土牛里",
+      "polling_station": "1815",
+      "agree_votes": 135,
+      "disagree_votes": 359,
+      "valid_votes": 494,
+      "invalid_votes": 8,
+      "total_voters": 502,
+      "ballots_not_cast": 0,
+      "ballots_issued": 502,
+      "unused_ballots": 473,
+      "eligible_voters": 975,
+      "turnout_rate": 51.49
+    }
+  ],
+  "VILLCODE": "66000200008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000200",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "石岡區",
+  "VILLNAME": "土牛里"
+}

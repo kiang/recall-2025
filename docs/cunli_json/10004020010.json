@@ -1,0 +1,56 @@
+{
+  "cunli": "竹東鎮_竹東里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 194,
+    "disagree_votes": 422,
+    "valid_votes": 616,
+    "invalid_votes": 8,
+    "total_voters": 624,
+    "ballots_not_cast": 0,
+    "ballots_issued": 624,
+    "unused_ballots": 562,
+    "eligible_voters": 1186,
+    "average_turnout_rate": 52.61
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "竹東里",
+      "polling_station": "174",
+      "agree_votes": 85,
+      "disagree_votes": 195,
+      "valid_votes": 280,
+      "invalid_votes": 6,
+      "total_voters": 286,
+      "ballots_not_cast": 0,
+      "ballots_issued": 286,
+      "unused_ballots": 228,
+      "eligible_voters": 514,
+      "turnout_rate": 55.64
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "竹東里",
+      "polling_station": "175",
+      "agree_votes": 109,
+      "disagree_votes": 227,
+      "valid_votes": 336,
+      "invalid_votes": 2,
+      "total_voters": 338,
+      "ballots_not_cast": 0,
+      "ballots_issued": 338,
+      "unused_ballots": 334,
+      "eligible_voters": 672,
+      "turnout_rate": 50.3
+    }
+  ],
+  "VILLCODE": "10004020010",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "竹東里"
+}

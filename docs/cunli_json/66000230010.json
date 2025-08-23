@@ -1,0 +1,56 @@
+{
+  "cunli": "烏日區_光明里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 409,
+    "disagree_votes": 648,
+    "valid_votes": 1057,
+    "invalid_votes": 13,
+    "total_voters": 1070,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1070,
+    "unused_ballots": 912,
+    "eligible_voters": 1982,
+    "average_turnout_rate": 53.99
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "光明里",
+      "polling_station": "401",
+      "agree_votes": 173,
+      "disagree_votes": 246,
+      "valid_votes": 419,
+      "invalid_votes": 6,
+      "total_voters": 425,
+      "ballots_not_cast": 0,
+      "ballots_issued": 425,
+      "unused_ballots": 393,
+      "eligible_voters": 818,
+      "turnout_rate": 51.96
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "光明里",
+      "polling_station": "402",
+      "agree_votes": 236,
+      "disagree_votes": 402,
+      "valid_votes": 638,
+      "invalid_votes": 7,
+      "total_voters": 645,
+      "ballots_not_cast": 0,
+      "ballots_issued": 645,
+      "unused_ballots": 519,
+      "eligible_voters": 1164,
+      "turnout_rate": 55.41
+    }
+  ],
+  "VILLCODE": "66000230010",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000230",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "烏日區",
+  "VILLNAME": "光明里"
+}

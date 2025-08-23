@@ -1,0 +1,72 @@
+{
+  "cunli": "南投市_三和里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 521,
+    "disagree_votes": 888,
+    "valid_votes": 1409,
+    "invalid_votes": 11,
+    "total_voters": 1420,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1420,
+    "unused_ballots": 1107,
+    "eligible_voters": 2527,
+    "average_turnout_rate": 56.19
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "三和里",
+      "polling_station": "254",
+      "agree_votes": 172,
+      "disagree_votes": 334,
+      "valid_votes": 506,
+      "invalid_votes": 4,
+      "total_voters": 510,
+      "ballots_not_cast": 0,
+      "ballots_issued": 510,
+      "unused_ballots": 424,
+      "eligible_voters": 934,
+      "turnout_rate": 54.6
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "三和里",
+      "polling_station": "255",
+      "agree_votes": 123,
+      "disagree_votes": 222,
+      "valid_votes": 345,
+      "invalid_votes": 2,
+      "total_voters": 347,
+      "ballots_not_cast": 0,
+      "ballots_issued": 347,
+      "unused_ballots": 283,
+      "eligible_voters": 630,
+      "turnout_rate": 55.08
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "三和里",
+      "polling_station": "256",
+      "agree_votes": 226,
+      "disagree_votes": 332,
+      "valid_votes": 558,
+      "invalid_votes": 5,
+      "total_voters": 563,
+      "ballots_not_cast": 0,
+      "ballots_issued": 563,
+      "unused_ballots": 400,
+      "eligible_voters": 963,
+      "turnout_rate": 58.46
+    }
+  ],
+  "VILLCODE": "10008010016",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "三和里"
+}

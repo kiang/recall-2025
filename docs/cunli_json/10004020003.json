@@ -1,0 +1,40 @@
+{
+  "cunli": "竹東鎮_軟橋里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 49,
+    "disagree_votes": 112,
+    "valid_votes": 161,
+    "invalid_votes": 2,
+    "total_voters": 163,
+    "ballots_not_cast": 0,
+    "ballots_issued": 163,
+    "unused_ballots": 183,
+    "eligible_voters": 346,
+    "average_turnout_rate": 47.11
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "軟橋里",
+      "polling_station": "147",
+      "agree_votes": 49,
+      "disagree_votes": 112,
+      "valid_votes": 161,
+      "invalid_votes": 2,
+      "total_voters": 163,
+      "ballots_not_cast": 0,
+      "ballots_issued": 163,
+      "unused_ballots": 183,
+      "eligible_voters": 346,
+      "turnout_rate": 47.11
+    }
+  ],
+  "VILLCODE": "10004020003",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "軟橋里"
+}

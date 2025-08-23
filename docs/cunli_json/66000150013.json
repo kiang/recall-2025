@@ -1,0 +1,56 @@
+{
+  "cunli": "后里區_太平里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 219,
+    "disagree_votes": 691,
+    "valid_votes": 910,
+    "invalid_votes": 8,
+    "total_voters": 918,
+    "ballots_not_cast": 0,
+    "ballots_issued": 918,
+    "unused_ballots": 1051,
+    "eligible_voters": 1969,
+    "average_turnout_rate": 46.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "后里區",
+      "village": "太平里",
+      "polling_station": "493",
+      "agree_votes": 100,
+      "disagree_votes": 339,
+      "valid_votes": 439,
+      "invalid_votes": 5,
+      "total_voters": 444,
+      "ballots_not_cast": 0,
+      "ballots_issued": 444,
+      "unused_ballots": 487,
+      "eligible_voters": 931,
+      "turnout_rate": 47.69
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "后里區",
+      "village": "太平里",
+      "polling_station": "494",
+      "agree_votes": 119,
+      "disagree_votes": 352,
+      "valid_votes": 471,
+      "invalid_votes": 3,
+      "total_voters": 474,
+      "ballots_not_cast": 0,
+      "ballots_issued": 474,
+      "unused_ballots": 564,
+      "eligible_voters": 1038,
+      "turnout_rate": 45.66
+    }
+  ],
+  "VILLCODE": "66000150013",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000150",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "后里區",
+  "VILLNAME": "太平里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "石岡區_九房里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 176,
+    "disagree_votes": 397,
+    "valid_votes": 573,
+    "invalid_votes": 17,
+    "total_voters": 590,
+    "ballots_not_cast": 0,
+    "ballots_issued": 590,
+    "unused_ballots": 573,
+    "eligible_voters": 1163,
+    "average_turnout_rate": 50.73
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "石岡區",
+      "village": "九房里",
+      "polling_station": "1809",
+      "agree_votes": 176,
+      "disagree_votes": 397,
+      "valid_votes": 573,
+      "invalid_votes": 17,
+      "total_voters": 590,
+      "ballots_not_cast": 0,
+      "ballots_issued": 590,
+      "unused_ballots": 573,
+      "eligible_voters": 1163,
+      "turnout_rate": 50.73
+    }
+  ],
+  "VILLCODE": "66000200003",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000200",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "石岡區",
+  "VILLNAME": "九房里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "竹山鎮_中和里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 184,
+    "disagree_votes": 162,
+    "valid_votes": 346,
+    "invalid_votes": 4,
+    "total_voters": 350,
+    "ballots_not_cast": 0,
+    "ballots_issued": 350,
+    "unused_ballots": 428,
+    "eligible_voters": 778,
+    "average_turnout_rate": 44.99
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "中和里",
+      "polling_station": "393",
+      "agree_votes": 184,
+      "disagree_votes": 162,
+      "valid_votes": 346,
+      "invalid_votes": 4,
+      "total_voters": 350,
+      "ballots_not_cast": 0,
+      "ballots_issued": 350,
+      "unused_ballots": 428,
+      "eligible_voters": 778,
+      "turnout_rate": 44.99
+    }
+  ],
+  "VILLCODE": "10008040008",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "中和里"
+}

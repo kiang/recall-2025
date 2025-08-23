@@ -1,0 +1,56 @@
+{
+  "cunli": "潭子區_大富里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 566,
+    "disagree_votes": 950,
+    "valid_votes": 1516,
+    "invalid_votes": 20,
+    "total_voters": 1536,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1536,
+    "unused_ballots": 1372,
+    "eligible_voters": 2908,
+    "average_turnout_rate": 52.82
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "潭子區",
+      "village": "大富里",
+      "polling_station": "657",
+      "agree_votes": 320,
+      "disagree_votes": 484,
+      "valid_votes": 804,
+      "invalid_votes": 11,
+      "total_voters": 815,
+      "ballots_not_cast": 0,
+      "ballots_issued": 815,
+      "unused_ballots": 741,
+      "eligible_voters": 1556,
+      "turnout_rate": 52.38
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "潭子區",
+      "village": "大富里",
+      "polling_station": "658",
+      "agree_votes": 246,
+      "disagree_votes": 466,
+      "valid_votes": 712,
+      "invalid_votes": 9,
+      "total_voters": 721,
+      "ballots_not_cast": 0,
+      "ballots_issued": 721,
+      "unused_ballots": 631,
+      "eligible_voters": 1352,
+      "turnout_rate": 53.33
+    }
+  ],
+  "VILLCODE": "66000170008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000170",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "潭子區",
+  "VILLNAME": "大富里"
+}

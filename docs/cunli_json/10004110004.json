@@ -1,0 +1,56 @@
+{
+  "cunli": "峨眉鄉_富興村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 136,
+    "disagree_votes": 429,
+    "valid_votes": 565,
+    "invalid_votes": 9,
+    "total_voters": 574,
+    "ballots_not_cast": 0,
+    "ballots_issued": 574,
+    "unused_ballots": 671,
+    "eligible_voters": 1245,
+    "average_turnout_rate": 46.1
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "峨眉鄉",
+      "village": "富興村",
+      "polling_station": "458",
+      "agree_votes": 68,
+      "disagree_votes": 218,
+      "valid_votes": 286,
+      "invalid_votes": 8,
+      "total_voters": 294,
+      "ballots_not_cast": 0,
+      "ballots_issued": 294,
+      "unused_ballots": 288,
+      "eligible_voters": 582,
+      "turnout_rate": 50.52
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "峨眉鄉",
+      "village": "富興村",
+      "polling_station": "459",
+      "agree_votes": 68,
+      "disagree_votes": 211,
+      "valid_votes": 279,
+      "invalid_votes": 1,
+      "total_voters": 280,
+      "ballots_not_cast": 0,
+      "ballots_issued": 280,
+      "unused_ballots": 383,
+      "eligible_voters": 663,
+      "turnout_rate": 42.23
+    }
+  ],
+  "VILLCODE": "10004110004",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004110",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "峨眉鄉",
+  "VILLNAME": "富興村"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "霧峰區_南勢里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 207,
+    "disagree_votes": 396,
+    "valid_votes": 603,
+    "invalid_votes": 5,
+    "total_voters": 608,
+    "ballots_not_cast": 0,
+    "ballots_issued": 608,
+    "unused_ballots": 604,
+    "eligible_voters": 1212,
+    "average_turnout_rate": 50.17
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "南勢里",
+      "polling_station": "451",
+      "agree_votes": 207,
+      "disagree_votes": 396,
+      "valid_votes": 603,
+      "invalid_votes": 5,
+      "total_voters": 608,
+      "ballots_not_cast": 0,
+      "ballots_issued": 608,
+      "unused_ballots": 604,
+      "eligible_voters": 1212,
+      "turnout_rate": 50.17
+    }
+  ],
+  "VILLCODE": "66000260020",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "南勢里"
+}

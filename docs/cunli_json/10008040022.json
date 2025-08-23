@@ -1,0 +1,56 @@
+{
+  "cunli": "竹山鎮_鯉魚里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 102,
+    "disagree_votes": 176,
+    "valid_votes": 278,
+    "invalid_votes": 4,
+    "total_voters": 282,
+    "ballots_not_cast": 0,
+    "ballots_issued": 282,
+    "unused_ballots": 412,
+    "eligible_voters": 694,
+    "average_turnout_rate": 40.63
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "鯉魚里",
+      "polling_station": "423",
+      "agree_votes": 64,
+      "disagree_votes": 122,
+      "valid_votes": 186,
+      "invalid_votes": 0,
+      "total_voters": 186,
+      "ballots_not_cast": 0,
+      "ballots_issued": 186,
+      "unused_ballots": 246,
+      "eligible_voters": 432,
+      "turnout_rate": 43.06
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "鯉魚里",
+      "polling_station": "424",
+      "agree_votes": 38,
+      "disagree_votes": 54,
+      "valid_votes": 92,
+      "invalid_votes": 4,
+      "total_voters": 96,
+      "ballots_not_cast": 0,
+      "ballots_issued": 96,
+      "unused_ballots": 166,
+      "eligible_voters": 262,
+      "turnout_rate": 36.64
+    }
+  ],
+  "VILLCODE": "10008040022",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "鯉魚里"
+}

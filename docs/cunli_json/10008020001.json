@@ -1,0 +1,72 @@
+{
+  "cunli": "埔里鎮_東門里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 448,
+    "disagree_votes": 803,
+    "valid_votes": 1251,
+    "invalid_votes": 13,
+    "total_voters": 1264,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1264,
+    "unused_ballots": 1123,
+    "eligible_voters": 2387,
+    "average_turnout_rate": 52.95
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "東門里",
+      "polling_station": "98",
+      "agree_votes": 141,
+      "disagree_votes": 232,
+      "valid_votes": 373,
+      "invalid_votes": 6,
+      "total_voters": 379,
+      "ballots_not_cast": 0,
+      "ballots_issued": 379,
+      "unused_ballots": 358,
+      "eligible_voters": 737,
+      "turnout_rate": 51.42
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "東門里",
+      "polling_station": "99",
+      "agree_votes": 130,
+      "disagree_votes": 238,
+      "valid_votes": 368,
+      "invalid_votes": 2,
+      "total_voters": 370,
+      "ballots_not_cast": 0,
+      "ballots_issued": 370,
+      "unused_ballots": 341,
+      "eligible_voters": 711,
+      "turnout_rate": 52.04
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "東門里",
+      "polling_station": "100",
+      "agree_votes": 177,
+      "disagree_votes": 333,
+      "valid_votes": 510,
+      "invalid_votes": 5,
+      "total_voters": 515,
+      "ballots_not_cast": 0,
+      "ballots_issued": 515,
+      "unused_ballots": 424,
+      "eligible_voters": 939,
+      "turnout_rate": 54.85
+    }
+  ],
+  "VILLCODE": "10008020001",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "東門里"
+}

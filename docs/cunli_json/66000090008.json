@@ -1,0 +1,56 @@
+{
+  "cunli": "豐原區_豐西里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 312,
+    "disagree_votes": 500,
+    "valid_votes": 812,
+    "invalid_votes": 10,
+    "total_voters": 822,
+    "ballots_not_cast": 0,
+    "ballots_issued": 822,
+    "unused_ballots": 743,
+    "eligible_voters": 1565,
+    "average_turnout_rate": 52.52
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "豐西里",
+      "polling_station": "1722",
+      "agree_votes": 181,
+      "disagree_votes": 258,
+      "valid_votes": 439,
+      "invalid_votes": 7,
+      "total_voters": 446,
+      "ballots_not_cast": 0,
+      "ballots_issued": 446,
+      "unused_ballots": 389,
+      "eligible_voters": 835,
+      "turnout_rate": 53.41
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "豐西里",
+      "polling_station": "1723",
+      "agree_votes": 131,
+      "disagree_votes": 242,
+      "valid_votes": 373,
+      "invalid_votes": 3,
+      "total_voters": 376,
+      "ballots_not_cast": 0,
+      "ballots_issued": 376,
+      "unused_ballots": 354,
+      "eligible_voters": 730,
+      "turnout_rate": 51.51
+    }
+  ],
+  "VILLCODE": "66000090008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "豐西里"
+}

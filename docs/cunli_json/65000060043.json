@@ -1,0 +1,56 @@
+{
+  "cunli": "新店區_忠誠里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 383,
+    "disagree_votes": 735,
+    "valid_votes": 1118,
+    "invalid_votes": 9,
+    "total_voters": 1127,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1127,
+    "unused_ballots": 870,
+    "eligible_voters": 1997,
+    "average_turnout_rate": 56.43
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "忠誠里",
+      "polling_station": "2196",
+      "agree_votes": 196,
+      "disagree_votes": 431,
+      "valid_votes": 627,
+      "invalid_votes": 6,
+      "total_voters": 633,
+      "ballots_not_cast": 0,
+      "ballots_issued": 633,
+      "unused_ballots": 455,
+      "eligible_voters": 1088,
+      "turnout_rate": 58.18
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "忠誠里",
+      "polling_station": "2197",
+      "agree_votes": 187,
+      "disagree_votes": 304,
+      "valid_votes": 491,
+      "invalid_votes": 3,
+      "total_voters": 494,
+      "ballots_not_cast": 0,
+      "ballots_issued": 494,
+      "unused_ballots": 415,
+      "eligible_voters": 909,
+      "turnout_rate": 54.35
+    }
+  ],
+  "VILLCODE": "65000060043",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000060",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "新店區",
+  "VILLNAME": "忠誠里"
+}

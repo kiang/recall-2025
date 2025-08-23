@@ -1,0 +1,56 @@
+{
+  "cunli": "神岡區_庄前里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 400,
+    "disagree_votes": 820,
+    "valid_votes": 1220,
+    "invalid_votes": 11,
+    "total_voters": 1231,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1231,
+    "unused_ballots": 976,
+    "eligible_voters": 2207,
+    "average_turnout_rate": 55.78
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "神岡區",
+      "village": "庄前里",
+      "polling_station": "506",
+      "agree_votes": 209,
+      "disagree_votes": 442,
+      "valid_votes": 651,
+      "invalid_votes": 5,
+      "total_voters": 656,
+      "ballots_not_cast": 0,
+      "ballots_issued": 656,
+      "unused_ballots": 524,
+      "eligible_voters": 1180,
+      "turnout_rate": 55.59
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第3選舉區)楊瓊瓔罷免案各投開票所投開票結果表",
+      "district": "神岡區",
+      "village": "庄前里",
+      "polling_station": "507",
+      "agree_votes": 191,
+      "disagree_votes": 378,
+      "valid_votes": 569,
+      "invalid_votes": 6,
+      "total_voters": 575,
+      "ballots_not_cast": 0,
+      "ballots_issued": 575,
+      "unused_ballots": 452,
+      "eligible_voters": 1027,
+      "turnout_rate": 55.99
+    }
+  ],
+  "VILLCODE": "66000160002",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000160",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "神岡區",
+  "VILLNAME": "庄前里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "和平區_自由里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 47,
+    "disagree_votes": 226,
+    "valid_votes": 273,
+    "invalid_votes": 2,
+    "total_voters": 275,
+    "ballots_not_cast": 0,
+    "ballots_issued": 275,
+    "unused_ballots": 252,
+    "eligible_voters": 527,
+    "average_turnout_rate": 52.18
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "自由里",
+      "polling_station": "1887",
+      "agree_votes": 20,
+      "disagree_votes": 44,
+      "valid_votes": 64,
+      "invalid_votes": 0,
+      "total_voters": 64,
+      "ballots_not_cast": 0,
+      "ballots_issued": 64,
+      "unused_ballots": 58,
+      "eligible_voters": 122,
+      "turnout_rate": 52.46
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "自由里",
+      "polling_station": "1888",
+      "agree_votes": 6,
+      "disagree_votes": 44,
+      "valid_votes": 50,
+      "invalid_votes": 0,
+      "total_voters": 50,
+      "ballots_not_cast": 0,
+      "ballots_issued": 50,
+      "unused_ballots": 59,
+      "eligible_voters": 109,
+      "turnout_rate": 45.87
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "自由里",
+      "polling_station": "1889",
+      "agree_votes": 21,
+      "disagree_votes": 138,
+      "valid_votes": 159,
+      "invalid_votes": 2,
+      "total_voters": 161,
+      "ballots_not_cast": 0,
+      "ballots_issued": 161,
+      "unused_ballots": 135,
+      "eligible_voters": 296,
+      "turnout_rate": 54.39
+    }
+  ],
+  "VILLCODE": "66000290005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000290",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "和平區",
+  "VILLNAME": "自由里"
+}

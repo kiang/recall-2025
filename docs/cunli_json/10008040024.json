@@ -1,0 +1,40 @@
+{
+  "cunli": "竹山鎮_坪頂里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 51,
+    "disagree_votes": 124,
+    "valid_votes": 175,
+    "invalid_votes": 4,
+    "total_voters": 179,
+    "ballots_not_cast": 0,
+    "ballots_issued": 179,
+    "unused_ballots": 225,
+    "eligible_voters": 404,
+    "average_turnout_rate": 44.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "坪頂里",
+      "polling_station": "425",
+      "agree_votes": 51,
+      "disagree_votes": 124,
+      "valid_votes": 175,
+      "invalid_votes": 4,
+      "total_voters": 179,
+      "ballots_not_cast": 0,
+      "ballots_issued": 179,
+      "unused_ballots": 225,
+      "eligible_voters": 404,
+      "turnout_rate": 44.31
+    }
+  ],
+  "VILLCODE": "10008040024",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "坪頂里"
+}

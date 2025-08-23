@@ -1,0 +1,56 @@
+{
+  "cunli": "新店區_和平里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 174,
+    "disagree_votes": 507,
+    "valid_votes": 681,
+    "invalid_votes": 11,
+    "total_voters": 692,
+    "ballots_not_cast": 0,
+    "ballots_issued": 692,
+    "unused_ballots": 726,
+    "eligible_voters": 1418,
+    "average_turnout_rate": 48.8
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "和平里",
+      "polling_station": "2229",
+      "agree_votes": 58,
+      "disagree_votes": 207,
+      "valid_votes": 265,
+      "invalid_votes": 6,
+      "total_voters": 271,
+      "ballots_not_cast": 0,
+      "ballots_issued": 271,
+      "unused_ballots": 315,
+      "eligible_voters": 586,
+      "turnout_rate": 46.25
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "和平里",
+      "polling_station": "2230",
+      "agree_votes": 116,
+      "disagree_votes": 300,
+      "valid_votes": 416,
+      "invalid_votes": 5,
+      "total_voters": 421,
+      "ballots_not_cast": 0,
+      "ballots_issued": 421,
+      "unused_ballots": 411,
+      "eligible_voters": 832,
+      "turnout_rate": 50.6
+    }
+  ],
+  "VILLCODE": "65000060053",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000060",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "新店區",
+  "VILLNAME": "和平里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "東勢區_福隆里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 430,
+    "disagree_votes": 1397,
+    "valid_votes": 1827,
+    "invalid_votes": 22,
+    "total_voters": 1849,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1849,
+    "unused_ballots": 1729,
+    "eligible_voters": 3578,
+    "average_turnout_rate": 51.68
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "福隆里",
+      "polling_station": "1852",
+      "agree_votes": 150,
+      "disagree_votes": 449,
+      "valid_votes": 599,
+      "invalid_votes": 7,
+      "total_voters": 606,
+      "ballots_not_cast": 0,
+      "ballots_issued": 606,
+      "unused_ballots": 556,
+      "eligible_voters": 1162,
+      "turnout_rate": 52.15
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "福隆里",
+      "polling_station": "1853",
+      "agree_votes": 164,
+      "disagree_votes": 532,
+      "valid_votes": 696,
+      "invalid_votes": 4,
+      "total_voters": 700,
+      "ballots_not_cast": 0,
+      "ballots_issued": 700,
+      "unused_ballots": 625,
+      "eligible_voters": 1325,
+      "turnout_rate": 52.83
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "福隆里",
+      "polling_station": "1854",
+      "agree_votes": 116,
+      "disagree_votes": 416,
+      "valid_votes": 532,
+      "invalid_votes": 11,
+      "total_voters": 543,
+      "ballots_not_cast": 0,
+      "ballots_issued": 543,
+      "unused_ballots": 548,
+      "eligible_voters": 1091,
+      "turnout_rate": 49.77
+    }
+  ],
+  "VILLCODE": "66000100010",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "福隆里"
+}

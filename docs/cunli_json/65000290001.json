@@ -1,0 +1,56 @@
+{
+  "cunli": "烏來區_烏來里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 208,
+    "disagree_votes": 281,
+    "valid_votes": 489,
+    "invalid_votes": 5,
+    "total_voters": 494,
+    "ballots_not_cast": 0,
+    "ballots_issued": 494,
+    "unused_ballots": 821,
+    "eligible_voters": 1315,
+    "average_turnout_rate": 37.57
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "烏來區",
+      "village": "烏來里",
+      "polling_station": "2420",
+      "agree_votes": 152,
+      "disagree_votes": 224,
+      "valid_votes": 376,
+      "invalid_votes": 3,
+      "total_voters": 379,
+      "ballots_not_cast": 0,
+      "ballots_issued": 379,
+      "unused_ballots": 549,
+      "eligible_voters": 928,
+      "turnout_rate": 40.84
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "烏來區",
+      "village": "烏來里",
+      "polling_station": "2421",
+      "agree_votes": 56,
+      "disagree_votes": 57,
+      "valid_votes": 113,
+      "invalid_votes": 2,
+      "total_voters": 115,
+      "ballots_not_cast": 0,
+      "ballots_issued": 115,
+      "unused_ballots": 272,
+      "eligible_voters": 387,
+      "turnout_rate": 29.72
+    }
+  ],
+  "VILLCODE": "65000290001",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000290",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "烏來區",
+  "VILLNAME": "烏來里"
+}

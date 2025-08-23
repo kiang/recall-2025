@@ -1,0 +1,40 @@
+{
+  "cunli": "竹東鎮_上坪里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 28,
+    "disagree_votes": 87,
+    "valid_votes": 115,
+    "invalid_votes": 1,
+    "total_voters": 116,
+    "ballots_not_cast": 0,
+    "ballots_issued": 116,
+    "unused_ballots": 131,
+    "eligible_voters": 247,
+    "average_turnout_rate": 46.96
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹東鎮",
+      "village": "上坪里",
+      "polling_station": "145",
+      "agree_votes": 28,
+      "disagree_votes": 87,
+      "valid_votes": 115,
+      "invalid_votes": 1,
+      "total_voters": 116,
+      "ballots_not_cast": 0,
+      "ballots_issued": 116,
+      "unused_ballots": 131,
+      "eligible_voters": 247,
+      "turnout_rate": 46.96
+    }
+  ],
+  "VILLCODE": "10004020001",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004020",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹東鎮",
+  "VILLNAME": "上坪里"
+}

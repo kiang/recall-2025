@@ -1,0 +1,56 @@
+{
+  "cunli": "東勢區_茂興里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 212,
+    "disagree_votes": 640,
+    "valid_votes": 852,
+    "invalid_votes": 8,
+    "total_voters": 860,
+    "ballots_not_cast": 0,
+    "ballots_issued": 860,
+    "unused_ballots": 890,
+    "eligible_voters": 1750,
+    "average_turnout_rate": 49.14
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "茂興里",
+      "polling_station": "1877",
+      "agree_votes": 113,
+      "disagree_votes": 306,
+      "valid_votes": 419,
+      "invalid_votes": 5,
+      "total_voters": 424,
+      "ballots_not_cast": 0,
+      "ballots_issued": 424,
+      "unused_ballots": 476,
+      "eligible_voters": 900,
+      "turnout_rate": 47.11
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "茂興里",
+      "polling_station": "1878",
+      "agree_votes": 99,
+      "disagree_votes": 334,
+      "valid_votes": 433,
+      "invalid_votes": 3,
+      "total_voters": 436,
+      "ballots_not_cast": 0,
+      "ballots_issued": 436,
+      "unused_ballots": 414,
+      "eligible_voters": 850,
+      "turnout_rate": 51.29
+    }
+  ],
+  "VILLCODE": "66000100022",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "茂興里"
+}

@@ -1,0 +1,56 @@
+{
+  "cunli": "烏日區_學田里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 443,
+    "disagree_votes": 838,
+    "valid_votes": 1281,
+    "invalid_votes": 21,
+    "total_voters": 1302,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1302,
+    "unused_ballots": 1164,
+    "eligible_voters": 2466,
+    "average_turnout_rate": 52.8
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "學田里",
+      "polling_station": "380",
+      "agree_votes": 187,
+      "disagree_votes": 380,
+      "valid_votes": 567,
+      "invalid_votes": 10,
+      "total_voters": 577,
+      "ballots_not_cast": 0,
+      "ballots_issued": 577,
+      "unused_ballots": 490,
+      "eligible_voters": 1067,
+      "turnout_rate": 54.08
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "學田里",
+      "polling_station": "381",
+      "agree_votes": 256,
+      "disagree_votes": 458,
+      "valid_votes": 714,
+      "invalid_votes": 11,
+      "total_voters": 725,
+      "ballots_not_cast": 0,
+      "ballots_issued": 725,
+      "unused_ballots": 674,
+      "eligible_voters": 1399,
+      "turnout_rate": 51.82
+    }
+  ],
+  "VILLCODE": "66000230005",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000230",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "烏日區",
+  "VILLNAME": "學田里"
+}

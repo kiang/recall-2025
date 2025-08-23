@@ -1,0 +1,56 @@
+{
+  "cunli": "竹山鎮_福興里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 71,
+    "disagree_votes": 175,
+    "valid_votes": 246,
+    "invalid_votes": 1,
+    "total_voters": 247,
+    "ballots_not_cast": 0,
+    "ballots_issued": 247,
+    "unused_ballots": 304,
+    "eligible_voters": 551,
+    "average_turnout_rate": 44.83
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "福興里",
+      "polling_station": "421",
+      "agree_votes": 18,
+      "disagree_votes": 78,
+      "valid_votes": 96,
+      "invalid_votes": 0,
+      "total_voters": 96,
+      "ballots_not_cast": 0,
+      "ballots_issued": 96,
+      "unused_ballots": 89,
+      "eligible_voters": 185,
+      "turnout_rate": 51.89
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "福興里",
+      "polling_station": "422",
+      "agree_votes": 53,
+      "disagree_votes": 97,
+      "valid_votes": 150,
+      "invalid_votes": 1,
+      "total_voters": 151,
+      "ballots_not_cast": 0,
+      "ballots_issued": 151,
+      "unused_ballots": 215,
+      "eligible_voters": 366,
+      "turnout_rate": 41.26
+    }
+  ],
+  "VILLCODE": "10008040021",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "福興里"
+}

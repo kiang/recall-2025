@@ -1,0 +1,56 @@
+{
+  "cunli": "和平區_平等里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 16,
+    "disagree_votes": 88,
+    "valid_votes": 104,
+    "invalid_votes": 0,
+    "total_voters": 104,
+    "ballots_not_cast": 0,
+    "ballots_issued": 104,
+    "unused_ballots": 244,
+    "eligible_voters": 348,
+    "average_turnout_rate": 29.89
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "平等里",
+      "polling_station": "1897",
+      "agree_votes": 4,
+      "disagree_votes": 34,
+      "valid_votes": 38,
+      "invalid_votes": 0,
+      "total_voters": 38,
+      "ballots_not_cast": 0,
+      "ballots_issued": 38,
+      "unused_ballots": 83,
+      "eligible_voters": 121,
+      "turnout_rate": 31.4
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "和平區",
+      "village": "平等里",
+      "polling_station": "1898",
+      "agree_votes": 12,
+      "disagree_votes": 54,
+      "valid_votes": 66,
+      "invalid_votes": 0,
+      "total_voters": 66,
+      "ballots_not_cast": 0,
+      "ballots_issued": 66,
+      "unused_ballots": 161,
+      "eligible_voters": 227,
+      "turnout_rate": 29.07
+    }
+  ],
+  "VILLCODE": "66000290008",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000290",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "和平區",
+  "VILLNAME": "平等里"
+}

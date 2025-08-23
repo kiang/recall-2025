@@ -1,0 +1,40 @@
+{
+  "cunli": "石岡區_金星里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 153,
+    "disagree_votes": 393,
+    "valid_votes": 546,
+    "invalid_votes": 2,
+    "total_voters": 548,
+    "ballots_not_cast": 0,
+    "ballots_issued": 548,
+    "unused_ballots": 578,
+    "eligible_voters": 1126,
+    "average_turnout_rate": 48.67
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "石岡區",
+      "village": "金星里",
+      "polling_station": "1810",
+      "agree_votes": 153,
+      "disagree_votes": 393,
+      "valid_votes": 546,
+      "invalid_votes": 2,
+      "total_voters": 548,
+      "ballots_not_cast": 0,
+      "ballots_issued": 548,
+      "unused_ballots": 578,
+      "eligible_voters": 1126,
+      "turnout_rate": 48.67
+    }
+  ],
+  "VILLCODE": "66000200004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000200",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "石岡區",
+  "VILLNAME": "金星里"
+}

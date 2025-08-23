@@ -1,0 +1,40 @@
+{
+  "cunli": "東勢區_明正里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 165,
+    "disagree_votes": 387,
+    "valid_votes": 552,
+    "invalid_votes": 3,
+    "total_voters": 555,
+    "ballots_not_cast": 0,
+    "ballots_issued": 555,
+    "unused_ballots": 696,
+    "eligible_voters": 1251,
+    "average_turnout_rate": 44.36
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "東勢區",
+      "village": "明正里",
+      "polling_station": "1881",
+      "agree_votes": 165,
+      "disagree_votes": 387,
+      "valid_votes": 552,
+      "invalid_votes": 3,
+      "total_voters": 555,
+      "ballots_not_cast": 0,
+      "ballots_issued": 555,
+      "unused_ballots": 696,
+      "eligible_voters": 1251,
+      "turnout_rate": 44.36
+    }
+  ],
+  "VILLCODE": "66000100025",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000100",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "東勢區",
+  "VILLNAME": "明正里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "霧峰區_萊園里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 197,
+    "disagree_votes": 297,
+    "valid_votes": 494,
+    "invalid_votes": 9,
+    "total_voters": 503,
+    "ballots_not_cast": 0,
+    "ballots_issued": 503,
+    "unused_ballots": 461,
+    "eligible_voters": 964,
+    "average_turnout_rate": 52.18
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "萊園里",
+      "polling_station": "432",
+      "agree_votes": 197,
+      "disagree_votes": 297,
+      "valid_votes": 494,
+      "invalid_votes": 9,
+      "total_voters": 503,
+      "ballots_not_cast": 0,
+      "ballots_issued": 503,
+      "unused_ballots": 461,
+      "eligible_voters": 964,
+      "turnout_rate": 52.18
+    }
+  ],
+  "VILLCODE": "66000260007",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "萊園里"
+}

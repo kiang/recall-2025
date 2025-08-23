@@ -1,0 +1,40 @@
+{
+  "cunli": "竹山鎮_延山里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 147,
+    "disagree_votes": 199,
+    "valid_votes": 346,
+    "invalid_votes": 1,
+    "total_voters": 347,
+    "ballots_not_cast": 0,
+    "ballots_issued": 347,
+    "unused_ballots": 416,
+    "eligible_voters": 763,
+    "average_turnout_rate": 45.48
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "竹山鎮",
+      "village": "延山里",
+      "polling_station": "410",
+      "agree_votes": 147,
+      "disagree_votes": 199,
+      "valid_votes": 346,
+      "invalid_votes": 1,
+      "total_voters": 347,
+      "ballots_not_cast": 0,
+      "ballots_issued": 347,
+      "unused_ballots": 416,
+      "eligible_voters": 763,
+      "turnout_rate": 45.48
+    }
+  ],
+  "VILLCODE": "10008040013",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008040",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "竹山鎮",
+  "VILLNAME": "延山里"
+}

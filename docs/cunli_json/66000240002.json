@@ -1,0 +1,40 @@
+{
+  "cunli": "大肚區_中和里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 149,
+    "disagree_votes": 318,
+    "valid_votes": 467,
+    "invalid_votes": 11,
+    "total_voters": 478,
+    "ballots_not_cast": 0,
+    "ballots_issued": 478,
+    "unused_ballots": 311,
+    "eligible_voters": 789,
+    "average_turnout_rate": 60.58
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "中和里",
+      "polling_station": "326",
+      "agree_votes": 149,
+      "disagree_votes": 318,
+      "valid_votes": 467,
+      "invalid_votes": 11,
+      "total_voters": 478,
+      "ballots_not_cast": 0,
+      "ballots_issued": 478,
+      "unused_ballots": 311,
+      "eligible_voters": 789,
+      "turnout_rate": 60.58
+    }
+  ],
+  "VILLCODE": "66000240002",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "中和里"
+}

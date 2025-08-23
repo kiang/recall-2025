@@ -1,0 +1,40 @@
+{
+  "cunli": "烏日區_北里里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 312,
+    "disagree_votes": 481,
+    "valid_votes": 793,
+    "invalid_votes": 11,
+    "total_voters": 804,
+    "ballots_not_cast": 0,
+    "ballots_issued": 804,
+    "unused_ballots": 749,
+    "eligible_voters": 1553,
+    "average_turnout_rate": 51.77
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "烏日區",
+      "village": "北里里",
+      "polling_station": "411",
+      "agree_votes": 312,
+      "disagree_votes": 481,
+      "valid_votes": 793,
+      "invalid_votes": 11,
+      "total_voters": 804,
+      "ballots_not_cast": 0,
+      "ballots_issued": 804,
+      "unused_ballots": 749,
+      "eligible_voters": 1553,
+      "turnout_rate": 51.77
+    }
+  ],
+  "VILLCODE": "66000230014",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000230",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "烏日區",
+  "VILLNAME": "北里里"
+}

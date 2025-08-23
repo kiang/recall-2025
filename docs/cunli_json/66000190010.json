@@ -1,0 +1,40 @@
+{
+  "cunli": "新社區_東興里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 131,
+    "disagree_votes": 430,
+    "valid_votes": 561,
+    "invalid_votes": 4,
+    "total_voters": 565,
+    "ballots_not_cast": 0,
+    "ballots_issued": 565,
+    "unused_ballots": 605,
+    "eligible_voters": 1170,
+    "average_turnout_rate": 48.29
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "新社區",
+      "village": "東興里",
+      "polling_station": "1835",
+      "agree_votes": 131,
+      "disagree_votes": 430,
+      "valid_votes": 561,
+      "invalid_votes": 4,
+      "total_voters": 565,
+      "ballots_not_cast": 0,
+      "ballots_issued": 565,
+      "unused_ballots": 605,
+      "eligible_voters": 1170,
+      "turnout_rate": 48.29
+    }
+  ],
+  "VILLCODE": "66000190010",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000190",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "新社區",
+  "VILLNAME": "東興里"
+}

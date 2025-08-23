@@ -1,0 +1,40 @@
+{
+  "cunli": "北埔鄉_外坪村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 43,
+    "disagree_votes": 75,
+    "valid_votes": 118,
+    "invalid_votes": 2,
+    "total_voters": 120,
+    "ballots_not_cast": 0,
+    "ballots_issued": 120,
+    "unused_ballots": 145,
+    "eligible_voters": 265,
+    "average_turnout_rate": 45.28
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "北埔鄉",
+      "village": "外坪村",
+      "polling_station": "439",
+      "agree_votes": 43,
+      "disagree_votes": 75,
+      "valid_votes": 118,
+      "invalid_votes": 2,
+      "total_voters": 120,
+      "ballots_not_cast": 0,
+      "ballots_issued": 120,
+      "unused_ballots": 145,
+      "eligible_voters": 265,
+      "turnout_rate": 45.28
+    }
+  ],
+  "VILLCODE": "10004090009",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004090",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "北埔鄉",
+  "VILLNAME": "外坪村"
+}

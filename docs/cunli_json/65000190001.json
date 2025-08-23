@@ -1,0 +1,40 @@
+{
+  "cunli": "石碇區_石碇里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 74,
+    "disagree_votes": 105,
+    "valid_votes": 179,
+    "invalid_votes": 1,
+    "total_voters": 180,
+    "ballots_not_cast": 0,
+    "ballots_issued": 180,
+    "unused_ballots": 162,
+    "eligible_voters": 342,
+    "average_turnout_rate": 52.63
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "石碇區",
+      "village": "石碇里",
+      "polling_station": "2395",
+      "agree_votes": 74,
+      "disagree_votes": 105,
+      "valid_votes": 179,
+      "invalid_votes": 1,
+      "total_voters": 180,
+      "ballots_not_cast": 0,
+      "ballots_issued": 180,
+      "unused_ballots": 162,
+      "eligible_voters": 342,
+      "turnout_rate": 52.63
+    }
+  ],
+  "VILLCODE": "65000190001",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000190",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "石碇區",
+  "VILLNAME": "石碇里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "竹北市_興安里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 536,
+    "disagree_votes": 1150,
+    "valid_votes": 1686,
+    "invalid_votes": 11,
+    "total_voters": 1697,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1697,
+    "unused_ballots": 1890,
+    "eligible_voters": 3587,
+    "average_turnout_rate": 47.31
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹北市",
+      "village": "興安里",
+      "polling_station": "57",
+      "agree_votes": 187,
+      "disagree_votes": 391,
+      "valid_votes": 578,
+      "invalid_votes": 6,
+      "total_voters": 584,
+      "ballots_not_cast": 0,
+      "ballots_issued": 584,
+      "unused_ballots": 641,
+      "eligible_voters": 1225,
+      "turnout_rate": 47.67
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹北市",
+      "village": "興安里",
+      "polling_station": "58",
+      "agree_votes": 179,
+      "disagree_votes": 366,
+      "valid_votes": 545,
+      "invalid_votes": 2,
+      "total_voters": 547,
+      "ballots_not_cast": 0,
+      "ballots_issued": 547,
+      "unused_ballots": 598,
+      "eligible_voters": 1145,
+      "turnout_rate": 47.77
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "竹北市",
+      "village": "興安里",
+      "polling_station": "59",
+      "agree_votes": 170,
+      "disagree_votes": 393,
+      "valid_votes": 563,
+      "invalid_votes": 3,
+      "total_voters": 566,
+      "ballots_not_cast": 0,
+      "ballots_issued": 566,
+      "unused_ballots": 651,
+      "eligible_voters": 1217,
+      "turnout_rate": 46.51
+    }
+  ],
+  "VILLCODE": "10004010029",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004010",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "竹北市",
+  "VILLNAME": "興安里"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "南投市_千秋里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 161,
+    "disagree_votes": 288,
+    "valid_votes": 449,
+    "invalid_votes": 8,
+    "total_voters": 457,
+    "ballots_not_cast": 0,
+    "ballots_issued": 457,
+    "unused_ballots": 492,
+    "eligible_voters": 949,
+    "average_turnout_rate": 48.16
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "千秋里",
+      "polling_station": "272",
+      "agree_votes": 161,
+      "disagree_votes": 288,
+      "valid_votes": 449,
+      "invalid_votes": 8,
+      "total_voters": 457,
+      "ballots_not_cast": 0,
+      "ballots_issued": 457,
+      "unused_ballots": 492,
+      "eligible_voters": 949,
+      "turnout_rate": 48.16
+    }
+  ],
+  "VILLCODE": "10008010014",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "千秋里"
+}

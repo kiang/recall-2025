@@ -1,0 +1,72 @@
+{
+  "cunli": "豐原區_南田里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 581,
+    "disagree_votes": 938,
+    "valid_votes": 1519,
+    "invalid_votes": 24,
+    "total_voters": 1543,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1543,
+    "unused_ballots": 1438,
+    "eligible_voters": 2981,
+    "average_turnout_rate": 51.76
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "南田里",
+      "polling_station": "1791",
+      "agree_votes": 173,
+      "disagree_votes": 376,
+      "valid_votes": 549,
+      "invalid_votes": 9,
+      "total_voters": 558,
+      "ballots_not_cast": 0,
+      "ballots_issued": 558,
+      "unused_ballots": 501,
+      "eligible_voters": 1059,
+      "turnout_rate": 52.69
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "南田里",
+      "polling_station": "1792",
+      "agree_votes": 208,
+      "disagree_votes": 274,
+      "valid_votes": 482,
+      "invalid_votes": 6,
+      "total_voters": 488,
+      "ballots_not_cast": 0,
+      "ballots_issued": 488,
+      "unused_ballots": 505,
+      "eligible_voters": 993,
+      "turnout_rate": 49.14
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "南田里",
+      "polling_station": "1793",
+      "agree_votes": 200,
+      "disagree_votes": 288,
+      "valid_votes": 488,
+      "invalid_votes": 9,
+      "total_voters": 497,
+      "ballots_not_cast": 0,
+      "ballots_issued": 497,
+      "unused_ballots": 432,
+      "eligible_voters": 929,
+      "turnout_rate": 53.5
+    }
+  ],
+  "VILLCODE": "66000090031",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "南田里"
+}

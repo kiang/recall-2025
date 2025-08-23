@@ -1,0 +1,40 @@
+{
+  "cunli": "仁愛鄉_法治村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 4,
+    "disagree_votes": 8,
+    "valid_votes": 12,
+    "invalid_votes": 1,
+    "total_voters": 13,
+    "ballots_not_cast": 0,
+    "ballots_issued": 13,
+    "unused_ballots": 19,
+    "eligible_voters": 32,
+    "average_turnout_rate": 40.62
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "仁愛鄉",
+      "village": "法治村",
+      "polling_station": "186",
+      "agree_votes": 4,
+      "disagree_votes": 8,
+      "valid_votes": 12,
+      "invalid_votes": 1,
+      "total_voters": 13,
+      "ballots_not_cast": 0,
+      "ballots_issued": 13,
+      "unused_ballots": 19,
+      "eligible_voters": 32,
+      "turnout_rate": 40.63
+    }
+  ],
+  "VILLCODE": "10008130001",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008130",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "仁愛鄉",
+  "VILLNAME": "法治村"
+}

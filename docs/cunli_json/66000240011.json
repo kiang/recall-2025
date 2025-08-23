@@ -1,0 +1,40 @@
+{
+  "cunli": "大肚區_永順里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 298,
+    "disagree_votes": 540,
+    "valid_votes": 838,
+    "invalid_votes": 17,
+    "total_voters": 855,
+    "ballots_not_cast": 0,
+    "ballots_issued": 855,
+    "unused_ballots": 746,
+    "eligible_voters": 1601,
+    "average_turnout_rate": 53.4
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "永順里",
+      "polling_station": "342",
+      "agree_votes": 298,
+      "disagree_votes": 540,
+      "valid_votes": 838,
+      "invalid_votes": 17,
+      "total_voters": 855,
+      "ballots_not_cast": 0,
+      "ballots_issued": 855,
+      "unused_ballots": 746,
+      "eligible_voters": 1601,
+      "turnout_rate": 53.4
+    }
+  ],
+  "VILLCODE": "66000240011",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "永順里"
+}

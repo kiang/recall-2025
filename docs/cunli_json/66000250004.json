@@ -1,0 +1,72 @@
+{
+  "cunli": "龍井區_田中里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 625,
+    "disagree_votes": 1356,
+    "valid_votes": 1981,
+    "invalid_votes": 23,
+    "total_voters": 2004,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2004,
+    "unused_ballots": 1925,
+    "eligible_voters": 3929,
+    "average_turnout_rate": 51.01
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "龍井區",
+      "village": "田中里",
+      "polling_station": "279",
+      "agree_votes": 262,
+      "disagree_votes": 501,
+      "valid_votes": 763,
+      "invalid_votes": 9,
+      "total_voters": 772,
+      "ballots_not_cast": 0,
+      "ballots_issued": 772,
+      "unused_ballots": 782,
+      "eligible_voters": 1554,
+      "turnout_rate": 49.68
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "龍井區",
+      "village": "田中里",
+      "polling_station": "280",
+      "agree_votes": 202,
+      "disagree_votes": 474,
+      "valid_votes": 676,
+      "invalid_votes": 5,
+      "total_voters": 681,
+      "ballots_not_cast": 0,
+      "ballots_issued": 681,
+      "unused_ballots": 638,
+      "eligible_voters": 1319,
+      "turnout_rate": 51.63
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "龍井區",
+      "village": "田中里",
+      "polling_station": "281",
+      "agree_votes": 161,
+      "disagree_votes": 381,
+      "valid_votes": 542,
+      "invalid_votes": 9,
+      "total_voters": 551,
+      "ballots_not_cast": 0,
+      "ballots_issued": 551,
+      "unused_ballots": 505,
+      "eligible_voters": 1056,
+      "turnout_rate": 52.18
+    }
+  ],
+  "VILLCODE": "66000250004",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000250",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "龍井區",
+  "VILLNAME": "田中里"
+}

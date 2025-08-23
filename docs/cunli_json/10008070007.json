@@ -1,0 +1,40 @@
+{
+  "cunli": "鹿谷鄉_竹豐村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 95,
+    "disagree_votes": 334,
+    "valid_votes": 429,
+    "invalid_votes": 6,
+    "total_voters": 435,
+    "ballots_not_cast": 0,
+    "ballots_issued": 435,
+    "unused_ballots": 368,
+    "eligible_voters": 803,
+    "average_turnout_rate": 54.17
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "鹿谷鄉",
+      "village": "竹豐村",
+      "polling_station": "444",
+      "agree_votes": 95,
+      "disagree_votes": 334,
+      "valid_votes": 429,
+      "invalid_votes": 6,
+      "total_voters": 435,
+      "ballots_not_cast": 0,
+      "ballots_issued": 435,
+      "unused_ballots": 368,
+      "eligible_voters": 803,
+      "turnout_rate": 54.17
+    }
+  ],
+  "VILLCODE": "10008070007",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008070",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "鹿谷鄉",
+  "VILLNAME": "竹豐村"
+}

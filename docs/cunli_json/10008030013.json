@@ -1,0 +1,72 @@
+{
+  "cunli": "草屯鎮_新庄里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 595,
+    "disagree_votes": 1175,
+    "valid_votes": 1770,
+    "invalid_votes": 21,
+    "total_voters": 1791,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1791,
+    "unused_ballots": 1836,
+    "eligible_voters": 3627,
+    "average_turnout_rate": 49.38
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "新庄里",
+      "polling_station": "47",
+      "agree_votes": 198,
+      "disagree_votes": 341,
+      "valid_votes": 539,
+      "invalid_votes": 8,
+      "total_voters": 547,
+      "ballots_not_cast": 0,
+      "ballots_issued": 547,
+      "unused_ballots": 556,
+      "eligible_voters": 1103,
+      "turnout_rate": 49.59
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "新庄里",
+      "polling_station": "48",
+      "agree_votes": 166,
+      "disagree_votes": 398,
+      "valid_votes": 564,
+      "invalid_votes": 8,
+      "total_voters": 572,
+      "ballots_not_cast": 0,
+      "ballots_issued": 572,
+      "unused_ballots": 518,
+      "eligible_voters": 1090,
+      "turnout_rate": 52.48
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "草屯鎮",
+      "village": "新庄里",
+      "polling_station": "49",
+      "agree_votes": 231,
+      "disagree_votes": 436,
+      "valid_votes": 667,
+      "invalid_votes": 5,
+      "total_voters": 672,
+      "ballots_not_cast": 0,
+      "ballots_issued": 672,
+      "unused_ballots": 762,
+      "eligible_voters": 1434,
+      "turnout_rate": 46.86
+    }
+  ],
+  "VILLCODE": "10008030013",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008030",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "草屯鎮",
+  "VILLNAME": "新庄里"
+}

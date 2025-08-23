@@ -1,0 +1,40 @@
+{
+  "cunli": "烏來區_信賢里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 44,
+    "disagree_votes": 48,
+    "valid_votes": 92,
+    "invalid_votes": 0,
+    "total_voters": 92,
+    "ballots_not_cast": 0,
+    "ballots_issued": 92,
+    "unused_ballots": 177,
+    "eligible_voters": 269,
+    "average_turnout_rate": 34.2
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "烏來區",
+      "village": "信賢里",
+      "polling_station": "2423",
+      "agree_votes": 44,
+      "disagree_votes": 48,
+      "valid_votes": 92,
+      "invalid_votes": 0,
+      "total_voters": 92,
+      "ballots_not_cast": 0,
+      "ballots_issued": 92,
+      "unused_ballots": 177,
+      "eligible_voters": 269,
+      "turnout_rate": 34.2
+    }
+  ],
+  "VILLCODE": "65000290004",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000290",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "烏來區",
+  "VILLNAME": "信賢里"
+}

@@ -1,0 +1,72 @@
+{
+  "cunli": "埔里鎮_蜈蚣里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 339,
+    "disagree_votes": 689,
+    "valid_votes": 1028,
+    "invalid_votes": 9,
+    "total_voters": 1037,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1037,
+    "unused_ballots": 1153,
+    "eligible_voters": 2190,
+    "average_turnout_rate": 47.35
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "蜈蚣里",
+      "polling_station": "132",
+      "agree_votes": 143,
+      "disagree_votes": 358,
+      "valid_votes": 501,
+      "invalid_votes": 4,
+      "total_voters": 505,
+      "ballots_not_cast": 0,
+      "ballots_issued": 505,
+      "unused_ballots": 521,
+      "eligible_voters": 1026,
+      "turnout_rate": 49.22
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "蜈蚣里",
+      "polling_station": "133",
+      "agree_votes": 133,
+      "disagree_votes": 231,
+      "valid_votes": 364,
+      "invalid_votes": 3,
+      "total_voters": 367,
+      "ballots_not_cast": 0,
+      "ballots_issued": 367,
+      "unused_ballots": 414,
+      "eligible_voters": 781,
+      "turnout_rate": 46.99
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "埔里鎮",
+      "village": "蜈蚣里",
+      "polling_station": "134",
+      "agree_votes": 63,
+      "disagree_votes": 100,
+      "valid_votes": 163,
+      "invalid_votes": 2,
+      "total_voters": 165,
+      "ballots_not_cast": 0,
+      "ballots_issued": 165,
+      "unused_ballots": 218,
+      "eligible_voters": 383,
+      "turnout_rate": 43.08
+    }
+  ],
+  "VILLCODE": "10008020028",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008020",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "埔里鎮",
+  "VILLNAME": "蜈蚣里"
+}

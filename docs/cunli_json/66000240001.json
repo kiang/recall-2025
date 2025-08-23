@@ -1,0 +1,72 @@
+{
+  "cunli": "大肚區_王田里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 765,
+    "disagree_votes": 1289,
+    "valid_votes": 2054,
+    "invalid_votes": 18,
+    "total_voters": 2072,
+    "ballots_not_cast": 0,
+    "ballots_issued": 2072,
+    "unused_ballots": 2076,
+    "eligible_voters": 4148,
+    "average_turnout_rate": 49.95
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "王田里",
+      "polling_station": "323",
+      "agree_votes": 309,
+      "disagree_votes": 439,
+      "valid_votes": 748,
+      "invalid_votes": 9,
+      "total_voters": 757,
+      "ballots_not_cast": 0,
+      "ballots_issued": 757,
+      "unused_ballots": 738,
+      "eligible_voters": 1495,
+      "turnout_rate": 50.64
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "王田里",
+      "polling_station": "324",
+      "agree_votes": 228,
+      "disagree_votes": 395,
+      "valid_votes": 623,
+      "invalid_votes": 4,
+      "total_voters": 627,
+      "ballots_not_cast": 0,
+      "ballots_issued": 627,
+      "unused_ballots": 659,
+      "eligible_voters": 1286,
+      "turnout_rate": 48.76
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "王田里",
+      "polling_station": "325",
+      "agree_votes": 228,
+      "disagree_votes": 455,
+      "valid_votes": 683,
+      "invalid_votes": 5,
+      "total_voters": 688,
+      "ballots_not_cast": 0,
+      "ballots_issued": 688,
+      "unused_ballots": 679,
+      "eligible_voters": 1367,
+      "turnout_rate": 50.33
+    }
+  ],
+  "VILLCODE": "66000240001",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "王田里"
+}

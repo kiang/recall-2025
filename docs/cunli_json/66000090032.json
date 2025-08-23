@@ -1,0 +1,72 @@
+{
+  "cunli": "豐原區_南嵩里",
+  "total_records": 3,
+  "sum_fields": {
+    "agree_votes": 616,
+    "disagree_votes": 994,
+    "valid_votes": 1610,
+    "invalid_votes": 16,
+    "total_voters": 1626,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1626,
+    "unused_ballots": 1597,
+    "eligible_voters": 3223,
+    "average_turnout_rate": 50.45
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "南嵩里",
+      "polling_station": "1794",
+      "agree_votes": 197,
+      "disagree_votes": 309,
+      "valid_votes": 506,
+      "invalid_votes": 5,
+      "total_voters": 511,
+      "ballots_not_cast": 0,
+      "ballots_issued": 511,
+      "unused_ballots": 439,
+      "eligible_voters": 950,
+      "turnout_rate": 53.79
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "南嵩里",
+      "polling_station": "1795",
+      "agree_votes": 176,
+      "disagree_votes": 301,
+      "valid_votes": 477,
+      "invalid_votes": 6,
+      "total_voters": 483,
+      "ballots_not_cast": 0,
+      "ballots_issued": 483,
+      "unused_ballots": 588,
+      "eligible_voters": 1071,
+      "turnout_rate": 45.1
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "豐原區",
+      "village": "南嵩里",
+      "polling_station": "1796",
+      "agree_votes": 243,
+      "disagree_votes": 384,
+      "valid_votes": 627,
+      "invalid_votes": 5,
+      "total_voters": 632,
+      "ballots_not_cast": 0,
+      "ballots_issued": 632,
+      "unused_ballots": 570,
+      "eligible_voters": 1202,
+      "turnout_rate": 52.58
+    }
+  ],
+  "VILLCODE": "66000090032",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000090",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "豐原區",
+  "VILLNAME": "南嵩里"
+}

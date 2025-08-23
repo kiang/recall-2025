@@ -1,0 +1,40 @@
+{
+  "cunli": "中寮鄉_內城村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 62,
+    "disagree_votes": 128,
+    "valid_votes": 190,
+    "invalid_votes": 0,
+    "total_voters": 190,
+    "ballots_not_cast": 0,
+    "ballots_issued": 190,
+    "unused_ballots": 250,
+    "eligible_voters": 440,
+    "average_turnout_rate": 43.18
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "中寮鄉",
+      "village": "內城村",
+      "polling_station": "209",
+      "agree_votes": 62,
+      "disagree_votes": 128,
+      "valid_votes": 190,
+      "invalid_votes": 0,
+      "total_voters": 190,
+      "ballots_not_cast": 0,
+      "ballots_issued": 190,
+      "unused_ballots": 250,
+      "eligible_voters": 440,
+      "turnout_rate": 43.18
+    }
+  ],
+  "VILLCODE": "10008080016",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008080",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "中寮鄉",
+  "VILLNAME": "內城村"
+}

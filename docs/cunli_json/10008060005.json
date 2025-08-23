@@ -1,0 +1,40 @@
+{
+  "cunli": "名間鄉_炭寮村",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 184,
+    "disagree_votes": 237,
+    "valid_votes": 421,
+    "invalid_votes": 2,
+    "total_voters": 423,
+    "ballots_not_cast": 1,
+    "ballots_issued": 424,
+    "unused_ballots": 470,
+    "eligible_voters": 894,
+    "average_turnout_rate": 47.32
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "名間鄉",
+      "village": "炭寮村",
+      "polling_station": "335",
+      "agree_votes": 184,
+      "disagree_votes": 237,
+      "valid_votes": 421,
+      "invalid_votes": 2,
+      "total_voters": 423,
+      "ballots_not_cast": 1,
+      "ballots_issued": 424,
+      "unused_ballots": 470,
+      "eligible_voters": 894,
+      "turnout_rate": 47.32
+    }
+  ],
+  "VILLCODE": "10008060005",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008060",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "名間鄉",
+  "VILLNAME": "炭寮村"
+}

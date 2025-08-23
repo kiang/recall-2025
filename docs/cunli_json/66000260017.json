@@ -1,0 +1,56 @@
+{
+  "cunli": "霧峰區_六股里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 467,
+    "disagree_votes": 716,
+    "valid_votes": 1183,
+    "invalid_votes": 17,
+    "total_voters": 1200,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1200,
+    "unused_ballots": 1003,
+    "eligible_voters": 2203,
+    "average_turnout_rate": 54.47
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "六股里",
+      "polling_station": "460",
+      "agree_votes": 262,
+      "disagree_votes": 349,
+      "valid_votes": 611,
+      "invalid_votes": 9,
+      "total_voters": 620,
+      "ballots_not_cast": 0,
+      "ballots_issued": 620,
+      "unused_ballots": 469,
+      "eligible_voters": 1089,
+      "turnout_rate": 56.93
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "霧峰區",
+      "village": "六股里",
+      "polling_station": "461",
+      "agree_votes": 205,
+      "disagree_votes": 367,
+      "valid_votes": 572,
+      "invalid_votes": 8,
+      "total_voters": 580,
+      "ballots_not_cast": 0,
+      "ballots_issued": 580,
+      "unused_ballots": 534,
+      "eligible_voters": 1114,
+      "turnout_rate": 52.06
+    }
+  ],
+  "VILLCODE": "66000260017",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000260",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "霧峰區",
+  "VILLNAME": "六股里"
+}

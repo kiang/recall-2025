@@ -1,0 +1,56 @@
+{
+  "cunli": "新店區_美城里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 389,
+    "disagree_votes": 814,
+    "valid_votes": 1203,
+    "invalid_votes": 12,
+    "total_voters": 1215,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1215,
+    "unused_ballots": 1108,
+    "eligible_voters": 2323,
+    "average_turnout_rate": 52.3
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "美城里",
+      "polling_station": "2275",
+      "agree_votes": 185,
+      "disagree_votes": 425,
+      "valid_votes": 610,
+      "invalid_votes": 9,
+      "total_voters": 619,
+      "ballots_not_cast": 0,
+      "ballots_issued": 619,
+      "unused_ballots": 563,
+      "eligible_voters": 1182,
+      "turnout_rate": 52.37
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "美城里",
+      "polling_station": "2276",
+      "agree_votes": 204,
+      "disagree_votes": 389,
+      "valid_votes": 593,
+      "invalid_votes": 3,
+      "total_voters": 596,
+      "ballots_not_cast": 0,
+      "ballots_issued": 596,
+      "unused_ballots": 545,
+      "eligible_voters": 1141,
+      "turnout_rate": 52.23
+    }
+  ],
+  "VILLCODE": "65000060063",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000060",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "新店區",
+  "VILLNAME": "美城里"
+}

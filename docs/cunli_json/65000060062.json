@@ -1,0 +1,56 @@
+{
+  "cunli": "新店區_復興里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 396,
+    "disagree_votes": 798,
+    "valid_votes": 1194,
+    "invalid_votes": 11,
+    "total_voters": 1205,
+    "ballots_not_cast": 0,
+    "ballots_issued": 1205,
+    "unused_ballots": 1421,
+    "eligible_voters": 2626,
+    "average_turnout_rate": 45.89
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "復興里",
+      "polling_station": "2250",
+      "agree_votes": 235,
+      "disagree_votes": 360,
+      "valid_votes": 595,
+      "invalid_votes": 4,
+      "total_voters": 599,
+      "ballots_not_cast": 0,
+      "ballots_issued": 599,
+      "unused_ballots": 753,
+      "eligible_voters": 1352,
+      "turnout_rate": 44.3
+    },
+    {
+      "recall_case": "第11屆立法委員(新北市第11選舉區)羅明才罷免案各投開票所投開票結果表",
+      "district": "新店區",
+      "village": "復興里",
+      "polling_station": "2251",
+      "agree_votes": 161,
+      "disagree_votes": 438,
+      "valid_votes": 599,
+      "invalid_votes": 7,
+      "total_voters": 606,
+      "ballots_not_cast": 0,
+      "ballots_issued": 606,
+      "unused_ballots": 668,
+      "eligible_voters": 1274,
+      "turnout_rate": 47.57
+    }
+  ],
+  "VILLCODE": "65000060062",
+  "COUNTYCODE": "65000",
+  "TOWNCODE": "65000060",
+  "COUNTYNAME": "新北市",
+  "TOWNNAME": "新店區",
+  "VILLNAME": "復興里"
+}

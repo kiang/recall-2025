@@ -1,0 +1,56 @@
+{
+  "cunli": "魚池鄉_五城村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 93,
+    "disagree_votes": 198,
+    "valid_votes": 291,
+    "invalid_votes": 2,
+    "total_voters": 293,
+    "ballots_not_cast": 0,
+    "ballots_issued": 293,
+    "unused_ballots": 338,
+    "eligible_voters": 631,
+    "average_turnout_rate": 46.43
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "五城村",
+      "polling_station": "231",
+      "agree_votes": 60,
+      "disagree_votes": 143,
+      "valid_votes": 203,
+      "invalid_votes": 2,
+      "total_voters": 205,
+      "ballots_not_cast": 0,
+      "ballots_issued": 205,
+      "unused_ballots": 268,
+      "eligible_voters": 473,
+      "turnout_rate": 43.34
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "魚池鄉",
+      "village": "五城村",
+      "polling_station": "232",
+      "agree_votes": 33,
+      "disagree_votes": 55,
+      "valid_votes": 88,
+      "invalid_votes": 0,
+      "total_voters": 88,
+      "ballots_not_cast": 0,
+      "ballots_issued": 88,
+      "unused_ballots": 70,
+      "eligible_voters": 158,
+      "turnout_rate": 55.7
+    }
+  ],
+  "VILLCODE": "10008090009",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008090",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "魚池鄉",
+  "VILLNAME": "五城村"
+}

@@ -1,0 +1,40 @@
+{
+  "cunli": "大肚區_磺溪里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 251,
+    "disagree_votes": 601,
+    "valid_votes": 852,
+    "invalid_votes": 12,
+    "total_voters": 864,
+    "ballots_not_cast": 0,
+    "ballots_issued": 864,
+    "unused_ballots": 739,
+    "eligible_voters": 1603,
+    "average_turnout_rate": 53.9
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第2選舉區)顏寬恒罷免案各投開票所投開票結果表",
+      "district": "大肚區",
+      "village": "磺溪里",
+      "polling_station": "341",
+      "agree_votes": 251,
+      "disagree_votes": 601,
+      "valid_votes": 852,
+      "invalid_votes": 12,
+      "total_voters": 864,
+      "ballots_not_cast": 0,
+      "ballots_issued": 864,
+      "unused_ballots": 739,
+      "eligible_voters": 1603,
+      "turnout_rate": 53.9
+    }
+  ],
+  "VILLCODE": "66000240010",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000240",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "大肚區",
+  "VILLNAME": "磺溪里"
+}

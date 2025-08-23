@@ -1,0 +1,40 @@
+{
+  "cunli": "南投市_光華里",
+  "total_records": 1,
+  "sum_fields": {
+    "agree_votes": 45,
+    "disagree_votes": 255,
+    "valid_votes": 300,
+    "invalid_votes": 3,
+    "total_voters": 303,
+    "ballots_not_cast": 0,
+    "ballots_issued": 303,
+    "unused_ballots": 202,
+    "eligible_voters": 505,
+    "average_turnout_rate": 60.0
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第2選舉區)游顥罷免案各投開票所投開票結果表",
+      "district": "南投市",
+      "village": "光華里",
+      "polling_station": "296",
+      "agree_votes": 45,
+      "disagree_votes": 255,
+      "valid_votes": 300,
+      "invalid_votes": 3,
+      "total_voters": 303,
+      "ballots_not_cast": 0,
+      "ballots_issued": 303,
+      "unused_ballots": 202,
+      "eligible_voters": 505,
+      "turnout_rate": 60.0
+    }
+  ],
+  "VILLCODE": "10008010031",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008010",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "南投市",
+  "VILLNAME": "光華里"
+}

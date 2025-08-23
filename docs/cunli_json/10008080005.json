@@ -1,0 +1,56 @@
+{
+  "cunli": "中寮鄉_福盛村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 92,
+    "disagree_votes": 206,
+    "valid_votes": 298,
+    "invalid_votes": 4,
+    "total_voters": 302,
+    "ballots_not_cast": 0,
+    "ballots_issued": 302,
+    "unused_ballots": 303,
+    "eligible_voters": 605,
+    "average_turnout_rate": 49.92
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "中寮鄉",
+      "village": "福盛村",
+      "polling_station": "196",
+      "agree_votes": 47,
+      "disagree_votes": 115,
+      "valid_votes": 162,
+      "invalid_votes": 4,
+      "total_voters": 166,
+      "ballots_not_cast": 0,
+      "ballots_issued": 166,
+      "unused_ballots": 158,
+      "eligible_voters": 324,
+      "turnout_rate": 51.23
+    },
+    {
+      "recall_case": "第11屆立法委員(南投縣第1選舉區)馬文君罷免案各投開票所投開票結果表",
+      "district": "中寮鄉",
+      "village": "福盛村",
+      "polling_station": "197",
+      "agree_votes": 45,
+      "disagree_votes": 91,
+      "valid_votes": 136,
+      "invalid_votes": 0,
+      "total_voters": 136,
+      "ballots_not_cast": 0,
+      "ballots_issued": 136,
+      "unused_ballots": 145,
+      "eligible_voters": 281,
+      "turnout_rate": 48.4
+    }
+  ],
+  "VILLCODE": "10008080005",
+  "COUNTYCODE": "10008",
+  "TOWNCODE": "10008080",
+  "COUNTYNAME": "南投縣",
+  "TOWNNAME": "中寮鄉",
+  "VILLNAME": "福盛村"
+}

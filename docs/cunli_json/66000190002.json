@@ -1,0 +1,56 @@
+{
+  "cunli": "新社區_復盛里",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 175,
+    "disagree_votes": 543,
+    "valid_votes": 718,
+    "invalid_votes": 8,
+    "total_voters": 726,
+    "ballots_not_cast": 0,
+    "ballots_issued": 726,
+    "unused_ballots": 933,
+    "eligible_voters": 1659,
+    "average_turnout_rate": 43.76
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "新社區",
+      "village": "復盛里",
+      "polling_station": "1821",
+      "agree_votes": 84,
+      "disagree_votes": 252,
+      "valid_votes": 336,
+      "invalid_votes": 3,
+      "total_voters": 339,
+      "ballots_not_cast": 0,
+      "ballots_issued": 339,
+      "unused_ballots": 469,
+      "eligible_voters": 808,
+      "turnout_rate": 41.96
+    },
+    {
+      "recall_case": "第11屆立法委員(臺中市第8選舉區)江啟臣罷免案各投開票所投開票結果表",
+      "district": "新社區",
+      "village": "復盛里",
+      "polling_station": "1822",
+      "agree_votes": 91,
+      "disagree_votes": 291,
+      "valid_votes": 382,
+      "invalid_votes": 5,
+      "total_voters": 387,
+      "ballots_not_cast": 0,
+      "ballots_issued": 387,
+      "unused_ballots": 464,
+      "eligible_voters": 851,
+      "turnout_rate": 45.48
+    }
+  ],
+  "VILLCODE": "66000190002",
+  "COUNTYCODE": "66000",
+  "TOWNCODE": "66000190",
+  "COUNTYNAME": "臺中市",
+  "TOWNNAME": "新社區",
+  "VILLNAME": "復盛里"
+}

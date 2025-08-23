@@ -1,0 +1,56 @@
+{
+  "cunli": "五峰鄉_大隘村",
+  "total_records": 2,
+  "sum_fields": {
+    "agree_votes": 5,
+    "disagree_votes": 24,
+    "valid_votes": 29,
+    "invalid_votes": 0,
+    "total_voters": 29,
+    "ballots_not_cast": 0,
+    "ballots_issued": 29,
+    "unused_ballots": 52,
+    "eligible_voters": 81,
+    "average_turnout_rate": 35.8
+  },
+  "records": [
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "五峰鄉",
+      "village": "大隘村",
+      "polling_station": "477",
+      "agree_votes": 2,
+      "disagree_votes": 15,
+      "valid_votes": 17,
+      "invalid_votes": 0,
+      "total_voters": 17,
+      "ballots_not_cast": 0,
+      "ballots_issued": 17,
+      "unused_ballots": 32,
+      "eligible_voters": 49,
+      "turnout_rate": 34.69
+    },
+    {
+      "recall_case": "第11屆立法委員(新竹縣第2選舉區)林思銘罷免案各投開票所投開票結果表",
+      "district": "五峰鄉",
+      "village": "大隘村",
+      "polling_station": "478",
+      "agree_votes": 3,
+      "disagree_votes": 9,
+      "valid_votes": 12,
+      "invalid_votes": 0,
+      "total_voters": 12,
+      "ballots_not_cast": 0,
+      "ballots_issued": 12,
+      "unused_ballots": 20,
+      "eligible_voters": 32,
+      "turnout_rate": 37.5
+    }
+  ],
+  "VILLCODE": "10004130001",
+  "COUNTYCODE": "10004",
+  "TOWNCODE": "10004130",
+  "COUNTYNAME": "新竹縣",
+  "TOWNNAME": "五峰鄉",
+  "VILLNAME": "大隘村"
+}
