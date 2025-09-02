@@ -29359,6 +29359,22 @@
       "average_turnout_rate": 42.01
     }
   },
+  "10008040005": {
+    "cunli": "竹山鎮_硘磘里",
+    "district": "竹山鎮",
+    "village": "硘磘里",
+    "county": "南投縣",
+    "total_records": 2,
+    "sum_fields": {
+      "agree_votes": 295,
+      "disagree_votes": 471,
+      "valid_votes": 766,
+      "invalid_votes": 7,
+      "total_voters": 773,
+      "eligible_voters": 1711,
+      "average_turnout_rate": 45.18
+    }
+  },
   "10008040010": {
     "cunli": "竹山鎮_德興里",
     "district": "竹山鎮",
@@ -41213,6 +41229,22 @@
       "total_voters": 373,
       "eligible_voters": 1038,
       "average_turnout_rate": 35.93
+    }
+  },
+  "65000200004": {
+    "cunli": "坪林區_石𥕢里",
+    "district": "坪林區",
+    "village": "石𥕢里",
+    "county": "新北市",
+    "total_records": 1,
+    "sum_fields": {
+      "agree_votes": 54,
+      "disagree_votes": 58,
+      "valid_votes": 112,
+      "invalid_votes": 2,
+      "total_voters": 114,
+      "eligible_voters": 387,
+      "average_turnout_rate": 29.46
     }
   },
   "65000200001": {

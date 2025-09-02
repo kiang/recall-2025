@@ -253,8 +253,13 @@ def main():
             for k, v in villcode_info.items():
                 data[k] = v
             villcode = villcode_info['VILLCODE']
-            filename = villcode
-            villcode_files.append(villcode)
+            # Handle case where VILLCODE might be a list (combined villages)
+            if isinstance(villcode, list):
+                filename = villcode[0]  # Use first code for filename
+                villcode_files.extend(villcode)  # Add all codes to list
+            else:
+                filename = villcode
+                villcode_files.append(villcode)
         elif county:
             # Normalize county name
             county = normalize_district_name(county)
@@ -278,6 +283,22 @@ def main():
                     'villcode': '',  # Empty for manual filling
                     'note': 'Please fill VILLCODE manually'
                 })
+        
+        # Special case: Fix data error for village 65000040036 (新北市永和區光復里)
+        # According to UDN news report, the agree and disagree votes were swapped
+        # Reference: https://udn.com/news/story/124323/8903780
+        if villcode == '65000040036' or (data.get('VILLCODE') == '65000040036'):
+            print(f"Applying data correction for 65000040036 (新北市永和區光復里): exchanging agree/disagree votes")
+            # Exchange agree and disagree votes in sum_fields
+            original_agree = data['sum_fields']['agree_votes']
+            data['sum_fields']['agree_votes'] = data['sum_fields']['disagree_votes']
+            data['sum_fields']['disagree_votes'] = original_agree
+            
+            # Also exchange in individual records
+            for record in data['records']:
+                original_record_agree = record['agree_votes']
+                record['agree_votes'] = record['disagree_votes']
+                record['disagree_votes'] = original_record_agree
         
         output_file = f"docs/cunli_json/{filename}.json"
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -303,14 +324,31 @@ def main():
     cunli_summary = {}
     
     for cunli_key, records in cunli_merged.items():
-        # Calculate sum fields
+        # Check if this needs data correction first (before calculating sums)
+        # Special case: village 65000040036 (新北市永和區光復里) has swapped agree/disagree votes
+        # Reference: https://udn.com/news/story/124323/8903780
+        needs_correction = (cunli_key == '永和區_光復里')
+        
+        # Apply correction to records if needed
+        corrected_records = records
+        if needs_correction:
+            corrected_records = []
+            for r in records:
+                corrected_record = r.copy()
+                # Exchange agree and disagree votes
+                original_agree = corrected_record['agree_votes']
+                corrected_record['agree_votes'] = corrected_record['disagree_votes']
+                corrected_record['disagree_votes'] = original_agree
+                corrected_records.append(corrected_record)
+        
+        # Calculate sum fields from (possibly corrected) records
         sum_fields = {
-            'agree_votes': sum(r['agree_votes'] for r in records),
-            'disagree_votes': sum(r['disagree_votes'] for r in records),
-            'valid_votes': sum(r['valid_votes'] for r in records),
-            'invalid_votes': sum(r['invalid_votes'] for r in records),
-            'total_voters': sum(r['total_voters'] for r in records),
-            'eligible_voters': sum(r['eligible_voters'] for r in records)
+            'agree_votes': sum(r['agree_votes'] for r in corrected_records),
+            'disagree_votes': sum(r['disagree_votes'] for r in corrected_records),
+            'valid_votes': sum(r['valid_votes'] for r in corrected_records),
+            'invalid_votes': sum(r['invalid_votes'] for r in corrected_records),
+            'total_voters': sum(r['total_voters'] for r in corrected_records),
+            'eligible_voters': sum(r['eligible_voters'] for r in corrected_records)
         }
         
         # Calculate average turnout rate
@@ -336,6 +374,9 @@ def main():
         # First check manual mappings
         if cunli_key in manual_villcode_map:
             villcode = manual_villcode_map[cunli_key]['VILLCODE']
+            # Handle list of VILLCODEs for combined villages
+            if isinstance(villcode, list):
+                villcode = villcode[0]  # Use first code for summary
         elif county:
             # Normalize county name
             county = normalize_district_name(county)
@@ -433,7 +474,11 @@ def main():
                 
                 # Try to get VILLCODE
                 if cunli_key in manual_villcode_map:
-                    case_villcodes.add(manual_villcode_map[cunli_key]['VILLCODE'])
+                    villcode = manual_villcode_map[cunli_key]['VILLCODE']
+                    if isinstance(villcode, list):
+                        case_villcodes.update(villcode)  # Add all codes from list
+                    else:
+                        case_villcodes.add(villcode)
                 elif county:
                     # Normalize county name
                     county = normalize_district_name(county)

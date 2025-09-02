@@ -101,6 +101,16 @@ def combine_data(cunli_data, election_data):
         recall_data = cunli_info['sum_fields'].copy()
         recall_case_name = cunli_info['records'][0]['recall_case'] if cunli_info['records'] else ""
         
+        # Special case: Fix data error for village 65000040036 (新北市永和區光復里)
+        # According to UDN news report, the agree and disagree votes were swapped
+        # Reference: https://udn.com/news/story/124323/8903780
+        if cunli_info.get('VILLCODE') == '65000040036':
+            # Exchange agree and disagree votes
+            original_agree = recall_data['agree_votes']
+            recall_data['agree_votes'] = recall_data['disagree_votes']
+            recall_data['disagree_votes'] = original_agree
+            print(f"Applied data correction for 65000040036: agree/disagree votes exchanged (ref: UDN news)")
+        
         # Check if there are multiple different recall cases
         recall_cases = set(record['recall_case'] for record in cunli_info['records'])
         

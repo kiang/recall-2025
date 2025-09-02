@@ -2,7 +2,7 @@
   "total_files_processed": 32,
   "total_records": 7988,
   "total_cunli": 2976,
-  "villcode_files": 2973,
+  "villcode_files": 2977,
   "file_naming": "VILLCODE (where available), cunli name (fallback)",
   "villcode_list": [
     "10004010001",
@@ -187,6 +187,7 @@
     "10008040002",
     "10008040003",
     "10008040004",
+    "10008040005",
     "10008040006",
     "10008040007",
     "10008040008",
@@ -279,8 +280,10 @@
     "10008090002",
     "10008090003",
     "10008090004",
+    "10008090004",
     "10008090005",
     "10008090006",
+    "10008090007",
     "10008090007",
     "10008090008",
     "10008090009",
@@ -1905,6 +1908,7 @@
     "65000200001",
     "65000200002",
     "65000200003",
+    "65000200004",
     "65000200005",
     "65000200006",
     "65000200007",
@@ -5958,5 +5962,5 @@
     "龜山區_龜山里"
   ],
   "note": "Files are named using official Taiwan VILLCODE for precise geographic identification",
-  "manual_mappings_applied": 9
+  "manual_mappings_applied": 12
 }

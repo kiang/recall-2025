@@ -5,7 +5,23 @@
     "village": "新城村、共和村",
     "county": "南投縣",
     "villcode": ["10008090004", "10008090007"],
-    "note": "Combined village: 新城村 (10008090004) + 共和村 (10008090007)"
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "中和區_瓦磘里",
+    "district": "中和區",
+    "village": "瓦磘里",
+    "county": "新北市",
+    "villcode": "65000030017",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "中和區_灰磘里",
+    "district": "中和區",
+    "village": "灰磘里",
+    "county": "新北市",
+    "villcode": "65000030054",
+    "note": "Please fill VILLCODE manually"
   },
   {
     "cunli_key": "竹山鎮_硘磘里",
@@ -16,11 +32,67 @@
     "note": "Please fill VILLCODE manually"
   },
   {
+    "cunli_key": "麥寮鄉_瓦磘村",
+    "district": "麥寮鄉",
+    "village": "瓦磘村",
+    "county": "雲林縣",
+    "villcode": "10009130003",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "四湖鄉_萡子村",
+    "district": "四湖鄉",
+    "village": "萡子村",
+    "county": "雲林縣",
+    "villcode": "10009180016",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "四湖鄉_萡東村",
+    "district": "四湖鄉",
+    "village": "萡東村",
+    "county": "雲林縣",
+    "villcode": "10009180021",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "元長鄉_瓦磘村",
+    "district": "元長鄉",
+    "village": "瓦磘村",
+    "county": "雲林縣",
+    "villcode": "10009170018",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "水林鄉_瓊埔村",
+    "district": "水林鄉",
+    "village": "瓊埔村",
+    "county": "雲林縣",
+    "villcode": "10009200021",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
     "cunli_key": "坪林區_石𥕢里",
     "district": "坪林區",
     "village": "石𥕢里",
     "county": "新北市",
     "villcode": "65000200004",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "瑞芳區_濓洞里",
+    "district": "瑞芳區",
+    "village": "濓洞里",
+    "county": "新北市",
+    "villcode": "65000120028",
+    "note": "Please fill VILLCODE manually"
+  },
+  {
+    "cunli_key": "瑞芳區_濓新里",
+    "district": "瑞芳區",
+    "village": "濓新里",
+    "county": "新北市",
+    "villcode": "65000120027",
     "note": "Please fill VILLCODE manually"
   }
 ]
